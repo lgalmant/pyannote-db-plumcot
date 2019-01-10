@@ -10,9 +10,9 @@ Make sure to follow conventions and file formats described in this document.
 
 Open an issue if something is not clear -- we will decide on a solution and update this document accordingly.
 
-# series.txt
+# series.txt and movies.txt
 
-`series.txt` contains one line per TV (or movie) series.
+`series.txt` contains one line per TV series.
 Each line provides a (CamelCase) identifier, a full name, a link to its IMDB.com page, and a link to its TV.com page.
 
 ```
@@ -20,9 +20,17 @@ $ cat series.txt
 TheBigBangTheory,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,http://www.tv.com/shows/the-big-bang-theory/
 ```
 
-## One sub-directory per series
+`movies.txt` contains one line per movies.
+Each line provides a (CamelCase) identifier of the movie series, the episode number, a full name, a link to its IMDB.com page, and a link to its TV.com page.
 
-For each series in `series.txt`, there is a corresponding sub-directory called after its CamelCase identifier into the scripts folder and into the data folder.
+```
+$ cat movies.txt
+StarWars,3,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,http://www.tv.com/movies/star-wars-episode-iii-revenge-of-the-sith/
+```
+
+## One sub-directory per series / movies
+
+For each entries in `series.txt` and `movies.txt`, there is a corresponding sub-directory called after its CamelCase identifier into the scripts folder and into the data folder.
 
 # Scripts
 
@@ -63,10 +71,10 @@ TheBigBangTheory/
 
 ### `characters.txt`
 
-This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, character's full name, actor's full name, IMDB.com character page.
+This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDB.com character page.
 
 ```
-leonard_hofstadter,Leonard Hofstadter,Johnny Galecki,https://www.imdb.com/title/tt0898266/characters/nm0301959
+leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.imdb.com/title/tt0898266/characters/nm0301959
 ```
 
 The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `characters.txt` file at once (or just one if an optional series identifier is provided)
