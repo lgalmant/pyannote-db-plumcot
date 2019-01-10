@@ -10,7 +10,7 @@ Make sure to follow conventions and file formats described in this document.
 
 Open an issue if something is not clear -- we will decide on a solution and update this document accordingly.
 
-# series.txt
+# series.txt and movies.txt
 
 `series.txt` contains one line per TV series.
 Each line provides a (CamelCase) identifier, a full name, a link to its IMDB.com page, and a link to its TV.com page.
@@ -20,23 +20,17 @@ $ cat series.txt
 TheBigBangTheory,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,http://www.tv.com/shows/the-big-bang-theory/
 ```
 
-## One sub-directory per series
-
-For each series in `series.txt`, there is a corresponding sub-directory called after its CamelCase identifier into the scripts folder and into the data folder.
-
-# movies.txt
-
 `movies.txt` contains one line per movies.
 Each line provides a (CamelCase) identifier of the movie series, the episode number, a full name, a link to its IMDB.com page, and a link to its TV.com page.
 
 ```
 $ cat movies.txt
-StarWars,03,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,http://www.tv.com/movies/star-wars-episode-iii-revenge-of-the-sith/
+StarWars,3,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,http://www.tv.com/movies/star-wars-episode-iii-revenge-of-the-sith/
 ```
 
-## One sub-directory per movies
+## One sub-directory per series / movies
 
-For each movies in `movies.txt`, there is a corresponding sub-directory called after its CamelCase identifier into the scripts folder and into the data folder.
+For each entries in `series.txt` and `movies.txt`, there is a corresponding sub-directory called after its CamelCase identifier into the scripts folder and into the data folder.
 
 # Scripts
 
