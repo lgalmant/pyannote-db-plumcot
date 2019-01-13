@@ -13,7 +13,7 @@ Open an issue if something is not clear -- we will decide on a solution and upda
 # series.txt
 
 `series.txt` contains one line per TV (or movie) series.
-Each line provides a (CamelCase) identifier, a full name, a link to its IMDB.com page, a link to its TV.com page, and a boolean set to 1 if the line is a movie.
+Each line provides a (CamelCase) identifier, a full name, a link to its IMDB.com page, a link to its TV.com page, and a boolean set to 1 if the line corresponds to a movie.
 
 ```
 $ cat series.txt
@@ -91,7 +91,7 @@ The creation of this file should be automated as much as possible. Ideally, a sc
 python episodes.py series.txt TheBigBangTheory
 ```
 
-For movies, we can use something like `HarryPotter.Movie01` as "episode" unique identifier.
+For movies, we can use something like `HarryPotter.Episode1` as "episode" unique identifier.
 
 Note: Leo can probably do this script.
 
