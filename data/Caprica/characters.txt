@@ -1,0 +1,11 @@
+daniel_graystone,eric_stoltz,Daniel Graystone,Eric Stoltz,https://www.imdb.com/title/tt0799862/characters/nm0000655
+joseph_adama,esai_morales,Joseph Adama,Esai Morales,https://www.imdb.com/title/tt0799862/characters/nm0005246
+amanda_graystone,paula_malcomson,Amanda Graystone,Paula Malcomson,https://www.imdb.com/title/tt0799862/characters/nm0539155
+zoe_graystone,alessandra_torresani,Zoe Graystone,Alessandra Torresani,https://www.imdb.com/title/tt0799862/characters/nm0003779
+lacy_rand,magda_apanowicz,Lacy Rand,Magda Apanowicz,https://www.imdb.com/title/tt0799862/characters/nm1538095
+sam_adama,sasha_roiz,Sam Adama,Sasha Roiz,https://www.imdb.com/title/tt0799862/characters/nm1501388
+clarice_willow,polly_walker,Clarice Willow,Polly Walker,https://www.imdb.com/title/tt0799862/characters/nm0908116
+cyrus_xander,hiro_kanagawa,Cyrus Xander,Hiro Kanagawa,https://www.imdb.com/title/tt0799862/characters/nm0437032
+william_adama,sina_najafi,William Adama,Sina Najafi,https://www.imdb.com/title/tt0799862/characters/nm1859748
+the_guatrau,jorge_montesi,The Guatrau,Jorge Montesi,https://www.imdb.com/title/tt0799862/characters/nm0599624
+baxter_sarno,patton_oswalt,Baxter Sarno,Patton Oswalt,https://www.imdb.com/title/tt0799862/characters/nm0652663

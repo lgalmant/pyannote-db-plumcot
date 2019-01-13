@@ -1,0 +1,177 @@
+john_carter,noah_wyle,John Carter,Noah Wyle,https://www.imdb.com/title/tt0108757/characters/nm0001864
+kerry_weaver,laura_innes,Kerry Weaver,Laura Innes,https://www.imdb.com/title/tt0108757/characters/nm0005041
+nurse_chuny_marquez,laura_ceron,Nurse Chuny Marquez,Laura Cerón,https://www.imdb.com/title/tt0108757/characters/nm0149018
+nurse_malik_mcgrath,deezer_d,Nurse Malik McGrath,Deezer D,https://www.imdb.com/title/tt0108757/characters/nm0195970
+abby_lockhart,maura_tierney,Abby Lockhart,Maura Tierney,https://www.imdb.com/title/tt0108757/characters/nm0005491
+luka_kovac,goran_visnjic,Luka Kovac,Goran Visnjic,https://www.imdb.com/title/tt0108757/characters/nm0899681
+nurse_haleh_adams,yvette_freeman,Nurse Haleh Adams,Yvette Freeman,https://www.imdb.com/title/tt0108757/characters/nm0293623
+mark_greene,anthony_edwards,Mark Greene,Anthony Edwards,https://www.imdb.com/title/tt0108757/characters/nm0000381
+peter_benton,eriq_la_salle,Peter Benton,Eriq La Salle,https://www.imdb.com/title/tt0108757/characters/nm0005113
+doris_pickman,emily_wagner,Doris Pickman,Emily Wagner,https://www.imdb.com/title/tt0108757/characters/nm0905878
+elizabeth_corday,alex_kingston,Elizabeth Corday,Alex Kingston,https://www.imdb.com/title/tt0108757/characters/nm0005094
+pamela_olbes,lyn_alicia_henderson,Pamela Olbes,Lyn Alicia Henderson,https://www.imdb.com/title/tt0108757/characters/nm0376531
+susan_lewis,sherry_stringfield,Susan Lewis,Sherry Stringfield,https://www.imdb.com/title/tt0108757/characters/nm0834606
+jerry_markovic,abraham_benrubi,Jerry Markovic,Abraham Benrubi,https://www.imdb.com/title/tt0108757/characters/nm0072344
+gregory_pratt,mekhi_phifer,Gregory Pratt,Mekhi Phifer,https://www.imdb.com/title/tt0108757/characters/nm0001616
+carol_hathaway,julianna_margulies,Carol Hathaway,Julianna Margulies,https://www.imdb.com/title/tt0108757/characters/nm0000523
+neela_rasgotra,parminder_nagra,Neela Rasgotra,Parminder Nagra,https://www.imdb.com/title/tt0108757/characters/nm0619406
+frank_martin,troy_evans,Frank Martin,Troy Evans,https://www.imdb.com/title/tt0108757/characters/nm0263283
+nurse_lily_jarvik,lily_mariye,Nurse Lily Jarvik,Lily Mariye,https://www.imdb.com/title/tt0108757/characters/nm0548159
+samantha_taggart,linda_cardellini,Samantha Taggart,Linda Cardellini,https://www.imdb.com/title/tt0108757/characters/nm0004802
+robert_romano,paul_mccrane,Robert Romano,Paul McCrane,https://www.imdb.com/title/tt0108757/characters/nm0005204
+jingmei_chen,mingna_wen,Jing-Mei Chen,Ming-Na Wen,https://www.imdb.com/title/tt0108757/characters/nm0001840
+dwight_zadro,montae_russell,Dwight Zadro,Montae Russell,https://www.imdb.com/title/tt0108757/characters/nm0751350
+nurse_lydia_wright,ellen_crawford,Nurse Lydia Wright,Ellen Crawford,https://www.imdb.com/title/tt0108757/characters/nm0186761
+nurse_connie_oligario,conni_marie_brazelton,Nurse Connie Oligario,Conni Marie Brazelton,https://www.imdb.com/title/tt0108757/characters/nm0106328
+archie_morris,scott_grimes,Archie Morris,Scott Grimes,https://www.imdb.com/title/tt0108757/characters/nm0342241
+doug_ross,george_clooney,Doug Ross,George Clooney,https://www.imdb.com/title/tt0108757/characters/nm0000123
+jeanie_boulet,gloria_reuben,Jeanie Boulet,Gloria Reuben,https://www.imdb.com/title/tt0108757/characters/nm0005349
+dr_donald_anspaugh,john_aylward,Dr. Donald Anspaugh,John Aylward,https://www.imdb.com/title/tt0108757/characters/nm0043891
+randi_fronczak,kristin_minter,Randi Fronczak,Kristin Minter,https://www.imdb.com/title/tt0108757/characters/nm0591703
+ray_barnett,shane_west,Ray Barnett,Shane West,https://www.imdb.com/title/tt0108757/characters/nm0922342
+tony_gates,john_stamos,Tony Gates,John Stamos,https://www.imdb.com/title/tt0108757/characters/nm0001764
+dr_lucien_dubenko,leland_orser,Dr. Lucien Dubenko,Leland Orser,https://www.imdb.com/title/tt0108757/characters/nm0650702
+michael_gallant,sharif_atkins,Michael Gallant,Sharif Atkins,https://www.imdb.com/title/tt0108757/characters/nm0040653
+cleo_finch,michael_michele,Cleo Finch,Michael Michele,https://www.imdb.com/title/tt0108757/characters/nm0005230
+dave_malucci,erik_palladino,Dave Malucci,Erik Palladino,https://www.imdb.com/title/tt0108757/characters/nm0005292
+lucy_knight,kellie_martin,Lucy Knight,Kellie Martin,https://www.imdb.com/title/tt0108757/characters/nm0005192
+dr_maggie_doyle,jorja_fox,Dr. Maggie Doyle,Jorja Fox,https://www.imdb.com/title/tt0108757/characters/nm0289080
+dr_david_morgenstern,william_h_macy,Dr. David Morgenstern,William H. Macy,https://www.imdb.com/title/tt0108757/characters/nm0000513
+carla_reece,lisa_nicole_carson,Carla Reece,Lisa Nicole Carson,https://www.imdb.com/title/tt0108757/characters/nm0004808
+jennifer_greene,christine_harnos,Jennifer Greene,Christine Harnos,https://www.imdb.com/title/tt0108757/characters/nm0363705
+simon_brenner,david_lyons,Simon Brenner,David Lyons,https://www.imdb.com/title/tt0108757/characters/nm2256017
+nurse_wendy_goldman,vanessa_marquez,Nurse Wendy Goldman,Vanessa Marquez,https://www.imdb.com/title/tt0108757/characters/nm0549882
+dr_janet_coburn,amy_aquino,Dr. Janet Coburn,Amy Aquino,https://www.imdb.com/title/tt0108757/characters/nm0032628
+anna_del_amico,maria_bello,Anna Del Amico,Maria Bello,https://www.imdb.com/title/tt0108757/characters/nm0004742
+dr_dustin_crenshaw,jp_manoux,Dr. Dustin Crenshaw,J.P. Manoux,https://www.imdb.com/title/tt0108757/characters/nm0002262
+dr_angela_hicks,cch_pounder,Dr. Angela Hicks,CCH Pounder,https://www.imdb.com/title/tt0108757/characters/nm0001634
+alex_taggart,dominic_janes,Alex Taggart,Dominic Janes,https://www.imdb.com/title/tt0108757/characters/nm1851416
+rachel_greene,yvonne_zima,Rachel Greene,Yvonne Zima,https://www.imdb.com/title/tt0108757/characters/nm0956531
+cate_banfield,angela_bassett,Cate Banfield,Angela Bassett,https://www.imdb.com/title/tt0108757/characters/nm0000291
+alex_taggart,oliver_davis,Alex Taggart,Oliver Davis,https://www.imdb.com/title/tt0108757/characters/nm1503655
+millicent_carter,frances_sternhagen,Millicent Carter,Frances Sternhagen,https://www.imdb.com/title/tt0108757/characters/nm0827973
+chloe_lewis,kathleen_wilhoite,Chloe Lewis,Kathleen Wilhoite,https://www.imdb.com/title/tt0108757/characters/nm0001849
+al_boulet,michael_beach,Al Boulet,Michael Beach,https://www.imdb.com/title/tt0108757/characters/nm0004729
+ray_shepard,ron_eldard,Ray 'Shep' Shepard,Ron Eldard,https://www.imdb.com/title/tt0108757/characters/nm0253035
+chaz_pratt,sam_jones_iii,Chaz Pratt,Sam Jones III,https://www.imdb.com/title/tt0108757/characters/nm0427389
+jane_figler,sara_gilbert,Jane Figler,Sara Gilbert,https://www.imdb.com/title/tt0108757/characters/nm0004960
+dr_dale_edson,matthew_glave,Dr. Dale Edson,Matthew Glave,https://www.imdb.com/title/tt0108757/characters/nm0322182
+harper_tracy,christine_elise,Harper Tracy,Christine Elise,https://www.imdb.com/title/tt0108757/characters/nm0253705
+hope_bobeck,busy_philipps,Hope Bobeck,Busy Philipps,https://www.imdb.com/title/tt0108757/characters/nm0005311
+dr_kim_legaspi,elizabeth_mitchell,Dr. Kim Legaspi,Elizabeth Mitchell,https://www.imdb.com/title/tt0108757/characters/nm0593310
+makemba_likasu,thandie_newton,Makemba 'Kem' Likasu,Thandie Newton,https://www.imdb.com/title/tt0108757/characters/nm0628601
+cynthia_hooper,mariska_hargitay,Cynthia Hooper,Mariska Hargitay,https://www.imdb.com/title/tt0108757/characters/nm0002127
+eray,charles_noland,E-Ray,Charles Noland,https://www.imdb.com/title/tt0108757/characters/nm0634377
+dr_victor_clemente,john_leguizamo,Dr. Victor Clemente,John Leguizamo,https://www.imdb.com/title/tt0108757/characters/nm0000491
+officer_al_grabarsky,mike_genovese,Officer Al Grabarsky,Mike Genovese,https://www.imdb.com/title/tt0108757/characters/nm0312973
+maggie_wyczenski,sally_field,Maggie Wyczenski,Sally Field,https://www.imdb.com/title/tt0108757/characters/nm0000398
+dr_tracy_martin,emily_rose,Dr. Tracy Martin,Emily Rose,https://www.imdb.com/title/tt0108757/characters/nm2448361
+dr_kevin_moretti,stanley_tucci,Dr. Kevin Moretti,Stanley Tucci,https://www.imdb.com/title/tt0108757/characters/nm0001804
+dr_dennis_gant,omar_epps,Dr. Dennis Gant,Omar Epps,https://www.imdb.com/title/tt0108757/characters/nm0004898
+dr_daria_wade,shiri_appleby,Dr. Daria Wade,Shiri Appleby,https://www.imdb.com/title/tt0108757/characters/nm0032375
+loretta_sweet,mary_mara,Loretta Sweet,Mary Mara,https://www.imdb.com/title/tt0108757/characters/nm0544721
+roxanne_please,julie_bowen,Roxanne Please,Julie Bowen,https://www.imdb.com/title/tt0108757/characters/nm0100866
+dr_carl_vucelich,ron_rifkin,Dr. Carl Vucelich,Ron Rifkin,https://www.imdb.com/title/tt0108757/characters/nm0726492
+dr_abby_keaton,glenne_headly,Dr. Abby Keaton,Glenne Headly,https://www.imdb.com/title/tt0108757/characters/nm0000444
+russell_banfield,courtney_b_vance,Russell Banfield,Courtney B. Vance,https://www.imdb.com/title/tt0108757/characters/nm0005524
+mae_benton,beah_richards,Mae Benton,Beah Richards,https://www.imdb.com/title/tt0108757/characters/nm0723968
+mary_cain,deborah_may,Mary Cain,Deborah May,https://www.imdb.com/title/tt0108757/characters/nm0561919
+dr_andrew_wade,julian_morris,Dr. Andrew Wade,Julian Morris,https://www.imdb.com/title/tt0108757/characters/nm0606690
+dr_ellis_west,clancy_brown,Dr. Ellis West,Clancy Brown,https://www.imdb.com/title/tt0108757/characters/nm0000317
+dr_william_swift,michael_ironside,Dr. William 'Wild Willy' Swift,Michael Ironside,https://www.imdb.com/title/tt0108757/characters/nm0000461
+nicole,julie_delpy,Nicole,Julie Delpy,https://www.imdb.com/title/tt0108757/characters/nm0000365
+curtis_ames,forest_whitaker,Curtis Ames,Forest Whitaker,https://www.imdb.com/title/tt0108757/characters/nm0001845
+paramedic_raul_melendez,carlos_gomez,Paramedic Raul Melendez,Carlos Gómez,https://www.imdb.com/title/tt0108757/characters/nm0326988
+ben_parker,kip_pardue,Ben Parker,Kip Pardue,https://www.imdb.com/title/tt0108757/characters/nm0661164
+debbie,mary_mccormack,Debbie,Mary McCormack,https://www.imdb.com/title/tt0108757/characters/nm0005203
+dr_ryan_sanchez,victor_rasuk,Dr. Ryan Sanchez,Victor Rasuk,https://www.imdb.com/title/tt0108757/characters/nm0711559
+neonatologist_dr_tabash,ted_rooney,Neonatologist Dr. Tabash,Ted Rooney,https://www.imdb.com/title/tt0108757/characters/nm0740360
+dr_nina_pomerantz,jami_gertz,Dr. Nina Pomerantz,Jami Gertz,https://www.imdb.com/title/tt0108757/characters/nm0000415
+charlie_chiemingo,kirsten_dunst,Charlie Chiemingo,Kirsten Dunst,https://www.imdb.com/title/tt0108757/characters/nm0000379
+john_carter_jr,michael_gross,John 'Jack' Carter Jr.,Michael Gross,https://www.imdb.com/title/tt0108757/characters/nm0343447
+jules_rubadoux,red_buttons,Jules 'Ruby' Rubadoux,Red Buttons,https://www.imdb.com/title/tt0108757/characters/nm0000999
+dr_gabriel_lawrence,alan_alda,Dr. Gabriel Lawrence,Alan Alda,https://www.imdb.com/title/tt0108757/characters/nm0000257
+elaine_nichols,rebecca_de_mornay,Elaine Nichols,Rebecca De Mornay,https://www.imdb.com/title/tt0108757/characters/nm0000360
+zoe_butler,kat_dennings,Zoe Butler,Kat Dennings,https://www.imdb.com/title/tt0108757/characters/nm0993507
+richard_lockhart,mark_valley,Richard Lockhart,Mark Valley,https://www.imdb.com/title/tt0108757/characters/nm0885090
+rena_trujillo,lourdes_benedicto,Rena Trujillo,Lourdes Benedicto,https://www.imdb.com/title/tt0108757/characters/nm0070830
+paul_nathan,don_cheadle,Paul Nathan,Don Cheadle,https://www.imdb.com/title/tt0108757/characters/nm0000332
+george_henry,chad_lowe,George Henry,Chad Lowe,https://www.imdb.com/title/tt0108757/characters/nm0005165
+gracie,lois_smith,Gracie,Lois Smith,https://www.imdb.com/title/tt0108757/characters/nm0809135
+henry_lewis,paul_dooley,Henry Lewis,Paul Dooley,https://www.imdb.com/title/tt0108757/characters/nm0233209
+meisun_leow,lucy_liu,Mei-Sun Leow,Lucy Liu,https://www.imdb.com/title/tt0108757/characters/nm0005154
+mike_gates,stacy_keach,Mike Gates,Stacy Keach,https://www.imdb.com/title/tt0108757/characters/nm0005078
+ben_hollander,bob_newhart,Ben Hollander,Bob Newhart,https://www.imdb.com/title/tt0108757/characters/nm0627878
+bernard_gamely,vince_vieluf,Bernard Gamely,Vince Vieluf,https://www.imdb.com/title/tt0108757/characters/nm0896735
+ray_ross,james_farentino,Ray Ross,James Farentino,https://www.imdb.com/title/tt0108757/characters/nm0267232
+gordon_price,matt_craven,Gordon Price,Matt Craven,https://www.imdb.com/title/tt0108757/characters/nm0002023
+tatiana,milana_vayntrub,Tatiana,Milana Vayntrub,https://www.imdb.com/title/tt0108757/characters/nm2168927
+dr_burke,chris_sarandon,Dr. Burke,Chris Sarandon,https://www.imdb.com/title/tt0108757/characters/nm0001697
+norman_chapman,tony_hale,Norman Chapman,Tony Hale,https://www.imdb.com/title/tt0108757/characters/nm0355024
+paul_manning,ernest_borgnine,Paul Manning,Ernest Borgnine,https://www.imdb.com/title/tt0108757/characters/nm0000308
+sean_obrien,bradley_whitford,Sean O'Brien,Bradley Whitford,https://www.imdb.com/title/tt0108757/characters/nm0925966
+nurse_rhonda_sterling,jenny_ohara,Nurse Rhonda Sterling,Jenny O'Hara,https://www.imdb.com/title/tt0108757/characters/nm0641266
+captain_john_evans,tim_griffin,Captain John Evans,Tim Griffin,https://www.imdb.com/title/tt0108757/characters/nm0341377
+dr_davitch_pediatrician,steven_anderson,Dr. Davitch, pediatrician,Steven Anderson,https://www.imdb.com/title/tt0108757/characters/nm0027474
+icu_nurse_frank_bacon,morris_chestnut,ICU Nurse Frank 'Rambo' Bacon,Morris Chestnut,https://www.imdb.com/title/tt0108757/characters/nm0004820
+tc_lucas,gabrielle_boni,TC Lucas,Gabrielle Boni,https://www.imdb.com/title/tt0108757/characters/nm0094539
+medivac,alex_skuby,Medivac,Alex Skuby,https://www.imdb.com/title/tt0108757/characters/nm0804923
+leo_malcolm,louis_gossett_jr,Leo Malcolm,Louis Gossett Jr.,https://www.imdb.com/title/tt0108757/characters/nm0001283
+robert_truman,jonathan_banks,Robert Truman,Jonathan Banks,https://www.imdb.com/title/tt0108757/characters/nm0052186
+art_masterson,steve_buscemi,Art Masterson,Steve Buscemi,https://www.imdb.com/title/tt0108757/characters/nm0000114
+teddy_lempell,wallace_shawn,Teddy Lempell,Wallace Shawn,https://www.imdb.com/title/tt0108757/characters/nm0001728
+mr_bowman,bill_cobbs,Mr. Bowman,Bill Cobbs,https://www.imdb.com/title/tt0108757/characters/nm0167850
+james,currie_graham,James,Currie Graham,https://www.imdb.com/title/tt0108757/characters/nm0333982
+jamie_hendricks,brigid_brannagh,Jamie Hendricks,Brigid Brannagh,https://www.imdb.com/title/tt0108757/characters/nm0909578
+ben_larkin,erik_von_detten,Ben Larkin,Erik von Detten,https://www.imdb.com/title/tt0108757/characters/nm0902184
+dr_sayers,holmes_osborne,Dr. Sayers,Holmes Osborne,https://www.imdb.com/title/tt0108757/characters/nm0651660
+helen_kingsley,frances_fisher,Helen Kingsley,Frances Fisher,https://www.imdb.com/title/tt0108757/characters/nm0004920
+wayne_rutley,robert_prosky,Wayne Rutley,Robert Prosky,https://www.imdb.com/title/tt0108757/characters/nm0698764
+simon,freddy_rodriguez,Simon,Freddy Rodríguez,https://www.imdb.com/title/tt0108757/characters/nm0135585
+june_allyson,judith_malina,June Allyson,Judith Malina,https://www.imdb.com/title/tt0108757/characters/nm0539652
+hugo,michael_mcshane,Hugo,Michael McShane,https://www.imdb.com/title/tt0108757/characters/nm0574540
+demerol_junkie,lee_tergesen,Demerol Junkie,Lee Tergesen,https://www.imdb.com/title/tt0108757/characters/nm0855564
+mrs_rose,meg_foster,Mrs. Rose,Meg Foster,https://www.imdb.com/title/tt0108757/characters/nm0001236
+mr_jackson,hill_harper,Mr. Jackson,Hill Harper,https://www.imdb.com/title/tt0108757/characters/nm0004991
+jodi_obrien,colleen_flynn,Jodi O'Brien,Colleen Flynn,https://www.imdb.com/title/tt0108757/characters/nm0283425
+ray,jonah_rooney,Ray,Jonah Rooney,https://www.imdb.com/title/tt0108757/characters/nm0740329
+emily_fong,lydia_look,Emily Fong,Lydia Look,https://www.imdb.com/title/tt0108757/characters/nm0519642
+andrea_thompson,cynthia_martells,Andrea Thompson,Cynthia Martells,https://www.imdb.com/title/tt0108757/characters/nm0551642
+jesse_keenan,vincent_kartheiser,Jesse Keenan,Vincent Kartheiser,https://www.imdb.com/title/tt0108757/characters/nm0440229
+tom_perry,dennis_burkley,Tom Perry,Dennis Burkley,https://www.imdb.com/title/tt0108757/characters/nm0122036
+abraham_zimble_mobile_notary,robert_picardo,Abraham Zimble, Mobile Notary,Robert Picardo,https://www.imdb.com/title/tt0108757/characters/nm0000585
+dylan,jake_abel,Dylan,Jake Abel,https://www.imdb.com/title/tt0108757/characters/nm1831976
+jane,sara_rue,Jane,Sara Rue,https://www.imdb.com/title/tt0108757/characters/nm0749081
+mr_zwicki,ken_kercheval,Mr. Zwicki,Ken Kercheval,https://www.imdb.com/title/tt0108757/characters/nm0449242
+ron_perth,christopher_rich,Ron Perth,Christopher Rich,https://www.imdb.com/title/tt0108757/characters/nm0723621
+jorge,guillermo_diaz,Jorge,Guillermo Díaz,https://www.imdb.com/title/tt0108757/characters/nm0246585
+brett_nicholson,coby_bell,Brett Nicholson,Coby Bell,https://www.imdb.com/title/tt0108757/characters/nm0068117
+dominatrix_medusa,patricia_thielemann,Dominatrix Medusa,Patricia Thielemann,https://www.imdb.com/title/tt0108757/characters/nm0857956
+barry_sadler,evan_arnold,Barry Sadler,Evan Arnold,https://www.imdb.com/title/tt0108757/characters/nm0036439
+wilson_geary,jesse_james,Wilson Geary,Jesse James,https://www.imdb.com/title/tt0108757/characters/nm0416596
+agent_lance_carmichael,nathan_le_grand,Agent Lance Carmichael,Nathan Le Grand,https://www.imdb.com/title/tt0108757/characters/nm0494345
+tina_jones,aysia_polk,Tina Jones,Aysia Polk,https://www.imdb.com/title/tt0108757/characters/nm1156144
+mr_hahn,pat_millicano,Mr. Hahn,Pat Millicano,https://www.imdb.com/title/tt0108757/characters/nm0589646
+mrs_perry,susan_peretz,Mrs. Perry,Susan Peretz,https://www.imdb.com/title/tt0108757/characters/nm0673403
+max_nielsen,john_christian_graas,Max Nielsen,John Christian Graas,https://www.imdb.com/title/tt0108757/characters/nm0333174
+dr_george_bikel,mickey_rooney,Dr. George Bikel,Mickey Rooney,https://www.imdb.com/title/tt0108757/characters/nm0001682
+mr_sidowski,george_murdock,Mr. Sidowski,George Murdock,https://www.imdb.com/title/tt0108757/characters/nm0613787
+mr_bartoli,richard_schiff,Mr. Bartoli,Richard Schiff,https://www.imdb.com/title/tt0108757/characters/nm0771493
+kim_tadlock,cal_gibson,Kim Tadlock,Cal Gibson,https://www.imdb.com/title/tt0108757/characters/nm0316878
+meredith_phoenix,liv_hutchings,Meredith Phoenix,Liv Hutchings,https://www.imdb.com/title/tt0108757/characters/nm2264229
+mrs_bell,monnae_michaell,Mrs. Bell,Monnae Michaell,https://www.imdb.com/title/tt0108757/characters/nm0910563
+dr_anna_castiglioni,lindsay_crouse,Dr. Anna Castiglioni,Lindsay Crouse,https://www.imdb.com/title/tt0108757/characters/nm0001080
+scottie_pippen,scottie_pippen,Scottie Pippen,Scottie Pippen,https://www.imdb.com/title/tt0108757/characters/nm0685011
+judy_munder,jonell_kennedy,Judy Munder,JoNell Kennedy,https://www.imdb.com/title/tt0108757/characters/nm0448129
+caleb,jason_barnhill,Caleb,Jason Barnhill,https://www.imdb.com/title/tt0108757/characters/nm1278462
+pregnant_alienabductee,carol_ann_susi,Pregnant Alien-Abductee,Carol Ann Susi,https://www.imdb.com/title/tt0108757/characters/nm0839836
+mr_clayton,pierrino_mascarino,Mr. Clayton,Pierrino Mascarino,https://www.imdb.com/title/tt0108757/characters/nm0556130
+maureen_conway,trisha_simmons,Maureen Conway,Trisha Simmons,https://www.imdb.com/title/tt0108757/characters/nm0799922
+mrs_saunders,linda_lutz,Mrs. Saunders,Linda Lutz,https://www.imdb.com/title/tt0108757/characters/nm0527587
+rose_kyle,mary_kathleen_gordon,Rose Kyle,Mary Kathleen Gordon,https://www.imdb.com/title/tt0108757/characters/nm0330437
+ken_ambrose,dc_douglas,Ken Ambrose,D.C. Douglas,https://www.imdb.com/title/tt0108757/characters/nm0235006
+christian,reggie_lee,Christian,Reggie Lee,https://www.imdb.com/title/tt0108757/characters/nm0498046
+mr_kyle,jack_orend,Mr. Kyle,Jack Orend,https://www.imdb.com/title/tt0108757/characters/nm0649683
+mr_olman_bike_guy,kipp_shiotani,Mr. Olman, Bike Guy,Kipp Shiotani,https://www.imdb.com/title/tt0108757/characters/nm0794050
+kenny_brannigan,william_lucking,Kenny Brannigan,William Lucking,https://www.imdb.com/title/tt0108757/characters/nm0524747
+laurie_heller,melody_alderman,Laurie Heller,Melody Alderman,https://www.imdb.com/title/tt0108757/characters/nm4950393

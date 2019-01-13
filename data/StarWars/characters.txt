@@ -1,0 +1,319 @@
+quigon_jinn,liam_neeson,Qui-Gon Jinn,Liam Neeson,https://www.imdb.com/title/tt0120915/characters/nm0000553
+obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt0120915/characters/nm0000191
+queen_amidala,natalie_portman,Queen Amidala,Natalie Portman,https://www.imdb.com/title/tt0120915/characters/nm0000204
+anakin_skywalker,jake_lloyd,Anakin Skywalker,Jake Lloyd,https://www.imdb.com/title/tt0120915/characters/nm0005157
+senator_palpatine,ian_mcdiarmid,Senator Palpatine,Ian McDiarmid,https://www.imdb.com/title/tt0120915/characters/nm0001519
+shmi_skywalker,pernilla_august,Shmi Skywalker,Pernilla August,https://www.imdb.com/title/tt0120915/characters/nm0000278
+sio_bibble,oliver_ford_davies,Sio Bibble,Oliver Ford Davies,https://www.imdb.com/title/tt0120915/characters/nm0203882
+captain_panaka,hugh_quarshie,Captain Panaka,Hugh Quarshie,https://www.imdb.com/title/tt0120915/characters/nm0702934
+jar_jar_binks,ahmed_best,Jar Jar Binks,Ahmed Best,https://www.imdb.com/title/tt0120915/characters/nm0078886
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0120915/characters/nm0000355
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0120915/characters/nm0048652
+yoda,frank_oz,Yoda,Frank Oz,https://www.imdb.com/title/tt0120915/characters/nm0000568
+chancellor_valorum,terence_stamp,Chancellor Valorum,Terence Stamp,https://www.imdb.com/title/tt0120915/characters/nm0000654
+boss_nass,brian_blessed,Boss Nass,Brian Blessed,https://www.imdb.com/title/tt0120915/characters/nm0000306
+watto,andy_secombe,Watto,Andy Secombe,https://www.imdb.com/title/tt0120915/characters/nm0781181
+darth_maul,ray_park,Darth Maul,Ray Park,https://www.imdb.com/title/tt0120915/characters/nm0661917
+sebulba,lewis_macleod,Sebulba,Lewis Macleod,https://www.imdb.com/title/tt0120915/characters/nm0533914
+wald,warwick_davis,Wald,Warwick Davis,https://www.imdb.com/title/tt0120915/characters/nm0001116
+captain_tarpals,steve_speirs,Captain Tarpals,Steve Speirs,https://www.imdb.com/title/tt0120915/characters/nm0818648
+nute_gunray,silas_carson,Nute Gunray,Silas Carson,https://www.imdb.com/title/tt0120915/characters/nm0141324
+mas_amedda,jerome_st_john_blake,Mas Amedda,Jerome St. John Blake,https://www.imdb.com/title/tt0120915/characters/nm0086592
+fighter_pilot_bravo_3,clarence_smith,Fighter Pilot Bravo 3,Clarence Smith,https://www.imdb.com/title/tt0120915/characters/nm0807734
+mace_windu,samuel_l_jackson,Mace Windu,Samuel L. Jackson,https://www.imdb.com/title/tt0120915/characters/nm0000168
+rabe,karol_cristina_da_silva,Rabé,Karol Cristina da Silva,https://www.imdb.com/title/tt0120915/characters/nm0196263
+sabe,keira_knightley,Sabé,Keira Knightley,https://www.imdb.com/title/tt0120915/characters/nm0461136
+republic_cruiser_captain,bronagh_gallagher,Republic Cruiser Captain,Bronagh Gallagher,https://www.imdb.com/title/tt0120915/characters/nm0302345
+tc14,john_fensom,TC-14,John Fensom,https://www.imdb.com/title/tt0120915/characters/nm0271993
+fode,greg_proops,Fode,Greg Proops,https://www.imdb.com/title/tt0120915/characters/nm0698681
+beed,scott_capurro,Beed,Scott Capurro,https://www.imdb.com/title/tt0120915/characters/nm0135750
+jira,margaret_towner,Jira,Margaret Towner,https://www.imdb.com/title/tt0120915/characters/nm0870026
+tc14,lindsay_duncan,TC-14,Lindsay Duncan,https://www.imdb.com/title/tt0120915/characters/nm0242026
+rune_haako,james_taylor,Rune Haako,James Taylor,https://www.imdb.com/title/tt0120915/characters/nm0852511
+daultay_dofine,chris_sanders,Daultay Dofine,Chris Sanders,https://www.imdb.com/title/tt0120915/characters/nm0761496
+bib_fortuna,matthew_wood,Bib Fortuna,Matthew Wood,https://www.imdb.com/title/tt0120915/characters/nm0003214
+obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt0121765/characters/nm0000191
+padme,natalie_portman,Padmé,Natalie Portman,https://www.imdb.com/title/tt0121765/characters/nm0000204
+anakin_skywalker,hayden_christensen,Anakin Skywalker,Hayden Christensen,https://www.imdb.com/title/tt0121765/characters/nm0159789
+count_dooku,christopher_lee,Count Dooku,Christopher Lee,https://www.imdb.com/title/tt0121765/characters/nm0000489
+mace_windu,samuel_l_jackson,Mace Windu,Samuel L. Jackson,https://www.imdb.com/title/tt0121765/characters/nm0000168
+yoda,frank_oz,Yoda,Frank Oz,https://www.imdb.com/title/tt0121765/characters/nm0000568
+supreme_chancellor_palpatine,ian_mcdiarmid,Supreme Chancellor Palpatine,Ian McDiarmid,https://www.imdb.com/title/tt0121765/characters/nm0001519
+jango_fett,temuera_morrison,Jango Fett,Temuera Morrison,https://www.imdb.com/title/tt0121765/characters/nm0607325
+senator_bail_organa,jimmy_smits,Senator Bail Organa,Jimmy Smits,https://www.imdb.com/title/tt0121765/characters/nm0001751
+cliegg_lars,jack_thompson,Cliegg Lars,Jack Thompson,https://www.imdb.com/title/tt0121765/characters/nm0860233
+zam_wesell,leeanna_walsman,Zam Wesell,Leeanna Walsman,https://www.imdb.com/title/tt0121765/characters/nm0909944
+jar_jar_binks,ahmed_best,Jar Jar Binks,Ahmed Best,https://www.imdb.com/title/tt0121765/characters/nm0078886
+dorme,rose_byrne,Dormé,Rose Byrne,https://www.imdb.com/title/tt0121765/characters/nm0126284
+sio_bibble,oliver_ford_davies,Sio Bibble,Oliver Ford Davies,https://www.imdb.com/title/tt0121765/characters/nm0203882
+dexter_jettster,ronald_falk,Dexter Jettster,Ronald Falk,https://www.imdb.com/title/tt0121765/characters/nm0266193
+capt_typho,jay_lagaaia,Capt. Typho,Jay Laga'aia,https://www.imdb.com/title/tt0121765/characters/nm0481092
+watto,andy_secombe,Watto,Andy Secombe,https://www.imdb.com/title/tt0121765/characters/nm0781181
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0121765/characters/nm0000355
+kiadimundi,silas_carson,Ki-Adi-Mundi,Silas Carson,https://www.imdb.com/title/tt0121765/characters/nm0141324
+queen_jamillia,ayesha_dharker,Queen Jamillia,Ayesha Dharker,https://www.imdb.com/title/tt0121765/characters/nm0223499
+owen_lars,joel_edgerton,Owen Lars,Joel Edgerton,https://www.imdb.com/title/tt0121765/characters/nm0249291
+boba_fett,daniel_logan,Boba Fett,Daniel Logan,https://www.imdb.com/title/tt0121765/characters/nm0517535
+beru,bonnie_piesse,Beru,Bonnie Piesse,https://www.imdb.com/title/tt0121765/characters/nm0682837
+lama_su,anthony_phelan,Lama Su,Anthony Phelan,https://www.imdb.com/title/tt0121765/characters/nm0679715
+taun_we,rena_owen,Taun We,Rena Owen,https://www.imdb.com/title/tt0121765/characters/nm0654240
+madame_jocasta_nu,alethea_mcgrath,Madame Jocasta Nu,Alethea McGrath,https://www.imdb.com/title/tt0121765/characters/nm0569762
+elan_sleazebaggano,matt_doran,Elan Sleazebaggano,Matt Doran,https://www.imdb.com/title/tt0121765/characters/nm0233391
+lott_dod,alan_ruscoe,Lott Dod,Alan Ruscoe,https://www.imdb.com/title/tt0121765/characters/nm0750603
+plo_koon,matt_sloan,Plo Koon,Matt Sloan,https://www.imdb.com/title/tt0121765/characters/nm0805992
+corde,veronica_segura,Cordé,Veronica Segura,https://www.imdb.com/title/tt0121765/characters/nm0782214
+mas_amedda,david_bowers,Mas Amedda,David Bowers,https://www.imdb.com/title/tt0121765/characters/nm0101048
+naboo_lieutenant,steve_john_shepherd,Naboo lieutenant,Steve John Shepherd,https://www.imdb.com/title/tt0121765/characters/nm0791874
+kit_fisto,zachariah_jensen,Kit Fisto,Zachariah Jensen,https://www.imdb.com/title/tt0121765/characters/nm1026084
+jk_burtola,alex_knoll,J.K. Burtola,Alex Knoll,https://www.imdb.com/title/tt0121765/characters/nm1177114
+mari_amithest,phoebe_yiamkiati,Mari Amithest,Phoebe Yiamkiati,https://www.imdb.com/title/tt0121765/characters/nm0947953
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0121765/characters/nm0048652
+aayla_secura,amy_allen,Aayla Secura,Amy Allen,https://www.imdb.com/title/tt0121765/characters/nm1116989
+poggle_the_lesser,marton_csokas,Poggle the Lesser,Marton Csokas,https://www.imdb.com/title/tt0121765/characters/nm0190744
+lunae_minx,katie_lucas,Lunae Minx,Katie Lucas,https://www.imdb.com/title/tt0121765/characters/nm0337964
+quigon_jinn,liam_neeson,Qui-Gon Jinn,Liam Neeson,https://www.imdb.com/title/tt0121765/characters/nm0000553
+coo2180,ian_watkin,COO-2180,Ian Watkin,https://www.imdb.com/title/tt0121765/characters/nm0914240
+obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt0121766/characters/nm0000191
+padme,natalie_portman,Padmé,Natalie Portman,https://www.imdb.com/title/tt0121766/characters/nm0000204
+anakin_skywalker,hayden_christensen,Anakin Skywalker,Hayden Christensen,https://www.imdb.com/title/tt0121766/characters/nm0159789
+supreme_chancellor_palpatine,ian_mcdiarmid,Supreme Chancellor Palpatine,Ian McDiarmid,https://www.imdb.com/title/tt0121766/characters/nm0001519
+mace_windu,samuel_l_jackson,Mace Windu,Samuel L. Jackson,https://www.imdb.com/title/tt0121766/characters/nm0000168
+senator_bail_organa,jimmy_smits,Senator Bail Organa,Jimmy Smits,https://www.imdb.com/title/tt0121766/characters/nm0001751
+yoda,frank_oz,Yoda,Frank Oz,https://www.imdb.com/title/tt0121766/characters/nm0000568
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0121766/characters/nm0000355
+count_dooku,christopher_lee,Count Dooku,Christopher Lee,https://www.imdb.com/title/tt0121766/characters/nm0000489
+kiadimundi,silas_carson,Ki-Adi-Mundi,Silas Carson,https://www.imdb.com/title/tt0121766/characters/nm0141324
+captain_typho,jay_lagaaia,Captain Typho,Jay Laga'aia,https://www.imdb.com/title/tt0121766/characters/nm0481092
+tion_medon,bruce_spence,Tion Medon,Bruce Spence,https://www.imdb.com/title/tt0121766/characters/nm0817748
+governor_tarkin,wayne_pygram,Governor Tarkin,Wayne Pygram,https://www.imdb.com/title/tt0121766/characters/nm0701460
+commander_cody,temuera_morrison,Commander Cody,Temuera Morrison,https://www.imdb.com/title/tt0121766/characters/nm0607325
+mas_amedda,david_bowers,Mas Amedda,David Bowers,https://www.imdb.com/title/tt0121766/characters/nm0101048
+captain_raymus_antilles,rohan_nichol,Captain Raymus Antilles,Rohan Nichol,https://www.imdb.com/title/tt0121766/characters/nm1046288
+captain_colton,jeremy_bulloch,Captain Colton,Jeremy Bulloch,https://www.imdb.com/title/tt0121766/characters/nm0120116
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0121766/characters/nm0048652
+chewbacca,peter_mayhew,Chewbacca,Peter Mayhew,https://www.imdb.com/title/tt0121766/characters/nm0562679
+queen_of_alderaan,rebecca_jackson_mendoza,Queen of Alderaan,Rebecca Jackson Mendoza,https://www.imdb.com/title/tt0121766/characters/nm1402458
+owen_lars,joel_edgerton,Owen Lars,Joel Edgerton,https://www.imdb.com/title/tt0121766/characters/nm0249291
+beru_lars,bonnie_piesse,Beru Lars,Bonnie Piesse,https://www.imdb.com/title/tt0121766/characters/nm0682837
+zett_jukassa,jett_lucas,Zett Jukassa,Jett Lucas,https://www.imdb.com/title/tt0121766/characters/nm1183068
+agen_kolar,tux_akindoyeni,Agen Kolar,Tux Akindoyeni,https://www.imdb.com/title/tt0121766/characters/nm0015376
+saesee_tiin,kenji_oates,Saesee Tiin,Kenji Oates,https://www.imdb.com/title/tt0121766/characters/nm1394526
+aayla_secura,amy_allen,Aayla Secura,Amy Allen,https://www.imdb.com/title/tt0121766/characters/nm1116989
+general_grievous,matthew_wood,General Grievous,Matthew Wood,https://www.imdb.com/title/tt0121766/characters/nm0003214
+wookiee,michael_kingma,Wookiee,Michael Kingma,https://www.imdb.com/title/tt0121766/characters/nm1432899
+gh7_medical_droid,david_acord,GH-7 Medical Droid,David Acord,https://www.imdb.com/title/tt0121766/characters/nm0004198
+kit_fisto,ben_cooke,Kit Fisto,Ben Cooke,https://www.imdb.com/title/tt0121766/characters/nm0177374
+stass_allie,nina_fallon,Stass Allie,Nina Fallon,https://www.imdb.com/title/tt0121766/characters/nm1539010
+darth_vader,james_earl_jones,Darth Vader,James Earl Jones,https://www.imdb.com/title/tt0121766/characters/nm0000469
+baron_papanoida,george_lucas,Baron Papanoida,George Lucas,https://www.imdb.com/title/tt0121766/characters/nm0000184
+luke_skywalker,mark_hamill,Luke Skywalker,Mark Hamill,https://www.imdb.com/title/tt0076759/characters/nm0000434
+han_solo,harrison_ford,Han Solo,Harrison Ford,https://www.imdb.com/title/tt0076759/characters/nm0000148
+princess_leia_organa,carrie_fisher,Princess Leia Organa,Carrie Fisher,https://www.imdb.com/title/tt0076759/characters/nm0000402
+grand_moff_tarkin,peter_cushing,Grand Moff Tarkin,Peter Cushing,https://www.imdb.com/title/tt0076759/characters/nm0001088
+ben_obiwan_kenobi,alec_guinness,Ben Obi-Wan Kenobi,Alec Guinness,https://www.imdb.com/title/tt0076759/characters/nm0000027
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0076759/characters/nm0000355
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0076759/characters/nm0048652
+chewbacca,peter_mayhew,Chewbacca,Peter Mayhew,https://www.imdb.com/title/tt0076759/characters/nm0562679
+darth_vader,david_prowse,Darth Vader,David Prowse,https://www.imdb.com/title/tt0076759/characters/nm0001190
+uncle_owen,phil_brown,Uncle Owen,Phil Brown,https://www.imdb.com/title/tt0076759/characters/nm0114436
+aunt_beru,shelagh_fraser,Aunt Beru,Shelagh Fraser,https://www.imdb.com/title/tt0076759/characters/nm0292235
+chief_jawa,jack_purvis,Chief Jawa,Jack Purvis,https://www.imdb.com/title/tt0076759/characters/nm0701023
+general_dodonna,alex_mccrindle,General Dodonna,Alex McCrindle,https://www.imdb.com/title/tt0076759/characters/nm0567018
+general_willard,eddie_byrne,General Willard,Eddie Byrne,https://www.imdb.com/title/tt0076759/characters/nm0125952
+red_leader,drewe_henley,Red Leader,Drewe Henley,https://www.imdb.com/title/tt0076759/characters/nm0377120
+red_two_,denis_lawson,Red Two (Wedge),Denis Lawson,https://www.imdb.com/title/tt0076759/characters/nm0493200
+red_three_,garrick_hagon,Red Three (Biggs),Garrick Hagon,https://www.imdb.com/title/tt0076759/characters/nm0353796
+red_four_,jack_klaff,Red Four (John D.),Jack Klaff,https://www.imdb.com/title/tt0076759/characters/nm0458161
+red_six_,william_hootkins,Red Six (Porkins),William Hootkins,https://www.imdb.com/title/tt0076759/characters/nm0393853
+gold_leader,angus_macinnes,Gold Leader,Angus MacInnes,https://www.imdb.com/title/tt0076759/characters/nm0532815
+gold_two,jeremy_sinden,Gold Two,Jeremy Sinden,https://www.imdb.com/title/tt0076759/characters/nm0801788
+gold_five,graham_ashley,Gold Five,Graham Ashley,https://www.imdb.com/title/tt0076759/characters/nm0039061
+general_taggi,don_henderson,General Taggi,Don Henderson,https://www.imdb.com/title/tt0076759/characters/nm0376405
+general_motti,richard_leparmentier,General Motti,Richard LeParmentier,https://www.imdb.com/title/tt0076759/characters/nm0503236
+commander_1,leslie_schofield,Commander #1,Leslie Schofield,https://www.imdb.com/title/tt0076759/characters/nm0774532
+greedo,paul_blake,Greedo,Paul Blake,https://www.imdb.com/title/tt0076759/characters/nm0086685
+nabrun_leids,janice_burchette,Nabrun Leids,Janice Burchette,https://www.imdb.com/title/tt0076759/characters/nm0120861
+wuher,ted_burnett,Wuher,Ted Burnett,https://www.imdb.com/title/tt0076759/characters/nm0122441
+stormtrooper,tim_condren,Stormtrooper,Tim Condren,https://www.imdb.com/title/tt0076759/characters/nm0174337
+dr_evazan,alfie_curtis,Dr. Evazan,Alfie Curtis,https://www.imdb.com/title/tt0076759/characters/nm0193238
+stormtrooper,peter_diamond,Stormtrooper,Peter Diamond,https://www.imdb.com/title/tt0076759/characters/nm0224701
+garindan,sadie_eden,Garindan,Sadie Eden,https://www.imdb.com/title/tt0076759/characters/nm0248864
+death_star_trooper,harry_fielder,Death Star Trooper,Harry Fielder,https://www.imdb.com/title/tt0076759/characters/nm0276092
+sandtrooper,anthony_forrest,Sandtrooper,Anthony Forrest,https://www.imdb.com/title/tt0076759/characters/nm0286599
+stormtrooper_with_binoculars,ted_gagliano,Stormtrooper with Binoculars,Ted Gagliano,https://www.imdb.com/title/tt0076759/characters/nm0300879
+kabe,barry_gnome,Kabe,Barry Gnome,https://www.imdb.com/title/tt0076759/characters/nm0323518
+kabe,rusty_goffe,Kabe,Rusty Goffe,https://www.imdb.com/title/tt0076759/characters/nm0324597
+stormtrooper_,nelson_hall,Stormtrooper (special edition),Nelson Hall,https://www.imdb.com/title/tt0076759/characters/nm0355949
+stormtrooper,reg_harding,Stormtrooper,Reg Harding,https://www.imdb.com/title/tt0076759/characters/nm0362388
+leias_rebel_escort,alan_harris,Leia's Rebel Escort,Alan Harris,https://www.imdb.com/title/tt0076759/characters/nm0364402
+brea_tonnika,christine_hewett,Brea Tonnika,Christine Hewett,https://www.imdb.com/title/tt0076759/characters/nm0382016
+stormtrooper,arthur_howell,Stormtrooper,Arthur Howell,https://www.imdb.com/title/tt0076759/characters/nm0397931
+ponda_baba,tommy_ilsley,Ponda Baba,Tommy Ilsley,https://www.imdb.com/title/tt0076759/characters/nm0407908
+darth_vader,james_earl_jones,Darth Vader,James Earl Jones,https://www.imdb.com/title/tt0076759/characters/nm0000469
+daine_jir,al_lampert,Daine Jir,Al Lampert,https://www.imdb.com/title/tt0076759/characters/nm0483860
+muftak,laine_liska,Muftak,Laine Liska,https://www.imdb.com/title/tt0076759/characters/nm0514086
+temple_guard,derek_lyons,Temple Guard,Derek Lyons,https://www.imdb.com/title/tt0076759/characters/nm1750488
+takeel,alf_mangan,Takeel,Alf Mangan,https://www.imdb.com/title/tt0076759/characters/nm0542109
+massassi_base_rebel_scout,lorne_peterson,Massassi Base Rebel Scout,Lorne Peterson,https://www.imdb.com/title/tt0076759/characters/nm0677285
+rycar_ryjerd,marcus_powell,Rycar Ryjerd,Marcus Powell,https://www.imdb.com/title/tt0076759/characters/nm0694219
+cmdr_praji_,george_roubicek,Cmdr. Praji (Imperial Officer #2 on rebel ship),George Roubicek,https://www.imdb.com/title/tt0076759/characters/nm0745528
+senni_tonnika,angela_staines,Senni Tonnika,Angela Staines,https://www.imdb.com/title/tt0076759/characters/nm0821572
+cantina_patron,george_stock,Cantina Patron,George Stock,https://www.imdb.com/title/tt0076759/characters/nm0830723
+saitorr_kal_fas,peter_sturgeon,Sai'torr Kal Fas,Peter Sturgeon,https://www.imdb.com/title/tt0076759/characters/nm0836315
+lt_pol_treidum,peter_sumner,Lt. Pol Treidum,Peter Sumner,https://www.imdb.com/title/tt0076759/characters/nm0838614
+lt_shann_childsen,malcolm_tierney,Lt. Shann Childsen,Malcolm Tierney,https://www.imdb.com/title/tt0076759/characters/nm0862939
+boshek,frances_alfred_basil_tomlin,BoShek,Frances Alfred Basil Tomlin,https://www.imdb.com/title/tt0076759/characters/nm7917653
+del_goren,burnell_tucker,Del Goren,Burnell Tucker,https://www.imdb.com/title/tt0076759/characters/nm0875813
+stormtrooper,bill_weston,Stormtrooper,Bill Weston,https://www.imdb.com/title/tt0076759/characters/nm0922916
+luke_skywalker,mark_hamill,Luke Skywalker,Mark Hamill,https://www.imdb.com/title/tt0080684/characters/nm0000434
+han_solo,harrison_ford,Han Solo,Harrison Ford,https://www.imdb.com/title/tt0080684/characters/nm0000148
+princess_leia,carrie_fisher,Princess Leia,Carrie Fisher,https://www.imdb.com/title/tt0080684/characters/nm0000402
+lando_calrissian,billy_dee_williams,Lando Calrissian,Billy Dee Williams,https://www.imdb.com/title/tt0080684/characters/nm0001850
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0080684/characters/nm0000355
+darth_vader,david_prowse,Darth Vader,David Prowse,https://www.imdb.com/title/tt0080684/characters/nm0001190
+chewbacca,peter_mayhew,Chewbacca,Peter Mayhew,https://www.imdb.com/title/tt0080684/characters/nm0562679
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0080684/characters/nm0048652
+yoda,frank_oz,Yoda,Frank Oz,https://www.imdb.com/title/tt0080684/characters/nm0000568
+ben_kenobi,alec_guinness,Ben (Obi-Wan) Kenobi,Alec Guinness,https://www.imdb.com/title/tt0080684/characters/nm0000027
+boba_fett,jeremy_bulloch,Boba Fett,Jeremy Bulloch,https://www.imdb.com/title/tt0080684/characters/nm0120116
+landos_aide,john_hollis,Lando's Aide,John Hollis,https://www.imdb.com/title/tt0080684/characters/nm0391197
+chief_ugnaught,jack_purvis,Chief Ugnaught,Jack Purvis,https://www.imdb.com/title/tt0080684/characters/nm0701023
+snow_creature,des_webb,Snow Creature,Des Webb,https://www.imdb.com/title/tt0080684/characters/nm0916088
+emperor,clive_revill,Emperor,Clive Revill,https://www.imdb.com/title/tt0080684/characters/nm0720890
+admiral_piett,kenneth_colley,Admiral Piett,Kenneth Colley,https://www.imdb.com/title/tt0080684/characters/nm0171829
+general_veers,julian_glover,General Veers,Julian Glover,https://www.imdb.com/title/tt0080684/characters/nm0002103
+admiral_ozzel,michael_sheard,Admiral Ozzel,Michael Sheard,https://www.imdb.com/title/tt0080684/characters/nm0790410
+captain_needa,michael_culver,Captain Needa,Michael Culver,https://www.imdb.com/title/tt0080684/characters/nm0191741
+imperial_officer,john_dicks,Imperial Officer,John Dicks,https://www.imdb.com/title/tt0080684/characters/nm0225598
+imperial_officer,mark_jones,Imperial Officer,Mark Jones,https://www.imdb.com/title/tt0080684/characters/nm0428752
+imperial_officer,oliver_maguire,Imperial Officer,Oliver Maguire,https://www.imdb.com/title/tt0080684/characters/nm0536619
+rebel_force_general_rieekan,bruce_boa,Rebel Force General Rieekan,Bruce Boa,https://www.imdb.com/title/tt0080684/characters/nm0090124
+rebel_force_zev_,christopher_malcolm,Rebel Force Zev (Rogue 2),Christopher Malcolm,https://www.imdb.com/title/tt0080684/characters/nm0539095
+rebel_force_wedge_,denis_lawson,Rebel Force Wedge (Rogue 3),Denis Lawson,https://www.imdb.com/title/tt0080684/characters/nm0493200
+rebel_force_hobbie_,richard_oldfield,Rebel Force Hobbie (Rogue 4),Richard Oldfield,https://www.imdb.com/title/tt0080684/characters/nm0646134
+rebel_force_dak_,john_morton,Rebel Force Dak (Luke's Gunner),John Morton,https://www.imdb.com/title/tt0080684/characters/nm0608014
+rebel_force_janson_,ian_liston,Rebel Force Janson (Wedge's Gunner),Ian Liston,https://www.imdb.com/title/tt0080684/characters/nm0514282
+rebel_force_major_derlin,john_ratzenberger,Rebel Force Major Derlin,John Ratzenberger,https://www.imdb.com/title/tt0080684/characters/nm0001652
+rebel_force_deck_lieutenant,jack_mckenzie,Rebel Force Deck Lieutenant,Jack McKenzie,https://www.imdb.com/title/tt0080684/characters/nm0571536
+rebel_force_head_controller,jerry_harte,Rebel Force Head Controller,Jerry Harte,https://www.imdb.com/title/tt0080684/characters/nm0366617
+other_rebel_officer,norman_chancer,Other Rebel Officer,Norman Chancer,https://www.imdb.com/title/tt0080684/characters/nm0151259
+other_rebel_officer,norwich_duff,Other Rebel Officer,Norwich Duff,https://www.imdb.com/title/tt0080684/characters/nm0240403
+other_rebel_officer,burnell_tucker,Other Rebel Officer,Burnell Tucker,https://www.imdb.com/title/tt0080684/characters/nm0875813
+imperial_officer,bob_anderson,Imperial Officer,Bob Anderson,https://www.imdb.com/title/tt0080684/characters/nm0026428
+stormtrooper,alan_austen,Stormtrooper,Alan Austen,https://www.imdb.com/title/tt0080684/characters/nm2476032
+stormtrooper,lightning_bear,Stormtrooper,Lightning Bear,https://www.imdb.com/title/tt0080684/characters/nm0510019
+dengar,maurice_bush,Dengar,Maurice Bush,https://www.imdb.com/title/tt0080684/characters/nm0124173
+officer_mkae_,mark_capri,Officer M'kae (Captain Needa's Communications Officer),Mark Capri,https://www.imdb.com/title/tt0080684/characters/nm0135633
+emperor,marjorie_eaton,Emperor,Marjorie Eaton,https://www.imdb.com/title/tt0080684/characters/nm0247856
+ugnaught,mike_edmonds,Ugnaught,Mike Edmonds,https://www.imdb.com/title/tt0080684/characters/nm0249507
+hoth_rebel_technician,stephanie_english,Hoth Rebel Technician,Stephanie English,https://www.imdb.com/title/tt0080684/characters/nm8420937
+bossk,alan_harris,Bossk,Alan Harris,https://www.imdb.com/title/tt0080684/characters/nm0364402
+darth_vader,james_earl_jones,Darth Vader,James Earl Jones,https://www.imdb.com/title/tt0080684/characters/nm0000469
+ig88_,paul_klein,IG-88 (Bounty Hunter Droid),Paul Klein,https://www.imdb.com/title/tt0080684/characters/nm4367838
+emperor_,ian_mcdiarmid,Emperor (2004 DVD version),Ian McDiarmid,https://www.imdb.com/title/tt0080684/characters/nm0001519
+boba_fett_,temuera_morrison,Boba Fett (2004 DVD version),Temuera Morrison,https://www.imdb.com/title/tt0080684/characters/nm0607325
+stormtrooper,ralph_morse,Stormtrooper,Ralph Morse,https://www.imdb.com/title/tt0080684/characters/nm0607659
+4lom,chris_parsons,4-LOM,Chris Parsons,https://www.imdb.com/title/tt0080684/characters/nm0663793
+edian_bespin_guard_arresting_storm_troopers,quentin_pierre,Edian - Bespin Guard arresting Storm Troopers,Quentin Pierre,https://www.imdb.com/title/tt0080684/characters/nm0682652
+imperial_officer,mike_reynell,Imperial Officer,Mike Reynell,https://www.imdb.com/title/tt0080684/characters/nm2235913
+wampa_,harold_weed,Wampa (special edition),Harold Weed,https://www.imdb.com/title/tt0080684/characters/nm0917236
+luke_skywalker,mark_hamill,Luke Skywalker,Mark Hamill,https://www.imdb.com/title/tt0086190/characters/nm0000434
+han_solo,harrison_ford,Han Solo,Harrison Ford,https://www.imdb.com/title/tt0086190/characters/nm0000148
+princess_leia,carrie_fisher,Princess Leia,Carrie Fisher,https://www.imdb.com/title/tt0086190/characters/nm0000402
+lando_calrissian,billy_dee_williams,Lando Calrissian,Billy Dee Williams,https://www.imdb.com/title/tt0086190/characters/nm0001850
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt0086190/characters/nm0000355
+chewbacca,peter_mayhew,Chewbacca,Peter Mayhew,https://www.imdb.com/title/tt0086190/characters/nm0562679
+anakin_skywalker,sebastian_shaw,Anakin Skywalker,Sebastian Shaw,https://www.imdb.com/title/tt0086190/characters/nm0789970
+the_emperor,ian_mcdiarmid,The Emperor,Ian McDiarmid,https://www.imdb.com/title/tt0086190/characters/nm0001519
+yoda,frank_oz,Yoda,Frank Oz,https://www.imdb.com/title/tt0086190/characters/nm0000568
+darth_vader,james_earl_jones,Darth Vader,James Earl Jones,https://www.imdb.com/title/tt0086190/characters/nm0000469
+darth_vader,david_prowse,Darth Vader,David Prowse,https://www.imdb.com/title/tt0086190/characters/nm0001190
+ben_kenobi,alec_guinness,Ben 'Obi-Wan' Kenobi,Alec Guinness,https://www.imdb.com/title/tt0086190/characters/nm0000027
+r2d2,kenny_baker,R2-D2,Kenny Baker,https://www.imdb.com/title/tt0086190/characters/nm0048652
+moff_jerjerrod,michael_pennington,Moff Jerjerrod,Michael Pennington,https://www.imdb.com/title/tt0086190/characters/nm0672190
+admiral_piett,kenneth_colley,Admiral Piett,Kenneth Colley,https://www.imdb.com/title/tt0086190/characters/nm0171829
+bib_fortuna,michael_carter,Bib Fortuna,Michael Carter,https://www.imdb.com/title/tt0086190/characters/nm0141816
+wedge,denis_lawson,Wedge,Denis Lawson,https://www.imdb.com/title/tt0086190/characters/nm0493200
+admiral_ackbar,tim_rose,Admiral Ackbar,Tim Rose,https://www.imdb.com/title/tt0086190/characters/nm0741714
+general_madine,dermot_crowley,General Madine,Dermot Crowley,https://www.imdb.com/title/tt0086190/characters/nm0189720
+mon_mothma,caroline_blakiston,Mon Mothma,Caroline Blakiston,https://www.imdb.com/title/tt0086190/characters/nm0086860
+wicket,warwick_davis,Wicket,Warwick Davis,https://www.imdb.com/title/tt0086190/characters/nm0001116
+oola,femi_taylor,Oola,Femi Taylor,https://www.imdb.com/title/tt0086190/characters/nm0852361
+sy_snootles,annie_arbogast,Sy Snootles,Annie Arbogast,https://www.imdb.com/title/tt0086190/characters/nm0033399
+fat_dancer,claire_davenport,Fat Dancer,Claire Davenport,https://www.imdb.com/title/tt0086190/characters/nm0202575
+logray,mike_edmonds,Logray,Mike Edmonds,https://www.imdb.com/title/tt0086190/characters/nm0249507
+stardestroyer_controller_1,adam_bareham,Stardestroyer Controller #1,Adam Bareham,https://www.imdb.com/title/tt0086190/characters/nm0054393
+stardestroyer_controller_2,jonathan_oliver,Stardestroyer Controller #2,Jonathan Oliver,https://www.imdb.com/title/tt0086190/characters/nm0646894
+stardestroyer_captain_1,pip_miller,Stardestroyer Captain #1,Pip Miller,https://www.imdb.com/title/tt0086190/characters/nm0589150
+ewok,andrew_herd,Ewok,Andrew Herd,https://www.imdb.com/title/tt0086190/characters/nm0378784
+ewok,kiran_shah,Ewok,Kiran Shah,https://www.imdb.com/title/tt0086190/characters/nm0787449
+lieutenant_endicott_imperial_officer,glyn_baker,Lieutenant Endicott - Imperial Officer,Glyn Baker,https://www.imdb.com/title/tt0086190/characters/nm0048489
+barada,dickey_beer,Barada,Dickey Beer,https://www.imdb.com/title/tt0086190/characters/nm0066482
+stormtrooper,richard_bonehill,Stormtrooper,Richard Bonehill,https://www.imdb.com/title/tt0086190/characters/nm0094246
+xwing_pilot,ronny_cush,X-Wing Pilot,Ronny Cush,https://www.imdb.com/title/tt0086190/characters/nm0193684
+biker_scout_pushed_off_bike,peter_diamond,Biker Scout Pushed Off Bike,Peter Diamond,https://www.imdb.com/title/tt0086190/characters/nm0224701
+salacious_crumb,mark_dodson,Salacious Crumb,Mark Dodson,https://www.imdb.com/title/tt0086190/characters/nm0230301
+imperial_officer_executor,alan_flyng,Imperial Officer - Executor,Alan Flyng,https://www.imdb.com/title/tt0086190/characters/nm0283404
+rebel_pilot_sila_kott,poppy_hands,Rebel Pilot Sila Kott,Poppy Hands,https://www.imdb.com/title/tt0086190/characters/nm3490076
+lt_renz_officer_in_bunker,barrie_holland,Lt. Renz - 'Rebel Scum' Officer in Bunker,Barrie Holland,https://www.imdb.com/title/tt0086190/characters/nm1275975
+tessek,gerald_home,Tessek,Gerald Home,https://www.imdb.com/title/tt0086190/characters/nm0392935
+lieutenant_telsij_grey_squadron,eiji_kusuhara,Lieutenant Telsij - Grey Squadron,Eiji Kusuhara,https://www.imdb.com/title/tt0086190/characters/nm0476424
+maj_marquand_atst_driver,richard_marquand,Maj. Marquand - AT-ST Driver,Richard Marquand,https://www.imdb.com/title/tt0086190/characters/nm0549658
+arvel_crynyd,hilton_mcrae,Arvel Crynyd,Hilton McRae,https://www.imdb.com/title/tt0086190/characters/nm0574436
+keir_santage_,billy_j_mitchell,Keir Santage (Red Seven),Billy J. Mitchell,https://www.imdb.com/title/tt0086190/characters/nm0593165
+stormtrooper,ralph_morse,Stormtrooper,Ralph Morse,https://www.imdb.com/title/tt0086190/characters/nm0607659
+myn_kyneugh_emperors_royal_guard,quentin_pierre,Myn Kyneugh - Emperor's Royal Guard,Quentin Pierre,https://www.imdb.com/title/tt0086190/characters/nm0682652
+nien_nunb,mike_quinn,Nien Nunb,Mike Quinn,https://www.imdb.com/title/tt0086190/characters/nm0703934
+droopy_mccool,deep_roy,Droopy McCool,Deep Roy,https://www.imdb.com/title/tt0086190/characters/nm0746989
+ree_yees,paul_springer,Ree Yees,Paul Springer,https://www.imdb.com/title/tt0086190/characters/nm0819752
+rancor_jabbas_pet_monster,phil_tippett,Rancor - Jabba's Pet Monster,Phil Tippett,https://www.imdb.com/title/tt0086190/characters/nm0864138
+jabba_the_hutt,larry_ward,Jabba the Hutt,Larry Ward,https://www.imdb.com/title/tt0086190/characters/nm5925474
+lt_watts_atst_driver,robert_watts,Lt. Watts - AT-ST Driver,Robert Watts,https://www.imdb.com/title/tt0086190/characters/nm0915226
+max_rebo,simon_j_williamson,Max Rebo,Simon J. Williamson,https://www.imdb.com/title/tt0086190/characters/nm0932146
+han_solo,harrison_ford,Han Solo,Harrison Ford,https://www.imdb.com/title/tt2488496/characters/nm0000148
+luke_skywalker,mark_hamill,Luke Skywalker,Mark Hamill,https://www.imdb.com/title/tt2488496/characters/nm0000434
+princess_leia,carrie_fisher,Princess Leia,Carrie Fisher,https://www.imdb.com/title/tt2488496/characters/nm0000402
+kylo_ren,adam_driver,Kylo Ren,Adam Driver,https://www.imdb.com/title/tt2488496/characters/nm3485845
+rey,daisy_ridley,Rey,Daisy Ridley,https://www.imdb.com/title/tt2488496/characters/nm5397459
+finn,john_boyega,Finn,John Boyega,https://www.imdb.com/title/tt2488496/characters/nm3915784
+poe_dameron,oscar_isaac,Poe Dameron,Oscar Isaac,https://www.imdb.com/title/tt2488496/characters/nm1209966
+maz_kanata,lupita_nyongo,Maz Kanata,Lupita Nyong'o,https://www.imdb.com/title/tt2488496/characters/nm2143282
+supreme_leader_snoke,andy_serkis,Supreme Leader Snoke,Andy Serkis,https://www.imdb.com/title/tt2488496/characters/nm0785227
+general_hux,domhnall_gleeson,General Hux,Domhnall Gleeson,https://www.imdb.com/title/tt2488496/characters/nm1727304
+c3po,anthony_daniels,C-3PO,Anthony Daniels,https://www.imdb.com/title/tt2488496/characters/nm0000355
+lor_san_tekka,max_von_sydow,Lor San Tekka,Max von Sydow,https://www.imdb.com/title/tt2488496/characters/nm0001884
+chewbacca,peter_mayhew,Chewbacca,Peter Mayhew,https://www.imdb.com/title/tt2488496/characters/nm0562679
+captain_phasma,gwendoline_christie,Captain Phasma,Gwendoline Christie,https://www.imdb.com/title/tt2488496/characters/nm3729225
+chewbacca_double,joonas_suotamo,Chewbacca Double,Joonas Suotamo,https://www.imdb.com/title/tt2488496/characters/nm6934058
+unkar_plutt,simon_pegg,Unkar Plutt,Simon Pegg,https://www.imdb.com/title/tt2488496/characters/nm0670408
+teedo,kiran_shah,Teedo,Kiran Shah,https://www.imdb.com/title/tt2488496/characters/nm0787449
+major_ematt,andrew_jack,Major Ematt,Andrew Jack,https://www.imdb.com/title/tt2488496/characters/nm0413087
+snap_wexley,greg_grunberg,Snap Wexley,Greg Grunberg,https://www.imdb.com/title/tt2488496/characters/nm0342399
+brance,emun_elliott,Brance,Emun Elliott,https://www.imdb.com/title/tt2488496/characters/nm2047170
+balatik,brian_vernel,Bala-Tik,Brian Vernel,https://www.imdb.com/title/tt2488496/characters/nm4451290
+tasu_leech,yayan_ruhian,Tasu Leech,Yayan Ruhian,https://www.imdb.com/title/tt2488496/characters/nm3345670
+wollivan,warwick_davis,Wollivan,Warwick Davis,https://www.imdb.com/title/tt2488496/characters/nm0001116
+young_rey,cailey_fleming,Young Rey,Cailey Fleming,https://www.imdb.com/title/tt2488496/characters/nm7282126
+admiral_statura,ken_leung,Admiral Statura,Ken Leung,https://www.imdb.com/title/tt2488496/characters/nm0504962
+razoo_quinfee,iko_uwais,Razoo Quin-Fee,Iko Uwais,https://www.imdb.com/title/tt2488496/characters/nm3299397
+admiral_ackbar,tim_rose,Admiral Ackbar,Tim Rose,https://www.imdb.com/title/tt2488496/characters/nm0741714
+admiral_ackbar,erik_bauersfeld,Admiral Ackbar,Erik Bauersfeld,https://www.imdb.com/title/tt2488496/characters/nm1049512
+nien_nunb,mike_quinn,Nien Nunb,Mike Quinn,https://www.imdb.com/title/tt2488496/characters/nm0703934
+bar_patron,judah_friedlander,Bar Patron,Judah Friedlander,https://www.imdb.com/title/tt2488496/characters/nm0295103
+lieutenant_connix,billie_lourd,Lieutenant Connix,Billie Lourd,https://www.imdb.com/title/tt2488496/characters/nm6609666
+bb8_performed_by,brian_herring,BB-8 Performed By,Brian Herring,https://www.imdb.com/title/tt2488496/characters/nm1640219
+bb8_performed_by,dave_chapman,BB-8 Performed By,Dave Chapman,https://www.imdb.com/title/tt2488496/characters/nm2237150
+resistance_engineer,calvin_chen,Resistance Engineer,Calvin Chen,https://www.imdb.com/title/tt2488496/characters/nm9191742
+stormtrooper,daniel_craig,Stormtrooper,Daniel Craig,https://www.imdb.com/title/tt2488496/characters/nm0185819
+pz4co,nathalie_cuzner,PZ-4CO,Nathalie Cuzner,https://www.imdb.com/title/tt2488496/characters/nm2470960
+snowtrooper,steven_griffiths,Snowtrooper,Steven Griffiths,https://www.imdb.com/title/tt2488496/characters/nm4138483
+ello_asty,paul_kasey,Ello Asty,Paul Kasey,https://www.imdb.com/title/tt2488496/characters/nm1208004
+obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt2488496/characters/nm0000191
+crokind_shand,cecep_arif_rahman,Crokind Shand,Cecep Arif Rahman,https://www.imdb.com/title/tt2488496/characters/nm5433042
+first_order_stormtrooper,david_m_santana,First Order Stormtrooper,David M. Santana,https://www.imdb.com/title/tt2488496/characters/nm6866989
+stormtrooper,ben_schwartz,Stormtrooper,Ben Schwartz,https://www.imdb.com/title/tt2488496/characters/nm2355635
+me8d9,stephanie_silva,ME-8D9,Stephanie Silva,https://www.imdb.com/title/tt2488496/characters/nm7874594
+varmik,paul_warren,Varmik,Paul Warren,https://www.imdb.com/title/tt2488496/characters/nm2339366
+bollie_prindel,ian_whyte,Bollie Prindel,Ian Whyte,https://www.imdb.com/title/tt2488496/characters/nm1613839
+ello_asty,matthew_wood,Ello Asty,Matthew Wood,https://www.imdb.com/title/tt2488496/characters/nm0003214
+fn2199,liang_yang,FN-2199,Liang Yang,https://www.imdb.com/title/tt2488496/characters/nm2403982

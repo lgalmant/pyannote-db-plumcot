@@ -1,0 +1,104 @@
+voice_of_the_ring,alan_howard,Voice of the Ring,Alan Howard,https://www.imdb.com/title/tt0120737/characters/nm0397102
+everard_proudfoot,noel_appleby,Everard Proudfoot,Noel Appleby,https://www.imdb.com/title/tt0120737/characters/nm0032370
+sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0120737/characters/nm0000276
+sauron,sala_baker,Sauron,Sala Baker,https://www.imdb.com/title/tt0120737/characters/nm1019674
+boromir,sean_bean,Boromir,Sean Bean,https://www.imdb.com/title/tt0120737/characters/nm0000293
+galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0120737/characters/nm0000949
+legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0120737/characters/nm0089217
+pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0120737/characters/nm0101710
+celeborn,marton_csokas,Celeborn,Marton Csokas,https://www.imdb.com/title/tt0120737/characters/nm0190744
+gilgalad,mark_ferguson,Gil-galad,Mark Ferguson,https://www.imdb.com/title/tt0120737/characters/nm0272527
+bilbo,ian_holm,Bilbo,Ian Holm,https://www.imdb.com/title/tt0120737/characters/nm0000453
+saruman,christopher_lee,Saruman,Christopher Lee,https://www.imdb.com/title/tt0120737/characters/nm0000489
+lurtz,lawrence_makoare,Lurtz,Lawrence Makoare,https://www.imdb.com/title/tt0120737/characters/nm0538692
+gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0120737/characters/nm0785227
+witchking,brent_mcintyre,Witch-king,Brent McIntyre,https://www.imdb.com/title/tt0120737/characters/nm1098595
+gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0120737/characters/nm0005212
+elendil,peter_mckenzie,Elendil,Peter McKenzie,https://www.imdb.com/title/tt0120737/characters/nm1013159
+rosie_cotton,sarah_mcleod,Rosie Cotton,Sarah McLeod,https://www.imdb.com/title/tt0120737/characters/nm0572867
+merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0120737/characters/nm0597480
+aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0120737/characters/nm0001557
+haldir,craig_parker,Haldir,Craig Parker,https://www.imdb.com/title/tt0120737/characters/nm0662164
+farmer_maggot,cameron_rhodes,Farmer Maggot,Cameron Rhodes,https://www.imdb.com/title/tt0120737/characters/nm0722397
+gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0120737/characters/nm0722636
+isildur,harry_sinclair,Isildur,Harry Sinclair,https://www.imdb.com/title/tt0120737/characters/nm0801625
+arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0120737/characters/nm0000239
+barliman_butterbur,david_weatherley,Barliman Butterbur,David Weatherley,https://www.imdb.com/title/tt0120737/characters/nm0915750
+elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0120737/characters/nm0915989
+frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0120737/characters/nm0000704
+hero_orcs,victoria_beynoncole,Hero Orcs,Victoria Beynon-Cole,https://www.imdb.com/title/tt0120737/characters/nm1113484
+hero_orcs,lee_hartley,Hero Orcs,Lee Hartley,https://www.imdb.com/title/tt0120737/characters/nm1101755
+cute_hobbit_child,billy_jackson,Cute Hobbit Child,Billy Jackson,https://www.imdb.com/title/tt0120737/characters/nm0413309
+cute_hobbit_child,katie_jackson,Cute Hobbit Child,Katie Jackson,https://www.imdb.com/title/tt0120737/characters/nm1116175
+mrs_bracegirdle_,lori_dungey,Mrs. Bracegirdle (extended edition),Lori Dungey,https://www.imdb.com/title/tt0120737/characters/nm0242256
+ted_sandyman_,brian_sergent,Ted Sandyman (extended edition),Brian Sergent,https://www.imdb.com/title/tt0120737/characters/nm0785082
+cute_hobbit_child,riley_brophy,Cute Hobbit Child,Riley Brophy,https://www.imdb.com/title/tt0120737/characters/nm2666895
+cute_hobbit_child,taea_hartwell,Cute Hobbit Child,Taea Hartwell,https://www.imdb.com/title/tt0120737/characters/nm0367290
+albert_dreary,peter_jackson,Albert Dreary,Peter Jackson,https://www.imdb.com/title/tt0120737/characters/nm0001392
+sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0167261/characters/nm0000276
+madril,john_bach,Madril,John Bach,https://www.imdb.com/title/tt0167261/characters/nm0045324
+galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0167261/characters/nm0000949
+legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0167261/characters/nm0089217
+pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0167261/characters/nm0101710
+sharku,jed_brophy,Sharku,Jed Brophy,https://www.imdb.com/title/tt0167261/characters/nm0112400
+wormtongue,brad_dourif,Wormtongue,Brad Dourif,https://www.imdb.com/title/tt0167261/characters/nm0000374
+theoden,bernard_hill,Theoden,Bernard Hill,https://www.imdb.com/title/tt0167261/characters/nm0384060
+gamling,bruce_hopkins,Gamling,Bruce Hopkins,https://www.imdb.com/title/tt0167261/characters/nm0394126
+saruman,christopher_lee,Saruman,Christopher Lee,https://www.imdb.com/title/tt0167261/characters/nm0000489
+ugluk,nathaniel_lees,Ugluk,Nathaniel Lees,https://www.imdb.com/title/tt0167261/characters/nm0498731
+hama,john_leigh,Háma,John Leigh,https://www.imdb.com/title/tt0167261/characters/nm0500237
+mauhur,robbie_magasiva,Mauhur,Robbie Magasiva,https://www.imdb.com/title/tt0167261/characters/nm0535741
+gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0167261/characters/nm0005212
+merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0167261/characters/nm0597480
+aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167261/characters/nm0001557
+eowyn,miranda_otto,Eowyn,Miranda Otto,https://www.imdb.com/title/tt0167261/characters/nm0001584
+haldir,craig_parker,Haldir,Craig Parker,https://www.imdb.com/title/tt0167261/characters/nm0662164
+gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167261/characters/nm0722636
+gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0167261/characters/nm0785227
+arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0167261/characters/nm0000239
+eomer,karl_urban,Eomer,Karl Urban,https://www.imdb.com/title/tt0167261/characters/nm0881631
+elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0167261/characters/nm0915989
+faramir,david_wenham,Faramir,David Wenham,https://www.imdb.com/title/tt0167261/characters/nm0920992
+frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0167261/characters/nm0000704
+boromir_,sean_bean,Boromir (extended edition),Sean Bean,https://www.imdb.com/title/tt0167261/characters/nm0000293
+denethor_,john_noble,Denethor (extended edition),John Noble,https://www.imdb.com/title/tt0167261/characters/nm0633604
+spearthrowing_rohan_soldier,peter_jackson,Spear-Throwing Rohan Soldier,Peter Jackson,https://www.imdb.com/title/tt0167261/characters/nm0001392
+elanor_gamgee,ali_astin,Elanor Gamgee,Ali Astin,https://www.imdb.com/title/tt0167260/characters/nm0040012
+sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0167260/characters/nm0000276
+galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0167260/characters/nm0000949
+legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0167260/characters/nm0089217
+pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0167260/characters/nm0101710
+celeborn,marton_csokas,Celeborn,Marton Csokas,https://www.imdb.com/title/tt0167260/characters/nm0190744
+gondorian_soldier_1,richard_edge,Gondorian Soldier 1,Richard Edge,https://www.imdb.com/title/tt0167260/characters/nm1480102
+theoden,bernard_hill,Theoden,Bernard Hill,https://www.imdb.com/title/tt0167260/characters/nm0384060
+bilbo,ian_holm,Bilbo,Ian Holm,https://www.imdb.com/title/tt0167260/characters/nm0000453
+gamling,bruce_hopkins,Gamling,Bruce Hopkins,https://www.imdb.com/title/tt0167260/characters/nm0394126
+irolas,ian_hughes,Irolas,Ian Hughes,https://www.imdb.com/title/tt0167260/characters/nm0400655
+witchking,lawrence_makoare,Witchking,Lawrence Makoare,https://www.imdb.com/title/tt0167260/characters/nm0538692
+gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0167260/characters/nm0005212
+elf_escort,bret_mckenzie,Elf Escort,Bret McKenzie,https://www.imdb.com/title/tt0167260/characters/nm1235366
+rosie_cotton,sarah_mcleod,Rosie Cotton,Sarah McLeod,https://www.imdb.com/title/tt0167260/characters/nm0572867
+baby_gamgee,maisy_mcleodriera,Baby Gamgee,Maisy McLeod-Riera,https://www.imdb.com/title/tt0167260/characters/nm1480155
+merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0167260/characters/nm0597480
+aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167260/characters/nm0001557
+denethor,john_noble,Denethor,John Noble,https://www.imdb.com/title/tt0167260/characters/nm0633604
+king_of_the_dead,paul_norell,King of the Dead,Paul Norell,https://www.imdb.com/title/tt0167260/characters/nm0635264
+eowyn,miranda_otto,Eowyn,Miranda Otto,https://www.imdb.com/title/tt0167260/characters/nm0001584
+grimbold,bruce_phillips,Grimbold,Bruce Phillips,https://www.imdb.com/title/tt0167260/characters/nm0680273
+gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167260/characters/nm0722636
+deagol,thomas_robins,Deagol,Thomas Robins,https://www.imdb.com/title/tt0167260/characters/nm0992718
+gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0167260/characters/nm0785227
+shagrat,peter_tait,Shagrat,Peter Tait,https://www.imdb.com/title/tt0167260/characters/nm0846913
+orc_lieutenant_1,joel_tobeck,Orc Lieutenant 1,Joel Tobeck,https://www.imdb.com/title/tt0167260/characters/nm0864835
+arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0167260/characters/nm0000239
+eomer,karl_urban,Eomer,Karl Urban,https://www.imdb.com/title/tt0167260/characters/nm0881631
+gorbag,stephen_ure,Gorbag,Stephen Ure,https://www.imdb.com/title/tt0167260/characters/nm0881831
+elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0167260/characters/nm0915989
+faramir,david_wenham,Faramir,David Wenham,https://www.imdb.com/title/tt0167260/characters/nm0920992
+frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0167260/characters/nm0000704
+featured_orc,sala_baker,Featured Orc,Sala Baker,https://www.imdb.com/title/tt0167260/characters/nm1019674
+saruman_,christopher_lee,Saruman (extended edition),Christopher Lee,https://www.imdb.com/title/tt0167260/characters/nm0000489
+black_lieutenant_,bruce_spence,Black Lieutenant (extended edition),Bruce Spence,https://www.imdb.com/title/tt0167260/characters/nm0817748
+coronation_elf,jarl_benzon,Coronation Elf,Jarl Benzon,https://www.imdb.com/title/tt0167260/characters/nm1400476
+cirdan_the_shipwright,michael_elsworth,Cirdan the Shipwright,Michael Elsworth,https://www.imdb.com/title/tt0167260/characters/nm1096480
+corsair_bosun,peter_jackson,Corsair Bosun,Peter Jackson,https://www.imdb.com/title/tt0167260/characters/nm0001392

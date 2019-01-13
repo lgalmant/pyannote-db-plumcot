@@ -1,0 +1,3 @@
+TheLordOfTheRings.Episode1,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,http://www.tv.com/movies/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/
+TheLordOfTheRings.Episode2,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,http://www.tv.com/movies/lord-of-the-rings-the-two-towers/
+TheLordOfTheRings.Episode3,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,http://www.tv.com/movies/the-lord-of-the-rings-the-return-of-the-king/

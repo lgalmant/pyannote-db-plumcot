@@ -1,0 +1,114 @@
+hugo_reyes,jorge_garcia,Hugo 'Hurley' Reyes,Jorge Garcia,https://www.imdb.com/title/tt0411008/characters/nm0306201
+james_ford,josh_holloway,James 'Sawyer' Ford,Josh Holloway,https://www.imdb.com/title/tt0411008/characters/nm0391326
+sunhwa_kwon,yunjin_kim,Sun-Hwa Kwon,Yunjin Kim,https://www.imdb.com/title/tt0411008/characters/nm0453746
+kate_austen,evangeline_lilly,Kate Austen,Evangeline Lilly,https://www.imdb.com/title/tt0411008/characters/nm1431940
+john_locke,terry_oquinn,John Locke,Terry O'Quinn,https://www.imdb.com/title/tt0411008/characters/nm0642368
+sayid_jarrah,naveen_andrews,Sayid Jarrah,Naveen Andrews,https://www.imdb.com/title/tt0411008/characters/nm0004710
+dr_jack_shephard,matthew_fox,Dr. Jack Shephard,Matthew Fox,https://www.imdb.com/title/tt0411008/characters/nm0289142
+jinsoo_kwon,daniel_dae_kim,Jin-Soo Kwon,Daniel Dae Kim,https://www.imdb.com/title/tt0411008/characters/nm0196654
+claire_littleton,emilie_de_ravin,Claire Littleton,Emilie de Ravin,https://www.imdb.com/title/tt0411008/characters/nm0211087
+ben_linus,michael_emerson,Ben Linus,Michael Emerson,https://www.imdb.com/title/tt0411008/characters/nm0256237
+desmond_hume,henry_ian_cusick,Desmond Hume,Henry Ian Cusick,https://www.imdb.com/title/tt0411008/characters/nm0193738
+charlie_pace,dominic_monaghan,Charlie Pace,Dominic Monaghan,https://www.imdb.com/title/tt0411008/characters/nm0597480
+michael_dawson,harold_perrineau,Michael Dawson,Harold Perrineau,https://www.imdb.com/title/tt0411008/characters/nm0674782
+dr_juliet_burke,elizabeth_mitchell,Dr. Juliet Burke,Elizabeth Mitchell,https://www.imdb.com/title/tt0411008/characters/nm0593310
+miles_straume,ken_leung,Miles Straume,Ken Leung,https://www.imdb.com/title/tt0411008/characters/nm0504962
+richard_alpert,nestor_carbonell,Richard Alpert,Nestor Carbonell,https://www.imdb.com/title/tt0411008/characters/nm0004801
+shannon_rutherford,maggie_grace,Shannon Rutherford,Maggie Grace,https://www.imdb.com/title/tt0411008/characters/nm1192254
+walt_lloyd,malcolm_david_kelley,Walt Lloyd,Malcolm David Kelley,https://www.imdb.com/title/tt0411008/characters/nm1287636
+dr_daniel_faraday,jeremy_davies,Dr. Daniel Faraday,Jeremy Davies,https://www.imdb.com/title/tt0411008/characters/nm0001111
+frank_lapidus,jeff_fahey,Frank Lapidus,Jeff Fahey,https://www.imdb.com/title/tt0411008/characters/nm0001194
+boone_carlyle,ian_somerhalder,Boone Carlyle,Ian Somerhalder,https://www.imdb.com/title/tt0411008/characters/nm0813812
+mr_eko,adewale_akinnuoyeagbaje,Mr. Eko,Adewale Akinnuoye-Agbaje,https://www.imdb.com/title/tt0411008/characters/nm0015382
+ana_lucia_cortez,michelle_rodriguez,Ana Lucia Cortez,Michelle Rodriguez,https://www.imdb.com/title/tt0411008/characters/nm0735442
+ilana_verdansky,zuleikha_robinson,Ilana Verdansky,Zuleikha Robinson,https://www.imdb.com/title/tt0411008/characters/nm0733196
+libby_smith,cynthia_watros,Libby Smith,Cynthia Watros,https://www.imdb.com/title/tt0411008/characters/nm0914475
+rose_nadler,l_scott_caldwell,Rose Nadler,L. Scott Caldwell,https://www.imdb.com/title/tt0411008/characters/nm0129749
+dr_charlotte_lewis,rebecca_mader,Dr. Charlotte Lewis,Rebecca Mader,https://www.imdb.com/title/tt0411008/characters/nm1242950
+bernard_nadler,sam_anderson,Bernard Nadler,Sam Anderson,https://www.imdb.com/title/tt0411008/characters/nm0027402
+danielle_rousseau,mira_furlan,Danielle Rousseau,Mira Furlan,https://www.imdb.com/title/tt0411008/characters/nm0001245
+tom_friendly,mc_gainey,Tom Friendly,M.C. Gainey,https://www.imdb.com/title/tt0411008/characters/nm0301370
+alex_rousseau,tania_raymonde,Alex Rousseau,Tania Raymonde,https://www.imdb.com/title/tt0411008/characters/nm0713389
+dr_christian_shephard,john_terry,Dr. Christian Shephard,John Terry,https://www.imdb.com/title/tt0411008/characters/nm0856012
+charles_widmore,alan_dale,Charles Widmore,Alan Dale,https://www.imdb.com/title/tt0411008/characters/nm0197638
+dr_pierre_chang,francois_chau,Dr. Pierre Chang,François Chau,https://www.imdb.com/title/tt0411008/characters/nm0154236
+nikki_fernandez,kiele_sanchez,Nikki Fernandez,Kiele Sanchez,https://www.imdb.com/title/tt0411008/characters/nm0760989
+paulo,rodrigo_santoro,Paulo,Rodrigo Santoro,https://www.imdb.com/title/tt0411008/characters/nm0763928
+cindy_chandler,kimberley_joseph,Cindy Chandler,Kimberley Joseph,https://www.imdb.com/title/tt0411008/characters/nm0430634
+penelope_widmore,sonya_walger,Penelope 'Penny' Widmore,Sonya Walger,https://www.imdb.com/title/tt0411008/characters/nm0907427
+noor_abed_jaseem,andrea_gabriel,Noor 'Nadia' Abed Jaseem,Andrea Gabriel,https://www.imdb.com/title/tt0411008/characters/nm1320997
+dr_ethan_rom,william_mapother,Dr. Ethan Rom,William Mapother,https://www.imdb.com/title/tt0411008/characters/nm0544611
+martin_keamy,kevin_durand,Martin Keamy,Kevin Durand,https://www.imdb.com/title/tt0411008/characters/nm0243806
+naomi_dorrit,marsha_thomason,Naomi Dorrit,Marsha Thomason,https://www.imdb.com/title/tt0411008/characters/nm0859720
+marshal_edward_mars,fredric_lehne,Marshal Edward Mars,Fredric Lehne,https://www.imdb.com/title/tt0411008/characters/nm0499791
+aaron,william_blanchette,Aaron,William Blanchette,https://www.imdb.com/title/tt0411008/characters/nm2918030
+karl_martin,blake_bashoff,Karl Martin,Blake Bashoff,https://www.imdb.com/title/tt0411008/characters/nm0003942
+phil,patrick_fischler,Phil,Patrick Fischler,https://www.imdb.com/title/tt0411008/characters/nm0279209
+dr_leslie_arzt,daniel_roebuck,Dr. Leslie Arzt,Daniel Roebuck,https://www.imdb.com/title/tt0411008/characters/nm0736263
+zach,mickey_graue,Zach,Mickey Graue,https://www.imdb.com/title/tt0411008/characters/nm2070947
+emma,kiersten_havelock,Emma,Kiersten Havelock,https://www.imdb.com/title/tt0411008/characters/nm2062384
+danny_pickett,michael_bowen,Danny Pickett,Michael Bowen,https://www.imdb.com/title/tt0411008/characters/nm0100889
+horace_goodspeed,doug_hutchison,Horace Goodspeed,Doug Hutchison,https://www.imdb.com/title/tt0411008/characters/nm0006535
+stuart_radzinsky,eric_lange,Stuart Radzinsky,Eric Lange,https://www.imdb.com/title/tt0411008/characters/nm1441925
+jacob,mark_pellegrino,Jacob,Mark Pellegrino,https://www.imdb.com/title/tt0411008/characters/nm0671032
+eloise_hawking,fionnula_flanagan,Eloise 'Ellie' Hawking,Fionnula Flanagan,https://www.imdb.com/title/tt0411008/characters/nm0001217
+anthony_cooper,kevin_tighe,Anthony Cooper,Kevin Tighe,https://www.imdb.com/title/tt0411008/characters/nm0001798
+roger_linus,jon_gries,Roger Linus,Jon Gries,https://www.imdb.com/title/tt0411008/characters/nm0340973
+bram,brad_william_henke,Bram,Brad William Henke,https://www.imdb.com/title/tt0411008/characters/nm0377034
+carmen_reyes,lillian_hurst,Carmen Reyes,Lillian Hurst,https://www.imdb.com/title/tt0411008/characters/nm0403622
+george_minkowski,fisher_stevens,George Minkowski,Fisher Stevens,https://www.imdb.com/title/tt0411008/characters/nm0001770
+young_benjamin_linus,sterling_beaumon,Young Benjamin Linus,Sterling Beaumon,https://www.imdb.com/title/tt0411008/characters/nm1869029
+sarah_shephard,julie_bowen,Sarah Shephard,Julie Bowen,https://www.imdb.com/title/tt0411008/characters/nm0100866
+zoe,sheila_kelley,Zoe,Sheila Kelley,https://www.imdb.com/title/tt0411008/characters/nm0445992
+randy,billy_ray_gallion,Randy,Billy Ray Gallion,https://www.imdb.com/title/tt0411008/characters/nm0302965
+dogen,hiroyuki_sanada,Dogen,Hiroyuki Sanada,https://www.imdb.com/title/tt0411008/characters/nm0760796
+cassidy_phillips,kim_dickens,Cassidy Phillips,Kim Dickens,https://www.imdb.com/title/tt0411008/characters/nm0225332
+goodwin_stanhope,brett_cullen,Goodwin Stanhope,Brett Cullen,https://www.imdb.com/title/tt0411008/characters/nm0191442
+woojung_paik,byron_chung,Woo-Jung Paik,Byron Chung,https://www.imdb.com/title/tt0411008/characters/nm0161187
+helen_norwood,katey_sagal,Helen Norwood,Katey Sagal,https://www.imdb.com/title/tt0411008/characters/nm0005408
+teenage_boy,kenton_duty,Teenage Boy,Kenton Duty,https://www.imdb.com/title/tt0411008/characters/nm2778261
+caesar,said_taghmaoui,Caesar,Saïd Taghmaoui,https://www.imdb.com/title/tt0411008/characters/nm0846548
+matthew_abaddon,lance_reddick,Matthew Abaddon,Lance Reddick,https://www.imdb.com/title/tt0411008/characters/nm0714698
+david_shephard,dylan_minnette,David Shephard,Dylan Minnette,https://www.imdb.com/title/tt0411008/characters/nm1910255
+seamus,frederick_koehler,Seamus,Frederick Koehler,https://www.imdb.com/title/tt0411008/characters/nm0462735
+lennon,john_hawkes,Lennon,John Hawkes,https://www.imdb.com/title/tt0411008/characters/nm0370035
+amy_goodspeed,reiko_aylesworth,Amy Goodspeed,Reiko Aylesworth,https://www.imdb.com/title/tt0411008/characters/nm0043855
+middleaged_eloise_hawking,alice_evans,Middle-Aged Eloise Hawking,Alice Evans,https://www.imdb.com/title/tt0411008/characters/nm0262521
+danielle_rousseau,melissa_farman,Danielle Rousseau,Melissa Farman,https://www.imdb.com/title/tt0411008/characters/nm2957199
+jaehyeok_lee,tony_lee,Jae-Hyeok Lee,Tony Lee,https://www.imdb.com/title/tt0411008/characters/nm1312060
+david_reyes,cheech_marin,David Reyes,Cheech Marin,https://www.imdb.com/title/tt0411008/characters/nm0001507
+man_in_black,titus_welliver,Man in Black,Titus Welliver,https://www.imdb.com/title/tt0411008/characters/nm0920038
+old_scooter_man,glenn_cannon,Old Scooter Man,Glenn Cannon,https://www.imdb.com/title/tt0411008/characters/nm0134197
+seth_norris,greg_grunberg,Seth Norris,Greg Grunberg,https://www.imdb.com/title/tt0411008/characters/nm0342399
+robert,guillaume_dabinpons,Robert,Guillaume Dabinpons,https://www.imdb.com/title/tt0411008/characters/nm3191130
+susan_lloyd,tamara_taylor,Susan Lloyd,Tamara Taylor,https://www.imdb.com/title/tt0411008/characters/nm0853231
+montand,marc_menard,Montand,Marc Menard,https://www.imdb.com/title/tt0411008/characters/nm1238295
+middleaged_charles_widmore,david_s_lee,Middle-Aged Charles Widmore,David S. Lee,https://www.imdb.com/title/tt0411008/characters/nm1605085
+justin,dayo_ade,Justin,Dayo Ade,https://www.imdb.com/title/tt0411008/characters/nm0011747
+brennan,bruno_bruni_jr,Brennan,Bruno Bruni Jr.,https://www.imdb.com/title/tt0411008/characters/nm1887816
+british_guy,tom_connolly,British Guy,Tom Connolly,https://www.imdb.com/title/tt0411008/characters/nm0175366
+ticket_agent,suzanne_turner,Ticket Agent,Suzanne Turner,https://www.imdb.com/title/tt0411008/characters/nm0877888
+agent_smalley,dave_coennen,Agent Smalley,Dave Coennen,https://www.imdb.com/title/tt0411008/characters/nm0168770
+agent_anne,kesha_diodato,Agent Anne,Kesha Diodato,https://www.imdb.com/title/tt0411008/characters/nm3788602
+shooter,victor_browne,Shooter,Victor Browne,https://www.imdb.com/title/tt0411008/characters/nm0115092
+ray_mullen,nick_tate,Ray Mullen,Nick Tate,https://www.imdb.com/title/tt0411008/characters/nm0851182
+hutton,tim_halligan,Hutton,Tim Halligan,https://www.imdb.com/title/tt0411008/characters/nm0356619
+amira,anne_bedian,Amira,Anne Bedian,https://www.imdb.com/title/tt0411008/characters/nm0619549
+principal_donald_reynolds,william_atherton,Principal Donald Reynolds,William Atherton,https://www.imdb.com/title/tt0411008/characters/nm0040472
+jonas_whitfield,steven_elder,Jonas Whitfield,Steven Elder,https://www.imdb.com/title/tt0411008/characters/nm0253097
+lucy_heatherton,sally_strecker,Lucy Heatherton,Sally Strecker,https://www.imdb.com/title/tt0411008/characters/nm0834038
+mother,allison_janney,Mother,Allison Janney,https://www.imdb.com/title/tt0411008/characters/nm0005049
+frank_duckett,jeff_perry,Frank 'Sawyer' Duckett,Jeff Perry,https://www.imdb.com/title/tt0411008/characters/nm0675114
+claudia,lela_loren,Claudia,Lela Loren,https://www.imdb.com/title/tt0411008/characters/nm2187457
+isabella,mirelly_taylor,Isabella,Mirelly Taylor,https://www.imdb.com/title/tt0411008/characters/nm0652608
+olivia,samantha_mathis,Olivia,Samantha Mathis,https://www.imdb.com/title/tt0411008/characters/nm0000526
+isabel,diana_scarwid,Isabel,Diana Scarwid,https://www.imdb.com/title/tt0411008/characters/nm0769311
+boy_in_black,ryan_hanson_bradford,Boy in Black,Ryan Hanson Bradford,https://www.imdb.com/title/tt0411008/characters/nm1758376
+oldest_hunter,ivo_nandi,Oldest Hunter,Ivo Nandi,https://www.imdb.com/title/tt0411008/characters/nm2166477
+peter,patrick_j_adams,Peter,Patrick J. Adams,https://www.imdb.com/title/tt0411008/characters/nm1140666
+ellie,alexandra_krosney,Ellie,Alexandra Krosney,https://www.imdb.com/title/tt0411008/characters/nm1153215
+rupa,kavita_patil,Rupa,Kavita Patil,https://www.imdb.com/title/tt0411008/characters/nm1276956
+simmons,jonathan_arthur,Simmons,Jonathan Arthur,https://www.imdb.com/title/tt0411008/characters/nm2209096
+emily_,holland_roden,Emily (Age 16),Holland Roden,https://www.imdb.com/title/tt0411008/characters/nm1555699
+vincent_the_dog,madison,Vincent the Dog,Madison,https://www.imdb.com/title/tt0411008/characters/nm1807667
+nadine,alexandra_tabas,Nadine,Alexandra Tabas,https://www.imdb.com/title/tt0411008/characters/nm3364080

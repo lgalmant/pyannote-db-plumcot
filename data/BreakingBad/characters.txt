@@ -1,0 +1,52 @@
+walter_white,bryan_cranston,Walter White,Bryan Cranston,https://www.imdb.com/title/tt0903747/characters/nm0186505
+skyler_white,anna_gunn,Skyler White,Anna Gunn,https://www.imdb.com/title/tt0903747/characters/nm0348152
+jesse_pinkman,aaron_paul,Jesse Pinkman,Aaron Paul,https://www.imdb.com/title/tt0903747/characters/nm0666739
+hank_schrader,dean_norris,Hank Schrader,Dean Norris,https://www.imdb.com/title/tt0903747/characters/nm0606487
+marie_schrader,betsy_brandt,Marie Schrader,Betsy Brandt,https://www.imdb.com/title/tt0903747/characters/nm1336827
+walter_white_jr,rj_mitte,Walter White, Jr.,RJ Mitte,https://www.imdb.com/title/tt0903747/characters/nm2666409
+saul_goodman,bob_odenkirk,Saul Goodman,Bob Odenkirk,https://www.imdb.com/title/tt0903747/characters/nm0644022
+steven_gomez,steven_michael_quezada,Steven Gomez,Steven Michael Quezada,https://www.imdb.com/title/tt0903747/characters/nm2366374
+mike_ehrmantraut,jonathan_banks,Mike Ehrmantraut,Jonathan Banks,https://www.imdb.com/title/tt0903747/characters/nm0052186
+gustavo_fring,giancarlo_esposito,Gustavo 'Gus' Fring,Giancarlo Esposito,https://www.imdb.com/title/tt0903747/characters/nm0002064
+skinny_pete,charles_baker,Skinny Pete,Charles Baker,https://www.imdb.com/title/tt0903747/characters/nm1889973
+todd,jesse_plemons,Todd,Jesse Plemons,https://www.imdb.com/title/tt0903747/characters/nm0687146
+ted_beneke,christopher_cousins,Ted Beneke,Christopher Cousins,https://www.imdb.com/title/tt0903747/characters/nm0184086
+lydia_rodartequayle,laura_fraser,Lydia Rodarte-Quayle,Laura Fraser,https://www.imdb.com/title/tt0903747/characters/nm0292182
+badger,matt_jones,Badger,Matt Jones,https://www.imdb.com/title/tt0903747/characters/nm2804503
+huell,lavell_crawford,Huell,Lavell Crawford,https://www.imdb.com/title/tt0903747/characters/nm1089417
+tyrus_kitt,ray_campbell,Tyrus Kitt,Ray Campbell,https://www.imdb.com/title/tt0903747/characters/nm1530474
+jane_margolis,krysten_ritter,Jane Margolis,Krysten Ritter,https://www.imdb.com/title/tt0903747/characters/nm1269983
+tio_salamanca,mark_margolis,Tio Salamanca,Mark Margolis,https://www.imdb.com/title/tt0903747/characters/nm0546797
+victor,jeremiah_bitsui,Victor,Jeremiah Bitsui,https://www.imdb.com/title/tt0903747/characters/nm0084497
+gale_boetticher,david_costabile,Gale Boetticher,David Costabile,https://www.imdb.com/title/tt0903747/characters/nm0182345
+uncle_jack,michael_bowen,Uncle Jack,Michael Bowen,https://www.imdb.com/title/tt0903747/characters/nm0100889
+kenny,kevin_rankin,Kenny,Kevin Rankin,https://www.imdb.com/title/tt0903747/characters/nm0710271
+leonel_salamanca,daniel_moncada,Leonel Salamanca,Daniel Moncada,https://www.imdb.com/title/tt0903747/characters/nm3718379
+gretchen_schwartz,jessica_hecht,Gretchen Schwartz,Jessica Hecht,https://www.imdb.com/title/tt0903747/characters/nm0372961
+kuby,bill_burr,Kuby,Bill Burr,https://www.imdb.com/title/tt0903747/characters/nm0122987
+bogdan_wolynetz,marius_stan,Bogdan Wolynetz,Marius Stan,https://www.imdb.com/title/tt0903747/characters/nm2256387
+combo,rodney_rush,Combo,Rodney Rush,https://www.imdb.com/title/tt0903747/characters/nm2968788
+marco_salamanca,luis_moncada,Marco Salamanca,Luis Moncada,https://www.imdb.com/title/tt0903747/characters/nm1616991
+lester,tait_fletcher,Lester,Tait Fletcher,https://www.imdb.com/title/tt0903747/characters/nm1324884
+tuco_salamanca,raymond_cruz,Tuco Salamanca,Raymond Cruz,https://www.imdb.com/title/tt0903747/characters/nm0190441
+gaff,maurice_compte,Gaff,Maurice Compte,https://www.imdb.com/title/tt0903747/characters/nm0173997
+krazy8,max_arciniega,Krazy-8,Max Arciniega,https://www.imdb.com/title/tt0903747/characters/nm1362980
+elliott_schwartz,adam_godley,Elliott Schwartz,Adam Godley,https://www.imdb.com/title/tt0903747/characters/nm0324134
+declan,louis_ferreira,Declan,Louis Ferreira,https://www.imdb.com/title/tt0903747/characters/nm0274371
+juan_bolsa,javier_grajeda,Juan Bolsa,Javier Grajeda,https://www.imdb.com/title/tt0903747/characters/nm0334462
+detective_kalanchoe,gonzalo_menendez,Detective Kalanchoe,Gonzalo Menendez,https://www.imdb.com/title/tt0903747/characters/nm0579460
+detective_munn,jason_douglas,Detective Munn,Jason Douglas,https://www.imdb.com/title/tt0903747/characters/nm0235103
+tortuga,danny_trejo,Tortuga,Danny Trejo,https://www.imdb.com/title/tt0903747/characters/nm0001803
+spooges_woman,dale_dickey,Spooge's Woman,Dale Dickey,https://www.imdb.com/title/tt0903747/characters/nm0225460
+spooge,david_ury,Spooge,David Ury,https://www.imdb.com/title/tt0903747/characters/nm1352845
+lawson,jim_beaver,Lawson,Jim Beaver,https://www.imdb.com/title/tt0903747/characters/nm0064769
+old_joe,larry_hankin,Old Joe,Larry Hankin,https://www.imdb.com/title/tt0903747/characters/nm0359969
+don_eladio,steven_bauer,Don Eladio,Steven Bauer,https://www.imdb.com/title/tt0903747/characters/nm0000874
+lucy,monique_candelaria,Lucy,Monique Candelaria,https://www.imdb.com/title/tt0903747/characters/nm3156214
+getz,dj_qualls,Getz,DJ Qualls,https://www.imdb.com/title/tt0903747/characters/nm0702809
+benicio_fuentes,carlo_rota,Benicio Fuentes,Carlo Rota,https://www.imdb.com/title/tt0903747/characters/nm0744690
+peter_schuler,norbert_weisser,Peter Schuler,Norbert Weisser,https://www.imdb.com/title/tt0903747/characters/nm0919256
+sad_faced_girl,taylor_dearden,Sad Faced Girl,Taylor Dearden,https://www.imdb.com/title/tt0903747/characters/nm3846175
+max_arsiniega,james_martinez,Max Arsiniega,James Martinez,https://www.imdb.com/title/tt0903747/characters/nm1353808
+first_realtor,ralph_alderman,First Realtor,Ralph Alderman,https://www.imdb.com/title/tt0903747/characters/nm0017556
+ed,robert_forster,Ed,Robert Forster,https://www.imdb.com/title/tt0903747/characters/nm0001233

@@ -1,0 +1,150 @@
+buffy_summers,sarah_michelle_gellar,Buffy Summers,Sarah Michelle Gellar,https://www.imdb.com/title/tt0118276/characters/nm0001264
+xander_harris,nicholas_brendon,Xander Harris,Nicholas Brendon,https://www.imdb.com/title/tt0118276/characters/nm0107183
+willow_rosenberg,alyson_hannigan,Willow Rosenberg,Alyson Hannigan,https://www.imdb.com/title/tt0118276/characters/nm0004989
+rupert_giles,anthony_head,Rupert Giles,Anthony Head,https://www.imdb.com/title/tt0118276/characters/nm0372117
+spike,james_marsters,Spike,James Marsters,https://www.imdb.com/title/tt0118276/characters/nm0551346
+anya,emma_caulfield_ford,Anya,Emma Caulfield Ford,https://www.imdb.com/title/tt0118276/characters/nm0146536
+dawn_summers,michelle_trachtenberg,Dawn Summers,Michelle Trachtenberg,https://www.imdb.com/title/tt0118276/characters/nm0005502
+angel,david_boreanaz,Angel,David Boreanaz,https://www.imdb.com/title/tt0118276/characters/nm0004770
+joyce_summers,kristine_sutherland,Joyce Summers,Kristine Sutherland,https://www.imdb.com/title/tt0118276/characters/nm0840133
+cordelia_chase,charisma_carpenter,Cordelia Chase,Charisma Carpenter,https://www.imdb.com/title/tt0118276/characters/nm0004806
+tara_maclay,amber_benson,Tara Maclay,Amber Benson,https://www.imdb.com/title/tt0118276/characters/nm0072435
+daniel_osbourne,seth_green,Daniel Osbourne,Seth Green,https://www.imdb.com/title/tt0118276/characters/nm0001293
+riley_finn,marc_blucas,Riley Finn,Marc Blucas,https://www.imdb.com/title/tt0118276/characters/nm0089456
+jonathan_levinson,danny_strong,Jonathan Levinson,Danny Strong,https://www.imdb.com/title/tt0118276/characters/nm0834960
+andrew_wells,tom_lenk,Andrew Wells,Tom Lenk,https://www.imdb.com/title/tt0118276/characters/nm0501937
+faith,eliza_dushku,Faith,Eliza Dushku,https://www.imdb.com/title/tt0118276/characters/nm0244630
+principal_snyder,armin_shimerman,Principal Snyder,Armin Shimerman,https://www.imdb.com/title/tt0118276/characters/nm0001734
+drusilla,juliet_landau,Drusilla,Juliet Landau,https://www.imdb.com/title/tt0118276/characters/nm0484460
+warren_meers,adam_busch,Warren Meers,Adam Busch,https://www.imdb.com/title/tt0118276/characters/nm0123951
+harmony_kendall,mercedes_mcnab,Harmony Kendall,Mercedes McNab,https://www.imdb.com/title/tt0118276/characters/nm0573523
+jenny_calendar,robia_scott,Jenny Calendar,Robia Scott,https://www.imdb.com/title/tt0118276/characters/nm0478750
+ben,charlie_weber,Ben,Charlie Weber,https://www.imdb.com/title/tt0118276/characters/nm0916518
+mayor_richard_wilkins,harry_groener,Mayor Richard Wilkins,Harry Groener,https://www.imdb.com/title/tt0118276/characters/nm0342881
+principal_robin_wood,db_woodside,Principal Robin Wood,D.B. Woodside,https://www.imdb.com/title/tt0118276/characters/nm0940851
+glory,clare_kramer,Glory,Clare Kramer,https://www.imdb.com/title/tt0118276/characters/nm0004456
+kennedy,iyari_limon,Kennedy,Iyari Limon,https://www.imdb.com/title/tt0118276/characters/nm0510802
+graham_miller,bailey_chase,Graham Miller,Bailey Chase,https://www.imdb.com/title/tt0118276/characters/nm0003082
+forrest_gates,leonard_roberts,Forrest Gates,Leonard Roberts,https://www.imdb.com/title/tt0118276/characters/nm0731346
+amanda,sarah_hagan,Amanda,Sarah Hagan,https://www.imdb.com/title/tt0118276/characters/nm0353247
+wesley_wyndampryce,alexis_denisof,Wesley Wyndam-Pryce,Alexis Denisof,https://www.imdb.com/title/tt0118276/characters/nm0219206
+adam,george_hertzberg,Adam,George Hertzberg,https://www.imdb.com/title/tt0118276/characters/nm0381104
+professor_maggie_walsh,lindsay_crouse,Professor Maggie Walsh,Lindsay Crouse,https://www.imdb.com/title/tt0118276/characters/nm0001080
+the_master,mark_metcalf,The Master,Mark Metcalf,https://www.imdb.com/title/tt0118276/characters/nm0582420
+amy_madison,elizabeth_anne_allen,Amy Madison,Elizabeth Anne Allen,https://www.imdb.com/title/tt0118276/characters/nm0020494
+clem,james_c_leary,Clem,James C. Leary,https://www.imdb.com/title/tt0118276/characters/nm0495262
+darla,julie_benz,Darla,Julie Benz,https://www.imdb.com/title/tt0118276/characters/nm0004748
+larry_blaisdell,larry_bagby,Larry Blaisdell,Larry Bagby,https://www.imdb.com/title/tt0118276/characters/nm0046541
+ubervamp,camden_toy,Ubervamp,Camden Toy,https://www.imdb.com/title/tt0118276/characters/nm0870262
+parker_abrams,adam_kaufman,Parker Abrams,Adam Kaufman,https://www.imdb.com/title/tt0118276/characters/nm0442066
+caleb,nathan_fillion,Caleb,Nathan Fillion,https://www.imdb.com/title/tt0118276/characters/nm0277213
+mr_trick,k_todd_freeman,Mr. Trick,K. Todd Freeman,https://www.imdb.com/title/tt0118276/characters/nm0293461
+percy_west,ethan_erickson,Percy West,Ethan Erickson,https://www.imdb.com/title/tt0118276/characters/nm0004899
+ethan_rayne,robin_sachs,Ethan Rayne,Robin Sachs,https://www.imdb.com/title/tt0118276/characters/nm0755179
+luke,brian_thompson,Luke,Brian Thompson,https://www.imdb.com/title/tt0118276/characters/nm0859921
+rack,jeff_kober,Rack,Jeff Kober,https://www.imdb.com/title/tt0118276/characters/nm0462116
+dhoffryn,andy_umberger,D'Hoffryn,Andy Umberger,https://www.imdb.com/title/tt0118276/characters/nm0880820
+mr_miller,james_lurie,Mr. Miller,James Lurie,https://www.imdb.com/title/tt0118276/characters/nm0527096
+dr_kriegel,randy_thompson,Dr. Kriegel,Randy Thompson,https://www.imdb.com/title/tt0118276/characters/nm0860612
+scott_hope,fab_filippo,Scott Hope,Fab Filippo,https://www.imdb.com/title/tt0118276/characters/nm0277116
+kendra,bianca_lawson,Kendra,Bianca Lawson,https://www.imdb.com/title/tt0118276/characters/nm0493161
+detective_stein,james_macdonald,Detective Stein,James MacDonald,https://www.imdb.com/title/tt0118276/characters/nm0531762
+dreg,kevin_weisman,Dreg,Kevin Weisman,https://www.imdb.com/title/tt0118276/characters/nm0918858
+katrina_silber,amelinda_smith,Katrina Silber,Amelinda Smith,https://www.imdb.com/title/tt0118276/characters/nm0807295
+doc,joel_grey,Doc,Joel Grey,https://www.imdb.com/title/tt0118276/characters/nm0001297
+quentin_travers,harris_yulin,Quentin Travers,Harris Yulin,https://www.imdb.com/title/tt0118276/characters/nm0950867
+olivia,phina_oruche,Olivia,Phina Oruche,https://www.imdb.com/title/tt0118276/characters/nm0651403
+primitive,sharon_ferguson,Primitive,Sharon Ferguson,https://www.imdb.com/title/tt0118276/characters/nm0272608
+caridad,dania_ramirez,Caridad,Dania Ramirez,https://www.imdb.com/title/tt0118276/characters/nm1268158
+kathy_newman,dagney_kerr,Kathy Newman,Dagney Kerr,https://www.imdb.com/title/tt0118276/characters/nm0449669
+olaf,abraham_benrubi,Olaf,Abraham Benrubi,https://www.imdb.com/title/tt0118276/characters/nm0072344
+razor,franc_ross,Razor,Franc Ross,https://www.imdb.com/title/tt0118276/characters/nm0743404
+lyle_gorch,jeremy_ratchford,Lyle Gorch,Jeremy Ratchford,https://www.imdb.com/title/tt0118276/characters/nm0711595
+cassie_newton,azura_skye,Cassie Newton,Azura Skye,https://www.imdb.com/title/tt0118276/characters/nm0005439
+chanterelle,julia_lee,Chanterelle,Julia Lee,https://www.imdb.com/title/tt0118276/characters/nm0497616
+officer,jeff_mccredie,Officer,Jeff McCredie,https://www.imdb.com/title/tt0118276/characters/nm0566984
+uncle_enyos,vincent_schiavelli,Uncle Enyos,Vincent Schiavelli,https://www.imdb.com/title/tt0118276/characters/nm0001704
+collins,alastair_duncan,Collins,Alastair Duncan,https://www.imdb.com/title/tt0118276/characters/nm0241885
+jesse,eric_balfour,Jesse,Eric Balfour,https://www.imdb.com/title/tt0118276/characters/nm0050156
+nikki_wood,kd_aubert,Nikki Wood,K.D. Aubert,https://www.imdb.com/title/tt0118276/characters/nm1147702
+weatherby,jeff_ricketts,Weatherby,Jeff Ricketts,https://www.imdb.com/title/tt0118276/characters/nm0725519
+marcie_ross,clea_duvall,Marcie Ross,Clea DuVall,https://www.imdb.com/title/tt0118276/characters/nm0245112
+ted_buchanan,john_ritter,Ted Buchanan,John Ritter,https://www.imdb.com/title/tt0118276/characters/nm0000615
+richard_anderson,greg_vaughan,Richard Anderson,Greg Vaughan,https://www.imdb.com/title/tt0118276/characters/nm0891042
+grace_newman,meredith_salenger,Grace Newman,Meredith Salenger,https://www.imdb.com/title/tt0118276/characters/nm0001694
+rj_brooks,thad_luckinbill,R.J. Brooks,Thad Luckinbill,https://www.imdb.com/title/tt0118276/characters/nm0524745
+tom_warner,todd_babcock,Tom Warner,Todd Babcock,https://www.imdb.com/title/tt0118276/characters/nm0044859
+ampata_gutierrez,ara_celi,Ampata Gutierrez,Ara Celi,https://www.imdb.com/title/tt0118276/characters/nm0148043
+catherine_madison,robin_riker,Catherine Madison,Robin Riker,https://www.imdb.com/title/tt0118276/characters/nm0726939
+marc,burke_roberts,Marc,Burke Roberts,https://www.imdb.com/title/tt0118276/characters/nm0730902
+natalie_french,musetta_vander,Natalie French,Musetta Vander,https://www.imdb.com/title/tt0118276/characters/nm0888727
+james_stanley,christopher_gorham,James Stanley,Christopher Gorham,https://www.imdb.com/title/tt0118276/characters/nm0330913
+dracula,rudolf_martin,Dracula,Rudolf Martin,https://www.imdb.com/title/tt0118276/characters/nm0553020
+kit_holburn,alexandra_breckenridge,Kit Holburn,Alexandra Breckenridge,https://www.imdb.com/title/tt0118276/characters/nm1020036
+sam_finn,ivana_milicevic,Sam Finn,Ivana Milicevic,https://www.imdb.com/title/tt0118276/characters/nm0587431
+lissa,ashanti,Lissa,Ashanti,https://www.imdb.com/title/tt0118276/characters/nm0038680
+billy_fordham,jason_behr,Billy 'Ford' Fordham,Jason Behr,https://www.imdb.com/title/tt0118276/characters/nm0004736
+pat,nancy_lenehan,Pat,Nancy Lenehan,https://www.imdb.com/title/tt0118276/characters/nm0501802
+gage_petronzi,wentworth_miller,Gage Petronzi,Wentworth Miller,https://www.imdb.com/title/tt0118276/characters/nm0589505
+pete_clarner,john_patrick_white,Pete Clarner,John Patrick White,https://www.imdb.com/title/tt0118276/characters/nm0925003
+eddie,pedro_pascal,Eddie,Pedro Pascal,https://www.imdb.com/title/tt0118276/characters/nm0050959
+toth,michael_bailey_smith,Toth,Michael Bailey Smith,https://www.imdb.com/title/tt0118276/characters/nm0809344
+justin,kavan_reece,Justin,Kavan Reece,https://www.imdb.com/title/tt0118276/characters/nm1056067
+todd,ryan_raddatz,Todd,Ryan Raddatz,https://www.imdb.com/title/tt0118276/characters/nm1347221
+principal_flutie,stephen_tobolowsky,Principal Flutie,Stephen Tobolowsky,https://www.imdb.com/title/tt0118276/characters/nm0864997
+machida,robin_atkin_downes,Machida,Robin Atkin Downes,https://www.imdb.com/title/tt0118276/characters/nm0235960
+daryl_epps,ingo_neuhaus,Daryl Epps,Ingo Neuhaus,https://www.imdb.com/title/tt0118276/characters/nm0626933
+lishanne,nicole_prescott,Lishanne,Nicole Prescott,https://www.imdb.com/title/tt0118276/characters/nm0696121
+debbie_foley,danielle_weeks,Debbie Foley,Danielle Weeks,https://www.imdb.com/title/tt0118276/characters/nm0917307
+bob,michael_cudlitz,Bob,Michael Cudlitz,https://www.imdb.com/title/tt0118276/characters/nm0191044
+sunday,katharine_towne,Sunday,Katharine Towne,https://www.imdb.com/title/tt0118276/characters/nm0870007
+cheese_man,david_wells,Cheese Man,David Wells,https://www.imdb.com/title/tt0118276/characters/nm0920169
+april,shonda_farr,April,Shonda Farr,https://www.imdb.com/title/tt0118276/characters/nm0268062
+janice,amber_tamblyn,Janice,Amber Tamblyn,https://www.imdb.com/title/tt0118276/characters/nm0848554
+general_gregor,wade_williams,General Gregor,Wade Williams,https://www.imdb.com/title/tt0118276/characters/nm0931898
+holden_webster,jonathan_m_woodward,Holden Webster,Jonathan M. Woodward,https://www.imdb.com/title/tt0118276/characters/nm0940950
+kakistos,jeremy_roberts,Kakistos,Jeremy Roberts,https://www.imdb.com/title/tt0118276/characters/nm0731230
+zack,dave_power,Zack,Dave Power,https://www.imdb.com/title/tt0118276/characters/nm0694386
+mfashnik_demon,todd_stashwick,M'Fashnik Demon,Todd Stashwick,https://www.imdb.com/title/tt0118276/characters/nm0823693
+lori,angela_sarafyan,Lori,Angela Sarafyan,https://www.imdb.com/title/tt0118276/characters/nm1494168
+rodney_munson,clayne_crawford,Rodney Munson,Clayne Crawford,https://www.imdb.com/title/tt0118276/characters/nm0186728
+big_ugly,gregory_scott_cummins,Big Ugly,Gregory Scott Cummins,https://www.imdb.com/title/tt0118276/characters/nm0192003
+malcolm,mark_deakins,Malcolm,Mark Deakins,https://www.imdb.com/title/tt0118276/characters/nm0212636
+thomas,j_patrick_lawlor,Thomas,J. Patrick Lawlor,https://www.imdb.com/title/tt0118276/characters/nm0492551
+dr_weirick,james_stephens,Dr. Weirick,James Stephens,https://www.imdb.com/title/tt0118276/characters/nm0827042
+shrouded_man,gary_bullock,Shrouded Man,Gary Bullock,https://www.imdb.com/title/tt0118276/characters/nm0120147
+hunt,kal_penn,Hunt,Kal Penn,https://www.imdb.com/title/tt0118276/characters/nm0671980
+cousin_beth,amy_adams,Cousin Beth,Amy Adams,https://www.imdb.com/title/tt0118276/characters/nm0010736
+dr_overheiser,time_winters,Dr. Overheiser,Time Winters,https://www.imdb.com/title/tt0118276/characters/nm0936011
+masked_teen,aldis_hodge,Masked Teen,Aldis Hodge,https://www.imdb.com/title/tt0118276/characters/nm0388038
+cheryl,riki_lindhome,Cheryl,Riki Lindhome,https://www.imdb.com/title/tt0118276/characters/nm1641251
+manager,john_ennis,Manager,John Ennis,https://www.imdb.com/title/tt0118276/characters/nm0257890
+gentleman,doug_jones,Gentleman,Doug Jones,https://www.imdb.com/title/tt0118276/characters/nm0427964
+jamie,william_vogt,Jamie,William Vogt,https://www.imdb.com/title/tt0118276/characters/nm0901116
+boy,carmine_giovinazzo,Boy,Carmine Giovinazzo,https://www.imdb.com/title/tt0118276/characters/nm0320547
+der_kindestod,james_jude_courtney,Der Kindestod,James Jude Courtney,https://www.imdb.com/title/tt0118276/characters/nm0183921
+nancy,mariah_obrien,Nancy,Mariah O'Brien,https://www.imdb.com/title/tt0118276/characters/nm0639686
+fighting_boy,brian_poth,Fighting Boy,Brian Poth,https://www.imdb.com/title/tt0118276/characters/nm0693090
+gachnar,adam_bitterman,Gachnar,Adam Bitterman,https://www.imdb.com/title/tt0118276/characters/nm0084536
+slook,alan_heitz,Slook,Alan Heitz,https://www.imdb.com/title/tt0118276/characters/nm1476559
+fighting_girl,sarah_bibb,Fighting Girl,Sarah Bibb,https://www.imdb.com/title/tt0118276/characters/nm0080832
+demon_guard,harley_zumbrum,Demon Guard,Harley Zumbrum,https://www.imdb.com/title/tt0118276/characters/nm0958638
+lobster_boy,adam_grimes,Lobster Boy,Adam Grimes,https://www.imdb.com/title/tt0118276/characters/nm0342182
+leiach_demon,torry_pendergrass,Lei-Ach Demon,Torry Pendergrass,https://www.imdb.com/title/tt0118276/characters/nm7361060
+dead_nerd,jeremy_howard,Dead Nerd,Jeremy Howard,https://www.imdb.com/title/tt0118276/characters/nm0397386
+present_girl,larissa_reynolds,Present Girl,Larissa Reynolds,https://www.imdb.com/title/tt0118276/characters/nm1235794
+chaos_demon,ken_feinberg,Chaos Demon,Ken Feinberg,https://www.imdb.com/title/tt0118276/characters/nm0270671
+dead_janitor,ken_strunk,Dead Janitor,Ken Strunk,https://www.imdb.com/title/tt0118276/characters/nm0835349
+colleen,rachel_bilson,Colleen,Rachel Bilson,https://www.imdb.com/title/tt0118276/characters/nm1377375
+bodydouble_willow,jennifer_nicole,Body-Double Willow,Jennifer Nicole,https://www.imdb.com/title/tt0118276/characters/nm0630361
+dead_girl,rachael_bella,Dead Girl,Rachael Bella,https://www.imdb.com/title/tt0118276/characters/nm0068622
+chinese_slayer,ming_qiu,Chinese Slayer,Ming Qiu,https://www.imdb.com/title/tt0118276/characters/nm0514984
+teacher,ed_francis_martin,Teacher,Ed Francis Martin,https://www.imdb.com/title/tt0118276/characters/nm0552232
+kulak,chad_stahelski,Kulak,Chad Stahelski,https://www.imdb.com/title/tt0118276/characters/nm0821432
+subway_slayer,april_weeden,Subway Slayer,April Weeden,https://www.imdb.com/title/tt0118276/characters/nm0917252
+student,simon_chernin,Student,Simon Chernin,https://www.imdb.com/title/tt0118276/characters/nm0155921
+horned_demon,mark_ginther,Horned Demon,Mark Ginther,https://www.imdb.com/title/tt0118276/characters/nm0320169
+news_caster,joss_whedon,News Caster,Joss Whedon,https://www.imdb.com/title/tt0118276/characters/nm0923736
+patrice,spice_williamscrosby,Patrice,Spice Williams-Crosby,https://www.imdb.com/title/tt0118276/characters/nm0818454
+lagos,gary_kasper,Lagos,Gary Kasper,https://www.imdb.com/title/tt0118276/characters/nm0440723
+singer,aimee_mann,Singer,Aimee Mann,https://www.imdb.com/title/tt0118276/characters/nm0005181

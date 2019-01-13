@@ -1,0 +1,341 @@
+tyrion_lannister,peter_dinklage,Tyrion Lannister,Peter Dinklage,https://www.imdb.com/title/tt0944947/characters/nm0227759
+cersei_lannister,lena_headey,Cersei Lannister,Lena Headey,https://www.imdb.com/title/tt0944947/characters/nm0372176
+daenerys_targaryen,emilia_clarke,Daenerys Targaryen,Emilia Clarke,https://www.imdb.com/title/tt0944947/characters/nm3592338
+jon_snow,kit_harington,Jon Snow,Kit Harington,https://www.imdb.com/title/tt0944947/characters/nm3229685
+sansa_stark,sophie_turner,Sansa Stark,Sophie Turner,https://www.imdb.com/title/tt0944947/characters/nm3849842
+arya_stark,maisie_williams,Arya Stark,Maisie Williams,https://www.imdb.com/title/tt0944947/characters/nm3586035
+jaime_lannister,nikolaj_costerwaldau,Jaime Lannister,Nikolaj Coster-Waldau,https://www.imdb.com/title/tt0944947/characters/nm0182666
+jorah_mormont,iain_glen,Jorah Mormont,Iain Glen,https://www.imdb.com/title/tt0944947/characters/nm0322513
+theon_greyjoy,alfie_allen,Theon Greyjoy,Alfie Allen,https://www.imdb.com/title/tt0944947/characters/nm0654295
+samwell_tarly,john_bradley,Samwell Tarly,John Bradley,https://www.imdb.com/title/tt0944947/characters/nm4263213
+petyr_baelish,aidan_gillen,Petyr 'Littlefinger' Baelish,Aidan Gillen,https://www.imdb.com/title/tt0944947/characters/nm0318821
+lord_varys,conleth_hill,Lord Varys,Conleth Hill,https://www.imdb.com/title/tt0944947/characters/nm0384152
+brienne_of_tarth,gwendoline_christie,Brienne of Tarth,Gwendoline Christie,https://www.imdb.com/title/tt0944947/characters/nm3729225
+davos_seaworth,liam_cunningham,Davos Seaworth,Liam Cunningham,https://www.imdb.com/title/tt0944947/characters/nm0192377
+bran_stark,isaac_hempstead_wright,Bran Stark,Isaac Hempstead Wright,https://www.imdb.com/title/tt0944947/characters/nm3652842
+bronn,jerome_flynn,Bronn,Jerome Flynn,https://www.imdb.com/title/tt0944947/characters/nm0283492
+missandei,nathalie_emmanuel,Missandei,Nathalie Emmanuel,https://www.imdb.com/title/tt0944947/characters/nm2812026
+sandor_clegane,rory_mccann,Sandor 'The Hound' Clegane,Rory McCann,https://www.imdb.com/title/tt0944947/characters/nm0564920
+grand_maester_pycelle,julian_glover,Grand Maester Pycelle,Julian Glover,https://www.imdb.com/title/tt0944947/characters/nm0002103
+eddison_tollett,ben_crompton,Eddison Tollett,Ben Crompton,https://www.imdb.com/title/tt0944947/characters/nm0174005
+podrick_payne,daniel_portman,Podrick Payne,Daniel Portman,https://www.imdb.com/title/tt0944947/characters/nm4535552
+melisandre,carice_van_houten,Melisandre,Carice van Houten,https://www.imdb.com/title/tt0944947/characters/nm0396924
+tormund_giantsbane,kristofer_hivju,Tormund Giantsbane,Kristofer Hivju,https://www.imdb.com/title/tt0944947/characters/nm1970465
+grey_worm,jacob_anderson,Grey Worm,Jacob Anderson,https://www.imdb.com/title/tt0944947/characters/nm2760664
+tywin_lannister,charles_dance,Tywin Lannister,Charles Dance,https://www.imdb.com/title/tt0944947/characters/nm0001097
+margaery_tyrell,natalie_dormer,Margaery Tyrell,Natalie Dormer,https://www.imdb.com/title/tt0944947/characters/nm1754059
+joffrey_baratheon,jack_gleeson,Joffrey Baratheon,Jack Gleeson,https://www.imdb.com/title/tt0944947/characters/nm0322416
+catelyn_stark,michelle_fairley,Catelyn Stark,Michelle Fairley,https://www.imdb.com/title/tt0944947/characters/nm0265610
+barristan_selmy,ian_mcelhinney,Barristan Selmy,Ian McElhinney,https://www.imdb.com/title/tt0944947/characters/nm0568400
+stannis_baratheon,stephen_dillane,Stannis Baratheon,Stephen Dillane,https://www.imdb.com/title/tt0944947/characters/nm0226820
+gilly,hannah_murray,Gilly,Hannah Murray,https://www.imdb.com/title/tt0944947/characters/nm2356940
+hodor,kristian_nairn,Hodor,Kristian Nairn,https://www.imdb.com/title/tt0944947/characters/nm3964231
+grenn,mark_stanley,Grenn,Mark Stanley,https://www.imdb.com/title/tt0944947/characters/nm4440305
+robb_stark,richard_madden,Robb Stark,Richard Madden,https://www.imdb.com/title/tt0944947/characters/nm0534635
+loras_tyrell,finn_jones,Loras Tyrell,Finn Jones,https://www.imdb.com/title/tt0944947/characters/nm3645691
+shae,sibel_kekilli,Shae,Sibel Kekilli,https://www.imdb.com/title/tt0944947/characters/nm1402546
+ramsay_bolton,iwan_rheon,Ramsay Bolton,Iwan Rheon,https://www.imdb.com/title/tt0944947/characters/nm3701064
+roose_bolton,michael_mcelhatton,Roose Bolton,Michael McElhatton,https://www.imdb.com/title/tt0944947/characters/nm0568385
+alliser_thorne,owen_teale,Alliser Thorne,Owen Teale,https://www.imdb.com/title/tt0944947/characters/nm0853583
+gendry,joe_dempsie,Gendry,Joe Dempsie,https://www.imdb.com/title/tt0944947/characters/nm1478079
+qyburn,anton_lesser,Qyburn,Anton Lesser,https://www.imdb.com/title/tt0944947/characters/nm0504320
+daario_naharis,michiel_huisman,Daario Naharis,Michiel Huisman,https://www.imdb.com/title/tt0944947/characters/nm0401264
+olenna_tyrell,diana_rigg,Olenna Tyrell,Diana Rigg,https://www.imdb.com/title/tt0944947/characters/nm0001671
+tommen_baratheon,deancharles_chapman,Tommen Baratheon,Dean-Charles Chapman,https://www.imdb.com/title/tt0944947/characters/nm2835616
+ygritte,rose_leslie,Ygritte,Rose Leslie,https://www.imdb.com/title/tt0944947/characters/nm3310211
+jaqen_hghar,tom_wlaschiha,Jaqen H'ghar,Tom Wlaschiha,https://www.imdb.com/title/tt0944947/characters/nm0937239
+olly,brenock_oconnor,Olly,Brenock O'Connor,https://www.imdb.com/title/tt0944947/characters/nm5282143
+meryn_trant,ian_beattie,Meryn Trant,Ian Beattie,https://www.imdb.com/title/tt0944947/characters/nm0064155
+osha,natalia_tena,Osha,Natalia Tena,https://www.imdb.com/title/tt0944947/characters/nm1164730
+meera_reed,ellie_kendrick,Meera Reed,Ellie Kendrick,https://www.imdb.com/title/tt0944947/characters/nm1697771
+lancel_lannister,eugene_simon,Lancel Lannister,Eugene Simon,https://www.imdb.com/title/tt0944947/characters/nm1638294
+janos_slynt,dominic_carter,Janos Slynt,Dominic Carter,https://www.imdb.com/title/tt0944947/characters/nm0141582
+wun_wun,ian_whyte,Wun Wun,Ian Whyte,https://www.imdb.com/title/tt0944947/characters/nm1613839
+maester_luwin,donald_sumpter,Maester Luwin,Donald Sumpter,https://www.imdb.com/title/tt0944947/characters/nm0838910
+yara_greyjoy,gemma_whelan,Yara Greyjoy,Gemma Whelan,https://www.imdb.com/title/tt0944947/characters/nm2247629
+gregor_clegane,hafthor_julius_bjornsson,Gregor Clegane,Hafþór Júlíus Björnsson,https://www.imdb.com/title/tt0944947/characters/nm5485781
+ros,esme_bianco,Ros,Esmé Bianco,https://www.imdb.com/title/tt0944947/characters/nm2657974
+rickon_stark,art_parkinson,Rickon Stark,Art Parkinson,https://www.imdb.com/title/tt0944947/characters/nm3280686
+othell_yarwyck,brian_fortune,Othell Yarwyck,Brian Fortune,https://www.imdb.com/title/tt0944947/characters/nm1987270
+ellaria_sand,indira_varma,Ellaria Sand,Indira Varma,https://www.imdb.com/title/tt0944947/characters/nm0890055
+rodrik_cassel,ron_donachie,Rodrik Cassel,Ron Donachie,https://www.imdb.com/title/tt0944947/characters/nm0231871
+mace_tyrell,roger_ashtongriffiths,Mace Tyrell,Roger Ashton-Griffiths,https://www.imdb.com/title/tt0944947/characters/nm0004355
+pypar,josef_altin,Pypar,Josef Altin,https://www.imdb.com/title/tt0944947/characters/nm1086981
+irri,amrita_acharia,Irri,Amrita Acharia,https://www.imdb.com/title/tt0944947/characters/nm3822505
+high_sparrow,jonathan_pryce,High Sparrow,Jonathan Pryce,https://www.imdb.com/title/tt0944947/characters/nm0000596
+jeor_mormont,james_cosmo,Jeor Mormont,James Cosmo,https://www.imdb.com/title/tt0944947/characters/nm0181920
+kevan_lannister,ian_gelder,Kevan Lannister,Ian Gelder,https://www.imdb.com/title/tt0944947/characters/nm0312245
+rast,luke_barnes,Rast,Luke Barnes,https://www.imdb.com/title/tt0944947/characters/nm4430828
+hot_pie,ben_hawkey,Hot Pie,Ben Hawkey,https://www.imdb.com/title/tt0944947/characters/nm3444954
+talisa_stark,oona_chaplin,Talisa Stark,Oona Chaplin,https://www.imdb.com/title/tt0944947/characters/nm2772105
+maester_aemon,peter_vaughan,Maester Aemon,Peter Vaughan,https://www.imdb.com/title/tt0944947/characters/nm0891092
+the_waif,faye_marsay,The Waif,Faye Marsay,https://www.imdb.com/title/tt0944947/characters/nm3849670
+doreah,roxanne_mckee,Doreah,Roxanne McKee,https://www.imdb.com/title/tt0944947/characters/nm1861467
+eddard_stark,sean_bean,Eddard 'Ned' Stark,Sean Bean,https://www.imdb.com/title/tt0944947/characters/nm0000293
+thoros_of_myr,paul_kaye,Thoros of Myr,Paul Kaye,https://www.imdb.com/title/tt0944947/characters/nm0443373
+selyse_baratheon,tara_fitzgerald,Selyse Baratheon,Tara Fitzgerald,https://www.imdb.com/title/tt0944947/characters/nm0001216
+jojen_reed,thomas_brodiesangster,Jojen Reed,Thomas Brodie-Sangster,https://www.imdb.com/title/tt0944947/characters/nm1032473
+shireen_baratheon,kerry_ingram,Shireen Baratheon,Kerry Ingram,https://www.imdb.com/title/tt0944947/characters/nm5081192
+bowen_marsh,michael_condron,Bowen Marsh,Michael Condron,https://www.imdb.com/title/tt0944947/characters/nm1638006
+khal_drogo,jason_momoa,Khal Drogo,Jason Momoa,https://www.imdb.com/title/tt0944947/characters/nm0597388
+beric_dondarrion,richard_dormer,Beric Dondarrion,Richard Dormer,https://www.imdb.com/title/tt0944947/characters/nm0233807
+tyene_sand,rosabell_laurenti_sellers,Tyene Sand,Rosabell Laurenti Sellers,https://www.imdb.com/title/tt0944947/characters/nm3065809
+yohn_royce,rupert_vansittart,Yohn Royce,Rupert Vansittart,https://www.imdb.com/title/tt0944947/characters/nm0889338
+renly_baratheon,gethin_anthony,Renly Baratheon,Gethin Anthony,https://www.imdb.com/title/tt0944947/characters/nm2167445
+edmure_tully,tobias_menzies,Edmure Tully,Tobias Menzies,https://www.imdb.com/title/tt0944947/characters/nm0580014
+locke,noah_taylor,Locke,Noah Taylor,https://www.imdb.com/title/tt0944947/characters/nm0852965
+obara_sand,keisha_castlehughes,Obara Sand,Keisha Castle-Hughes,https://www.imdb.com/title/tt0944947/characters/nm1095720
+hizdahr_zo_loraq,joel_fry,Hizdahr zo Loraq,Joel Fry,https://www.imdb.com/title/tt0944947/characters/nm2181128
+nymeria_sand,jessica_henwick,Nymeria Sand,Jessica Henwick,https://www.imdb.com/title/tt0944947/characters/nm3725055
+maester_wolkan,richard_rycroft,Maester Wolkan,Richard Rycroft,https://www.imdb.com/title/tt0944947/characters/nm1483416
+septa_unella,hannah_waddingham,Septa Unella,Hannah Waddingham,https://www.imdb.com/title/tt0944947/characters/nm1821446
+myranda,charlotte_hope,Myranda,Charlotte Hope,https://www.imdb.com/title/tt0944947/characters/nm3745225
+kovarro,steven_cole,Kovarro,Steven Cole,https://www.imdb.com/title/tt0944947/characters/nm0170799
+robin_arryn,lino_facioli,Robin Arryn,Lino Facioli,https://www.imdb.com/title/tt0944947/characters/nm2996220
+tommen_baratheon,callum_wharry,Tommen Baratheon,Callum Wharry,https://www.imdb.com/title/tt0944947/characters/nm4422626
+myrcella_baratheon,aimee_richardson,Myrcella Baratheon,Aimee Richardson,https://www.imdb.com/title/tt0944947/characters/nm4048461
+robert_baratheon,mark_addy,Robert Baratheon,Mark Addy,https://www.imdb.com/title/tt0944947/characters/nm0004692
+oberyn_martell,pedro_pascal,Oberyn Martell,Pedro Pascal,https://www.imdb.com/title/tt0944947/characters/nm0050959
+yoren,francis_magee,Yoren,Francis Magee,https://www.imdb.com/title/tt0944947/characters/nm0535837
+brynden_tully,clive_russell,Brynden 'Blackfish' Tully,Clive Russell,https://www.imdb.com/title/tt0944947/characters/nm0751085
+olyvar,will_tudor,Olyvar,Will Tudor,https://www.imdb.com/title/tt0944947/characters/nm4831584
+qhono,staz_nair,Qhono,Staz Nair,https://www.imdb.com/title/tt0944947/characters/nm7047874
+rakharo,elyes_gabel,Rakharo,Elyes Gabel,https://www.imdb.com/title/tt0944947/characters/nm1175468
+marei,josephine_gillan,Marei,Josephine Gillan,https://www.imdb.com/title/tt0944947/characters/nm4982706
+walder_frey,david_bradley,Walder Frey,David Bradley,https://www.imdb.com/title/tt0944947/characters/nm0103195
+benjen_stark,joseph_mawle,Benjen Stark,Joseph Mawle,https://www.imdb.com/title/tt0944947/characters/nm1152798
+euron_greyjoy,pilou_asbaek,Euron Greyjoy,Pilou Asbæk,https://www.imdb.com/title/tt0944947/characters/nm1561982
+orell,mackenzie_crook,Orell,Mackenzie Crook,https://www.imdb.com/title/tt0944947/characters/nm0188871
+areo_hotah,deobia_oparei,Areo Hotah,Deobia Oparei,https://www.imdb.com/title/tt0944947/characters/nm0649046
+septa_mordane,susan_brown,Septa Mordane,Susan Brown,https://www.imdb.com/title/tt0944947/characters/nm0114742
+black_walder_rivers,tim_plester,Black Walder Rivers,Tim Plester,https://www.imdb.com/title/tt0944947/characters/nm1043031
+qotho,dar_salim,Qotho,Dar Salim,https://www.imdb.com/title/tt0944947/characters/nm1502469
+dontos_hollard,tony_way,Dontos Hollard,Tony Way,https://www.imdb.com/title/tt0944947/characters/nm0915453
+myrcella_baratheon,nell_tiger_free,Myrcella Baratheon,Nell Tiger Free,https://www.imdb.com/title/tt0944947/characters/nm4836100
+anguy,philip_mcginley,Anguy,Philip McGinley,https://www.imdb.com/title/tt0944947/characters/nm1528121
+high_septon,paul_bentley,High Septon,Paul Bentley,https://www.imdb.com/title/tt0944947/characters/nm0072855
+viserys_targaryen,harry_lloyd,Viserys Targaryen,Harry Lloyd,https://www.imdb.com/title/tt0944947/characters/nm0516003
+jory_cassel,jamie_sives,Jory Cassel,Jamie Sives,https://www.imdb.com/title/tt0944947/characters/nm0803397
+lysa_arryn,kate_dickie,Lysa Arryn,Kate Dickie,https://www.imdb.com/title/tt0944947/characters/nm0225483
+mance_rayder,ciaran_hinds,Mance Rayder,Ciarán Hinds,https://www.imdb.com/title/tt0944947/characters/nm0001354
+craster,robert_pugh,Craster,Robert Pugh,https://www.imdb.com/title/tt0944947/characters/nm0700059
+doran_martell,alexander_siddig,Doran Martell,Alexander Siddig,https://www.imdb.com/title/tt0944947/characters/nm0796502
+xaro_xhoan_daxos,nonso_anozie,Xaro Xhoan Daxos,Nonso Anozie,https://www.imdb.com/title/tt0944947/characters/nm1996829
+randyll_tarly,james_faulkner,Randyll Tarly,James Faulkner,https://www.imdb.com/title/tt0944947/characters/nm0269077
+robett_glover,tim_mcinnerny,Robett Glover,Tim McInnerny,https://www.imdb.com/title/tt0944947/characters/nm0570570
+rickard_karstark,john_stahl,Rickard Karstark,John Stahl,https://www.imdb.com/title/tt0944947/characters/nm0821471
+dagmer_cleftjaw,ralph_ineson,Dagmer Cleftjaw,Ralph Ineson,https://www.imdb.com/title/tt0944947/characters/nm0408591
+lyanna_mormont,bella_ramsey,Lyanna Mormont,Bella Ramsey,https://www.imdb.com/title/tt0944947/characters/nm8165602
+walda_bolton,elizabeth_webster,Walda Bolton,Elizabeth Webster,https://www.imdb.com/title/tt0944947/characters/nm3531913
+trystane_martell,toby_sebastian,Trystane Martell,Toby Sebastian,https://www.imdb.com/title/tt0944947/characters/nm4514519
+steelshanks_walton,jamie_michie,Steelshanks Walton,Jamie Michie,https://www.imdb.com/title/tt0944947/characters/nm1652341
+archmaester_ebrose,jim_broadbent,Archmaester Ebrose,Jim Broadbent,https://www.imdb.com/title/tt0944947/characters/nm0000980
+tycho_nestoris,mark_gatiss,Tycho Nestoris,Mark Gatiss,https://www.imdb.com/title/tt0944947/characters/nm0309693
+balon_greyjoy,patrick_malahide,Balon Greyjoy,Patrick Malahide,https://www.imdb.com/title/tt0944947/characters/nm0538869
+pyat_pree,ian_hanmore,Pyat Pree,Ian Hanmore,https://www.imdb.com/title/tt0944947/characters/nm0360171
+styr,yuri_kolokolnikov,Styr,Yuri Kolokolnikov,https://www.imdb.com/title/tt0944947/characters/nm0464305
+yezzan_zo_qaggaz,enzo_cilenti,Yezzan zo Qaggaz,Enzo Cilenti,https://www.imdb.com/title/tt0944947/characters/nm0162281
+karl_tanner,burn_gorman,Karl Tanner,Burn Gorman,https://www.imdb.com/title/tt0944947/characters/nm1218607
+ilyn_payne,wilko_johnson,Ilyn Payne,Wilko Johnson,https://www.imdb.com/title/tt0944947/characters/nm3330122
+marillion,emun_elliott,Marillion,Emun Elliott,https://www.imdb.com/title/tt0944947/characters/nm2047170
+dickon_tarly,tom_hopper,Dickon Tarly,Tom Hopper,https://www.imdb.com/title/tt0944947/characters/nm2584392
+qhorin_halfhand,simon_armstrong,Qhorin Halfhand,Simon Armstrong,https://www.imdb.com/title/tt0944947/characters/nm1409802
+rorge,andy_beckwith,Rorge,Andy Beckwith,https://www.imdb.com/title/tt0944947/characters/nm0065874
+lommy_greenhands,eros_vlahos,Lommy Greenhands,Eros Vlahos,https://www.imdb.com/title/tt0944947/characters/nm2869309
+matthos_seaworth,kerr_logan,Matthos Seaworth,Kerr Logan,https://www.imdb.com/title/tt0944947/characters/nm4523680
+armeca,sahara_knite,Armeca,Sahara Knite,https://www.imdb.com/title/tt0944947/characters/nm1783582
+black_lorren,forbes_kb,Black Lorren,Forbes KB,https://www.imdb.com/title/tt0944947/characters/nm1978998
+amory_lorch,fintan_mckeown,Amory Lorch,Fintan McKeown,https://www.imdb.com/title/tt0944947/characters/nm0571654
+biter,gerard_jordan,Biter,Gerard Jordan,https://www.imdb.com/title/tt0944947/characters/nm0429956
+young_ned,robert_aramayo,Young Ned,Robert Aramayo,https://www.imdb.com/title/tt0944947/characters/nm7075019
+baby_sam,william_nevan_wilson,Baby Sam,William Nevan Wilson,https://www.imdb.com/title/tt0944947/characters/nm8251159
+baby_sam,james_robert_wilson,Baby Sam,James Robert Wilson,https://www.imdb.com/title/tt0944947/characters/nm8251160
+the_night_king,vladimir_furdik,The Night King,Vladimir 'Furdo' Furdik,https://www.imdb.com/title/tt0944947/characters/nm0298842
+timett,tobias_winter,Timett,Tobias Winter,https://www.imdb.com/title/tt0944947/characters/nm4385245
+izembaro,richard_e_grant,Izembaro,Richard E. Grant,https://www.imdb.com/title/tt0944947/characters/nm0001290
+lady_crane,essie_davis,Lady Crane,Essie Davis,https://www.imdb.com/title/tt0944947/characters/nm0204583
+spice_king,nicholas_blane,Spice King,Nicholas Blane,https://www.imdb.com/title/tt0944947/characters/nm0087432
+threeeyed_raven,max_von_sydow,Three-Eyed Raven,Max von Sydow,https://www.imdb.com/title/tt0944947/characters/nm0001884
+syrio_forel,miltos_yerolemou,Syrio Forel,Miltos Yerolemou,https://www.imdb.com/title/tt0944947/characters/nm1115654
+harrag,brendan_cowell,Harrag,Brendan Cowell,https://www.imdb.com/title/tt0944947/characters/nm0184698
+salladhor_saan,lucian_msamati,Salladhor Saan,Lucian Msamati,https://www.imdb.com/title/tt0944947/characters/nm1748634
+daario_naharis,ed_skrein,Daario Naharis,Ed Skrein,https://www.imdb.com/title/tt0944947/characters/nm4534098
+greatjon_umber,clive_mantle,Greatjon Umber,Clive Mantle,https://www.imdb.com/title/tt0944947/characters/nm0544139
+camello,kevin_eldon,Camello,Kevin Eldon,https://www.imdb.com/title/tt0944947/characters/nm0253126
+harald_karstark,paul_rattray,Harald Karstark,Paul Rattray,https://www.imdb.com/title/tt0944947/characters/nm1051151
+giant_wight_2,neil_fingleton,Giant Wight #2,Neil Fingleton,https://www.imdb.com/title/tt0944947/characters/nm2807170
+leaf,kae_alexander,Leaf,Kae Alexander,https://www.imdb.com/title/tt0944947/characters/nm3664502
+bobono,leigh_gill,Bobono,Leigh Gill,https://www.imdb.com/title/tt0944947/characters/nm5279916
+razdal_mo_eraz,george_georgiou,Razdal mo Eraz,George Georgiou,https://www.imdb.com/title/tt0944947/characters/nm1745190
+lhara,sarine_sofair,Lhara,Sarine Sofair,https://www.imdb.com/title/tt0944947/characters/nm3330066
+clarenzo,rob_callender,Clarenzo,Rob Callender,https://www.imdb.com/title/tt0944947/characters/nm6792356
+thenn_warg,joseph_gatt,Thenn Warg,Joseph Gatt,https://www.imdb.com/title/tt0944947/characters/nm1395532
+mirri_maz_duur,mia_soteriou,Mirri Maz Duur,Mia Soteriou,https://www.imdb.com/title/tt0944947/characters/nm0815420
+polliver,andy_kellegher,Polliver,Andy Kellegher,https://www.imdb.com/title/tt0944947/characters/nm3464945
+alton_lannister,karl_davies,Alton Lannister,Karl Davies,https://www.imdb.com/title/tt0944947/characters/nm0203801
+khal_moro,joseph_naufahu,Khal Moro,Joseph Naufahu,https://www.imdb.com/title/tt0944947/characters/nm0622533
+kraznys_mo_nakloz,dan_hildebrand,Kraznys mo Nakloz,Dan Hildebrand,https://www.imdb.com/title/tt0944947/characters/nm0383835
+mossador,reece_noi,Mossador,Reece Noi,https://www.imdb.com/title/tt0944947/characters/nm0634139
+white_walker,ross_mullan,White Walker,Ross Mullan,https://www.imdb.com/title/tt0944947/characters/nm1368643
+rattleshirt,edward_dogliani,Rattleshirt,Edward Dogliani,https://www.imdb.com/title/tt0944947/characters/nm2589085
+vala,meena_rayann,Vala,Meena Rayann,https://www.imdb.com/title/tt0944947/characters/nm5159884
+daisy,maisie_dee,Daisy,Maisie Dee,https://www.imdb.com/title/tt0944947/characters/nm3996678
+silk_king,slavko_juraga,Silk King,Slavko Juraga,https://www.imdb.com/title/tt0944947/characters/nm0432838
+dothraki_bloodrider_1,diogo_sales,Dothraki Bloodrider #1,Diogo Sales,https://www.imdb.com/title/tt0944947/characters/nm6088160
+dothraki_bloodrider_2,junade_khan,Dothraki Bloodrider #2,Junade Khan,https://www.imdb.com/title/tt0944947/characters/nm2999602
+alys_karstark,megan_parkinson,Alys Karstark,Megan Parkinson,https://www.imdb.com/title/tt0944947/characters/nm8257864
+aggo,chuku_modu,Aggo,Chuku Modu,https://www.imdb.com/title/tt0944947/characters/nm6729880
+hallyne,roy_dotrice,Hallyne,Roy Dotrice,https://www.imdb.com/title/tt0944947/characters/nm0234541
+illyrio_mopatis,roger_allam,Illyrio Mopatis,Roger Allam,https://www.imdb.com/title/tt0944947/characters/nm0019885
+lem_lemoncloak,johannes_haukur_johannesson,Lem Lemoncloak,Jóhannes Haukur Jóhannesson,https://www.imdb.com/title/tt0944947/characters/nm1778512
+smalljon_umber,dean_s_jagger,Smalljon Umber,Dean S. Jagger,https://www.imdb.com/title/tt0944947/characters/nm2746504
+mord,ciaran_bermingham,Mord,Ciaran Bermingham,https://www.imdb.com/title/tt0944947/characters/nm2197118
+aeron_greyjoy,michael_feast,Aeron Greyjoy,Michael Feast,https://www.imdb.com/title/tt0944947/characters/nm0269923
+dim_dalba,murray_mcarthur,Dim Dalba,Murray McArthur,https://www.imdb.com/title/tt0944947/characters/nm0564133
+belicho_paenymion,eddie_jackson,Belicho Paenymion,Eddie Jackson,https://www.imdb.com/title/tt0944947/characters/nm3691266
+gatins,ricky_champ,Gatins,Ricky Champ,https://www.imdb.com/title/tt0944947/characters/nm2307468
+old_nan,margaret_john,Old Nan,Margaret John,https://www.imdb.com/title/tt0944947/characters/nm0424191
+the_night_king,richard_brake,The Night King,Richard Brake,https://www.imdb.com/title/tt0944947/characters/nm0104114
+morgan,ian_davies,Morgan,Ian Davies,https://www.imdb.com/title/tt0944947/characters/nm7424139
+gregor_clegane,conan_stevens,Gregor Clegane,Conan Stevens,https://www.imdb.com/title/tt0944947/characters/nm1947403
+malko,adewale_akinnuoyeagbaje,Malko,Adewale Akinnuoye-Agbaje,https://www.imdb.com/title/tt0944947/characters/nm0015382
+thin_man,oengus_macnamara,Thin Man,Oengus MacNamara,https://www.imdb.com/title/tt0944947/characters/nm0534062
+lothar_frey,tom_brooke,Lothar Frey,Tom Brooke,https://www.imdb.com/title/tt0944947/characters/nm1623508
+bianca,eline_powell,Bianca,Eline Powell,https://www.imdb.com/title/tt0944947/characters/nm4730958
+vardis_egen,brendan_mccormack,Vardis Egen,Brendan McCormack,https://www.imdb.com/title/tt0944947/characters/nm1788152
+shagga,mark_lewis_jones,Shagga,Mark Lewis Jones,https://www.imdb.com/title/tt0944947/characters/nm0428765
+quaithe,laura_pradelska,Quaithe,Laura Pradelska,https://www.imdb.com/title/tt0944947/characters/nm3671418
+margaery_tyrell_mummer,eva_butterly,Margaery Tyrell Mummer,Eva Butterly,https://www.imdb.com/title/tt0944947/characters/nm5354555
+hugh_of_the_vale,jefferson_hall,Hugh of the Vale,Jefferson Hall,https://www.imdb.com/title/tt0944947/characters/nm2131630
+morag,deirdre_monaghan,Morag,Deirdre Monaghan,https://www.imdb.com/title/tt0944947/characters/nm0597477
+lady_kitty_frey,lucy_hayes,Lady Kitty Frey,Lucy Hayes,https://www.imdb.com/title/tt0944947/characters/nm8314450
+lyanna_stark,aisling_franciosi,Lyanna Stark,Aisling Franciosi,https://www.imdb.com/title/tt0944947/characters/nm4957233
+ned_umber,harry_grasby,Ned Umber,Harry Grasby,https://www.imdb.com/title/tt0944947/characters/nm9132255
+sissy,jane_mcgrath,Sissy,Jane McGrath,https://www.imdb.com/title/tt0944947/characters/nm2258896
+dosh_khaleen_high_priestess,souad_faress,Dosh khaleen High Priestess,Souad Faress,https://www.imdb.com/title/tt0944947/characters/nm0267256
+zanrush,gerald_lepkowski,Zanrush,Gerald Lepkowski,https://www.imdb.com/title/tt0944947/characters/nm0503319
+ornela,hannah_johnkamen,Ornela,Hannah John-Kamen,https://www.imdb.com/title/tt0944947/characters/nm4789912
+young_nan,annette_tierney,Young Nan,Annette Tierney,https://www.imdb.com/title/tt0944947/characters/nm1519719
+kurleket,kevin_keenan,Kurleket,Kevin Keenan,https://www.imdb.com/title/tt0944947/characters/nm4450657
+the_tickler,anthony_morris,The Tickler,Anthony Morris,https://www.imdb.com/title/tt0944947/characters/nm1677757
+ghita,hattie_gotobed,Ghita,Hattie Gotobed,https://www.imdb.com/title/tt0944947/characters/nm4262187
+wyllis,sam_coleman,Wyllis,Sam Coleman,https://www.imdb.com/title/tt0944947/characters/nm4744043
+greizhen_mo_ullhor,cliff_barry,Greizhen mo Ullhor,Cliff Barry,https://www.imdb.com/title/tt0944947/characters/nm0057965
+ternesio_terys,gary_oliver,Ternesio Terys,Gary Oliver,https://www.imdb.com/title/tt0944947/characters/nm1146807
+master_torturer,michael_shelford,Master Torturer,Michael Shelford,https://www.imdb.com/title/tt0944947/characters/nm4407586
+young_ned_stark,sebastian_croft,Young Ned Stark,Sebastian Croft,https://www.imdb.com/title/tt0944947/characters/nm7509185
+young_rodrik_cassel,fergus_leathem,Young Rodrik Cassel,Fergus Leathem,https://www.imdb.com/title/tt0944947/characters/nm7509186
+mhaegen,antonia_christophers,Mhaegen,Antonia Christophers,https://www.imdb.com/title/tt0944947/characters/nm4460936
+young_benjen_stark,matteo_elezi,Young Benjen Stark,Matteo Elezi,https://www.imdb.com/title/tt0944947/characters/nm5502295
+kayla,pixie_le_knot,Kayla,Pixie Le Knot,https://www.imdb.com/title/tt0944947/characters/nm4768858
+tobho_mott,andrew_wilde,Tobho Mott,Andrew Wilde,https://www.imdb.com/title/tt0944947/characters/nm0928408
+threeeyed_raven,struan_rodger,Three-Eyed Raven,Struan Rodger,https://www.imdb.com/title/tt0944947/characters/nm0734654
+joyeuse_frey,kelly_long,Joyeuse Frey,Kelly Long,https://www.imdb.com/title/tt0944947/characters/nm4958677
+brother_ray,ian_mcshane,Brother Ray,Ian McShane,https://www.imdb.com/title/tt0944947/characters/nm0574534
+karsi,birgitte_hjort_sorensen,Karsi,Birgitte Hjort Sørensen,https://www.imdb.com/title/tt0944947/characters/nm2171898
+loboda,zachary_baharov,Loboda,Zachary Baharov,https://www.imdb.com/title/tt0944947/characters/nm1707712
+imry_florent,gordon_mahon,Imry Florent,Gordon Mahon,https://www.imdb.com/title/tt0944947/characters/nm3034964
+melessa_tarly,samantha_spiro,Melessa Tarly,Samantha Spiro,https://www.imdb.com/title/tt0944947/characters/nm0819087
+will,bronson_webb,Will,Bronson Webb,https://www.imdb.com/title/tt0944947/characters/nm0916037
+lord_of_bones,ross_ohennessy,Lord of Bones,Ross O'Hennessy,https://www.imdb.com/title/tt0944947/characters/nm1090815
+mycah,rhodri_hosking,Mycah,Rhodri Hosking,https://www.imdb.com/title/tt0944947/characters/nm4430905
+jon_arryn,john_standing,Jon Arryn,John Standing,https://www.imdb.com/title/tt0944947/characters/nm0822062
+mero,mark_killeen,Mero,Mark Killeen,https://www.imdb.com/title/tt0944947/characters/nm2075330
+waymar_royce,rob_ostlere,Waymar Royce,Rob Ostlere,https://www.imdb.com/title/tt0944947/characters/nm3209935
+prendahl_na_ghezn,ramon_tikaram,Prendahl na Ghezn,Ramon Tikaram,https://www.imdb.com/title/tt0944947/characters/nm0863130
+gared,dermot_keaney,Gared,Dermot Keaney,https://www.imdb.com/title/tt0944947/characters/nm0443825
+maester_cressen,oliver_ford_davies,Maester Cressen,Oliver Ford Davies,https://www.imdb.com/title/tt0944947/characters/nm0203882
+septon,kenneth_hadley,Septon,Kenneth Hadley,https://www.imdb.com/title/tt0944947/characters/nm0352901
+citadel_maester,julian_firth,Citadel Maester,Julian Firth,https://www.imdb.com/title/tt0944947/characters/nm0278747
+maggy,jodhi_may,Maggy,Jodhi May,https://www.imdb.com/title/tt0944947/characters/nm0562003
+the_waifs_disguise,margaret_jackman,The Waif's Disguise,Margaret Jackman,https://www.imdb.com/title/tt0944947/characters/nm1276052
+citadel_maester,philip_osullivan,Citadel Maester,Philip O'Sullivan,https://www.imdb.com/title/tt0944947/characters/nm0642799
+roslin_frey,alexandra_dowling,Roslin Frey,Alexandra Dowling,https://www.imdb.com/title/tt0944947/characters/nm5093301
+anya_waynwood,paola_dionisotti,Anya Waynwood,Paola Dionisotti,https://www.imdb.com/title/tt0944947/characters/nm0227971
+braavosi_captain,morgan_c_jones,Braavosi Captain,Morgan C. Jones,https://www.imdb.com/title/tt0944947/characters/nm0428901
+street_red_priestess_meereen,melanie_liburd,Street Red Priestess Meereen,Melanie Liburd,https://www.imdb.com/title/tt0944947/characters/nm4927489
+goldcloak,laurence_spellman,Goldcloak,Laurence Spellman,https://www.imdb.com/title/tt0944947/characters/nm1736605
+yunkaii_whore,talitha_lukeeardley,Yunkai'i Whore,Talitha Luke-Eardley,https://www.imdb.com/title/tt0944947/characters/nm5682064
+black_armored_white_walker,tim_loane,Black Armored White Walker,Tim Loane,https://www.imdb.com/title/tt0944947/characters/nm0516385
+rhaegar_targaryen,wilf_scolding,Rhaegar Targaryen,Wilf Scolding,https://www.imdb.com/title/tt0944947/characters/nm6251140
+wine_merchant,simon_lowe,Wine Merchant,Simon Lowe,https://www.imdb.com/title/tt0944947/characters/nm0523047
+high_septon_maynard,tom_chadbon,High Septon Maynard,Tom Chadbon,https://www.imdb.com/title/tt0944947/characters/nm0149435
+street_red_priestess_volantis,rila_fukushima,Street Red Priestess Volantis,Rila Fukushima,https://www.imdb.com/title/tt0944947/characters/nm3822462
+aerys_targaryen,david_rintoul,Aerys Targaryen,David Rintoul,https://www.imdb.com/title/tt0944947/characters/nm0727778
+dickon_tarly,freddie_stroma,Dickon Tarly,Freddie Stroma,https://www.imdb.com/title/tt0944947/characters/nm2238815
+lannister_soldier,ed_sheeran,Lannister Soldier,Ed Sheeran,https://www.imdb.com/title/tt0944947/characters/nm3247828
+white_walker_2,spencer_wilding,White Walker #2,Spencer Wilding,https://www.imdb.com/title/tt0944947/characters/nm1872855
+drowned_priest,jonathan_ryan,Drowned Priest,Jonathan Ryan,https://www.imdb.com/title/tt0944947/characters/nm0752638
+merchant_captain,gary_pillai,Merchant Captain,Gary Pillai,https://www.imdb.com/title/tt0944947/characters/nm0997747
+talla_tarly,rebecca_benson,Talla Tarly,Rebecca Benson,https://www.imdb.com/title/tt0944947/characters/nm5039410
+lannister_soldier,thomas_turgoose,Lannister Soldier,Thomas Turgoose,https://www.imdb.com/title/tt0944947/characters/nm2129938
+wight_wildling_girl,claire_wright,Wight Wildling Girl,Claire Wright,https://www.imdb.com/title/tt0944947/characters/nm4422708
+lannister_soldier,billy_postlethwaite,Lannister Soldier,Billy Postlethwaite,https://www.imdb.com/title/tt0944947/characters/nm5037475
+kinvara,ania_bukstein,Kinvara,Ania Bukstein,https://www.imdb.com/title/tt0944947/characters/nm0119804
+steve,steve_love,Steve,Steve Love,https://www.imdb.com/title/tt0944947/characters/nm1920430
+stiv,stephen_don,Stiv,Stephen Don,https://www.imdb.com/title/tt0944947/characters/nm1651043
+leaf,octavia_selena_alexandru,Leaf,Octavia Selena Alexandru,https://www.imdb.com/title/tt0944947/characters/nm3238466
+axell_florent,james_mchale,Axell Florent,James McHale,https://www.imdb.com/title/tt0944947/characters/nm0570363
+khal_forzho,tamer_hassan,Khal Forzho,Tamer Hassan,https://www.imdb.com/title/tt0944947/characters/nm1268748
+mirelle,elisa_lasowski,Mirelle,Elisa Lasowski,https://www.imdb.com/title/tt0944947/characters/nm2489799
+faith_militant_1,simon_norbury,Faith Militant #1,Simon Norbury,https://www.imdb.com/title/tt0944947/characters/nm5521710
+musician_1,jon_thor_birgisson,Musician #1,Jon Thor Birgisson,https://www.imdb.com/title/tt0944947/characters/nm1743706
+lollys_stokeworth,elizabeth_cadwallader,Lollys Stokeworth,Elizabeth Cadwallader,https://www.imdb.com/title/tt0944947/characters/nm5502252
+faith_militant_2,jack_olohan,Faith Militant #2,Jack Olohan,https://www.imdb.com/title/tt0944947/characters/nm7257731
+margaerys_handmaiden,aisling_jarrettgavin,Margaery's Handmaiden,Aisling Jarrett-Gavin,https://www.imdb.com/title/tt0944947/characters/nm2983094
+musician_2,orri_p_dyrason,Musician #2,Orri P. Dyrason,https://www.imdb.com/title/tt0944947/characters/nm1743714
+ser_endrew_tarth,dez_mcmahon,Ser Endrew Tarth,Dez McMahon,https://www.imdb.com/title/tt0944947/characters/nm4757478
+faceless_man,cedric_henderson,Faceless Man,Cedric Henderson,https://www.imdb.com/title/tt0944947/characters/nm2406775
+rickard_stark,wayne_foskett,Rickard Stark,Wayne Foskett,https://www.imdb.com/title/tt0944947/characters/nm0287562
+orphan_kid,max_barber,Orphan Kid,Max Barber,https://www.imdb.com/title/tt0944947/characters/nm5141232
+musician_3,georg_holm,Musician #3,Georg Holm,https://www.imdb.com/title/tt0944947/characters/nm1743730
+arthur_dayne,luke_roberts,Arthur Dayne,Luke Roberts,https://www.imdb.com/title/tt0944947/characters/nm1074361
+violet,stephanie_blacker,Violet,Stephanie Blacker,https://www.imdb.com/title/tt0944947/characters/nm2321812
+warlock,lottie_steer,Warlock,Lottie Steer,https://www.imdb.com/title/tt0944947/characters/nm5390029
+king_joffrey_baratheon_dwarf,raymond_griffiths,King Joffrey Baratheon Dwarf,Raymond Griffiths,https://www.imdb.com/title/tt0944947/characters/nm0341739
+gerold_hightower,eddie_eyre,Gerold Hightower,Eddie Eyre,https://www.imdb.com/title/tt0944947/characters/nm6793798
+unsullied,rhys_howells,Unsullied,Rhys Howells,https://www.imdb.com/title/tt0944947/characters/nm4293539
+king_stannis_baratheon_dwarf,maxwell_laird,King Stannis Baratheon Dwarf,Maxwell Laird,https://www.imdb.com/title/tt0944947/characters/nm3453345
+denys_mallister,jj_murphy,Denys Mallister,J.J. Murphy,https://www.imdb.com/title/tt0944947/characters/nm0614310
+young_cersei_lannister,nell_williams,Young Cersei Lannister,Nell Williams,https://www.imdb.com/title/tt0944947/characters/nm5309709
+khal_brozho,elie_haddad,Khal Brozho,Elie Haddad,https://www.imdb.com/title/tt0944947/characters/nm4363643
+jaqens_disguise,patrick_okane,Jaqen's Disguise,Patrick O'Kane,https://www.imdb.com/title/tt0944947/characters/nm0641433
+king_renly_baratheon_dwarf,dean_whatton,King Renly Baratheon Dwarf,Dean Whatton,https://www.imdb.com/title/tt0944947/characters/nm2482781
+melara_hetherspoon,isabella_steinbarth,Melara Hetherspoon,Isabella Steinbarth,https://www.imdb.com/title/tt0944947/characters/nm5181654
+khal_rhalko,andrei_claude,Khal Rhalko,Andrei Claude,https://www.imdb.com/title/tt0944947/characters/nm3040811
+young_lyanna_stark,cordelia_hill,Young Lyanna Stark,Cordelia Hill,https://www.imdb.com/title/tt0944947/characters/nm8108764
+king_robb_stark_dwarf,george_appleby,King Robb Stark Dwarf,George Appleby,https://www.imdb.com/title/tt0944947/characters/nm3338062
+septa_moelle,maggie_hayes,Septa Moelle,Maggie Hayes,https://www.imdb.com/title/tt0944947/characters/nm1378629
+citadel_maester,frank_hvam,Citadel Maester,Frank Hvam,https://www.imdb.com/title/tt0944947/characters/nm0404809
+khal_qorro,darius_dar_khan,Khal Qorro,Darius Dar Khan,https://www.imdb.com/title/tt0944947/characters/nm4892918
+king_balon_greyjoy_dwarf,krysten_coombs,King Balon Greyjoy Dwarf,Krysten Coombs,https://www.imdb.com/title/tt0944947/characters/nm6318834
+septon,terry_byrne,Septon,Terry Byrne,https://www.imdb.com/title/tt0944947/characters/nm0126298
+handmaid,sabrina_bartlett,Handmaid,Sabrina Bartlett,https://www.imdb.com/title/tt0944947/characters/nm6301068
+son_of_the_harpy,curtislee_ashqar,Son of the Harpy,Curtis-Lee Ashqar,https://www.imdb.com/title/tt0944947/characters/nm7257605
+meereenese_homeless_mother,sabina_arthur,Meereenese Homeless Mother,Sabina Arthur,https://www.imdb.com/title/tt0944947/characters/nm6928973
+red_keep_stableboy,hugo_culverhouse,Red Keep Stableboy,Hugo Culverhouse,https://www.imdb.com/title/tt0944947/characters/nm4164318
+chella,natalia_lee,Chella,Natalia Lee,https://www.imdb.com/title/tt0944947/characters/nm4505122
+wyman_manderly,sean_blowers,Wyman Manderly,Sean Blowers,https://www.imdb.com/title/tt0944947/characters/nm0089438
+brotherhood_member,tyrone_kearns,Brotherhood Member,Tyrone Kearns,https://www.imdb.com/title/tt0944947/characters/nm6044736
+jon_snow_soldier,andrew_mcclay,Jon Snow Soldier,Andrew McClay,https://www.imdb.com/title/tt0944947/characters/nm8256997
+glover_general,micheal_fitzgerald,Glover General,Micheal Fitzgerald,https://www.imdb.com/title/tt0944947/characters/nm4232488
+mago,ivailo_dimitrov,Mago,Ivailo Dimitrov,https://www.imdb.com/title/tt0944947/characters/nm2162079
+the_bear,bart_the_bear,The Bear,Bart the Bear,https://www.imdb.com/title/tt0944947/characters/nm1212069
+marianne_frey,katie_creaven,Marianne Frey,Katie Creaven,https://www.imdb.com/title/tt0944947/characters/nm5142195
+hoster_tully,christopher_newman,Hoster Tully,Christopher Newman,https://www.imdb.com/title/tt0944947/characters/nm0628040
+cooper,joe_claflin,Cooper,Joe Claflin,https://www.imdb.com/title/tt0944947/characters/nm5651858
+nights_watch_archer,neil_marshall,Night's Watch Archer,Neil Marshall,https://www.imdb.com/title/tt0944947/characters/nm0551076
+donnel_hill,jack_roth,Donnel Hill,Jack Roth,https://www.imdb.com/title/tt0944947/characters/nm2516193
+wildling,brann_dailor,Wildling,Brann Dailor,https://www.imdb.com/title/tt0944947/characters/nm2439537
+wildling_archer,jenny_edgar,Wildling Archer,Jenny Edgar,https://www.imdb.com/title/tt0944947/characters/nm7580654
+wildling,brent_hinds,Wildling,Brent Hinds,https://www.imdb.com/title/tt0944947/characters/nm2440495
+wildling,bill_kelliher,Wildling,Bill Kelliher,https://www.imdb.com/title/tt0944947/characters/nm2442352
+wildling_archer,chelsea_mainwaring,Wildling Archer,Chelsea Mainwaring,https://www.imdb.com/title/tt0944947/characters/nm9314541
+child_of_the_forest_1,kristina_baskett,Child of the Forest #1,Kristina Baskett,https://www.imdb.com/title/tt0944947/characters/nm4560675
+child_of_the_forest_2,rachelle_beinart,Child of the Forest #2,Rachelle Beinart,https://www.imdb.com/title/tt0944947/characters/nm4635997
+child_of_the_forest_3,casey_michaels,Child of the Forest #3,Casey Michaels,https://www.imdb.com/title/tt0944947/characters/nm4739464
+karstark_soldier,peter_rooney,Karstark Soldier,Peter Rooney,https://www.imdb.com/title/tt0944947/characters/nm8132412
+howland_reed,leo_woodruff,Howland Reed,Leo Woodruff,https://www.imdb.com/title/tt0944947/characters/nm4547262
+woman_in_kings_landing,carolina_castellano,Woman in King's Landing,Carolina Castellano,https://www.imdb.com/title/tt0944947/characters/nm3083406
+lannister_map_painter,jim_stanes,Lannister Map Painter,Jim Stanes,https://www.imdb.com/title/tt0944947/characters/nm0822124
+lannister_spearman,noah_syndergaard,Lannister Spearman,Noah Syndergaard,https://www.imdb.com/title/tt0944947/characters/nm7711377

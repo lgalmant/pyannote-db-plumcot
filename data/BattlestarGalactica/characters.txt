@@ -1,0 +1,78 @@
+admiral_william_adama,edward_james_olmos,Admiral William Adama,Edward James Olmos,https://www.imdb.com/title/tt0407362/characters/nm0001579
+president_laura_roslin,mary_mcdonnell,President Laura Roslin,Mary McDonnell,https://www.imdb.com/title/tt0407362/characters/nm0001521
+cpt_lee_adama,jamie_bamber,Cpt. Lee 'Apollo' Adama,Jamie Bamber,https://www.imdb.com/title/tt0407362/characters/nm0051397
+dr_gaius_baltar,james_callis,Dr. Gaius Baltar,James Callis,https://www.imdb.com/title/tt0407362/characters/nm0130536
+number_six,tricia_helfer,Number Six,Tricia Helfer,https://www.imdb.com/title/tt0407362/characters/nm1065454
+lt_sharon_valerii,grace_park,Lt. Sharon 'Boomer' Valerii,Grace Park,https://www.imdb.com/title/tt0407362/characters/nm0661825
+captain_kara_thrace,katee_sackhoff,Captain Kara 'Starbuck' Thrace,Katee Sackhoff,https://www.imdb.com/title/tt0407362/characters/nm0755267
+colonel_saul_tigh,michael_hogan,Colonel Saul Tigh,Michael Hogan,https://www.imdb.com/title/tt0407362/characters/nm0389581
+chief_galen_tyrol,aaron_douglas,Chief Galen Tyrol,Aaron Douglas,https://www.imdb.com/title/tt0407362/characters/nm0234928
+captain_karl_agathon,tahmoh_penikett,Captain Karl 'Helo' Agathon,Tahmoh Penikett,https://www.imdb.com/title/tt0407362/characters/nm0671886
+lt_felix_gaeta,alessandro_juliani,Lt. Felix Gaeta,Alessandro Juliani,https://www.imdb.com/title/tt0407362/characters/nm0432228
+officer_anastasia_dualla,kandyse_mcclure,Officer Anastasia Dualla,Kandyse McClure,https://www.imdb.com/title/tt0407362/characters/nm0565973
+dr_cottle,donnelly_rhodes,Dr. Cottle,Donnelly Rhodes,https://www.imdb.com/title/tt0407362/characters/nm0722413
+crewman_specialist_cally_henderson,nicki_clyne,Crewman Specialist Cally Henderson,Nicki Clyne,https://www.imdb.com/title/tt0407362/characters/nm0167435
+lt_brendan_constanza,bodie_olmos,Lt. Brendan 'Hot Dog' Constanza,Bodie Olmos,https://www.imdb.com/title/tt0407362/characters/nm0647453
+samuel_anders,michael_trucco,Samuel Anders,Michael Trucco,https://www.imdb.com/title/tt0407362/characters/nm0873998
+racetrack,leah_cairns,Racetrack,Leah Cairns,https://www.imdb.com/title/tt0407362/characters/nm1489668
+tory_foster,rekha_sharma,Tory Foster,Rekha Sharma,https://www.imdb.com/title/tt0407362/characters/nm0788907
+billy_keikeya,paul_campbell,Billy Keikeya,Paul Campbell,https://www.imdb.com/title/tt0407362/characters/nm1353748
+ellen_tigh,kate_vernon,Ellen Tigh,Kate Vernon,https://www.imdb.com/title/tt0407362/characters/nm0894690
+tom_zarek,richard_hatch,Tom Zarek,Richard Hatch,https://www.imdb.com/title/tt0407362/characters/nm0368745
+ensign_diana_seelix,jen_halley,Ensign Diana 'Hardball' Seelix,Jen Halley,https://www.imdb.com/title/tt0407362/characters/nm0356501
+leoben_conoy,callum_keith_rennie,Leoben Conoy,Callum Keith Rennie,https://www.imdb.com/title/tt0407362/characters/nm0719678
+lt_louis_hoshi,brad_dryborough,Lt. Louis Hoshi,Brad Dryborough,https://www.imdb.com/title/tt0407362/characters/nm0238694
+aaron_doral,matthew_bennett,Aaron Doral,Matthew Bennett,https://www.imdb.com/title/tt0407362/characters/nm0071922
+louanne_katraine,luciana_carro,Louanne 'Kat' Katraine,Luciana Carro,https://www.imdb.com/title/tt0407362/characters/nm1382781
+danna_biers,lucy_lawless,D'Anna Biers,Lucy Lawless,https://www.imdb.com/title/tt0407362/characters/nm0005128
+john_cavil,dean_stockwell,John Cavil,Dean Stockwell,https://www.imdb.com/title/tt0407362/characters/nm0001777
+lt_hamish_mccall,colin_lawrence,Lt. Hamish 'Skulls' McCall,Colin Lawrence,https://www.imdb.com/title/tt0407362/characters/nm0492687
+crashdown,sam_witwer,Crashdown,Sam Witwer,https://www.imdb.com/title/tt0407362/characters/nm1022429
+medic_layne_ishay,kerry_norton,Medic Layne Ishay,Kerry Norton,https://www.imdb.com/title/tt0407362/characters/nm0636244
+jammer,dominic_zamprogna,Jammer,Dominic Zamprogna,https://www.imdb.com/title/tt0407362/characters/nm0952778
+jeanne,keegan_connor_tracy,Jeanne,Keegan Connor Tracy,https://www.imdb.com/title/tt0407362/characters/nm0870535
+specialist_3rd_class_anthony_figurski,don_thompson,Specialist 3rd Class Anthony Figurski,Don Thompson,https://www.imdb.com/title/tt0407362/characters/nm0860065
+elosha,lorena_gale,Elosha,Lorena Gale,https://www.imdb.com/title/tt0407362/characters/nm0301874
+simon,rick_worthy,Simon,Rick Worthy,https://www.imdb.com/title/tt0407362/characters/nm0941796
+crewman_specialist_socinus,alonso_oyarzun,Crewman Specialist Socinus,Alonso Oyarzun,https://www.imdb.com/title/tt0407362/characters/nm0654640
+jean_barolay,alisen_down,Jean Barolay,Alisen Down,https://www.imdb.com/title/tt0407362/characters/nm0235888
+charlie_connor,ryan_robbins,Charlie Connor,Ryan Robbins,https://www.imdb.com/title/tt0407362/characters/nm0730455
+sgt_erin_mathias,eileen_pedde,Sgt. Erin Mathias,Eileen Pedde,https://www.imdb.com/title/tt0407362/characters/nm0669826
+romo_lampkin,mark_sheppard,Romo Lampkin,Mark Sheppard,https://www.imdb.com/title/tt0407362/characters/nm0791968
+chief_peter_laird,vincent_gale,Chief Peter Laird,Vincent Gale,https://www.imdb.com/title/tt0407362/characters/nm0301925
+nicky_tyrol,finn_r_devitt,Nicky Tyrol,Finn R. Devitt,https://www.imdb.com/title/tt0407362/characters/nm2986703
+kacey,madeleine_parker,Kacey,Madeleine Parker,https://www.imdb.com/title/tt0407362/characters/nm2264355
+colonel_jack_fisk,graham_beckel,Colonel Jack Fisk,Graham Beckel,https://www.imdb.com/title/tt0407362/characters/nm0065320
+hera_agathon,iliana_gomezmartinez,Hera Agathon,Iliana Gomez-Martinez,https://www.imdb.com/title/tt0407362/characters/nm3353520
+marine_sgt_fischer,aleks_paunovic,Marine Sgt. Fischer,Aleks Paunovic,https://www.imdb.com/title/tt0407362/characters/nm0006820
+admiral_helena_cain,michelle_forbes,Admiral Helena Cain,Michelle Forbes,https://www.imdb.com/title/tt0407362/characters/nm0000405
+captain_doyle_franks,susan_hogan,Captain Doyle Franks,Susan Hogan,https://www.imdb.com/title/tt0407362/characters/nm0389623
+judge_2,william_samples,Judge #2,William Samples,https://www.imdb.com/title/tt0407362/characters/nm0760138
+zak_adama,tobias_mehler,Zak Adama,Tobias Mehler,https://www.imdb.com/title/tt0407362/characters/nm0576425
+slick,roark_critchlow,Slick,Roark Critchlow,https://www.imdb.com/title/tt0407362/characters/nm0188220
+meier,james_remar,Meier,James Remar,https://www.imdb.com/title/tt0407362/characters/nm0001664
+sgt_hadrian,jill_teed,Sgt. Hadrian,Jill Teed,https://www.imdb.com/title/tt0407362/characters/nm0853805
+didi_cassidy,chelah_horsdal,Didi Cassidy,Chelah Horsdal,https://www.imdb.com/title/tt0407362/characters/nm1319098
+sueshaun,tamara_lashley,Sue-Shaun,Tamara Lashley,https://www.imdb.com/title/tt0407362/characters/nm1735157
+priest,winston_rekert,Priest,Winston Rekert,https://www.imdb.com/title/tt0407362/characters/nm0718759
+shevon,claudette_mink,Shevon,Claudette Mink,https://www.imdb.com/title/tt0407362/characters/nm0006419
+boxey,connor_widdows,Boxey,Connor Widdows,https://www.imdb.com/title/tt0407362/characters/nm0927045
+lt_danny_novacek,carl_lumbly,Lt. Danny 'Bulldog' Novacek,Carl Lumbly,https://www.imdb.com/title/tt0407362/characters/nm0525855
+carolanne_adama,lucinda_jenney,Carolanne Adama,Lucinda Jenney,https://www.imdb.com/title/tt0407362/characters/nm0421087
+phelan,bill_duke,Phelan,Bill Duke,https://www.imdb.com/title/tt0407362/characters/nm0004886
+president_richard_adar,colm_feore,President Richard Adar,Colm Feore,https://www.imdb.com/title/tt0407362/characters/nm0272173
+commander_barry_garner,john_heard,Commander Barry Garner,John Heard,https://www.imdb.com/title/tt0407362/characters/nm0001334
+socrata_thrace,dorothy_lyman,Socrata Thrace,Dorothy Lyman,https://www.imdb.com/title/tt0407362/characters/nm0528147
+dr_gerard,john_hodgman,Dr. Gerard,John Hodgman,https://www.imdb.com/title/tt0407362/characters/nm1894655
+sesha_abinell,dana_delany,Sesha Abinell,Dana Delany,https://www.imdb.com/title/tt0407362/characters/nm0001127
+oracle_selloi,amanda_plummer,Oracle Selloi,Amanda Plummer,https://www.imdb.com/title/tt0407362/characters/nm0001625
+dr_michael_robert,bruce_davison,Dr. Michael Robert,Bruce Davison,https://www.imdb.com/title/tt0407362/characters/nm0001117
+grimes,patrick_gallagher,Grimes,Patrick Gallagher,https://www.imdb.com/title/tt0407362/characters/nm0302466
+admiral_corman,barry_kennedy,Admiral Corman,Barry Kennedy,https://www.imdb.com/title/tt0407362/characters/nm0447921
+cabott,jerry_wasserman,Cabott,Jerry Wasserman,https://www.imdb.com/title/tt0407362/characters/nm0913682
+lt_alastair_thorne,fulvio_cecere,Lt. Alastair Thorne,Fulvio Cecere,https://www.imdb.com/title/tt0407362/characters/nm0147661
+bell,patrick_harrison,Bell,Patrick Harrison,https://www.imdb.com/title/tt0407362/characters/nm0365798
+danny_noon,bryce_hodgson,Danny Noon,Bryce Hodgson,https://www.imdb.com/title/tt0407362/characters/nm0961093
+alan_hughes,tyler_mcclendon,Alan Hughes,Tyler McClendon,https://www.imdb.com/title/tt0407362/characters/nm1553065
+mrs_king,gabrielle_rose,Mrs. King,Gabrielle Rose,https://www.imdb.com/title/tt0407362/characters/nm0741388
+julius_baltar,antony_holland,Julius Baltar,Antony Holland,https://www.imdb.com/title/tt0407362/characters/nm0390604
