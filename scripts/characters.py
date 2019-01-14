@@ -5,7 +5,7 @@
 
 Arguments:
     SOURCEFILE    input series list file
-    SERIES        optionnal normalized name of the series
+    SERIES        optionnal normalized name of a series
 
 Options:
     -v FILE  creates normalization verification for names in FILE
@@ -53,7 +53,7 @@ def normalizeName(fullName):
 def scrapPage(pageIMDB):
     """Extracts characters list of a series.
 
-    Given an IMDB page, extracts characters information in the format:
+    Given an IMDB page, extracts characters information in this format:
     actor's normalized name, character's full name, actor's full name,
     IMDB.com character page.
 
@@ -101,7 +101,7 @@ def scrapPage(pageIMDB):
 def getData(pageIDMB):
     """Extracts characters list of a series.
 
-    Given an IMDB page, extracts characters information in the format:
+    Given an IMDB page, extracts characters information in this format:
     actor's normalized name, character's full name, actor's full name,
     IMDB.com character page, separated with commas.
 
