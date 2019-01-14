@@ -1,111 +1,207 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import requests
-from bs4 import BeautifulSoup
-import codecs #for encoding the data as utf-8
-import sys
-import unidecode
-import re
+"""Usage: characters.py SOURCEFILE [SERIES] [-v FILE]
+
+Arguments:
+    SOURCEFILE    input series list file
+    SERIES        optionnal normalized name of the series
+
+Options:
+    -v FILE  creates normalization verification for names in FILE
 
 """
-Normalizes characters and actors names.
-"""
+
+import requests
+from bs4 import BeautifulSoup
+import codecs  # for encoding the data as utf-8
+import unidecode
+import re
+from docopt import docopt
+
+
 def normalizeName(fullName):
+    """Normalizes characters and actors names.
+
+    Removes parenthesis, commas, diacritics and non-alphanumerics characters,
+    except _.
+
+    Parameters
+    ----------
+    fullName : `str`
+        Full name (of a character or a person).
+
+    Returns
+    -------
+    normName : `str`
+        Normalized name.
+    """
+
     fullName = fullName.lower()
-    
+
     fullName = fullName.split('\n')[0].strip()
-    fullName = re.sub(r'\([^()]*\)', '', fullName)#Remove parenthesis
-    fullName = re.sub(r"\'[^'']*\'", '', fullName)#Remove commas
-    fullName = unidecode.unidecode(fullName)#Remove diacritics
+    fullName = re.sub(r'\([^()]*\)', '', fullName)  # Remove parenthesis
+    fullName = re.sub(r"\'[^'']*\'", '', fullName)  # Remove commas
+    fullName = unidecode.unidecode(fullName)  # Remove diacritics
     fullName = fullName.replace(' ', '_')
-    fullName = re.sub(r'\W+', '', fullName)#Remove all non-alphanumerics characters (except _)
+    # Remove all non-alphanumerics characters (except _)
+    fullName = re.sub(r'\W+', '', fullName)
     fullName = re.sub(r"[_]+", '_', fullName)
     return fullName
 
-"""
-Takes the IMDB page of a series and extracts the characters information.
-Returns an array with all characters information.
-"""
-def scrapPage(pageIDMB):
-    urlIDMB=requests.get(pageIDMB).text
-    soup=BeautifulSoup(urlIDMB,'lxml')
-    seriesTable=soup.find('table',{'class':'cast_list'}).find_all('tr')
-    
+
+def scrapPage(pageIMDB):
+    """Extracts characters list of a series.
+
+    Given an IMDB page, extracts characters information in the format:
+    actor's normalized name, character's full name, actor's full name,
+    IMDB.com character page.
+
+    Parameters
+    ----------
+    pageIMDB : `str`
+        IMDB page with the list of characters.
+
+    Returns
+    -------
+    cast : `Array`
+        Array with one tuple per character.
+    """
+    urlIDMB = requests.get(pageIMDB).text
+    soup = BeautifulSoup(urlIDMB, 'lxml')
+    seriesTable = soup.find('table', {'class': 'cast_list'}).find_all('tr')
+
     cast = []
-    
+
     for char in seriesTable:
         charInfo = char.find_all('td')
         if len(charInfo) == 4:
             actorName = charInfo[1].text.strip()
-            
+
             charNorm = charInfo[3].find('a')
             charLink = ""
             if not charNorm:
                 charName = charInfo[3].text.split('\n')[0].strip()
             elif charNorm.get('href') != "#":
                 charName = charNorm.text.strip()
-                charLink = "https://www.imdb.com" + charNorm.get('href').strip().split('?')[0]
+                charLink = "https://www.imdb.com" \
+                    + charNorm.get('href').strip().split('?')[0]
             else:
                 charName = charNorm.previous_sibling.split('\n')[0].strip()
-            
+
             normActorName = normalizeName(actorName)
             normCharName = normalizeName(charName)
             if normCharName and normActorName:
-                cast.append((normCharName, normActorName, charName, actorName, charLink))
-                
+                cast.append((normCharName, normActorName, charName,
+                             actorName, charLink))
+
     return cast
 
-"""
-Returns the string corresponding to the pageIDMB file
-"""
+
 def getData(pageIDMB):
+    """Extracts characters list of a series.
+
+    Given an IMDB page, extracts characters information in the format:
+    actor's normalized name, character's full name, actor's full name,
+    IMDB.com character page, separated with commas.
+
+    Parameters
+    ----------
+    pageIMDB : `str`
+        IMDB page with the list of characters.
+
+    Returns
+    -------
+    cast : `Array`
+        Array with one string per character.
+    """
+
     textFile = []
     cast = scrapPage(pageIDMB)
-    
+
     for normCharName, normActorName, charName, actorName, charLink in cast:
-        text = normCharName + ',' + normActorName + ',' + charName + ',' + actorName + ',' + charLink + '\n'
+        text = normCharName + ',' + normActorName + ',' + charName + ',' + \
+            actorName + ',' + charLink + '\n'
         text = text.encode('utf-8')
         textWrite = text.decode('utf-8')
         textFile.append(textWrite)
-            
+
     return textFile
 
 
 def writeData(series, data):
-    with codecs.open("data/"+series+"/characters.txt","w","utf-8") as chars:
+    """Writes characters information in `characters.txt`.
+
+    Parameters
+    ----------
+    series : `str`
+        Folder of the series.
+    data : `str`
+        Data to write.
+    """
+
+    with codecs.open("data/"+series+"/characters.txt", "w", "utf-8") as chars:
         chars.write(data)
 
-    
-def main():
-    sourceFile = sys.argv[1]
-    onlyOne = len(sys.argv) > 2
+
+def verifNorm(idSeries, fileName, data):
+    """Creates the normalization verification file.
+
+    Parameters
+    ----------
+    idSeries : `str`
+        Folder of the series.
+    fileName : `str`
+        Wanted file name.
+    data : `str`
+        Data to write.
+    """
+
+    file = "data/" + idSeries + "/" + fileName
+    with open(file, mode="w", encoding="utf-8") as f:
+        for char in data:
+            charSp = char.split(',')
+            normName = charSp[0]
+            name = charSp[2]
+
+            f.write(normName + ";" + name + "\n")
+
+
+def main(args):
+    sourceFile = args["SOURCEFILE"]
+    onlyOne = args["SERIES"]
     if onlyOne:
-        series = sys.argv[2]
-    
+        series = args["SERIES"]
+
     with open(sourceFile, 'r') as f:
         for line in f:
             sp = line.split(',')
             idSeries = sp[0]
             isMovie = int(sp[4])
-            
+
             if not onlyOne or idSeries == series:
                 if not isMovie:
                     link = sp[2]
-                    finalText = "".join(getData(link + "fullcredits/"))
+                    data = getData(link + "fullcredits/")
+                    if args["-v"]:
+                        verifNorm(idSeries, args["-v"], data)
+                    finalText = "".join(data)
                     writeData(idSeries, finalText)
-                        
+
                 else:
                     sagaChars = []
-                    with open(idSeries+"/episodes.txt", 'r') as fMovie:
+                    with open("data/"+idSeries+"/episodes.txt", 'r') as fMovie:
                         for lineMovie in fMovie:
                             link = lineMovie.split(',')[2]
                             movieChars = getData(link + "fullcredits/")
                             sagaChars.extend(movieChars)
-                    #sagaChars = list(set(sagaChars)) to remove duplicates
+                    # sagaChars = list(set(sagaChars)) to remove duplicates
+                    if args["-v"]:
+                        verifNorm(idSeries, args["-v"], sagaChars)
                     finalText = "".join(sagaChars)
                     writeData(idSeries, finalText)
-            
-        
+
+
 if __name__ == '__main__':
-    main()
+    args = docopt(__doc__)
+    main(args)
