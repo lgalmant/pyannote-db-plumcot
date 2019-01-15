@@ -70,9 +70,10 @@ leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.
 ```
 
 The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `characters.txt` file at once (or just one if an optional series identifier is provided)
+`-v fileName` creates a file with `characters.txt` to easily verify the characters normalization.
 
 ```bash
-python characters.py series.txt TheBigBangTheory
+python characters.py series.txt TheBigBangTheory -v normVerif.txt
 ```
 
 Note: Leo is in charge of creating this script.
@@ -91,7 +92,7 @@ The creation of this file should be automated as much as possible. Ideally, a sc
 python episodes.py series.txt TheBigBangTheory
 ```
 
-For movies, we can use something like `HarryPotter.Episode1` as "episode" unique identifier.
+For movies, we can use something like `HarryPotter.Episode01` as "episode" unique identifier.
 
 Note: Leo can probably do this script.
 
