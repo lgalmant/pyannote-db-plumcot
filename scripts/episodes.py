@@ -48,15 +48,19 @@ def scrapPage(idSeries, pageIMDB):
 
         for episode in episodesTable:
             infos = episode.find('div', {'class': 'info'})
-            nbEpisode = infos.find('meta').get('content')
+            nbEpisode = int(infos.find('meta').get('content'))
             link = infos.find('a')
-            imdbLink = "https://www.imdb.com" + link.get('href')
             title = link.get('title')
 
-            epNorm = idSeries + '.Season' + str(season) + '.Episode' +\
-                str(nbEpisode)
-            epString = epNorm + ',' + title + ',' + imdbLink + ',' + '\n'
-            seriesData += epString
+            if "Episode #" not in title:
+                imdbLink = "https://www.imdb.com" + link.get('href')
+                seasonStr = f"{season:02d}"
+                epStr = f"{nbEpisode:02d}"
+
+                epNorm = idSeries + '.Season' + seasonStr + '.Episode' + epStr
+
+                epString = epNorm + ',' + title + ',' + imdbLink + ',' + '\n'
+                seriesData += epString
 
     return seriesData
 
@@ -86,7 +90,6 @@ def main(args):
         for line in f:
             sp = line.split(',')
             idSeries = sp[0]
-            print(idSeries)
             isMovie = int(sp[4])
 
             if not isMovie and (not onlyOne or idSeries == series):

@@ -64,8 +64,8 @@ def scrapPage(pageIMDB):
 
     Returns
     -------
-    cast : `Array`
-        Array with one tuple per character.
+    cast : `list`
+        List with one tuple per character.
     """
     urlIDMB = requests.get(pageIMDB).text
     soup = BeautifulSoup(urlIDMB, 'lxml')
@@ -112,8 +112,8 @@ def getData(pageIDMB):
 
     Returns
     -------
-    cast : `Array`
-        Array with one string per character.
+    cast : `list`
+        List with one string per character.
     """
 
     textFile = []
