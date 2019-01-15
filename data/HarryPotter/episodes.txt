@@ -1,0 +1,8 @@
+HarryPotter.Episode01,Harry Potter and the Sorcerer's Stone,https://www.imdb.com/title/tt0241527/,http://www.tv.com/movies/harry-potter-and-the-sorcerers-stone/
+HarryPotter.Episode02,Harry Potter and the Chamber of Secrets,https://www.imdb.com/title/tt0295297/,http://www.tv.com/movies/harry-potter-and-the-chamber-of-secrets/
+HarryPotter.Episode03,Harry Potter and the Prisoner of Azkaban,https://www.imdb.com/title/tt0304141/,http://www.tv.com/movies/harry-potter-and-the-prisoner-of-azkaban/
+HarryPotter.Episode04,Harry Potter and the Goblet of Fire,https://www.imdb.com/title/tt0330373/,http://www.tv.com/movies/harry-potter-and-the-goblet-of-fire/
+HarryPotter.Episode05,Harry Potter and the Order of the Phoenix,https://www.imdb.com/title/tt0373889/,http://www.tv.com/movies/harry-potter-and-the-order-of-the-phoenix/
+HarryPotter.Episode06,Harry Potter and the Half-Blood Prince,https://www.imdb.com/title/tt0417741/,http://www.tv.com/movies/harry-potter-and-the-half-blood-prince/
+HarryPotter.Episode07,Harry Potter and the Deathly Hallows: Part 1,https://www.imdb.com/title/tt0926084/,http://www.tv.com/movies/harry-potter-and-the-deathly-hallows-part-1/
+HarryPotter.Episode08,Harry Potter and the Deathly Hallows: Part 2,https://www.imdb.com/title/tt1201607/,http://www.tv.com/movies/harry-potter-and-the-deathly-hallows-part-2/

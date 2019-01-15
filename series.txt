@@ -1,14 +1,17 @@
-24,24,https://www.imdb.com/title/tt0285331/,http://www.tv.com/shows/24/
-BattlestarGalactica,Battlestar Galactica,https://www.imdb.com/title/tt0407362/,http://www.tv.com/shows/battlestar-galactica/
-Caprica,Caprica,https://www.imdb.com/title/tt0799862/,http://www.tv.com/shows/caprica/
-BreakingBad,Breaking Bad,https://www.imdb.com/title/tt0903747/,http://www.tv.com/shows/breaking-bad/
-BuffyTheVampireSlayer,Buffy The Vampire Slayer,https://www.imdb.com/title/tt0118276/,http://www.tv.com/shows/buffy-the-vampire-slayer/
-Friends,Friends,https://www.imdb.com/title/tt0108778/,http://www.tv.com/shows/friends/
-GameOfThrones,Game Of Thrones,https://www.imdb.com/title/tt0944947/,http://www.tv.com/shows/game-of-thrones/
-Homeland,Homeland,https://www.imdb.com/title/tt1796960/,http://www.tv.com/shows/homeland-2011/
-Lost,Lost,https://www.imdb.com/title/tt0411008/,http://www.tv.com/shows/lost/
-SixFeetUnder,Six Feet Under,https://www.imdb.com/title/tt0248654/,http://www.tv.com/shows/six-feet-under/
-TheBigBangTheory,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,http://www.tv.com/shows/the-big-bang-theory/
-TheOffice,The Office,https://www.imdb.com/title/tt0386676/,http://www.tv.com/shows/the-office/
-TheWalkingDead,The Walking Dead,https://www.imdb.com/title/tt1520211/,http://www.tv.com/shows/the-walking-dead/
-ER,ER,https://www.imdb.com/title/tt0108757/,http://www.tv.com/shows/er/
+24,24,https://www.imdb.com/title/tt0285331/,http://www.tv.com/shows/24/,0
+BattlestarGalactica,Battlestar Galactica,https://www.imdb.com/title/tt0407362/,http://www.tv.com/shows/battlestar-galactica/,0
+Caprica,Caprica,https://www.imdb.com/title/tt0799862/,http://www.tv.com/shows/caprica/,0
+BreakingBad,Breaking Bad,https://www.imdb.com/title/tt0903747/,http://www.tv.com/shows/breaking-bad/,0
+BuffyTheVampireSlayer,Buffy The Vampire Slayer,https://www.imdb.com/title/tt0118276/,http://www.tv.com/shows/buffy-the-vampire-slayer/,0
+Friends,Friends,https://www.imdb.com/title/tt0108778/,http://www.tv.com/shows/friends/,0
+GameOfThrones,Game Of Thrones,https://www.imdb.com/title/tt0944947/,http://www.tv.com/shows/game-of-thrones/,0
+Homeland,Homeland,https://www.imdb.com/title/tt1796960/,http://www.tv.com/shows/homeland-2011/,0
+Lost,Lost,https://www.imdb.com/title/tt0411008/,http://www.tv.com/shows/lost/,0
+SixFeetUnder,Six Feet Under,https://www.imdb.com/title/tt0248654/,http://www.tv.com/shows/six-feet-under/,0
+TheBigBangTheory,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,http://www.tv.com/shows/the-big-bang-theory/,0
+TheOffice,The Office,https://www.imdb.com/title/tt0386676/,http://www.tv.com/shows/the-office/,0
+TheWalkingDead,The Walking Dead,https://www.imdb.com/title/tt1520211/,http://www.tv.com/shows/the-walking-dead/,0
+ER,ER,https://www.imdb.com/title/tt0108757/,http://www.tv.com/shows/er/,0
+HarryPotter,Harry Potter,,,1
+StarWars,Star Wars,,,1
+TheLordOfTheRings,The Lord of the Rings,,,1

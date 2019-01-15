@@ -1,0 +1,120 @@
+carrie_mathison,claire_danes,Carrie Mathison,Claire Danes,https://www.imdb.com/title/tt1796960/characters/nm0000132
+saul_berenson,mandy_patinkin,Saul Berenson,Mandy Patinkin,https://www.imdb.com/title/tt1796960/characters/nm0001597
+peter_quinn,rupert_friend,Peter Quinn,Rupert Friend,https://www.imdb.com/title/tt1796960/characters/nm1670029
+dar_adal,f_murray_abraham,Dar Adal,F. Murray Abraham,https://www.imdb.com/title/tt1796960/characters/nm0000719
+nicholas_brody,damian_lewis,Nicholas Brody,Damian Lewis,https://www.imdb.com/title/tt1796960/characters/nm0507073
+max_piotrowski,maury_sterling,Max Piotrowski,Maury Sterling,https://www.imdb.com/title/tt1796960/characters/nm0827561
+jessica_brody,morena_baccarin,Jessica Brody,Morena Baccarin,https://www.imdb.com/title/tt1796960/characters/nm1072555
+chris_brody,jackson_pace,Chris Brody,Jackson Pace,https://www.imdb.com/title/tt1796960/characters/nm2093138
+dana_brody,morgan_saylor,Dana Brody,Morgan Saylor,https://www.imdb.com/title/tt1796960/characters/nm2838320
+mike_faber,diego_klattenhoff,Mike Faber,Diego Klattenhoff,https://www.imdb.com/title/tt1796960/characters/nm1459109
+president_elizabeth_keane,elizabeth_marvel,President Elizabeth Keane,Elizabeth Marvel,https://www.imdb.com/title/tt1796960/characters/nm0555500
+david_estes,david_harewood,David Estes,David Harewood,https://www.imdb.com/title/tt1796960/characters/nm0362873
+andrew_lockhart,tracy_letts,Andrew Lockhart,Tracy Letts,https://www.imdb.com/title/tt1796960/characters/nm0504832
+virgil_piotrowski,david_marciano,Virgil Piotrowski,David Marciano,https://www.imdb.com/title/tt1796960/characters/nm0545687
+mira_berenson,sarita_choudhury,Mira Berenson,Sarita Choudhury,https://www.imdb.com/title/tt1796960/characters/nm0002004
+abu_nazir,navid_negahban,Abu Nazir,Navid Negahban,https://www.imdb.com/title/tt1796960/characters/nm1041023
+maggie_mathison,amy_hargreaves,Maggie Mathison,Amy Hargreaves,https://www.imdb.com/title/tt1796960/characters/nm0362955
+vice_president_william_walden,jamey_sheridan,Vice President William Walden,Jamey Sheridan,https://www.imdb.com/title/tt1796960/characters/nm0792177
+fara_sherazi,nazanin_boniadi,Fara Sherazi,Nazanin Boniadi,https://www.imdb.com/title/tt1796960/characters/nm2258164
+franny,claire_keane,Franny,Claire Keane,https://www.imdb.com/title/tt1796960/characters/nm8465001
+franny,mckenna_keane,Franny,McKenna Keane,https://www.imdb.com/title/tt1796960/characters/nm8465003
+danny_galvez,hrach_titizian,Danny Galvez,Hrach Titizian,https://www.imdb.com/title/tt1796960/characters/nm1553955
+otto_during,sebastian_koch,Otto Düring,Sebastian Koch,https://www.imdb.com/title/tt1796960/characters/nm0462407
+david_wellington,linus_roache,David Wellington,Linus Roache,https://www.imdb.com/title/tt1796960/characters/nm0730070
+astrid,nina_hoss,Astrid,Nina Hoss,https://www.imdb.com/title/tt1796960/characters/nm0396125
+martha_boyd,laila_robins,Martha Boyd,Laila Robins,https://www.imdb.com/title/tt1796960/characters/nm0732309
+allison_carr,miranda_otto,Allison Carr,Miranda Otto,https://www.imdb.com/title/tt1796960/characters/nm0001584
+jonas_hollander,alexander_fehling,Jonas Hollander,Alexander Fehling,https://www.imdb.com/title/tt1796960/characters/nm2356421
+laura_sutton,sarah_sokolovic,Laura Sutton,Sarah Sokolovic,https://www.imdb.com/title/tt1796960/characters/nm4706451
+rob_emmons,hill_harper,Rob Emmons,Hill Harper,https://www.imdb.com/title/tt1796960/characters/nm0004991
+brett_okeefe,jake_weber,Brett O'Keefe,Jake Weber,https://www.imdb.com/title/tt1796960/characters/nm0916617
+majid_javadi,shaun_toub,Majid Javadi,Shaun Toub,https://www.imdb.com/title/tt1796960/characters/nm0869467
+dante_allen,morgan_spector,Dante Allen,Morgan Spector,https://www.imdb.com/title/tt1796960/characters/nm1767528
+numan,atheer_adel,Numan,Atheer Adel,https://www.imdb.com/title/tt1796960/characters/nm4696667
+ivan_krupin,mark_ivanir,Ivan Krupin,Mark Ivanir,https://www.imdb.com/title/tt1796960/characters/nm0411980
+tasneem_qureshi,nimrat_kaur,Tasneem Qureshi,Nimrat Kaur,https://www.imdb.com/title/tt1796960/characters/nm1909661
+roya_hammad,zuleikha_robinson,Roya Hammad,Zuleikha Robinson,https://www.imdb.com/title/tt1796960/characters/nm0733196
+senator_sam_paley,dylan_baker,Senator Sam Paley,Dylan Baker,https://www.imdb.com/title/tt1796960/characters/nm0048414
+john_redmond,michael_okeefe,John Redmond,Michael O'Keefe,https://www.imdb.com/title/tt1796960/characters/nm0001574
+simone_martin,sandrine_holt,Simone Martin,Sandrine Holt,https://www.imdb.com/title/tt1796960/characters/nm0002142
+frank_mathison,james_rebhorn,Frank Mathison,James Rebhorn,https://www.imdb.com/title/tt1796960/characters/nm0714310
+agent_thoms,james_mount,Agent Thoms,James Mount,https://www.imdb.com/title/tt1796960/characters/nm1071397
+finn_walden,timothee_chalamet,Finn Walden,Timothée Chalamet,https://www.imdb.com/title/tt1796960/characters/nm3154303
+aayan_ibrahim,suraj_sharma,Aayan Ibrahim,Suraj Sharma,https://www.imdb.com/title/tt1796960/characters/nm4139037
+dennis_boyd,mark_moses,Dennis Boyd,Mark Moses,https://www.imdb.com/title/tt1796960/characters/nm0608601
+aasar_khan,raza_jaffrey,Aasar Khan,Raza Jaffrey,https://www.imdb.com/title/tt1796960/characters/nm1203005
+sandy_langmore,catherine_curtin,Sandy Langmore,Catherine Curtin,https://www.imdb.com/title/tt1796960/characters/nm0193160
+haissam_haqqani,numan_acar,Haissam Haqqani,Numan Acar,https://www.imdb.com/title/tt1796960/characters/nm1485637
+bibi_hamed,rene_ifrah,Bibi Hamed,René Ifrah,https://www.imdb.com/title/tt1796960/characters/nm1035548
+etai_luskin,allan_corduner,Etai Luskin,Allan Corduner,https://www.imdb.com/title/tt1796960/characters/nm0179680
+qasim,alireza_bayram,Qasim,Alireza Bayram,https://www.imdb.com/title/tt1796960/characters/nm3063648
+reda_hashem,patrick_sabongui,Reda Hashem,Patrick Sabongui,https://www.imdb.com/title/tt1796960/characters/nm1150775
+yevgeny_gromov,costa_ronin,Yevgeny Gromov,Costa Ronin,https://www.imdb.com/title/tt1796960/characters/nm2687923
+scott_ryan,tim_guinee,Scott Ryan,Tim Guinee,https://www.imdb.com/title/tt1796960/characters/nm0347375
+utku,erol_afsin,Utku,Erol Afsin,https://www.imdb.com/title/tt1796960/characters/nm4509417
+xander,taylor_kowalski,Xander,Taylor Kowalski,https://www.imdb.com/title/tt1796960/characters/nm1989804
+ray_conlin,dominic_fumusa,Ray Conlin,Dominic Fumusa,https://www.imdb.com/title/tt1796960/characters/nm1047883
+general_jamie_mcclendon,robert_knepper,General Jamie McClendon,Robert Knepper,https://www.imdb.com/title/tt1796960/characters/nm0460694
+mills,micah_hauptman,Mills,Micah Hauptman,https://www.imdb.com/title/tt1796960/characters/nm1275916
+josie_mathisondunn,courtney_grosbeck,Josie Mathison-Dunn,Courtney Grosbeck,https://www.imdb.com/title/tt1796960/characters/nm4476924
+hans_podolski,sebastian_hulk,Hans Podolski,Sebastian Hülk,https://www.imdb.com/title/tt1796960/characters/nm1389891
+sekou_bah,j_mallory_mccree,Sekou Bah,J. Mallory McCree,https://www.imdb.com/title/tt1796960/characters/nm3402769
+hank_wonham,alex_lanipekun,Hank Wonham,Alex Lanipekun,https://www.imdb.com/title/tt1796960/characters/nm1246448
+bunny_latif,art_malik,Bunny Latif,Art Malik,https://www.imdb.com/title/tt1796960/characters/nm0539562
+simone_bah,ashlei_sharpe_chestnut,Simone Bah,Ashlei Sharpe Chestnut,https://www.imdb.com/title/tt1796960/characters/nm6569232
+conrad_fuller,morocco_omari,Conrad Fuller,Morocco Omari,https://www.imdb.com/title/tt1796960/characters/nm0648339
+leo_carras,sam_underwood,Leo Carras,Sam Underwood,https://www.imdb.com/title/tt1796960/characters/nm3862996
+reiko_umon,julee_cerda,Reiko Umon,Julee Cerda,https://www.imdb.com/title/tt1796960/characters/nm2410458
+vice_president_ralph_warner,beau_bridges,Vice President Ralph Warner,Beau Bridges,https://www.imdb.com/title/tt1796960/characters/nm0000977
+george_pallis,david_thornton,George Pallis,David Thornton,https://www.imdb.com/title/tt1796960/characters/nm0861513
+viktor,elya_baskin,Viktor,Elya Baskin,https://www.imdb.com/title/tt1796960/characters/nm0059946
+bo_elkins,david_maldonado,Bo Elkins,David Maldonado,https://www.imdb.com/title/tt1796960/characters/nm1296223
+tova_rivlin,hadar_ratzon_rotem,Tova Rivlin,Hadar Ratzon Rotem,https://www.imdb.com/title/tt1796960/characters/nm2739673
+mansour_alzahrani,ramsey_faragallah,Mansour Al-Zahrani,Ramsey Faragallah,https://www.imdb.com/title/tt1796960/characters/nm0267009
+mm,mido_hamada,M.M.,Mido Hamada,https://www.imdb.com/title/tt1796960/characters/nm1715024
+jj_elkins,colton_ryan,J.J. Elkins,Colton Ryan,https://www.imdb.com/title/tt1796960/characters/nm8961313
+mary_elkins,annie_humphrey,Mary Elkins,Annie Humphrey,https://www.imdb.com/title/tt1796960/characters/nm1621965
+general_rossen,fredric_lehne,General Rossen,Fredric Lehne,https://www.imdb.com/title/tt1796960/characters/nm0499791
+roger,ian_kahn,Roger,Ian Kahn,https://www.imdb.com/title/tt1796960/characters/nm0434845
+tailor,nasser_faris,Tailor,Nasser Faris,https://www.imdb.com/title/tt1796960/characters/nm0267503
+dr_aman_aziz,rachid_sabitri,Dr. Aman Aziz,Rachid Sabitri,https://www.imdb.com/title/tt1796960/characters/nm1544603
+senator_elian_coto,alfredo_narciso,Senator Elian Coto,Alfredo Narciso,https://www.imdb.com/title/tt1796960/characters/nm1283912
+leland_bennett,martin_donovan,Leland Bennett,Martin Donovan,https://www.imdb.com/title/tt1796960/characters/nm0233027
+el_nino,manny_perez,El Nino,Manny Perez,https://www.imdb.com/title/tt1796960/characters/nm0673563
+franny,luna_pfitzer,Franny,Luna Pfitzer,https://www.imdb.com/title/tt1796960/characters/nm7631545
+ahmed_nazari,darwin_shaw,Ahmed Nazari,Darwin Shaw,https://www.imdb.com/title/tt1796960/characters/nm0787430
+lynne_reed,brianna_brown,Lynne Reed,Brianna Brown,https://www.imdb.com/title/tt1796960/characters/nm0113158
+alamin,george_georgiou,Al-Amin,George Georgiou,https://www.imdb.com/title/tt1796960/characters/nm1745190
+franny,lotta_pfitzer,Franny,Lotta Pfitzer,https://www.imdb.com/title/tt1796960/characters/nm7631546
+ruby,lee_raviv,Ruby,Lee Raviv,https://www.imdb.com/title/tt1796960/characters/nm5953245
+faisal_marwan,ercan_durmaz,Faisal Marwan,Ercan Durmaz,https://www.imdb.com/title/tt1796960/characters/nm0244225
+latisha,elena_hurst,Latisha,Elena Hurst,https://www.imdb.com/title/tt1796960/characters/nm0403675
+ellen_lichter,charmin_lee,Ellen Lichter,Charmin Lee,https://www.imdb.com/title/tt1796960/characters/nm0496980
+ellen_mathison,victoria_clark,Ellen Mathison,Victoria Clark,https://www.imdb.com/title/tt1796960/characters/nm0164594
+detective_calvin_johnson,clark_johnson,Detective Calvin Johnson,Clark Johnson,https://www.imdb.com/title/tt1796960/characters/nm0424800
+jackie_goodman,chinasa_ogbuagu,Jackie Goodman,Chinasa Ogbuagu,https://www.imdb.com/title/tt1796960/characters/nm2425789
+president_morse,alan_dale,President Morse,Alan Dale,https://www.imdb.com/title/tt1796960/characters/nm0197638
+esme,martina_garcia,Esme,Martina García,https://www.imdb.com/title/tt1796960/characters/nm0306357
+mike_brown,max_beesley,Mike Brown,Max Beesley,https://www.imdb.com/title/tt1796960/characters/nm0066586
+general_youssef,igal_naor,General Youssef,Igal Naor,https://www.imdb.com/title/tt1796960/characters/nm0620981
+esam,ori_yaniv,Esam,Ori Yaniv,https://www.imdb.com/title/tt1796960/characters/nm3716229
+sandy_bachman,corey_stoll,Sandy Bachman,Corey Stoll,https://www.imdb.com/title/tt1796960/characters/nm1015684
+sabine,janina_blohmsievers,Sabine,Janina Blohm-Sievers,https://www.imdb.com/title/tt1796960/characters/nm4800849
+captain_lonza,vincent_irizarry,Captain Lonza,Vincent Irizarry,https://www.imdb.com/title/tt1796960/characters/nm0410029
+viktor,ronald_guttman,Viktor,Ronald Guttman,https://www.imdb.com/title/tt1796960/characters/nm0349749
+banker_one,robert_newman,Banker One,Robert Newman,https://www.imdb.com/title/tt1796960/characters/nm0628242
+sheik_hafiz,samir_fuchs,Sheik Hafiz,Samir Fuchs,https://www.imdb.com/title/tt1796960/characters/nm1871313
+deputy_chief_jansen,gary_perez,Deputy Chief Jansen,Gary Perez,https://www.imdb.com/title/tt1796960/characters/nm0673496
+the_jeweler,dov_tiefenbach,The Jeweler,Dov Tiefenbach,https://www.imdb.com/title/tt1796960/characters/nm0862820
+patricia_cooper,stephanie_j_block,Patricia Cooper,Stephanie J. Block,https://www.imdb.com/title/tt1796960/characters/nm1984556
+gregor,max_mauff,Gregor,Max Mauff,https://www.imdb.com/title/tt1796960/characters/nm1090576
+lenya,nikola_kastner,Lenya,Nikola Kastner,https://www.imdb.com/title/tt1796960/characters/nm0441003
+bailiff_cynthia_touhy,jennifer_christa_palmer,Bailiff Cynthia Touhy,Jennifer Christa Palmer,https://www.imdb.com/title/tt1796960/characters/nm3087511
+fbi_agent,parker_madison,FBI Agent,Parker Madison,https://www.imdb.com/title/tt1796960/characters/nm4670418
+aurelio_diaz,joseph_castillomidyett,Aurelio Diaz,Joseph Castillo-Midyett,https://www.imdb.com/title/tt1796960/characters/nm3804165
+carmelo_diaz,josue_gutierrez,Carmelo Diaz,Josué Gutierrez,https://www.imdb.com/title/tt1796960/characters/nm1197250
+waldorf_reporter_1,meredyth_kenney,Waldorf Reporter #1,Meredyth Kenney,https://www.imdb.com/title/tt1796960/characters/nm6641260
+cia_analyst,mark_wijsman,CIA Analyst,Mark Wijsman,https://www.imdb.com/title/tt1796960/characters/nm2127619
+sergeant_tomanovic,branko_tomovic,Sergeant Tomanovic,Branko Tomovic,https://www.imdb.com/title/tt1796960/characters/nm1036127
+blonde_hospital_visitor,patricia_hodges,Blonde Hospital Visitor,Patricia Hodges,https://www.imdb.com/title/tt1796960/characters/nm3886428
