@@ -81,13 +81,14 @@ def scrapPage(pageIMDB):
             charNorm = charInfo[3].find('a')
             charLink = ""
             if not charNorm:
-                charName = charInfo[3].text.split('\n')[0].strip()
+                charName = charInfo[3].text.strip().split('\n')[0].strip()
             elif charNorm.get('href') != "#":
                 charName = charNorm.text.strip()
                 charLink = "https://www.imdb.com" \
                     + charNorm.get('href').strip().split('?')[0]
             else:
-                charName = charNorm.previous_sibling.split('\n')[0].strip()
+                charName = charNorm.previous_sibling.strip()\
+                    .split('\n')[0].strip()
 
             normActorName = normalizeName(actorName)
             normCharName = normalizeName(charName)
