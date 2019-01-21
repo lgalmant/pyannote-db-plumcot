@@ -110,7 +110,7 @@ def scrapPage(idSeries, pageIMDB, credit=False, dicChars=None):
 
                 if credit:
                     epCast = getEpCast(imdbLink, dicChars)
-                    creditsData += epString + epCast + '\n'
+                    creditsData += epNorm + ',' + epCast + '\n'
 
                 seriesData += epString + '\n'
 
@@ -232,14 +232,11 @@ def main(args):
                     for movie in movies:
                         movieSp = movie.split(',')
                         normName = movieSp[0]
-                        name = movieSp[1]
                         linkIMDB = movieSp[2]
-                        linkTV = movieSp[3][:-1]
                         dic = initDicChars(idSeries)
 
                         epCast = getEpCast(linkIMDB, dic)
-                        dataMovie += (f"{normName},{name},{linkIMDB}," \
-                            + f"{linkTV},{epCast}\n")
+                        dataMovie += (f"{normName},{epCast}\n")
 
                     writeData(idSeries, dataMovie, "credits.txt")
 
