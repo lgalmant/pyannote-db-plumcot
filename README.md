@@ -100,18 +100,20 @@ Note: Leo can probably do this script.
 
 This file provides the list of characters credited in each episode. It contains one line per episode. Each episode is denoted by its normalized identifier (e.g. `TheBigBangTheory.Season01.Episode01`).
 
-The line starts with one field for the episode and then the list of credited characters (in alphabetical order, usign their underscore-separated identifier).
+The line starts with one field for the episode and then one boolean for each character of the series/movie, with 1 if the character appears in the episode, 0 otherwise.
 
 For instance, the line below tells that 3 characters appear in episode 1 of season 1 of The Big Bang Theory
 
 ```
-TheBigBangTheory.Season01.Episode01 leonard_hofstadter penny sheldon_cooper
+TheBigBangTheory.Season01.Episode01,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0...
 ```
 
-The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` and `characters.txt` as input and generate all `credits.txt` at once (or just one if an optional series identifier is provided)
+The ith binary column corresponds to the ith line in characters.txt
+
+The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `credits.txt` at once (or just one if an optional series identifier is provided)
 
 ```bash
-python credits.py series.txt TheBigBangTheory/characters.txt
+python episodes.py series.txt TheBigBangTheory -c
 ```
 
 Note: Leo is in charge of creating this script

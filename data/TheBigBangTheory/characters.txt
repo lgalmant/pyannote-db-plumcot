@@ -19,8 +19,9 @@ captain_sweatpants,ian_scott_rudolph,Captain Sweatpants,Ian Scott Rudolph,https:
 zack_johnson,brian_thomas_smith,Zack Johnson,Brian Thomas Smith,https://www.imdb.com/title/tt0898266/characters/nm1705502
 mrs_koothrappali,alice_amter,Mrs. Koothrappali,Alice Amter,https://www.imdb.com/title/tt0898266/characters/nm0025364
 leslie_winkle,sara_gilbert,Leslie Winkle,Sara Gilbert,https://www.imdb.com/title/tt0898266/characters/nm0004960
-lucy,kate_micucci,Lucy,Kate Micucci,https://www.imdb.com/title/tt0898266/characters/nm2177528
 president_siebert,joshua_malina,President Siebert,Joshua Malina,https://www.imdb.com/title/tt0898266/characters/nm0539651
+lucy,kate_micucci,Lucy,Kate Micucci,https://www.imdb.com/title/tt0898266/characters/nm2177528
+halley_wolowitz,pamela_adlon,Halley Wolowitz,Pamela Adlon,
 stephen_hawking,stephen_hawking,Stephen Hawking,Stephen Hawking,https://www.imdb.com/title/tt0898266/characters/nm0370071
 arthur_jeffries,bob_newhart,Arthur Jeffries,Bob Newhart,https://www.imdb.com/title/tt0898266/characters/nm0627878
 mike_rostenkowski,casey_sander,Mike Rostenkowski,Casey Sander,https://www.imdb.com/title/tt0898266/characters/nm0761389
@@ -34,6 +35,7 @@ janine_davis,regina_king,Janine Davis,Regina King,https://www.imdb.com/title/tt0
 claire,alessandra_torresani,Claire,Alessandra Torresani,https://www.imdb.com/title/tt0898266/characters/nm0003779
 dimitri,pasha_d_lychnikoff,Dimitri,Pasha D. Lychnikoff,https://www.imdb.com/title/tt0898266/characters/nm0527945
 announcer,ed_lieberman,Announcer,Ed Lieberman,https://www.imdb.com/title/tt0898266/characters/nm0509378
+announcer,robert_clotworthy,Announcer,Robert Clotworthy,
 alex_jensen,margo_harshman,Alex Jensen,Margo Harshman,https://www.imdb.com/title/tt0898266/characters/nm0366106
 wyatt,keith_carradine,Wyatt,Keith Carradine,https://www.imdb.com/title/tt0898266/characters/nm0001018
 dr_stephanie_barnett,sara_rue,Dr. Stephanie Barnett,Sara Rue,https://www.imdb.com/title/tt0898266/characters/nm0749081
@@ -42,6 +44,7 @@ levar_burton,levar_burton,LeVar Burton,LeVar Burton,https://www.imdb.com/title/t
 dave_gibbs,stephen_merchant,Dave Gibbs,Stephen Merchant,https://www.imdb.com/title/tt0898266/characters/nm0580351
 ramona_nowitzki,riki_lindhome,Ramona Nowitzki,Riki Lindhome,https://www.imdb.com/title/tt0898266/characters/nm1641251
 mrs_fowler,kathy_bates,Mrs. Fowler,Kathy Bates,https://www.imdb.com/title/tt0898266/characters/nm0000870
+computer,kimberly_brooks,Computer,Kimberly Brooks,
 ira_flatow,ira_flatow,Ira Flatow,Ira Flatow,https://www.imdb.com/title/tt0898266/characters/nm0281292
 ruchi,swati_kapila,Ruchi,Swati Kapila,https://www.imdb.com/title/tt0898266/characters/nm3115191
 guard,marcus_folmar,Guard,Marcus Folmar,https://www.imdb.com/title/tt0898266/characters/nm1304856
@@ -53,6 +56,8 @@ analeigh_tipton,analeigh_tipton,Analeigh Tipton,Analeigh Tipton,https://www.imdb
 bethany,molly_morgan,Bethany,Molly Morgan,https://www.imdb.com/title/tt0898266/characters/nm0604919
 neil_degrasse_tyson,neil_degrasse_tyson,Neil deGrasse Tyson,Neil deGrasse Tyson,https://www.imdb.com/title/tt0898266/characters/nm1183205
 katee_sackhoff,katee_sackhoff,Katee Sackhoff,Katee Sackhoff,https://www.imdb.com/title/tt0898266/characters/nm0755267
+maria,elena_campbellmartinez,Maria,Elena Campbell-Martinez,
+waiter,david_trice,Waiter,David Trice,
 glen,kevin_brief,Glen,Kevin Brief,https://www.imdb.com/title/tt0898266/characters/nm0108861
 george_sr,lance_barber,George Sr.,Lance Barber,https://www.imdb.com/title/tt0898266/characters/nm1115741
 santa,dakin_matthews,Santa,Dakin Matthews,https://www.imdb.com/title/tt0898266/characters/nm0559977
@@ -63,12 +68,13 @@ bill_nye,bill_nye,Bill Nye,Bill Nye,https://www.imdb.com/title/tt0898266/charact
 doctor,jim_meskimen,Doctor,Jim Meskimen,https://www.imdb.com/title/tt0898266/characters/nm0002350
 mrs_petrescu,michelle_arthur,Mrs. Petrescu,Michelle Arthur,https://www.imdb.com/title/tt0898266/characters/nm0037807
 mrs_fowler,annie_odonnell,Mrs. Fowler,Annie O'Donnell,https://www.imdb.com/title/tt0898266/characters/nm0640721
+jess,caleb_pierce,Jess,Caleb Pierce,https://www.imdb.com/title/tt0898266/characters/nm7763809
 waiter,alex_ball,Waiter,Alex Ball,https://www.imdb.com/title/tt0898266/characters/nm1791206
 dr_alfred_hofstadter,judd_hirsch,Dr. Alfred Hofstadter,Judd Hirsch,https://www.imdb.com/title/tt0898266/characters/nm0002139
 missy_cooper,courtney_henggeler,Missy Cooper,Courtney Henggeler,https://www.imdb.com/title/tt0898266/characters/nm1136435
-jess,caleb_pierce,Jess,Caleb Pierce,https://www.imdb.com/title/tt0898266/characters/nm7763809
 lalita_gupta,sarayu_blue,Lalita Gupta,Sarayu Blue,https://www.imdb.com/title/tt0898266/characters/nm0710605
 christy_vanderbilt,brooke_dorsay,Christy Vanderbilt,Brooke D'Orsay,https://www.imdb.com/title/tt0898266/characters/nm1175262
+chinese_leonard,talbott_lin,Chinese Leonard,Talbott Lin,
 toby_loobenfeld,dj_qualls,Toby Loobenfeld,DJ Qualls,https://www.imdb.com/title/tt0898266/characters/nm0702809
 charlie_sheen,charlie_sheen,Charlie Sheen,Charlie Sheen,https://www.imdb.com/title/tt0898266/characters/nm0000221
 octavia,octavia_spencer,Octavia,Octavia Spencer,https://www.imdb.com/title/tt0898266/characters/nm0818055
@@ -87,6 +93,7 @@ officer_hackett,julio_oscar_mechoso,Officer Hackett,Julio Oscar Mechoso,https://
 steve_wozniak,steve_wozniak,Steve Wozniak,Steve Wozniak,https://www.imdb.com/title/tt0898266/characters/nm0941967
 patty,rachel_cannon,Patty,Rachel Cannon,https://www.imdb.com/title/tt0898266/characters/nm1881004
 doug,allen_nabors,Doug,Allen Nabors,https://www.imdb.com/title/tt0898266/characters/nm1031542
+chinese_sheldon,howard_chan,Chinese Sheldon,Howard Chan,
 charlotte,michael_hyatt,Charlotte,Michael Hyatt,https://www.imdb.com/title/tt0898266/characters/nm0404924
 dennis_kim,austin_lee,Dennis Kim,Austin Lee,https://www.imdb.com/title/tt0898266/characters/nm1940946
 jan,judith_moreland,Jan,Judith Moreland,https://www.imdb.com/title/tt0898266/characters/nm1132876
@@ -99,13 +106,21 @@ professor_laughlin,oliver_muirhead,Professor Laughlin,Oliver Muirhead,https://ww
 dr_george_smoot,george_smoot,Dr. George Smoot,George Smoot,https://www.imdb.com/title/tt0898266/characters/nm3361779
 joyce_kim,ally_maki,Joyce Kim,Ally Maki,https://www.imdb.com/title/tt0898266/characters/nm1280361
 abby,danica_mckellar,Abby,Danica McKellar,https://www.imdb.com/title/tt0898266/characters/nm0005211
+young_man,artie_odaly,Young Man,Artie O'Daly,
 sandy,yeardley_smith,Sandy,Yeardley Smith,https://www.imdb.com/title/tt0898266/characters/nm0810379
 mrs_latham,jessica_walter,Mrs. Latham,Jessica Walter,https://www.imdb.com/title/tt0898266/characters/nm0910055
+cole,ryan_cartwright,Cole,Ryan Cartwright,
 summer,sierra_edwards,Summer,Sierra Edwards,https://www.imdb.com/title/tt0898266/characters/nm1996356
+waitress,treisa_gary,Waitress,Treisa Gary,
+emma,emma_degerstedt,Emma,Emma Degerstedt,
 dmitri,adam_gregor,Dmitri,Adam Gregor,https://www.imdb.com/title/tt0898266/characters/nm0339649
+news_announcer,jennifer_hale,News Announcer,Jennifer Hale,
 kathy_obrien,emily_happe,Kathy O'Brien,Emily Happe,https://www.imdb.com/title/tt0898266/characters/nm1770452
 dan,ronald_hunter,Dan,Ronald Hunter,https://www.imdb.com/title/tt0898266/characters/nm0403020
+blaine,tyler_jon_olson,Blaine,Tyler Jon Olson,
 model,samantha_potter,Model,Samantha Potter,https://www.imdb.com/title/tt0898266/characters/nm3108671
+lourdes,livia_trevino,Lourdes,Livia Treviño,
+ground_controller,travis_davis,Ground Controller,Travis Davis,
 mildred,jane_galloway_heitz,Mildred,Jane Galloway Heitz,https://www.imdb.com/title/tt0898266/characters/nm1886964
 skeeter,andy_mackenzie,Skeeter,Andy Mackenzie,https://www.imdb.com/title/tt0898266/characters/nm0533268
 martha,jen_drohan,Martha,Jen Drohan,https://www.imdb.com/title/tt0898266/characters/nm1887008
@@ -117,9 +132,11 @@ glenn,rick_fox,Glenn,Rick Fox,https://www.imdb.com/title/tt0898266/characters/nm
 dry_cleaner,william_stanford_davis,Dry Cleaner,William Stanford Davis,https://www.imdb.com/title/tt0898266/characters/nm1017853
 reverend_white,jim_turner,Reverend White,Jim Turner,https://www.imdb.com/title/tt0898266/characters/nm0877642
 dr_gunderson,todd_eric_andrews,Dr. Gunderson,Todd Eric Andrews,https://www.imdb.com/title/tt0898266/characters/nm0028879
+student,tom_fonss,Student,Tom Fonss,
 paramedic,troy_winbush,Paramedic,Troy Winbush,https://www.imdb.com/title/tt0898266/characters/nm0934569
 james_earl_jones,james_earl_jones,James Earl Jones,James Earl Jones,https://www.imdb.com/title/tt0898266/characters/nm0000469
 jesse,josh_peck,Jesse,Josh Peck,https://www.imdb.com/title/tt0898266/characters/nm0669681
+yvette,tania_raymonde,Yvette,Tania Raymonde,
 dr_oliver_lorvis,billy_bob_thornton,Dr. Oliver Lorvis,Billy Bob Thornton,https://www.imdb.com/title/tt0898266/characters/nm0000671
 older_indian_man,noel_de_souza,Older Indian Man,Noel De Souza,https://www.imdb.com/title/tt0898266/characters/nm0211808
 mitchell,tate_ellington,Mitchell,Tate Ellington,https://www.imdb.com/title/tt0898266/characters/nm1693588
@@ -135,10 +152,12 @@ instructor,sherry_weston,Instructor,Sherry Weston,https://www.imdb.com/title/tt0
 stan,chuck_carter,Stan,Chuck Carter,https://www.imdb.com/title/tt0898266/characters/nm1546219
 tom,mark_hames,Tom,Mark Hames,https://www.imdb.com/title/tt0898266/characters/nm1835509
 woman,sandra_marquez,Woman,Sandra Marquez,https://www.imdb.com/title/tt0898266/characters/nm1640359
+rebecca,jade_zdanow,Rebecca,Jade Zdanow,
 joey,eric_andre,Joey,Eric André,https://www.imdb.com/title/tt0898266/characters/nm2765191
 mrs_gunderson,lauri_johnson,Mrs. Gunderson,Lauri Johnson,https://www.imdb.com/title/tt0898266/characters/nm0425616
 louie,ajgie_kirkland,Louie,Ajgie Kirkland,https://www.imdb.com/title/tt0898266/characters/nm0456627
 dr_bernstein,phil_abrams,Dr. Bernstein,Phil Abrams,https://www.imdb.com/title/tt0898266/characters/nm0009223
+hojun,arnold_chun,Ho-Jun,Arnold Chun,
 angela,tiffany_dupont,Angela,Tiffany Dupont,https://www.imdb.com/title/tt0898266/characters/nm1520988
 alice,courtney_ford,Alice,Courtney Ford,https://www.imdb.com/title/tt0898266/characters/nm1835900
 laura,ashley_austin_morris,Laura,Ashley Austin Morris,https://www.imdb.com/title/tt0898266/characters/nm3261044
@@ -153,114 +172,226 @@ jimmy,karl_t_wright,Jimmy,Karl T. Wright,https://www.imdb.com/title/tt0898266/ch
 officer_reynolds,matt_battaglia,Officer Reynolds,Matt Battaglia,https://www.imdb.com/title/tt0898266/characters/nm0061307
 pizza_delivery_guy,barak_hardley,Pizza Delivery Guy,Barak Hardley,https://www.imdb.com/title/tt0898266/characters/nm3462502
 lizzy,morgan_hewitt,Lizzy,Morgan Hewitt,https://www.imdb.com/title/tt0898266/characters/nm3006624
+scientist,ayumi_iizuka,Scientist,Ayumi Iizuka,
 grace,sophie_oda,Grace,Sophie Oda,https://www.imdb.com/title/tt0898266/characters/nm0990767
 carrie_fisher,carrie_fisher,Carrie Fisher,Carrie Fisher,https://www.imdb.com/title/tt0898266/characters/nm0000402
 eric,eric_petersen,Eric,Eric Petersen,https://www.imdb.com/title/tt0898266/characters/nm2853625
+roy,malcolm_foster_smith,Roy,Malcolm Foster Smith,
+flight_attendant,gilda_stratton,Flight Attendant,Gilda Stratton,
 trent_monaco,yoshi_barrigas,Trent Monaco,Yoshi Barrigas,https://www.imdb.com/title/tt0898266/characters/nm4847770
 security_guard,michael_dempsey,Security Guard,Michael Dempsey,https://www.imdb.com/title/tt0898266/characters/nm0218749
 cindy,stephanie_escajeda,Cindy,Stephanie Escajeda,https://www.imdb.com/title/tt0898266/characters/nm1911983
 nathan_fillion,nathan_fillion,Nathan Fillion,Nathan Fillion,https://www.imdb.com/title/tt0898266/characters/nm0277213
 chelsea,kelli_goss,Chelsea,Kelli Goss,https://www.imdb.com/title/tt0898266/characters/nm2716180
 elon_musk,elon_musk,Elon Musk,Elon Musk,https://www.imdb.com/title/tt0898266/characters/nm1907769
+kevin_smith,kevin_smith,Kevin Smith,Kevin Smith,
 dr_gallo,jane_kaczmarek,Dr. Gallo,Jane Kaczmarek,https://www.imdb.com/title/tt0898266/characters/nm0434223
 theodore,christopher_lloyd,Theodore,Christopher Lloyd,https://www.imdb.com/title/tt0898266/characters/nm0000502
 meemaw,june_squibb,Meemaw,June Squibb,https://www.imdb.com/title/tt0898266/characters/nm0820053
 clerk,tiffany_daniels,Clerk,Tiffany Daniels,https://www.imdb.com/title/tt0898266/characters/nm2576328
 doug,joel_murray,Doug,Joel Murray,https://www.imdb.com/title/tt0898266/characters/nm0615063
 dr_sanders,dana_l_wilson,Dr. Sanders,Dana L. Wilson,https://www.imdb.com/title/tt0898266/characters/nm2660484
+young_sheldon,iain_armitage,Young Sheldon,Iain Armitage,
 neil_gaiman,neil_gaiman,Neil Gaiman,Neil Gaiman,https://www.imdb.com/title/tt0898266/characters/nm0301274
 bill_gates,bill_gates,Bill Gates,Bill Gates,https://www.imdb.com/title/tt0898266/characters/nm0309540
 oliver,walton_goggins,Oliver,Walton Goggins,https://www.imdb.com/title/tt0898266/characters/nm0324658
 kathleen,rachna_khatau,Kathleen,Rachna Khatau,https://www.imdb.com/title/tt0898266/characters/nm2760783
 bartender,james_maslow,Bartender,James Maslow,https://www.imdb.com/title/tt0898266/characters/nm3148185
 jenna,ellie_reed,Jenna,Ellie Reed,https://www.imdb.com/title/tt0898266/characters/nm4594420
+dr_campbell,kal_penn,Dr. Campbell,Kal Penn,
 roberta,cynthia_holloway,Roberta,Cynthia Holloway,https://www.imdb.com/title/tt0898266/characters/nm2040667
 son,sergio_enrique,Son,Sergio Enrique,https://www.imdb.com/title/tt0898266/characters/nm0258030
 joy,charlotte_newhouse,Joy,Charlotte Newhouse,https://www.imdb.com/title/tt0898266/characters/nm0627893
 elsie,whitney_avalon,Elsie,Whitney Avalon,https://www.imdb.com/title/tt0898266/characters/nm1309645
 officer_shin,lanny_joon,Officer Shin,Lanny Joon,https://www.imdb.com/title/tt0898266/characters/nm2362335
+nurse_in_biohazard_suit,sharon_omi,Nurse in Biohazard Suit,Sharon Omi,
+dispatcher,tom_yi,Dispatcher,Tom Yi,
 claire,janelle_marra,Claire,Janelle Marra,https://www.imdb.com/title/tt0898266/characters/nm1553578
 angelo,peter_onorati,Angelo,Peter Onorati,https://www.imdb.com/title/tt0898266/characters/nm0648846
+aaron,jadon_sand,Aaron,Jadon Sand,
+professor_rothman,lynn_philip_seibel,Professor Rothman,Lynn Philip Seibel,
+woman,christine_corpuz,Woman,Christine Corpuz,
+girl_1,piper_mackenzie_harris,Girl #1,Piper Mackenzie Harris,
 tom,riccardo_lebron,Tom,Riccardo LeBron,https://www.imdb.com/title/tt0898266/characters/nm4567014
 lana,angela_sargeant,Lana,Angela Sargeant,https://www.imdb.com/title/tt0898266/characters/nm1200036
 scientist,aaron_takahashi,Scientist,Aaron Takahashi,https://www.imdb.com/title/tt0898266/characters/nm0847099
+stadium_announcer,michael_araujo,Stadium Announcer,Michael Araujo,
 ms_davora,kimberly_hebert_gregory,Ms. Davora,Kimberly Hebert Gregory,https://www.imdb.com/title/tt0898266/characters/nm2554997
 dr_dreyfus,christopher_neiman,Dr. Dreyfus,Christopher Neiman,https://www.imdb.com/title/tt0898266/characters/nm0624842
+photographer,michael_reetz,Photographer,Michael Reetz,
 salesperson,fernando_rivera,Salesperson,Fernando Rivera,https://www.imdb.com/title/tt0898266/characters/nm1740402
+security_guard_2,mark_barrett,Security Guard #2,Mark Barrett,
 josh_wolowitz,matt_bennett,Josh Wolowitz,Matt Bennett,https://www.imdb.com/title/tt0898266/characters/nm2711305
 natalie,megan_heyn,Natalie,Megan Heyn,https://www.imdb.com/title/tt0898266/characters/nm2537376
+tech_support,max_mittelman,Tech Support,Max Mittelman,
+casting_assistant,phoebe_neidhardt,Casting Assistant,Phoebe Neidhardt,
 kenny_fitzgerald,michael_rapaport,Kenny Fitzgerald,Michael Rapaport,https://www.imdb.com/title/tt0898266/characters/nm0001650
 candidate_1,craig_welzbacher,Candidate #1,Craig Welzbacher,https://www.imdb.com/title/tt0898266/characters/nm1577177
 travis,wayne_wilderson,Travis,Wayne Wilderson,https://www.imdb.com/title/tt0898266/characters/nm0928657
 trevor,blake_anderson,Trevor,Blake Anderson,https://www.imdb.com/title/tt0898266/characters/nm2981935
+five_year_old,declan_churchill_carter,Five Year Old,Declan Churchill Carter,
 tim,jim_holmes,Tim,Jim Holmes,https://www.imdb.com/title/tt0898266/characters/nm0391885
 the_flash,brandon_w_jones,The Flash,Brandon W. Jones,https://www.imdb.com/title/tt0898266/characters/nm3623897
 rebecca,april_bowlby,Rebecca,April Bowlby,https://www.imdb.com/title/tt0898266/characters/nm1763049
 danielle,marissa_cuevas,Danielle,Marissa Cuevas,https://www.imdb.com/title/tt0898266/characters/nm2125367
 police_officer,michael_patrick_mcgill,Police Officer,Michael Patrick McGill,https://www.imdb.com/title/tt0898266/characters/nm1042946
+stranger,doug_morency,Stranger,Doug Morency,
 man,eric_normington,Man,Eric Normington,https://www.imdb.com/title/tt0898266/characters/nm2021965
 margaret,lynn_andrews,Margaret,Lynn Andrews,https://www.imdb.com/title/tt0898266/characters/nm8945105
 pit_boss,mark_berry,Pit Boss,Mark Berry,https://www.imdb.com/title/tt0898266/characters/nm0077623
 marta,laura_ceron,Marta,Laura Cerón,https://www.imdb.com/title/tt0898266/characters/nm0149018
 marcus,parvesh_cheena,Marcus,Parvesh Cheena,https://www.imdb.com/title/tt0898266/characters/nm1231867
 nicholas,edward_james_gage,Nicholas,Edward James Gage,https://www.imdb.com/title/tt0898266/characters/nm0300803
+dr_lee,maribeth_monroe,Dr. Lee,Maribeth Monroe,
+dr_park,eddie_shin,Dr. Park,Eddie Shin,
+tam_nguyen,robert_wu,Tam Nguyen,Robert Wu,
 brian_greene,brian_greene,Brian Greene,Brian Greene,https://www.imdb.com/title/tt0898266/characters/nm0338694
 todd_zarnecki,chris_reed,Todd Zarnecki,Chris Reed,https://www.imdb.com/title/tt0898266/characters/nm3918199
 jeremy,dusan_brown,Jeremy,Dusan Brown,https://www.imdb.com/title/tt0898266/characters/nm3163249
 dr_schneider,ken_lerner,Dr. Schneider,Ken Lerner,https://www.imdb.com/title/tt0898266/characters/nm0503624
 car_thief_1,craig_gellis,Car Thief #1,Craig Gellis,https://www.imdb.com/title/tt0898266/characters/nm1069180
+girl_2,diamond_white,Girl #2,Diamond White,
+officer_hernandez,david_barrera,Officer Hernandez,David Barrera,
+maria,monica_garcia,Maria,Monica Garcia,
 wardrobe_person,rod_keller,Wardrobe Person,Rod Keller,https://www.imdb.com/title/tt0898266/characters/nm2467060
 jeanie,kara_luiz,Jeanie,Kara Luiz,https://www.imdb.com/title/tt0898266/characters/nm2388022
+voicemail,phyllis_timbes,Voicemail,Phyllis Timbes,
 kenneth,steve_valentine,Kenneth,Steve Valentine,https://www.imdb.com/title/tt0898266/characters/nm0884313
 professor_sharpe,paul_willson,Professor Sharpe,Paul Willson,https://www.imdb.com/title/tt0898266/characters/nm0932750
 zombie,max_adler,Zombie,Max Adler,https://www.imdb.com/title/tt0898266/characters/nm2301438
+receptionist,louise_claps,Receptionist,Louise Claps,
 grace,patrika_darbo,Grace,Patrika Darbo,https://www.imdb.com/title/tt0898266/characters/nm0004858
+alien,jeff_jingle,Alien,Jeff Jingle,
 candidate_2,kurt_koehler,Candidate #2,Kurt Koehler,https://www.imdb.com/title/tt0898266/characters/nm0463282
 adam_nimoy,adam_nimoy,Adam Nimoy,Adam Nimoy,https://www.imdb.com/title/tt0898266/characters/nm0632382
 hostess,angela_relucio,Hostess,Angela Relucio,https://www.imdb.com/title/tt0898266/characters/nm3016406
+caller,rena_strober,Caller,Rena Strober,
+tech_support_recording,katherine_von_till,Tech Support Recording,Katherine Von Till,
+moviegoer,jeff_witzke,Moviegoer,Jeff Witzke,
 nolan,josh_banday,Nolan,Josh Banday,https://www.imdb.com/title/tt0898266/characters/nm4881498
 glenn_the_maitre_d,creagen_dow,Glenn the Maitre D',Creagen Dow,https://www.imdb.com/title/tt0898266/characters/nm1747518
 ainsley,amanda_payton,Ainsley,Amanda Payton,https://www.imdb.com/title/tt0898266/characters/nm3170406
 denise,brooke_baumer,Denise,Brooke Baumer,https://www.imdb.com/title/tt0898266/characters/nm1163271
 dr_harris,susan_chuang,Dr. Harris,Susan Chuang,https://www.imdb.com/title/tt0898266/characters/nm0160930
+nurse,cat_hammons,Nurse,Cat Hammons,
+rose_lady,elka_rodriguez,Rose Lady,Elka Rodriguez,
 toby,jeffrey_cade_ross_brown,Toby,Jeffrey Cade Ross Brown,https://www.imdb.com/title/tt0898266/characters/nm8580106
 croupier,evan_charest,Croupier,Evan Charest,https://www.imdb.com/title/tt0898266/characters/nm3490701
 grant,patrick_daniel,Grant,Patrick Daniel,https://www.imdb.com/title/tt0898266/characters/nm3818149
 letty,eileen_galindo,Letty,Eileen Galindo,https://www.imdb.com/title/tt0898266/characters/nm0302153
 mark_hamill,mark_hamill,Mark Hamill,Mark Hamill,https://www.imdb.com/title/tt0898266/characters/nm0000434
+georgie,montana_jordan,Georgie,Montana Jordan,
+andrea,alison_martin,Andrea,Alison Martin,
 wendell,bob_stephenson,Wendell,Bob Stephenson,https://www.imdb.com/title/tt0898266/characters/nm0827307
+dr_pemberton,sean_astin,Dr. Pemberton,Sean Astin,
+marissa_johnson,lindsey_kraft,Marissa Johnson,Lindsey Kraft,
 lillian,jan_hoag,Lillian,Jan Hoag,https://www.imdb.com/title/tt0898266/characters/nm0387431
 joan,amy_tolsky,Joan,Amy Tolsky,https://www.imdb.com/title/tt0898266/characters/nm0866212
 car_thief_2,frank_alvarez,Car Thief #2,Frank Alvarez,https://www.imdb.com/title/tt0898266/characters/nm1123694
+gretchen,briana_cuoco,Gretchen,Briana Cuoco,
+justin,dawson_fletcher,Justin,Dawson Fletcher,
 man,anil_margsahayam,Man,Anil Margsahayam,https://www.imdb.com/title/tt0898266/characters/nm1905449
 travis,casper_smart,Travis,Casper Smart,https://www.imdb.com/title/tt0898266/characters/nm3432415
 candidate_3,arshad_aslam,Candidate #3,Arshad Aslam,https://www.imdb.com/title/tt0898266/characters/nm2780953
 attractive_red_head,rebecca_ann_johnson,Attractive Red Head,Rebecca Ann Johnson,https://www.imdb.com/title/tt0898266/characters/nm2270211
+alien_2,mark_maitre,Alien #2,Mark Maitre,
+customer,shane_blades,Customer,Shane Blades,
 daniel,bryan_safi,Daniel,Bryan Safi,https://www.imdb.com/title/tt0898266/characters/nm2043855
 susan,katey_sagal,Susan,Katey Sagal,https://www.imdb.com/title/tt0898266/characters/nm0005408
 adam_west,adam_west,Adam West,Adam West,https://www.imdb.com/title/tt0898266/characters/nm0001842
+clerk,nicole_j_butler,Clerk,Nicole J. Butler,
+man,joey_rich,Man,Joey Rich,
 dr_zane,george_wyner,Dr. Zane,George Wyner,https://www.imdb.com/title/tt0898266/characters/nm0943927
 greg,luis_aldana,Greg,Luis Aldana,https://www.imdb.com/title/tt0898266/characters/nm1577888
 hostess,dkia_anderson,Hostess,D'Kia Anderson,https://www.imdb.com/title/tt0898266/characters/nm3566468
+colin,hermie_castillo,Colin,Hermie Castillo,
+waiter,matt_knudsen,Waiter,Matt Knudsen,
 cynthia,megan_mcgown,Cynthia,Megan McGown,https://www.imdb.com/title/tt0898266/characters/nm6414078
 sunny_morrow,ciara_renee,Sunny Morrow,Ciara Renée,https://www.imdb.com/title/tt0898266/characters/nm4946636
 judge_1,kurt_scholler,Judge #1,Kurt Scholler,https://www.imdb.com/title/tt0898266/characters/nm1461039
+dr_graybel,david_theune,Dr. Graybel,David Theune,
+greg,shay_ali,Greg,Shay Ali,
+cynthia,hira_ambrosino,Cynthia,Hira Ambrosino,
+karen,chasty_ballesteros,Karen,Chasty Ballesteros,
+russian_mission_control,endre_hules,Russian Mission Control,Endre Hules,
 chauffeur,john_mendoza,Chauffeur,John Mendoza,https://www.imdb.com/title/tt0898266/characters/nm0579302
+guy,rick_gifford,Guy,Rick Gifford,
 woman,tonja_kahlens,Woman,Tonja Kahlens,https://www.imdb.com/title/tt0898266/characters/nm1812972
+marta,kaliko_kauahi,Marta,Kaliko Kauahi,
 christopher,tucker_albrizzi,Christopher,Tucker Albrizzi,https://www.imdb.com/title/tt0898266/characters/nm3235380
 bellman,giovanni_bejarano,Bellman,Giovanni Bejarano,https://www.imdb.com/title/tt0898266/characters/nm2159326
+leslie,kikey_castillo,Leslie,Kikéy Castillo,
 earl,seth_coltan,Earl,Seth Coltan,https://www.imdb.com/title/tt0898266/characters/nm0173276
+chad,hugh_kennedy,Chad,Hugh Kennedy,
+brenda,keili_lefkovitz,Brenda,Keili Lefkovitz,
 older_gentleman,robert_noble,Older Gentleman,Robert Noble,https://www.imdb.com/title/tt0898266/characters/nm0633659
 jeff,jareb_dauplaise,Jeff,Jareb Dauplaise,https://www.imdb.com/title/tt0898266/characters/nm1237494
 randall,jack_mcbrayer,Randall,Jack McBrayer,https://www.imdb.com/title/tt0898266/characters/nm1442113
 tour_guide,andy_taylor_kim,Tour Guide,Andy Taylor Kim,https://www.imdb.com/title/tt0898266/characters/nm6776371
+beautiful_young_woman,lexie_contursi,Beautiful Young Woman,Lexie Contursi,
+deli_patron,alfredo_tavares,Deli Patron,Alfredo Tavares,
 lonely_larry,owen_thayer,Lonely Larry,Owen Thayer,https://www.imdb.com/title/tt0898266/characters/nm4060843
 comic_book_store_customer,jesse_heiman,Comic Book Store Customer,Jesse Heiman,https://www.imdb.com/title/tt0898266/characters/nm1035503
+cafeteria_patron,erin_pickett,Cafeteria Patron,Erin Pickett,
+ballroom_dancer,cindera_che,Ballroom Dancer,Cindera Che,
+cafeteria_patron,rachel_steele,Cafeteria Patron,Rachel Steele,
 gilda,iris_bahr,Gilda,Iris Bahr,https://www.imdb.com/title/tt0898266/characters/nm0052754
 katie,amanda_walsh,Katie,Amanda Walsh,https://www.imdb.com/title/tt0898266/characters/nm1303038
 delivery_man,craig_duda,Delivery Man,Craig Duda,https://www.imdb.com/title/tt0898266/characters/nm2190582
+professor_goldfarb,joel_brooks,Professor Goldfarb,Joel Brooks,
+restaurant_patron,john_druzba,Restaurant Patron,John Druzba,
 chinese_international_grad_student,william_ngo,Chinese International Grad Student,William Ngo,https://www.imdb.com/title/tt0898266/characters/nm1736996
+kid_playing_guitar,alex_strahle,Kid Playing Guitar,Alex Strahle,
+mike,matt_barr,Mike,Matt Barr,
+rajs_bar_lady,lori_anne_shields,Raj's Bar Lady,Lori Anne Shields,
+woman,jannette_bloom,Woman,Jannette Bloom,
+jedi,chadney_brewer,Jedi,Chadney Brewer,
+singer,ren_hanami,Singer,Ren Hanami,
+janet_hill,janet_hill,Janet Hill,Janet Hill,
+girl_in_line_at_park,jade_holden,Girl in Line at Park,Jade Holden,
+movie_goer,kristen_kimmick,Movie Goer,Kristen Kimmick,
+gorn,michael_shawn_mccracken,Gorn,Michael Shawn McCracken,
+extra,lisa_randall,Extra,Lisa Randall,
+cheesecake_factory_diner,drew_annen,Cheesecake Factory Diner,Drew Annen,
+wealthy_benefactor,richard_bernard,Wealthy Benefactor,Richard Bernard,
+waiter,jeff_blum,Waiter,Jeff Blum,
+movie_goer,louis_fasanaro,Movie Goer,Louis Fasanaro,
+professor,julie_michaels,Professor,Julie Michaels,
+ricky_the_smoking_monkey,crystal_the_monkey,Ricky the Smoking Monkey,Crystal the Monkey,
 brent_spiner,brent_spiner,Brent Spiner,Brent Spiner,https://www.imdb.com/title/tt0898266/characters/nm0000653
+bollywood_dancer,johnny_vinton,Bollywood Dancer,Johnny Vinton,
+guy_in_club,derek_blankenship,Guy in Club,Derek Blankenship,
 howie_mandel,howie_mandel,Howie Mandel,Howie Mandel,https://www.imdb.com/title/tt0898266/characters/nm0005177
+guy_at_the_movies,stephane_nicoli,Guy at the Movies,Stephane Nicoli,
 mr_spock,leonard_nimoy,Mr. Spock,Leonard Nimoy,https://www.imdb.com/title/tt0898266/characters/nm0000559
 bachelor_party_attendee,zack_sonnenberg,Bachelor Party Attendee,Zack Sonnenberg,https://www.imdb.com/title/tt0898266/characters/nm2388672
+cheesecake_factory_patron,meli_alexander,Cheesecake Factory Patron,Meli Alexander,
+employee,paul_michael_bair,Employee,Paul Michael Bair,
+eye_rolling_girl_student,seaonna_chanadet,Eye Rolling Girl Student,Seaonna Chanadet,
+waitress,tiffany_giddens,Waitress,Tiffany Giddens,
+paramedic_1,ian_reed_kesler,Paramedic #1,Ian Reed Kesler,
+party_guest,zack_scott,Party Guest,Zack Scott,
+cafeteria_student,ashley_shewell,Cafeteria Student,Ashley Shewell,
+matt,chris_smith,Matt,Chris Smith,
+library_graduate_student,bryan_stamp,Library Graduate Student,Bryan Stamp,
+drunk_scientist,franklin_j_sterns,Drunk Scientist,Franklin J. Sterns,
+mini_bernadette,adora_soleil_bricher,Mini Bernadette,Adora Soleil Bricher,
+bar_patron,cici_leah_campbell,Bar Patron,Cici Leah Campbell,
+bar_patron,alberto_dfonseca,Bar Patron,Alberto D'Fonseca,
+professor_in_cafeteria,daniel_levitin,Professor in Cafeteria,Daniel Levitin,
+airport_pedestrian,bruce_holman,Airport Pedestrian,Bruce Holman,
+audition_girl,lisbeth_kingsley,Audition Girl,Lisbeth Kingsley,
+ellen_degeneres,ellen_degeneres,Ellen DeGeneres,Ellen DeGeneres,
+comic_con_collector,forest_baker,Comic Con Collector,Forest Baker,
+employee,efrain_gomez,Employee,Efrain Gomez,
+bar_patron,priya_gopalan,Bar Patron,Priya Gopalan,
+airline_passenger,marcello_lanfranchi,Airline Passenger,Marcello Lanfranchi,
+restaurant_patron,christopher_baskerville,Restaurant Patron,Christopher Baskerville,
+bike_messenger,jeanelle_marie_cruz,Bike Messenger,Jeanelle Marie Cruz,
+wedding_guest_in_red_dress,chelsea_hamill,Wedding Guest in Red Dress,Chelsea Hamill,
+guy_in_comic_book_store,gene_hatcher,Guy in Comic Book Store,Gene Hatcher,
+assistant_football_coach,reginald_m_jernigan_jr,Assistant Football Coach,Reginald M. Jernigan Jr.,
+comic_book_store_patron,tom_michelsen,Comic Book Store patron,Tom Michelsen,
+tour_group_member,louis_c_robins,Tour Group Member,Louis C. Robins,
+dead_detective,arne_starr,Dead Detective,Arne Starr,
+cafe_patron,stephen_john_williams,Cafe Patron,Stephen John Williams,
