@@ -16,7 +16,7 @@ from docopt import docopt
 import codecs  # for encoding the data as utf-8
 import requests
 from bs4 import BeautifulSoup
-from collections import OrderedDict as dic
+from collections import OrderedDict
 import unidecode
 import re
 
@@ -189,7 +189,7 @@ def initDicChars(idSeries):
     dicChars : `OrderedDict`
         OrderedDict in the format (idCharacter, 0).
     """
-    dicChars = dic()
+    dicChars = OrderedDict()
 
     with open("data/"+idSeries+"/characters.txt", 'r') as chars:
         for charLine in chars:
