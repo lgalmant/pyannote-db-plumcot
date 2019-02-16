@@ -18,6 +18,7 @@ from Plumcot import Plumcot
 import affinegap
 import numpy as np
 from scipy.optimize import linear_sum_assignment
+import os.path
 
 
 def automaticAlignment(refs, hyps):
@@ -86,6 +87,13 @@ def normalizeNames(idSeries, seasonNumber, episodeNumber):
         if idEp not in transCharsSeries:
             continue
         transChars = transCharsSeries[idEp]
+        
+        link = f"../Plumcot/data/{idSeries}/transcripts/{idEp}.txt"
+        if os.path.isfile(link):
+            exists = f"{idEp} already processed. [y] to processe, n to skip: "
+            co = input(exists)
+            if co == 'n':
+                continue
 
         dicNames = automaticAlignment(transChars, imdbChars)
         save = True

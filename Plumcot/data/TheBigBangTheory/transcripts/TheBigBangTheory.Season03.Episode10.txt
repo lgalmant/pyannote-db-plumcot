@@ -1,0 +1,248 @@
+TheBigBangTheory.Season03.Episode10 penny Hey, Leonard, check this out.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Leonard, she’s doing it again.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter I think it upsets Sheldon when you play with the food.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper No. It upsets Sheldon when she willy-nilly takes it from the containers without regard for its equitable distribution. This is essentially why you have famine in India.
+TheBigBangTheory.Season03.Episode10 penny You want me to put it back?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Leonard.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter It upsets Sheldon when you play with the Sheldon.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz What’s up, my nerdizzles? Raj, Sheldon, I want you to meet my girlfriend Bernadette.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Hello.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Leonard, Penny, you know my girlfriend Bernadette.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Yeah. Hey.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Bernadette, say fo’shizzle to my nerdizzles.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski I don’t think I can. I don’t have Howard’s street cred.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I hope it’s all right, I told my girlfriend Bernadette she could join us for dinner.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Sure. The more, the merrier.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Wait, no, that’s a false equivalency. More does not equal merry. If there were 2,000 people in this apartment right now, would we be celebrating? No, we’d be suffocating.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Sheldon…
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Don’t Sheldon me. We ordered for five people, not six.
+TheBigBangTheory.Season03.Episode10 penny Oh, come on, it’s fine. We’ll just put it all on the table, you know, family style.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Oh, sure. And while we’re at it, why don’t we put our hands behind our backs, have an old-fashioned eating contest?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Relax, it’ll be fine, sit down, you guys.
+TheBigBangTheory.Season03.Episode10 all@ NO!
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski What?
+TheBigBangTheory.Season03.Episode10 penny Oh, yeah, you can’t sit there.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Why not?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter That’s where Sheldon sits.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski He can’t sit somewhere else?
+TheBigBangTheory.Season03.Episode10 penny Oh no, no, you see, in the winter, that seat is close enough to the radiator so that he’s warm, yet not so close that he sweats. In the summer, it’s directly in the path of a cross-breeze created by opening windows there and there. It faces the television at an angle that isn’t direct, so he can still talk to everybody, yet not so wide that the picture looks distorted.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Perhaps there’s hope for you after all.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Ooh, I love your shoes.
+TheBigBangTheory.Season03.Episode10 penny Oh, thanks. They are cute, aren’t they?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Where’d you get them?
+TheBigBangTheory.Season03.Episode10 penny Shoes for Less.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski I’ve been meaning to go over there.
+TheBigBangTheory.Season03.Episode10 penny Oh, great selection, great prices.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper My mother was right. Hell is real.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Come on, Sheldon. let the womenfolk chat.
+TheBigBangTheory.Season03.Episode10 penny Womenfolk?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Gals? Chicks? Utero-Americans?
+TheBigBangTheory.Season03.Episode10 penny Just eat your dinner.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Don’t take him too seriously, a lot of what he says is intended as humour.
+TheBigBangTheory.Season03.Episode10 penny Yeah, well, I don’t think it’s very funny.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Me neither, but he just lights up when I laugh.
+TheBigBangTheory.Season03.Episode10 penny Howard, never let her go.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski So, Leonard, Howard says you’re working on fundamental tests of quantum mechanics.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter I am. Are you interested in physics?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Oh, I find it fascinating. If I hadn’t gone into microbiology, I probably would have gone into physics. Or ice dancing.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Actually, my tests of the Aharonov-Bohm quantum interference effect have reached an interesting point. Right now, we’re testing the phase shift due to an electric potential.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski That’s amazing.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Yes. Leonard’s work is nearly as amazing as third graders growing lima beans in wet paper towels. While I appreciate the oh, snap, I’m uncomfortable having your moist breath in my ear.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Are you going to try to set up the voltages using tunnel junctions?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Yes, I am. You want to see a simulation on my laptop?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Oh, yeah, show me. In microbiology, the most exciting thing I get to work with is yeast.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Howard?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Yeah?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Your shoes are delightful. Where did you get them?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz What?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Bazinga. I don’t care.
+TheBigBangTheory.Season03.Episode10 raj_koothrappali Ha! Eat my dust, racially stereotypical plumber.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper That’s not fair. I got stuck behind a tree.
+TheBigBangTheory.Season03.Episode10 raj_koothrappali And a cow and a penguin. Face it dude, whether it’s a real car or a virtual cartoon car, you can’t drive.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Just need a little more practice.
+TheBigBangTheory.Season03.Episode10 raj_koothrappali What you need is cheat codes, motor skills and a magic genie who grants wishes to little boys who suck at Mario Kart.
+TheBigBangTheory.Season03.Episode10 penny Hey, Sheldon, can I talk to you for a second?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper It’s not about shoes, is it? I don’t think I could go through that again.
+TheBigBangTheory.Season03.Episode10 penny It’s not about shoes.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Then speak.
+TheBigBangTheory.Season03.Episode10 penny Um, actually, can we do it in private?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper All right. Go away. I agree, it’s rude, but she asked for privacy.
+TheBigBangTheory.Season03.Episode10 penny Thanks, Raj. Okay, so here’s the thing, I was wondering if you could maybe teach me a little physics?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper A little physics? There’s no such thing. Physics encompasses the entire universe, from quantum particles to supernovas, from spinning electrons to spinning galaxies.
+TheBigBangTheory.Season03.Episode10 penny Yeah, okay, cool. I don’t need the PBS special, I just want to know enough so I can talk to Leonard about his job. You know, like Bernadette does.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Why can’t Leonard teach you?
+TheBigBangTheory.Season03.Episode10 penny ‘Cause I want to surprise him.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Can’t you surprise him in some other way? For example, I’m sure he’d be delightfully taken aback if you cleaned your apartment.
+TheBigBangTheory.Season03.Episode10 penny Come on, Sheldon, this is important to me.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Penny, this would be a massive undertaking, and my time is both limited and valuable.
+TheBigBangTheory.Season03.Episode10 penny You’re sitting here playing video games all day.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Okay, point. What sort of foundation do you have? Did you take any science classes in school?
+TheBigBangTheory.Season03.Episode10 penny Sure. I did the one with the frogs.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper The one with the frogs.
+TheBigBangTheory.Season03.Episode10 penny Yeah, actually, it was pretty cool. A lot of the girls threw up, but I gutted that thing like a deer.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper I’m sorry, Penny, I don’t think so.
+TheBigBangTheory.Season03.Episode10 penny Oh, come on! A smart guy like you, it’ll be a challenge. You can make it like an experiment.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Interesting. I suppose if someone could teach sign language to KoKo the gorilla, I could teach you some rudimentary physics.
+TheBigBangTheory.Season03.Episode10 penny Great! It’s a little insulting, but great. I’ll be KoKo.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Not likely. KoKo learned to understand over 2,000 words, not one of which had anything to do with shoes.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Hey, fellas. This is my girlfriend Bernadette. My girlfriend Bernadette.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Who are all those people?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Have no idea. Hey, Leonard.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Hi.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Hey, look, it’s Howard and his girlfriend Bernadette.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Thought I’d give the little woman a tour of the old salt mines.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski He doesn’t mean salt mines. He means where he works.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Yeah, no, I got it.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski So, how’s your experiment going?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Ah, terrific. We’re getting the electron accelerator set up. We should be ready to go day after tomorrow.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Boy, I’d love to see that.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter You’re welcome to come.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Really? Oh, that’d be great. How exciting is that?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Like Hanukkah in July.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Do they have that?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz No.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Oh. You got me again. This isn’t non-fat yogurt, this is fatty fat fat. Excuse me.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Could you grab me another napkin, sweetie?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Sure.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Thanks, honey. All right, what is your deal?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Excuse me?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Inviting my girlfriend to come see your electron accelerator?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Yeah? So?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Wow! You really are a piece of work. It’s not enough you get the prom queen, you have to get the head of the decorating committee, too?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter What are you talking about?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Don’t play innocent with me. I practically invented using fancy lab equipment to seduce women.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Has it ever worked?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Not so far, but that’s not the point!
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Howard, relax, I’m not interested in your girlfriend.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I hope not, because you don’t want to mess with me. I’m crazy.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter I believe you.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Research journal, entry one. I’m about to embark on one of the great challenges of my scientific career, teaching Penny physics. I’m calling it Project Gorilla.
+TheBigBangTheory.Season03.Episode10 penny Hey, Sheldon.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Come in. Take a seat. Subject has arrived. I’ve extended a friendly casual greeting.
+TheBigBangTheory.Season03.Episode10 penny Ready to get started?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper One moment. Subject appears well-rested and enthusiastic. Apparently, ignorance is bliss. All right, let us begin. Where’s your notebook?
+TheBigBangTheory.Season03.Episode10 penny Um, I don’t have one.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper How are you going to take notes without a notebook?
+TheBigBangTheory.Season03.Episode10 penny I have to take notes?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper How else are you gonna study for the tests?
+TheBigBangTheory.Season03.Episode10 penny There’s gonna be a test?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Tests. Here. It’s college-ruled. I hope that’s not too intimidating.
+TheBigBangTheory.Season03.Episode10 penny Thank you.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper You’re welcome. Now, Introduction to Physics. What is physics? Physics comes from the ancient Greek word physika. It’s at this point that you’ll want to start taking notes. Physika means the science of natural things. And it is there, in ancient Greece, that our story begins.
+TheBigBangTheory.Season03.Episode10 penny Ancient Greece?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Hush. If you have questions, raise your hand. It’s a warm summer evening, circa 600 BC, you’ve finished your shopping at the local market, or agora, and you look up at the night sky. There you notice some of the stars seem to move, so you name them planetes, or wanderer. Yes, Penny?
+TheBigBangTheory.Season03.Episode10 penny Um, does this have anything to do with Leonard’s work?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper This is the beginning of a twenty six hundred year journey we’re going to take together from the ancient Greeks through Isaac Newton to Niels Bohr to Erwin Schrodinger to the Dutch researchers that Leonard is currently ripping off.
+TheBigBangTheory.Season03.Episode10 penny Twenty six hundred years?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Yeah, give or take. As I was saying, it’s a warm summer evening in ancient Greece… Yes, Penny?
+TheBigBangTheory.Season03.Episode10 penny I have to go to the bathroom.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Can’t you hold it?
+TheBigBangTheory.Season03.Episode10 penny Not for twenty six hundred years.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Project Gorilla, entry two. I am exhausted.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Howard?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Huh?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski It unhooks in the front.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Oh, that explains a lot.
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz Howard, I’m home!
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Of course.
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz Senior fitness was cancelled. It turns out you can forget how to ride a bike. I’m fine, but, oy, did Sam Harpootian eat gravel.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz That’s great, Ma!
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz What’s great about an 80-year-old Armenian man with half his chin scraped off?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski I guess I should go.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz No, no, don’t move. Hey, Ma, can I have lamb stew for dinner?
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz Lamb stew? I’d have to go to the supermarket.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Please? I got a real hankering.
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz Oh, I can’t say no to my little tushy face. I’ll be back soon.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Thanks, Ma.
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz Do you want the regular peas or the Le Seur?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Always Le Seur peas with lamb stew!
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz You’re right! When you’re right, you’re right! What if they’re out of the Le Seur?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Then get the regular!
+TheBigBangTheory.Season03.Episode10 debbie_wolowitz All right! You don’t have to yell!
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Sorry about that.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Let me just put that on vibrate.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I’m already on vibrate.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski You know, that one I got. Howard, did you say something to Leonard about me?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Uh, what do you mean?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski He says if I go see his experiment tomorrow it might weird you out.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Really? He said that?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski You’re not jealous of Leonard, are you?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Me? No. I may have mentioned that it’s a little inappropriate to be asking another man’s girlfriend to his experiment without first discussing it with said man.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Are you saying I need to ask your permission to hang out with Leonard?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I didn’t say anything like that. I said Leonard has to ask my permission. Come on, I don’t want to eat lamb stew with my mother. Damn, I was this close on the bra.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Now, remember, Newton realized that Aristotle was wrong and force was not necessary to maintain motion. So let’s plug in our 9.8 meters per second squared as A and we get force, Earth gravity, equals mass times 9.8 meters per second per second. So we can see that MA equals MG and what do we know from this?
+TheBigBangTheory.Season03.Episode10 penny Uh, we know that… Newton was a really smart cookie. Oh! Is that where Fig Newtons come from?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper No, Fig Newtons are named after a small town in Massachusetts. Don’t write that down!
+TheBigBangTheory.Season03.Episode10 penny Sorry.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Now, if MA equals MG what does that imply?
+TheBigBangTheory.Season03.Episode10 penny I don’t know.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper How can you not know? I just told you. Have you suffered a recent blow to the head?
+TheBigBangTheory.Season03.Episode10 penny Hey! You don’t have to be so mean!
+TheBigBangTheory.Season03.Episode10 sheldon_cooper I’m sorry. Have you suffered a recent blow to the head?
+TheBigBangTheory.Season03.Episode10 penny No, you just suck at teaching.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Really? Of those two explanations, which one seems the most likely?
+TheBigBangTheory.Season03.Episode10 penny Oh, God, Sheldon, look I’m trying to understand, but you’re going too fast. Can you just back up a little bit?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper All right. It’s a warm summer evening in ancient Greece…
+TheBigBangTheory.Season03.Episode10 penny Not that far back!
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Okay! At what point did you begin to feel lost?
+TheBigBangTheory.Season03.Episode10 penny I don’t know. Where were we looking up at the night sky?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Greece.
+TheBigBangTheory.Season03.Episode10 penny Damn it!
+TheBigBangTheory.Season03.Episode10 sheldon_cooper There’s no need to get frustrated, people learn at different rates. Unlike objects falling in a vacuum, which…? MA equals MG?
+TheBigBangTheory.Season03.Episode10 penny Squared?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper No.
+TheBigBangTheory.Season03.Episode10 penny Aristotle?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper No.
+TheBigBangTheory.Season03.Episode10 penny Five?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Oh!
+TheBigBangTheory.Season03.Episode10 penny Then I don’t know.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper Why are you crying?
+TheBigBangTheory.Season03.Episode10 penny Because I’m stupid!
+TheBigBangTheory.Season03.Episode10 sheldon_cooper That’s no reason to cry. One cries because one is sad. For example, I cry because others are stupid and it makes me sad.
+TheBigBangTheory.Season03.Episode10 penny Okay, look, can we just please forget about all this extra stuff and can you just tell me what Leonard does?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper All right. Leonard is attempting to learn why sub-atomic particles move the way they do.
+TheBigBangTheory.Season03.Episode10 penny Really? That’s it? Well, that doesn’t sound so complicated.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper It’s not. That’s why Leonard does it.
+TheBigBangTheory.Season03.Episode10 penny Okay, I just have one question. What exactly are sub-atomic particles?
+TheBigBangTheory.Season03.Episode10 sheldon_cooper A good question.
+TheBigBangTheory.Season03.Episode10 penny Thank you.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper And to answer it, we first must ask ourselves, what is physics?
+TheBigBangTheory.Season03.Episode10 penny Oh, balls.
+TheBigBangTheory.Season03.Episode10 sheldon_cooper It’s a warm summer evening in ancient Greece…
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Okay, I got a bone to pick with you.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter What did I do now?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I was in bed with Bernadette, and you text-blocked me.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter What?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz We were completely naked, about to devour each other when, you text her that I have a problem with her hanging out with you.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter You do have a problem with her hanging out with me.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Yeah, but that’s not what you tell her.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter What was I supposed to tell her?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I don’t know, something that doesn’t make me come off as a petty, jealous douche.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter And what would that be?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Come on, do I have to think of everything?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Hey, Leonard. Am I too late to see the experiment? Oh, hi.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Hi.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski What are you doing here?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Same thing you’re doing here. I came to see Leonard’s experiment.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski No, you didn’t. You said Leonard’s experiment was stupid.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter You told her my experiment was stupid?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz I was just repeating what Sheldon said. Let’s not get off topic, Bernadette, I need to apologize. I was wrong to tell you who you should be friends with.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Should I, um, leave you two alone?
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski No, Leonard, you should hear this.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Okay, good, ’cause I wasn’t really gonna go.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Look, I know I come off as confident and worldly, but the truth is I’m not.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter We’re shocked.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Which is why I tend to feel threatened by other guys.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Or loud noises, clowns and nuns.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz But I now realize how foolish that is.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter He had a panic attack once when he got his head stuck in a sweater.
+TheBigBangTheory.Season03.Episode10 howard_wolowitz It was a full turtleneck. Why aren’t you helping me?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter I don’t know. Maybe because I’m crazy?
+TheBigBangTheory.Season03.Episode10 howard_wolowitz Bernadette, please, I’m asking you to give me another chance.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski What do you think, Leonard? Should I give him another chance?
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter It’s up to you. He didn’t call your experiment stupid.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Come here, tushy face.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter Tushy face, that is going on Twitter right now.
+TheBigBangTheory.Season03.Episode10 bernadette_rostenkowski Raj, you should’ve seen Leonard’s experiment. The interference pattern was so cool when the electron beam was on.
+TheBigBangTheory.Season03.Episode10 leonard_hofstadter I’m glad you enjoyed it. Most people aren’t that interested in what I do.
+TheBigBangTheory.Season03.Episode10 penny Actually, that’s not true, Leonard. In fact, recently I’ve been thinking that given the parameters of your experiment, the transport of electrons through the aperture the nano-fabricated metal rings is qualitatively no different than the experiment already conducted in the Netherlands. Their observed phase shift in the diffusing electrons inside the metal ring already conclusively demonstrated the electric analogue of the Aharonov-Bohm quantum-interference effect. That’s it. That’s all I know. Oh, wait! Fig Newtons were named after a town in Massachusetts, not the scientist.
