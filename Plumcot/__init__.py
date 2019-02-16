@@ -202,10 +202,11 @@ class Plumcot(Database):
 
         for file in os.listdir(transFolder):
             if epTemplate in file and '.txt' not in file:
-                with open(transFolder + file, mode='r', encoding="utf8") as epFile:
+                with open(transFolder + file, mode='r',
+                          encoding="utf8") as epFile:
                     characters = set()
                     for line in epFile:
-                        characters.add(line.split()[1])
+                        characters.add(line.split()[0])
                 epName = file.replace('.temp', '')
                 charactersDict[epName] = list(characters)
 
@@ -228,13 +229,15 @@ class Plumcot(Database):
         transFolder = f"{parent}/data/{seriesId}/transcripts/"
 
         fileText = ""
-        with open(transFolder + idEp + '.temp', mode='r', encoding="utf8") as epFile:
+        with open(transFolder + idEp + '.temp', mode='r',
+                  encoding="utf8") as epFile:
             for line in epFile:
                 lineSp = line.split()
-                lineSp[1] = dicNames[lineSp[1]]
+                lineSp[0] = dicNames[lineSp[0]]
                 fileText += " ".join(lineSp) + '\n'
 
-        with open(transFolder + idEp + '.txt', mode='w', encoding="utf8") as epFile:
+        with open(transFolder + idEp + '.txt', mode='w',
+                  encoding="utf8") as epFile:
             epFile.write(fileText)
 
     def __init__(self, preprocessors={}, **kwargs):

@@ -87,7 +87,7 @@ def normalizeNames(idSeries, seasonNumber, episodeNumber):
         if idEp not in transCharsSeries:
             continue
         transChars = transCharsSeries[idEp]
-        
+
         link = f"../Plumcot/data/{idSeries}/transcripts/{idEp}.txt"
         if os.path.isfile(link):
             exists = f"{idEp} already processed. [y] to processe, n to skip: "
