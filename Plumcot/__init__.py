@@ -75,8 +75,7 @@ class Plumcot(Database):
             Dictionnary with episodeId as key and list of IMDB names as value.
         """
 
-        characters_dict = {}
-
+        # Template for processed episodes
         ep_name = id_series
         if season_number:
             ep_name += f".Season{season_number}"
@@ -87,21 +86,23 @@ class Plumcot(Database):
         credits_file = parent / f'data/{id_series}/credits.txt'
         characters_file = parent / f'data/{id_series}/characters.txt'
 
+        # Get credits as list
         characters_list_credits = []
-
         with open(credits_file, mode='r', encoding="utf8") as f:
             for line in f:
                 line_split = line.split(',')
                 if ep_name in line_split[0]:
                     characters_list_credits.append(line_split)
 
+        # Get character names as list
         characters_list = []
         id_name = 1 if full_name else 0
-
         with open(characters_file, mode='r', encoding="utf8") as f:
             for line in f:
                 characters_list.append(line.split(',')[id_name])
 
+        # Create character's list by episode
+        characters_dict = {}
         for episode in characters_list_credits:
             episode_name = episode[0]
             characters_name_list = []
@@ -134,8 +135,7 @@ class Plumcot(Database):
             names as value.
         """
 
-        characters_dict = {}
-
+        # Template for processed episodes
         ep_template = id_series
         if season_number:
             ep_template += f".Season{season_number}"
@@ -146,11 +146,14 @@ class Plumcot(Database):
         temp_transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
                                      f"{ep_template}*.temp")
 
+        # Get transcript character names list by episode
+        characters_dict = {}
         for file in temp_transcripts:
             with open(file, mode='r', encoding="utf8") as ep_file:
                 characters = set()
                 for line in ep_file:
                     characters.add(line.split()[0])
+            # Get episode name
             ep_name = file.split("/")[-1].replace('.temp', '')
             characters_dict[ep_name] = list(characters)
 
@@ -172,6 +175,7 @@ class Plumcot(Database):
         parent = Path(__file__).parent
         trans_folder = f"{parent}/data/{id_series}/transcripts/"
 
+        # Read .temp file and replace speaker names
         file_text = ""
         with open(trans_folder + id_ep + '.temp', mode='r',
                   encoding="utf8") as ep_file:
@@ -180,6 +184,7 @@ class Plumcot(Database):
                 line_split[0] = dic_names[line_split[0]]
                 file_text += " ".join(line_split) + '\n'
 
+        # Write changes
         with open(trans_folder + id_ep + '.txt', mode='w',
                   encoding="utf8") as ep_file:
             ep_file.write(file_text)

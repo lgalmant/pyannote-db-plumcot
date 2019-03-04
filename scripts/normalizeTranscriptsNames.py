@@ -45,11 +45,17 @@ def automatic_alignment(refs, hyps):
     dists = np.ones([size, size])
     for i, ref in enumerate(refs):
         for j, hyp in enumerate(hyps):
+            # Affine gap distance is configured to penalize gap openings,
+            # regardless of the gap length to maximize matching between
+            # firstName_lastName and firstName for example.
             dists[i, j] = affinegap.normalizedAffineGapDistance(
                     ref, hyp, matchWeight=0, mismatchWeight=1, gapWeight=0,
                     spaceWeight=1)
+    # We use Hungarian algorithm which solves the "assignment problem" in a
+    # polynomial time.
     row_ind, col_ind = linear_sum_assignment(dists)
 
+    # Add names ignored by Hungarian algorithm when sizes are not equal
     for i, ref in enumerate(refs):
         if col_ind[i] < min_size:
             names_dict[ref] = hyps[col_ind[i]]
@@ -77,13 +83,17 @@ def normalize_names(id_series, season_number, episode_number):
         Dictionnary with character's names as key and normalized name as value.
     """
 
+    # Plumcot database object
     db = Plumcot()
 
+    # Retrieve IMDB normalized character names
     imdb_chars_series = db.get_characters(id_series, season_number,
                                           episode_number)
+    # Retrieve transcripts normalized character names
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
                                                       episode_number)
 
+    # Iterate over episode IMDB character names
     for id_ep, imdb_chars in imdb_chars_series.items():
         if id_ep not in trans_chars_series:
             continue
@@ -91,15 +101,18 @@ def normalize_names(id_series, season_number, episode_number):
 
         link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
             / 'transcripts' / f'{id_ep}.txt'
+        # If episode has already been processed
         if os.path.isfile(link):
             exists = f"{id_ep} already processed. [y] to processe, n to skip: "
             co = input(exists)
             if co == 'n':
                 continue
 
+        # Get automatic alignment as a dictionnary
         dic_names = automatic_alignment(trans_chars, imdb_chars)
         save = True
 
+        # User input loop
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
                   "of normalized names from IMDB: ")
@@ -115,20 +128,25 @@ def normalize_names(id_series, season_number, episode_number):
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
                             "to skip): ")
+            # Stop and save
             if request == "end":
                 break
+            # Stop without saving
             if request == "stop" or request == "skip":
                 save = False
                 break
+            # Wrong name
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
                 new_name = input("\nType the new character's name "
                                  "(unk for unknown character): ")
+                # Unknown character
                 if new_name == "unk" or not new_name:
                     new_name = f"{request}#unknown#{id_ep}"
                 dic_names[request] = new_name
 
+        # Save changes and create .txt file
         if save:
             db.save_normalized_names(id_series, id_ep, dic_names)
 
