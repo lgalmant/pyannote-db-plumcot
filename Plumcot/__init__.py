@@ -35,7 +35,6 @@ from pyannote.database import Database
 from pyannote.database.protocol import CollectionProtocol
 from pathlib import Path
 import pandas as pd
-import os
 import glob
 
 
@@ -55,19 +54,19 @@ class BaseEpisodes(CollectionProtocol):
 class Plumcot(Database):
     """Plumcot database"""
 
-    def getCharacters(self, seriesId, numSeason=None, numEpisode=None,
-                      fullName=False):
+    def get_characters(self, id_series, season_number=None,
+                       episode_number=None, full_name=False):
         """Get IMDB character's names list.
 
         Parameters
         ----------
-        seriesId : `str`
+        id_series : `str`
             Id of the series.
-        NumSeason : `str`
+        season_number : `str`
             The desired season number. If None, all seasons are processed.
-        numEpisode : `str`
+        episode_number : `str`
             The desired episodeNumber. If None, all episodes are processed.
-        fullName : `bool`
+        full_name : `bool`
             Return id names if False, real names if True.
 
         Returns
@@ -76,56 +75,56 @@ class Plumcot(Database):
             Dictionnary with episodeId as key and list of IMDB names as value.
         """
 
-        charactersDict = {}
+        characters_dict = {}
 
-        epName = seriesId
-        if numSeason:
-            epName += f".Season{numSeason}"
-            if numEpisode:
-                epName += f".Episode{numEpisode}"
+        ep_name = id_series
+        if season_number:
+            ep_name += f".Season{season_number}"
+            if episode_number:
+                ep_name += f".Episode{episode_number}"
 
         parent = Path(__file__).parent
-        creditsFile = parent / f'data/{seriesId}/credits.txt'
-        charactersFile = parent / f'data/{seriesId}/characters.txt'
+        credits_file = parent / f'data/{id_series}/credits.txt'
+        characters_file = parent / f'data/{id_series}/characters.txt'
 
-        charactersListCredits = []
+        characters_list_credits = []
 
-        with open(creditsFile, mode='r', encoding="utf8") as f:
+        with open(credits_file, mode='r', encoding="utf8") as f:
             for line in f:
-                lineSplit = line.split(',')
-                if epName in lineSplit[0]:
-                    charactersListCredits.append(lineSplit)
+                line_split = line.split(',')
+                if ep_name in line_split[0]:
+                    characters_list_credits.append(line_split)
 
-        charactersList = []
-        nameId = 1 if fullName else 0
+        characters_list = []
+        id_name = 1 if full_name else 0
 
-        with open(charactersFile, mode='r', encoding="utf8") as f:
+        with open(characters_file, mode='r', encoding="utf8") as f:
             for line in f:
-                charactersList.append(line.split(',')[nameId])
+                characters_list.append(line.split(',')[id_name])
 
-        for episode in charactersListCredits:
-            episodeName = episode[0]
-            charactersNameList = []
+        for episode in characters_list_credits:
+            episode_name = episode[0]
+            characters_name_list = []
 
-            for idCharacter, character in enumerate(episode[1:]):
+            for id_character, character in enumerate(episode[1:]):
                 if int(character):
-                    charactersNameList.append(charactersList[idCharacter])
+                    characters_name_list.append(characters_list[id_character])
 
-            charactersDict[episodeName] = charactersNameList
+            characters_dict[episode_name] = characters_name_list
 
-        return charactersDict
+        return characters_dict
 
-    def getTranscriptCharacters(self, seriesId, numSeason=None,
-                                numEpisode=None):
+    def get_transcript_characters(self, id_series, season_number=None,
+                                  episode_number=None):
         """Get transcripts character's names list from .temp transcripts files.
 
         Parameters
         ----------
-        seriesId : `str`
+        id_series : `str`
             Id of the series.
-        NumSeason : `str`
+        season_number : `str`
             The desired season number. If None, all seasons are processed.
-        numEpisode : `str`
+        episode_number : `str`
             The desired episodeNumber. If None, all episodes are processed.
 
         Returns
@@ -135,55 +134,55 @@ class Plumcot(Database):
             names as value.
         """
 
-        charactersDict = {}
+        characters_dict = {}
 
-        epTemplate = seriesId
-        if numSeason:
-            epTemplate += f".Season{numSeason}"
-            if numEpisode:
-                epTemplate += f".Episode{numEpisode}"
+        ep_template = id_series
+        if season_number:
+            ep_template += f".Season{season_number}"
+            if episode_number:
+                ep_template += f".Episode{episode_number}"
 
         parent = Path(__file__).parent
-        tempTranscripts = glob.glob(f"{parent}/data/{seriesId}/transcripts/"
-                                    f"{epTemplate}*.temp")
+        temp_transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
+                                     f"{ep_template}*.temp")
 
-        for file in tempTranscripts:
-            with open(file, mode='r', encoding="utf8") as epFile:
+        for file in temp_transcripts:
+            with open(file, mode='r', encoding="utf8") as ep_file:
                 characters = set()
-                for line in epFile:
+                for line in ep_file:
                     characters.add(line.split()[0])
-            epName = file.split("/")[-1].replace('.temp', '')
-            charactersDict[epName] = list(characters)
+            ep_name = file.split("/")[-1].replace('.temp', '')
+            characters_dict[ep_name] = list(characters)
 
-        return charactersDict
+        return characters_dict
 
-    def saveNormalizedNames(self, seriesId, idEp, dicNames):
+    def save_normalized_names(self, id_series, id_ep, dic_names):
         """Saves new transcripts files as .txt with normalized names.
 
         Parameters
         ----------
-        seriesId : `str`
+        id_series : `str`
             Id of the series.
-        seriesId : `str`
+        id_series : `str`
             Id of the episode.
-        dicNames : `dict`
+        dic_names : `dict`
             Dictionnary with matching names (transcript -> normalized).
         """
 
         parent = Path(__file__).parent
-        transFolder = f"{parent}/data/{seriesId}/transcripts/"
+        trans_folder = f"{parent}/data/{id_series}/transcripts/"
 
-        fileText = ""
-        with open(transFolder + idEp + '.temp', mode='r',
-                  encoding="utf8") as epFile:
-            for line in epFile:
-                lineSp = line.split()
-                lineSp[0] = dicNames[lineSp[0]]
-                fileText += " ".join(lineSp) + '\n'
+        file_text = ""
+        with open(trans_folder + id_ep + '.temp', mode='r',
+                  encoding="utf8") as ep_file:
+            for line in ep_file:
+                line_split = line.split()
+                line_split[0] = dic_names[line_split[0]]
+                file_text += " ".join(line_split) + '\n'
 
-        with open(transFolder + idEp + '.txt', mode='w',
-                  encoding="utf8") as epFile:
-            epFile.write(fileText)
+        with open(trans_folder + id_ep + '.txt', mode='w',
+                  encoding="utf8") as ep_file:
+            ep_file.write(file_text)
 
     def __init__(self, preprocessors={}, **kwargs):
         super().__init__(preprocessors=preprocessors, **kwargs)

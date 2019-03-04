@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: normalizeTranscriptsNames.py IDSERIES [-s SEASON] [-e EPISODE]
+"""Usage: normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE]
 
 Arguments:
-    IDSERIES     Id of the series
+    id_series    Id of the series
 
 Options:
     -s SEASON    Season number to iterate on (all seasons if not specified)
@@ -23,7 +23,7 @@ from pathlib import Path
 import Plumcot as PC
 
 
-def automaticAlignment(refs, hyps):
+def automatic_alignment(refs, hyps):
     """Aligns IMDB character's names with transcripts characters names.
 
     Parameters
@@ -35,11 +35,11 @@ def automaticAlignment(refs, hyps):
 
     Returns
     -------
-    namesDict : `dict`
+    names_dict : `dict`
         Dictionnary with character's names as key and normalized name as value.
     """
 
-    namesDict = {}
+    names_dict = {}
     size = max(len(refs), len(hyps))
     min_size = min(len(refs), len(hyps))
     dists = np.ones([size, size])
@@ -52,66 +52,65 @@ def automaticAlignment(refs, hyps):
 
     for i, ref in enumerate(refs):
         if col_ind[i] < min_size:
-            namesDict[ref] = hyps[col_ind[i]]
+            names_dict[ref] = hyps[col_ind[i]]
         else:
-            namesDict[ref] = ""
+            names_dict[ref] = ""
 
-    return namesDict
+    return names_dict
 
 
-def normalizeNames(idSeries, seasonNumber, episodeNumber):
+def normalize_names(id_series, season_number, episode_number):
     """Manual normalization.
 
     Parameters
     ----------
-    idSeries : `str`
+    id_series : `str`
         Id of the series.
-    seasonNumber : `str`
+    season_number : `str`
         The desired season number. If None, all seasons are processed.
-    episodeNumber : `str`
-        The desired episodeNumber. If None, all episodes are processed.
+    episode_number : `str`
+        The desired episode_number. If None, all episodes are processed.
 
     Returns
     -------
-    namesDict : `dict`
+    names_dict : `dict`
         Dictionnary with character's names as key and normalized name as value.
     """
 
     db = Plumcot()
 
-    imdbCharsSeries = db.getCharacters(idSeries, seasonNumber, episodeNumber)
-    transCharsSeries = db.getTranscriptCharacters(idSeries, seasonNumber,
-                                                    episodeNumber)
-    
-   # print(transCharsSeries)
-    
-    for idEp, imdbChars in imdbCharsSeries.items():
-        if idEp not in transCharsSeries:
-            continue
-        transChars = transCharsSeries[idEp]
+    imdb_chars_series = db.get_characters(id_series, season_number,
+                                          episode_number)
+    trans_chars_series = db.get_transcript_characters(id_series, season_number,
+                                                      episode_number)
 
-        link = Path(PC.__file__).parent / 'data' / f'{idSeries}'\
-        / 'transcripts' / f'{idEp}.txt'
+    for id_ep, imdb_chars in imdb_chars_series.items():
+        if id_ep not in trans_chars_series:
+            continue
+        trans_chars = trans_chars_series[id_ep]
+
+        link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+            / 'transcripts' / f'{id_ep}.txt'
         if os.path.isfile(link):
-            exists = f"{idEp} already processed. [y] to processe, n to skip: "
+            exists = f"{id_ep} already processed. [y] to processe, n to skip: "
             co = input(exists)
             if co == 'n':
                 continue
 
-        dicNames = automaticAlignment(transChars, imdbChars)
+        dic_names = automatic_alignment(trans_chars, imdb_chars)
         save = True
 
         while True:
-            print(f"----------------------------\n{idEp}. Here is the list "
+            print(f"----------------------------\n{id_ep}. Here is the list "
                   "of normalized names from IMDB: ")
             names = ""
-            for name in imdbChars:
+            for name in imdb_chars:
                 names += name + ', '
             print(names[:-2], '\n')
 
             print("Automatic alignment:")
-            for name, normName in dicNames.items():
-                print(name, ' -> ', normName)
+            for name, norm_name in dic_names.items():
+                print(name, ' -> ', norm_name)
 
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
@@ -121,29 +120,29 @@ def normalizeNames(idSeries, seasonNumber, episodeNumber):
             if request == "stop" or request == "skip":
                 save = False
                 break
-            if request not in dicNames:
+            if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
-                newName = input("\nType the new character's name "
-                                "(unk for unknown character): ")
-                if newName == "unk" or not newName:
-                    newName = f"{request}#unknown#{idEp}"
-                dicNames[request] = newName
+                new_name = input("\nType the new character's name "
+                                 "(unk for unknown character): ")
+                if new_name == "unk" or not new_name:
+                    new_name = f"{request}#unknown#{id_ep}"
+                dic_names[request] = new_name
 
         if save:
-            db.saveNormalizedNames(idSeries, idEp, dicNames)
+            db.save_normalized_names(id_series, id_ep, dic_names)
 
 
 def main(args):
-    idSeries = args["IDSERIES"]
-    seasonNumber = args['-s']
-    if seasonNumber:
-        seasonNumber = f"{int(seasonNumber):02d}"
-    episodeNumber = args['-e']
-    if episodeNumber:
-        episodeNumber = f"{int(episodeNumber):02d}"
+    id_series = args["<id_series>"]
+    season_number = args['-s']
+    if season_number:
+        season_number = f"{int(season_number):02d}"
+    episode_number = args['-e']
+    if episode_number:
+        episode_number = f"{int(episode_number):02d}"
 
-    normalizeNames(idSeries, seasonNumber, episodeNumber)
+    normalize_names(id_series, season_number, episode_number)
 
 
 if __name__ == '__main__':
