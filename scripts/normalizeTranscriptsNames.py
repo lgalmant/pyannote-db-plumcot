@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: extractionTool.py IDSERIES [-s SEASON] [-e EPISODE]
+"""Usage: normalizeTranscriptsNames.py IDSERIES [-s SEASON] [-e EPISODE]
 
 Arguments:
     IDSERIES     Id of the series
@@ -19,6 +19,8 @@ import affinegap
 import numpy as np
 from scipy.optimize import linear_sum_assignment
 import os.path
+from pathlib import Path
+import Plumcot as PC
 
 
 def automaticAlignment(refs, hyps):
@@ -77,18 +79,19 @@ def normalizeNames(idSeries, seasonNumber, episodeNumber):
 
     db = Plumcot()
 
-    tbbt = db.get_protocol('Collection', idSeries)
-
-    imdbCharsSeries = tbbt.getCharacters(seasonNumber, episodeNumber)
-    transCharsSeries = tbbt.getTranscriptCharacters(seasonNumber,
+    imdbCharsSeries = db.getCharacters(idSeries, seasonNumber, episodeNumber)
+    transCharsSeries = db.getTranscriptCharacters(idSeries, seasonNumber,
                                                     episodeNumber)
-
+    
+   # print(transCharsSeries)
+    
     for idEp, imdbChars in imdbCharsSeries.items():
         if idEp not in transCharsSeries:
             continue
         transChars = transCharsSeries[idEp]
 
-        link = f"../Plumcot/data/{idSeries}/transcripts/{idEp}.txt"
+        link = Path(PC.__file__).parent / 'data' / f'{idSeries}'\
+        / 'transcripts' / f'{idEp}.txt'
         if os.path.isfile(link):
             exists = f"{idEp} already processed. [y] to processe, n to skip: "
             co = input(exists)
@@ -128,7 +131,7 @@ def normalizeNames(idSeries, seasonNumber, episodeNumber):
                 dicNames[request] = newName
 
         if save:
-            tbbt.saveNormalizedNames(idEp, dicNames)
+            db.saveNormalizedNames(idSeries, idEp, dicNames)
 
 
 def main(args):

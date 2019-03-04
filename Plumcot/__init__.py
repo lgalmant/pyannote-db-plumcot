@@ -36,6 +36,7 @@ from pyannote.database.protocol import CollectionProtocol
 from pathlib import Path
 import pandas as pd
 import os
+import glob
 
 
 class BaseEpisodes(CollectionProtocol):
@@ -49,61 +50,6 @@ class BaseEpisodes(CollectionProtocol):
         for line in lines:
             uri = line.split(',')[0]
             yield {'uri': uri, 'database': 'Plumcot'}
-
-    def getCharacters(self, numSeason=None, numEpisode=None,
-                      fullName=False):
-        """Get IMDB character's names list.
-
-        Parameters
-        ----------
-        NumSeason : `str`
-            The desired season number. If None, all seasons are processed.
-        numEpisode : `str`
-            The desired episodeNumber. If None, all episodes are processed.
-        fullName : `bool`
-            Return id names if False, real names if True.
-
-        Returns
-        -------
-        namesDict : `dict`
-            Dictionnary with episodeId as key and list of IMDB names as value.
-        """
-
-        return Plumcot.getCharacters(None, self.SERIES, numSeason,
-                                     numEpisode, fullName)
-
-    def getTranscriptCharacters(self, numSeason=None, numEpisode=None):
-        """Get transcripts character's names list from .temp transcripts files.
-
-        Parameters
-        ----------
-        NumSeason : `str`
-            The desired season number. If None, all seasons are processed.
-        numEpisode : `str`
-            The desired episodeNumber. If None, all episodes are processed.
-
-        Returns
-        -------
-        namesDict : `dict`
-            Dictionnary with episodeId as key and list of transcript
-            names as value.
-        """
-
-        return Plumcot.getTranscriptCharacters(None, self.SERIES, numSeason,
-                                               numEpisode)
-
-    def saveNormalizedNames(self, idEp, dicNames):
-        """Saves new transcripts files as .txt with normalized names.
-
-        Parameters
-        ----------
-        seriesId : `str`
-            Id of the episode.
-        dicNames : `dict`
-            Dictionnary with matching names (transcript -> normalized).
-        """
-
-        Plumcot.saveNormalizedNames(None, self.SERIES, idEp, dicNames)
 
 
 class Plumcot(Database):
@@ -151,10 +97,10 @@ class Plumcot(Database):
                     charactersListCredits.append(lineSplit)
 
         charactersList = []
+        nameId = 1 if fullName else 0
 
         with open(charactersFile, mode='r', encoding="utf8") as f:
             for line in f:
-                nameId = 1 if fullName else 0
                 charactersList.append(line.split(',')[nameId])
 
         for episode in charactersListCredits:
@@ -198,17 +144,16 @@ class Plumcot(Database):
                 epTemplate += f".Episode{numEpisode}"
 
         parent = Path(__file__).parent
-        transFolder = f"{parent}/data/{seriesId}/transcripts/"
+        tempTranscripts = glob.glob(f"{parent}/data/{seriesId}/transcripts/"
+                                    f"{epTemplate}*.temp")
 
-        for file in os.listdir(transFolder):
-            if epTemplate in file and '.txt' not in file:
-                with open(transFolder + file, mode='r',
-                          encoding="utf8") as epFile:
-                    characters = set()
-                    for line in epFile:
-                        characters.add(line.split()[0])
-                epName = file.replace('.temp', '')
-                charactersDict[epName] = list(characters)
+        for file in tempTranscripts:
+            with open(file, mode='r', encoding="utf8") as epFile:
+                characters = set()
+                for line in epFile:
+                    characters.add(line.split()[0])
+            epName = file.split("/")[-1].replace('.temp', '')
+            charactersDict[epName] = list(characters)
 
         return charactersDict
 
