@@ -166,7 +166,7 @@ class Plumcot(Database):
         ----------
         id_series : `str`
             Id of the series.
-        id_series : `str`
+        id_ep : `str`
             Id of the episode.
         dic_names : `dict`
             Dictionnary with matching names (transcript -> normalized).

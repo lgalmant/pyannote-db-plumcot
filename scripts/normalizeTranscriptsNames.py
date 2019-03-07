@@ -21,16 +21,21 @@ from scipy.optimize import linear_sum_assignment
 import os.path
 from pathlib import Path
 import Plumcot as PC
+import json
 
 
-def automatic_alignment(refs, hyps):
+def automatic_alignment(id_series, id_ep, refs, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
 
     Parameters
     ----------
+    id_series : `str`
+        Id of the series.
+    id_ep : `str`
+        Id of the episode.
     refs : `list`
         List of character's names from transcripts.
-    hyps : `list`
+    hypsT : `list`
         List of character's names from IMDB.
 
     Returns
@@ -40,6 +45,24 @@ def automatic_alignment(refs, hyps):
     """
 
     names_dict = {}
+    save_dict = {}
+
+    hyps = hypsT[:]
+
+    # Loading user previous matching names
+    savePath = Path(__file__).parent / f"{id_series}.json"
+    if os.path.isfile(savePath):
+        with open(savePath, 'r') as f:
+            save_dict = json.load(f)
+
+        # Process data to take user matching names in account
+        for trans_name in list(refs):
+            if trans_name in save_dict:
+                names_dict[trans_name] = save_dict[trans_name]
+                refs.remove(trans_name)
+                if save_dict[trans_name] in hyps:
+                    hyps.remove(save_dict[trans_name])
+
     size = max(len(refs), len(hyps))
     min_size = min(len(refs), len(hyps))
     dists = np.ones([size, size])
@@ -60,7 +83,7 @@ def automatic_alignment(refs, hyps):
         if col_ind[i] < min_size:
             names_dict[ref] = hyps[col_ind[i]]
         else:
-            names_dict[ref] = ""
+            names_dict[ref] = unknown_char(ref, id_ep)
 
     return names_dict
 
@@ -109,7 +132,8 @@ def normalize_names(id_series, season_number, episode_number):
                 continue
 
         # Get automatic alignment as a dictionnary
-        dic_names = automatic_alignment(trans_chars, imdb_chars)
+        dic_names = automatic_alignment(id_series, id_ep, trans_chars,
+                                        imdb_chars)
         save = True
 
         # User input loop
@@ -143,12 +167,44 @@ def normalize_names(id_series, season_number, episode_number):
                                  "(unk for unknown character): ")
                 # Unknown character
                 if new_name == "unk" or not new_name:
-                    new_name = f"{request}#unknown#{id_ep}"
+                    new_name = unknown_char(request, id_ep)
                 dic_names[request] = new_name
 
         # Save changes and create .txt file
         if save:
+            save_matching(id_series, dic_names)
             db.save_normalized_names(id_series, id_ep, dic_names)
+
+
+def unknown_char(char_name, id_ep):
+    """Transforms character name into unknown version."""
+
+    return f"{char_name}#unknown#{id_ep}"
+
+
+def save_matching(id_series, dic_names):
+    """Saves user matching names
+
+    Parameters
+    ----------
+    id_series : `str`
+        Id of the series.
+    dic_names : `dict`
+        Dictionnary with matching names (transcript -> normalized).
+    """
+
+    save_dict = {}
+    savePath = Path(__file__).parent / f"{id_series}.json"
+    if os.path.isfile(savePath):
+        with open(savePath, 'r') as f:
+            save_dict = json.load(f)
+
+    for name_trans, name_norm in dic_names.items():
+        if "#unknown" not in name_norm:
+            save_dict[name_trans] = name_norm
+
+    with open(Path(__file__).parent / f"{id_series}.json", 'w') as f:
+        json.dump(save_dict, f)
 
 
 def main(args):
