@@ -131,8 +131,8 @@ class Plumcot(Database):
         Returns
         -------
         namesDict : `dict`
-            Dictionnary with episodeId as key and list of transcript
-            names as value.
+            Dictionnary with episodeId as key and dictionnary as value with
+            transcripts as key and number of speech turns as value
         """
 
         # Template for processed episodes
@@ -150,12 +150,16 @@ class Plumcot(Database):
         characters_dict = {}
         for file in temp_transcripts:
             with open(file, mode='r', encoding="utf8") as ep_file:
-                characters = set()
+                characters = {}
                 for line in ep_file:
-                    characters.add(line.split()[0])
+                    charac = line.split()[0]
+                    if charac not in characters:
+                        characters[charac] = 1
+                    else:
+                        characters[charac] += 1
             # Get episode name
             ep_name = file.split("/")[-1].replace('.temp', '')
-            characters_dict[ep_name] = list(characters)
+            characters_dict[ep_name] = characters
 
         return characters_dict
 

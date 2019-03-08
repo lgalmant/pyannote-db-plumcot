@@ -24,7 +24,7 @@ import Plumcot as PC
 import json
 
 
-def automatic_alignment(id_series, id_ep, refs, hypsT):
+def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
 
     Parameters
@@ -33,8 +33,9 @@ def automatic_alignment(id_series, id_ep, refs, hypsT):
         Id of the series.
     id_ep : `str`
         Id of the episode.
-    refs : `list`
-        List of character's names from transcripts.
+    refsT : `dict`
+        Dictionnary of character's names from transcripts as key and number of
+        speech turns as value.
     hypsT : `list`
         List of character's names from IMDB.
 
@@ -48,6 +49,7 @@ def automatic_alignment(id_series, id_ep, refs, hypsT):
     save_dict = {}
 
     hyps = hypsT[:]
+    refs = refsT.copy()
 
     # Loading user previous matching names
     savePath = Path(__file__).parent / f"{id_series}.json"
@@ -56,12 +58,13 @@ def automatic_alignment(id_series, id_ep, refs, hypsT):
             save_dict = json.load(f)
 
         # Process data to take user matching names in account
-        for trans_name in list(refs):
+        for trans_name in refs.copy():
             if trans_name in save_dict:
-                if '@' in save_dict[trans_name] or \
-                save_dict[trans_name] in hyps:
+                if ('@' in save_dict[trans_name] or
+                        save_dict[trans_name] in hyps):
+
                     names_dict[trans_name] = save_dict[trans_name]
-                    refs.remove(trans_name)
+                    refs.pop(trans_name)
                     if save_dict[trans_name] in hyps:
                         hyps.remove(save_dict[trans_name])
 
@@ -149,7 +152,9 @@ def normalize_names(id_series, season_number, episode_number):
 
             print("Automatic alignment:")
             for name, norm_name in dic_names.items():
-                print(name, ' -> ', norm_name)
+                # Get number of speech turns of the character for this episode
+                appearence = trans_chars[name]
+                print(f"{name} ({appearence})  ->  {norm_name}")
 
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
