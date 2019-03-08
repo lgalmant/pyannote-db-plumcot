@@ -58,7 +58,7 @@ def automatic_alignment(id_series, id_ep, refs, hypsT):
         # Process data to take user matching names in account
         for trans_name in list(refs):
             if trans_name in save_dict:
-                if save_dict[trans_name] in hyps:
+                if save_dict[trans_name] in hyps or trans_name == "all":
                     names_dict[trans_name] = save_dict[trans_name]
                     refs.remove(trans_name)
                     if save_dict[trans_name] in hyps:
