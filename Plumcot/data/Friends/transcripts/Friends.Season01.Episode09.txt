@@ -48,7 +48,7 @@ phoebe_buffay Ooh, ooh! Why don't we invite her?
 dr_ross_geller Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner.
 dr_ross_geller Hi, is uh, is Carol here?
 susan_bunch No, she's at a faculty meeting.
-dr_ross_geller Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan
+dr_ross_geller Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
 dr_ross_geller Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
 susan_bunch What's it look like?
 dr_ross_geller Kinda like a big face without skin.
@@ -196,7 +196,7 @@ rachel_green Because!
 monica_geller Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...
 chandler_bing Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go.
 monica_geller Well, the turkey's burnt. Potatoes are ruined, potatoes are ruined, potatoes are ruined.
-dr_ross_geller Here we come, walkin' down the - this doesn't smell like Mom's.
+dr_ross_geller Here we come, walkin' down the-this doesn't smell like Mom's.
 monica_geller No, it doesn't, does it? But you wanted lumps, Ross? Well, here you go, buddy, ya got one.
 rachel_green Oh, god, this is great! The plane is gone, so it looks like I'm stuck here with you guys.
 joey_tribbiani Hey, we all had better plans. This was nobody's first choice.

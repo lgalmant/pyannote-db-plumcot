@@ -8,6 +8,7 @@ chandler_bing Ye-e-es!!
 joey_tribbiani Hey.
 all@ Hey.
 joey_tribbiani Uh, listen I gotta double check for tickets tonight. Who-who got what?
+chandler_bing@phoebe_buffay@rachel_green I had one.
 monica_geller I need two. I'm bringing Pete. My boyfriend. I have a boyfriend now!
 joey_tribbiani Two it is. Ross, how about you?
 dr_ross_geller Uh, yeah, I ah, I also need two.
@@ -187,7 +188,7 @@ gunther Sorry. She thought you were somebody else.
 rachel_green What time is it?
 monica_geller One.
 dr_ross_geller One.
-chandler_bing 7
+chandler_bing 7:15. Watch doesn't work.
 rachel_green Tommy's supposed to be here soon, we're going to lunch.
 dr_ross_geller Look. Look, I wasn't going to say anything to you, but... All right, I don't think you should be seeing Tommy anymore.
 rachel_green You don't?!
@@ -229,7 +230,7 @@ lauren Tonight. What are you doing?
 joey_tribbiani I'm coming up!
 tommy Hey, mind if I use the phone?
 phoebe_buffay Oh, I
-chandler_bing Why don't you use ours across the hall, 'cause she... has... problems.
+chandler_bing Why don't you use ours across the hall, 'cause she...has...problems.
 dr_ross_geller Oh-ho, whoa! Sorry, Tommy. I almost spilled this hot coffee on you.
 tommy Yeah, but you didn't.
 dr_ross_geller No, but it's-it's-it's hot!

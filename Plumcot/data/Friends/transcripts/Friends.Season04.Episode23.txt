@@ -25,7 +25,7 @@ chandler_bing Okay, 'cause that's not gonna get annoying.
 joey_tribbiani London baby!!
 chandler_bing Hey, y'know what? I was wrong.
 dr_ross_geller Well, we're all here! I guess we should get going!
-phoebe_buffay Ohhh, I wanna come over there and give you a hug and wish you luck on your wedding, but I don't - can't get up.
+phoebe_buffay Ohhh, I wanna come over there and give you a hug and wish you luck on your wedding, but I don't-can't get up.
 dr_ross_geller Oh, I'll-I'll come hug you.
 phoebe_buffay Great! Yeah, could you bring me the newspaper?
 dr_ross_geller Yeah.
@@ -64,7 +64,7 @@ chandler_bing Okay, if you see a little version of me in there? Kill it!
 joey_tribbiani I got it! Here we go.
 chandler_bing Okay. Listen-listen, we're not gonna have to walk this way the entire time are we?
 joey_tribbiani Shhh! Man, you made me lose it!
-emily_waltham and that was all before 10 o'clock. The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon. And then the florist phoned to say there aren't any tulips. Oh, and the chilliest has carpel-tunel syndrome. We're not gonna be
+emily_waltham ...and that was all before 10 o'clock. The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon. And then the florist phoned to say there aren't any tulips. Oh, and the chilliest has carpel-tunel syndrome. We're not gonna be
 dr_ross_geller Whoa-whoa-whoa! Emily, honey, okay?
 emily_waltham Well, up yours too!
 dr_ross_geller What?! No! No! That's-that's time-out!
@@ -104,7 +104,7 @@ rachel_green Still in love with?!
 phoebe_buffay Yeah!
 rachel_green I'm not in love with Ross!
 phoebe_buffay Oh. No. No. Good! Yeah, me neither.
-rachel_green Phoebe, I'm going to Ross's wedding because he is my ex-boyfriend and that would be really uncomfortable. Not because, I'm still in love with him! I mean, hey, y'know, I like Ross as much as the next guy, y'know? Clearly I have feelings for him, but feelings don't mean love! I mean, I still have loving feelings for Ross. Yeah! But, I have, I have continuing feelings of love, but that doesn't mean that-that I'm still in love with him. Y'know? I-I have sexual feelings for him, but I do love him - Ohh! Oh my God! Oh my - why didn't you tell me?!!
+rachel_green Phoebe, I'm going to Ross's wedding because he is my ex-boyfriend and that would be really uncomfortable. Not because, I'm still in love with him! I mean, hey, y'know, I like Ross as much as the next guy, y'know? Clearly I have feelings for him, but feelings don't mean love! I mean, I still have loving feelings for Ross. Yeah! But, I have, I have continuing feelings of love, but that doesn't mean that-that I'm still in love with him. Y'know? I-I have sexual feelings for him, but I do love him-Ohh! Oh my God! Oh my-why didn't you tell me?!!
 phoebe_buffay We thought you knew!
 rachel_green We?!
 phoebe_buffay Yeah, we all know! We talk about it all the time!
@@ -145,7 +145,7 @@ dr_ross_geller No. I'm saying it's now.
 emily_waltham Or?
 dr_ross_geller There's no 'or' in mind. What is wrong with these pants?!!
 emily_waltham It's not the pants. It's you that is backwards. And if, and if you don't understand how important this is to me, well then, perhaps we shouldn't get married at all!
-dr_ross_geller No, wait! Emily! No, wait, stop! Emily, please -
+dr_ross_geller No, wait! Emily! No, wait, stop! Emily, please-
 phoebe_buffay Hey!
 rachel_green Hi.
 phoebe_buffay So, did shopping make you feel any better about Ross?
@@ -160,7 +160,7 @@ phoebe_buffay And a glass of tepid water.
 rachel_green Ooh, is this one of those things where you throw it in a bag with some graveyard dirt and hang it from a north-facing tree?
 phoebe_buffay Uh, only if you have the hiccups too. Yeah, the pictures are for you, the water and the chocolate is for me. I just didn't feel like getting up. Okay, I'm gonna show you a picture of Ross. Okay? And you're going to remember all of the bad things about him. All right? Really focus on his flaws.
 rachel_green I can do that. I certainly did it when we were going out.
-phoebe_buffay Okay. Umm, before we get started, I just wanna say for the record that I love Ross, I think he's such a great guy. Here. Okay, now, close your eyes. And imagine that you're with Ross okay and imagine that you're kissing him. And you're-you're running your hands all over his body. And then you run your hands through his hair, but eew-oh gross it's some kind of grease, it's - uck! Hah?
+phoebe_buffay Okay. Umm, before we get started, I just wanna say for the record that I love Ross, I think he's such a great guy. Here. Okay, now, close your eyes. And imagine that you're with Ross okay and imagine that you're kissing him. And you're-you're running your hands all over his body. And then you run your hands through his hair, but eew-oh gross it's some kind of grease, it's-uck! Hah?
 rachel_green I don't know, his uh, his hair never really bothered me that much, and y'know it was always more crunchy than it was greasy.
 phoebe_buffay Okay, this is going to be harder than I thought. Umm, let's try some uh, aversion therapy.
 rachel_green Okay.
@@ -218,7 +218,7 @@ joey_tribbiani Yeah. Hey, I hope Ross didn't think that we just went in there be
 chandler_bing I hope he did!
 phoebe_buffay Hello.
 joey_tribbiani Hey, Pheebs! It's Joey!
-phoebe_buffay Hey, Joey! Hey! Ooh! Ooh! I just say someone on the - that looks just like you on the subway. And I was gonna go over and say 'hi!' but then I figured, he doesn't care if he looks like you.
+phoebe_buffay Hey, Joey! Hey! Ooh! Ooh! I just say someone on the-that looks just like you on the subway. And I was gonna go over and say 'hi!' but then I figured, he doesn't care if he looks like you.
 joey_tribbiani That just cost me four bucks. But uh listen, I just called to see how the chick and the duck are doing?
 phoebe_buffay Ohh, they're having a great time with their Aunt Phoebe! Aunt Rachel hasn't been helpful at all. So, do you miss me?
 joey_tribbiani Kinda, but I've just been having way too much fun.
@@ -252,10 +252,10 @@ phoebe_buffay Yeah, it's in the guys' apartment under the sink. Why?
 rachel_green Because I'm going to London.
 phoebe_buffay What?! What do you mean you're going to London?
 rachel_green Yeah, I have to tell Ross that I love him. Now honey, you take care, you don't have those babies until I get back.
-phoebe_buffay I - Rachel, you can't go! Ross loves Emily!
+phoebe_buffay I-Rachel, you can't go! Ross loves Emily!
 rachel_green Yeah, I know, I know, I know he does. But I have to tell him how I feel! He deserves to have all the information and then he can make an informed decision.
 phoebe_buffay That's not why you're going! You're going because you hope he's gonna say, "Yeah, I love you too, Rach. Forget that British chippy."
-rachel_green Ohh - Do you think he will?!
+rachel_green Ohh-Do you think he will?!
 phoebe_buffay No! Because he's in love with the British chippy! Look, Rachel, if you go, you're just gonna mess with his head and ruin his wedding! Y'know, it's too late! You missed you're chance! I'm sorry, I know this must be really hard, it's over.
 rachel_green Y'know what? No. It's not over until someone says, "I do."
 phoebe_buffay I do! I do! I do! I do! Ugh, like I can really chase you. I'm carrying a litter.
@@ -278,14 +278,14 @@ mr_geller#unknown#Friends.Season04.Episode23 Ohh, I thought that you....
 dr_ross_geller@monica_geller Dad, dad. We got it!! We Got It!!!
 emily_waltham Ohh, here comes my dad and stepmum. Mister and Misses Geller, this is Steven and Andrea Waltham.
 mr_waltham#unknown#Friends.Season04.Episode23 Hello. Hello. How do you do? How do you do? Very nice to meet you. Darling it's the Gellers. Darling, it's the Gellers. She's very self-absorbed, you know. I should never have married her.
-emily_waltham Sorry, what?
+mrs_waltham#unknown#Friends.Season04.Episode23 Sorry, what?
 mr_waltham#unknown#Friends.Season04.Episode23 It's the Gellers!
-emily_waltham Where?
-mr_waltham#unknown#Friends.Season04.Episode23 Well there's one and there's another .
-emily_waltham Lovely to meet you.
+mrs_waltham#unknown#Friends.Season04.Episode23 Where?
+mr_waltham#unknown#Friends.Season04.Episode23 Well there's one and there's another
+mrs_waltham#unknown#Friends.Season04.Episode23 Lovely to meet you.
 mr_waltham#unknown#Friends.Season04.Episode23 Terribly nice of you to offer to pay for half the wedding.
 mr_geller#unknown#Friends.Season04.Episode23 Ohh forget it. Too hell with tradition, we're happy to do it.
-mrs_geller#unknown#Friends.Season04.Episode23 We know how expensive weddings can be, besides this may be the only wedding we get to throw .
+mrs_geller#unknown#Friends.Season04.Episode23 We know how expensive weddings can be, besides this may be the only wedding we get to throw
 monica_geller Ha ha, a joke that's funny in all countries.
 waiter#unknown#Friends.Season04.Episode23 Sir?
 joey_tribbiani What's in it?
@@ -303,37 +303,37 @@ mr_geller#unknown#Friends.Season04.Episode23 And you tell him no one takes advan
 mrs_geller#unknown#Friends.Season04.Episode23 Ooh, Jack.... Sometimes I forget how powerful you can be.
 monica_geller And I'm going to go get drunk.
 rachel_green Ooh, ooh, ooh,ooh,ooh. Hi.
-the_vendor Hello.
+ticket_agent#unknown#Friends.Season04.Episode23 Hello.
 rachel_green Hello. Umm, when is your next flight to London?
-the_vendor There's one leaving in thirty minutes.
+ticket_agent#unknown#Friends.Season04.Episode23 There's one leaving in thirty minutes.
 rachel_green Ohh, good.
-the_vendor And I do have one seat left.
+ticket_agent#unknown#Friends.Season04.Episode23 And I do have one seat left.
 rachel_green Ohh, thank you, thank you, thank you.
-the_vendor The last minute fare on this ticket is twenty seven hundred dollars.
+ticket_agent#unknown#Friends.Season04.Episode23 The last minute fare on this ticket is twenty seven hundred dollars.
 rachel_green Ohh, I just don't think I have enough left on my credit card.
-the_vendor Well you can split it with another credit card.
+ticket_agent#unknown#Friends.Season04.Episode23 Well you can split it with another credit card.
 rachel_green Ohh, okay, how about five. Ohh, thank you.
-the_vendor I'm just going to need to see your passport.
+ticket_agent#unknown#Friends.Season04.Episode23 I'm just going to need to see your passport.
 rachel_green Okay, you know what? I don't have it, but I can tell you exactly where it is on my night stand, and...okay. But you know what? I have my drivers license and I have a twenty.
 dr_ross_geller Look, face it, my father is not going to pay for the build-in barbecue and believe me you can kiss you gazebo goodbye. Now I might be able to get you the new lawn.
 mr_waltham#unknown#Friends.Season04.Episode23 Ahh, then you have to give us the lawn ornaments.
 dr_ross_geller I go back there with lawn ornaments, he's going to laugh in my face.
-emily_waltham This is ridiculous. I mean we had an agreement. Will you say something, Steven?! Please!!!
+mrs_waltham#unknown#Friends.Season04.Episode23 This is ridiculous. I mean we had an agreement. Will you say something, Steven?! Please!!!
 mr_waltham#unknown#Friends.Season04.Episode23 Don't take that tone with me. All-all right you can.
 rachel_green Hi, Pheebs.
 phoebe_buffay Oh thank god. Oh, you changed your mind. Oh, look I know you probably want to be alone, and you don't want to talk about it, that's fine. I just want you to know, I think you are doing the right thing and...
 rachel_green Bye, Pheebs.
 phoebe_buffay Wait!! Where are you going?! What are you doing?! No!! Wait!! God!! Why am I always pregnant when she does that?!
 chandler_bing I'd like to toast, Ross and Emily. Of course, my big toast will be tomorrow at the wedding, so this is kind of my little toast or Melba toast, if you will. Okay. I known Ross for a long time. In fact, I knew him when he was going out with his first girlfriend. And I thought things were going to work out for him..Until the day he over inflated her. Ohh, Dear God..
-emily_waltham Hello, Waltham Interiors.
+mrs_waltham#unknown#Friends.Season04.Episode23 Hello, Waltham Interiors.
 phoebe_buffay Oh, hi, Mrs. Waltham. I need to speak with ether one of the best men, or Ross's sister Monica.
-emily_waltham Who is this?
+mrs_waltham#unknown#Friends.Season04.Episode23 Who is this?
 phoebe_buffay Oh, I'm Phoebe Buffay. I'm one of Ross's best friends.
-emily_waltham Well, if you're on e of Ross's best friends, why aren't you here?
+mrs_waltham#unknown#Friends.Season04.Episode23 Well, if you're on e of Ross's best friends, why aren't you here?
 phoebe_buffay Yeah, um, I can't fly. I'm having my brother's babies.
-emily_waltham Oh, am I on the radio?
+mrs_waltham#unknown#Friends.Season04.Episode23 Oh, am I on the radio?
 phoebe_buffay No..umm, could I talk to one of them? It's very very important.
-emily_waltham No, I'm bored with you now. I'm going to cut you off.
+mrs_waltham#unknown#Friends.Season04.Episode23 No, I'm bored with you now. I'm going to cut you off.
 phoebe_buffay Ohh! Okay, I'm going to have to kick her ass too.
 chandler_bing And I'm sure we're all very excited that Ross and Emily are getting married at Montgomery Hall. I mean to think, my friend getting married in Monty Hall. Ohh, come on!! Monty Hall!! Lets make a Deal!! Come on, you people!! All right, forget it!! Congratulations, Ross and Emily.
 joey_tribbiani Hey, best man number two, Joey Tribbiani. Now I'm not good with the jokes like Chandler here. Boy...but ahh, I just want to say congratulation to the happy couple. I first met Ross in this coffee house back home...Home...New York City...Where everybody knows my name. Well anyway, I love you guys. But not as much as I love America. Could we please..go home now?
@@ -357,15 +357,15 @@ monica_geller Oh, my mother's right. I'm never going to get married.
 chandler_bing Ahh, you know what? That is....Who wouldn't want you?
 monica_geller Ohh, Please?! I'm a single mom, with a thirty year old son!!
 rachel_green Hi, I'm back. Listen, I need to...
-the_vendor Hello.
+ticket_agent#unknown#Friends.Season04.Episode23 Hello.
 rachel_green Hello. I need to get on the 11 o'clock flight.
-the_vendor Oh I'm afraid that plane has already pulled away from the gate.
+ticket_agent#unknown#Friends.Season04.Episode23 Oh I'm afraid that plane has already pulled away from the gate.
 rachel_green Okay, you know what/ You're going to have to call that plane and tell them to swing around and come and pick me up.
-the_vendor I can't do that.
+ticket_agent#unknown#Friends.Season04.Episode23 I can't do that.
 rachel_green Sure, you know what? Come on, we'll just tell them that there was like a problem with like the "engine".
-the_vendor I'm afraid I'm going to have to ask you to step aside, Miss.
+ticket_agent#unknown#Friends.Season04.Episode23 I'm afraid I'm going to have to ask you to step aside, Miss.
 rachel_green Look, If I don't get to London!! He is going to marry that other girl!!!
-the_vendor I can't imagine why.
+ticket_agent#unknown#Friends.Season04.Episode23 I can't imagine why.
 rachel_green All right, you know what? I am not leaving here, until you call that plane back!!
 dr_ross_geller I'm getting married today!! Whoo-hoo!!
 chandler_bing Morning, Ross.
@@ -413,7 +413,7 @@ joey_tribbiani Look we've got to find her. Phoebe just called!! Rachel's coming 
 chandler_bing Oh my god!
 joey_tribbiani I know! That's why we got to find Monica!! You know where she is?
 chandler_bing No!! Okay!! What's with the third degree?! Why don't you just shine a light in my eyes?!
-rachel_green ...And so then I realized. All this stuff I had been doing. proposing to Joshua, lying to Ross about why I couldn't come to the wedding. Was all just a way of...
+rachel_green ..And so then I realized. All this stuff I had been doing. proposing to Joshua, lying to Ross about why I couldn't come to the wedding. Was all just a way of...
 passenger#unknown#Friends.Season04.Episode23 Oh, oh oh!! I'm sorry, can I interrupt? You know I just want to say..That you are a horrible, horrible person.
 rachel_green Ehh, pardon me?
 passenger#unknown#Friends.Season04.Episode23 You say you love this man, yet you're about to ruin the happiest day of his life. I'm afraid I have to agree with you friend Pheebs.. This is a..this is a...terrible, terrible plan.
@@ -422,7 +422,7 @@ passenger#unknown#Friends.Season04.Episode23 But why? He loves this...this Emily
 rachel_green Well I-I think your wrong.
 passenger#unknown#Friends.Season04.Episode23 Oh-no.And by the way, it seems to be perfectly clear that you were on a break.
 mrs_geller#unknown#Friends.Season04.Episode23 Oh my God! It's like a fairyland.
-emily_waltham I know, it's horrible isn't it?
+mrs_waltham#unknown#Friends.Season04.Episode23 I know, it's horrible isn't it?
 monica_geller Well, I love it. I only hope my wedding looks this good.
 mrs_geller#unknown#Friends.Season04.Episode23 I just hope...
 monica_geller You can let some of them go by!
@@ -456,11 +456,11 @@ emily_waltham Ohh... Oh! You were not meant to see me before the wedding. It's b
 dr_ross_geller You know what, I think we've had all the bad luck we're going to have.
 dr_ross_geller My God. Rachel! Your here. I can't believe it. What happen? Why are you here?
 rachel_green Well I just came... I just needed to tell you... Congratulations.
-emily_waltham Hello, Waltham Interiors.
+mrs_waltham#unknown#Friends.Season04.Episode23 Hello, Waltham Interiors.
 phoebe_buffay Mrs. Waltham. Hi. It's Phoebe again.
-emily_waltham Why?!
+mrs_waltham#unknown#Friends.Season04.Episode23 Why?!
 phoebe_buffay Yea. Can I please, please, please talk to one of the best men? This is going to be the last time I promise.
-emily_waltham Joey there's a girl on the phone for you.
+mrs_waltham#unknown#Friends.Season04.Episode23 Joey there's a girl on the phone for you.
 joey_tribbiani Ohh great!! Hello.
 phoebe_buffay Did you stop Rachel?
 joey_tribbiani No, but it's okay. She just came in and gave him a hug, that it.

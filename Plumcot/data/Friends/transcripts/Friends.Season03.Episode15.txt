@@ -34,7 +34,7 @@ joey_tribbiani Uh, y'know what, we're having second thoughts about our copying n
 isaac Chloe, switch with me, there's some guys here that got a crush on you.
 chandler_bing Okay, that hurt us.
 chloe Hi guys. I haven't seen you since this morning.
-chandler_bing Well ah, ........y'know.
+chandler_bing Well ah,.......y'know.
 chloe Hey, what are you guys doing tomorrow night?
 joey_tribbiani Both of us?
 chloe Maybe. Does that scare ya?
@@ -75,9 +75,9 @@ phoebe_buffay Anyway, I'm going out with Sergei again tonight, and um, could you
 monica_geller Yeah, well kinda cute, like really kinda cute, or kinda cute like your friend Spackel Back Larry?
 phoebe_buffay Hey, don't call him that! His name is Spackel Back Harry!
 chandler_bing Hey, y'know what, maybe we should get going. I mean what time did Chloe say we should be there?
-joey_tribbiani Uh, 10
+joey_tribbiani Uh, 10:30.
 chandler_bing What time is it now?
-joey_tribbiani 4
+joey_tribbiani 4:30.
 chandler_bing Yeah all right, so we'll hang out.
 joey_tribbiani Yeah. Hey, remember when she brought up that thing about the three of us?
 chandler_bing Yes. Vividly.

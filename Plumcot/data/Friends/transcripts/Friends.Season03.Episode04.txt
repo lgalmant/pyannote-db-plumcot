@@ -30,7 +30,7 @@ janice What is the great tragedy here? You go get yourself another appointment.
 joey_tribbiani Well, Estelle tried, you know. The casting director told her that I missed my chance.
 phoebe_buffay That is unfair. I'll call her and tell her it was totally my fault.
 joey_tribbiani Pheebs, you can't do that. The casting director doesn't talk to friends, she only talks to agents.
-phoebe_buffay What a sad little life she must lead. Okay, ooh .
+phoebe_buffay What a sad little life she must lead. Okay, ooh
 joey_tribbiani What, what are you doing? What are you doing?
 phoebe_buffay No, no, no, I know, I know, ooh. 'Hi, this is Katelynn, from Phoebe Buffay's office. Um, is um, Ann there for Phoebe, she'll know what it's about.'
 joey_tribbiani Hang up, hang up.
@@ -61,7 +61,7 @@ chandler_bing Okay, last night at dinner, when the meals came, she put half her 
 dr_ross_geller And that's bad because..., you hate chicken piccata?
 chandler_bing Noo.
 dr_ross_geller You didn't want to share your tomatoes, tomatoes are very important to you.
-chandler_bing No, it's like all of the sudden, we were this couple. And this alarm started going off in my head
+chandler_bing No, it's like all of the sudden, we were this couple. And this alarm started going off in my head: 'Run for your life! Get out of the building!'
 rachel_green Men are unbelievable.
 monica_geller What is it with you people! I mean, the minute you start to feel something, you have to run away?
 chandler_bing I know, that, that's why I don't want to go tonight, I'm afraid I'm going to say something stupid.
@@ -193,7 +193,7 @@ phoebe_buffay What?
 joey_tribbiani Wait a minute, did you just make up all that stuff just to get out of being my agent.
 phoebe_buffay Oh, you caught me. I am so busted.
 joey_tribbiani That's-ah what I suspected-ah.
-chandler_bing ....And then I just, you know, threw the bag of barley at her, and ran out of the store.
+chandler_bing ...And then I just, you know, threw the bag of barley at her, and ran out of the store.
 monica_geller My God! Chandler, we said be 'aloof' not 'a doof'.
 chandler_bing I've actually ruined this haven't I? It's time for the good ice cream now, right?
 rachel_green Yeah, it is.

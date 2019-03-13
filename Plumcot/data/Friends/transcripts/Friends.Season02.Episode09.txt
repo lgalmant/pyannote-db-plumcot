@@ -7,7 +7,7 @@ chandler_bing Yeah, we were gonna give fifty, but if you guys gave more, we don'
 monica_geller Oh, actually this year we just made him homemade cookies.
 chandler_bing And twenty-five it is.
 joey_tribbiani You gave him cookies?
-monica_geller Money is so impersonal. Cookies says someone really cares. . . Alright, we're broke, but cookies do say that.
+monica_geller Money is so impersonal. Cookies says someone really cares. Alright, we're broke, but cookies do say that.
 phoebe_buffay I can see that. A plate of brownies once told me a limerick.
 chandler_bing Phoebs, let me ask you something, were, were these, uh, funny brownies?
 phoebe_buffay Not especially. But you know what, I think they had pot in them.
@@ -23,15 +23,17 @@ dr_ross_geller Yeah, but not very well, unless 14-across, 'Gershwin musical' act
 joey_tribbiani I can't believe it's Christmas already. Ya know, I mean, one day your eatin' turkey, the next thing ya know, your lords are a-leapin' and you geese are a-layin'.
 chandler_bing Which is why geese are so relaxed this time of year.
 dr_ross_geller Hey guys.
-dr_ross_geller Hey Rach. I, uh, got you a little present. . . I'll open it. It's a Slinky! Remember, huh.
+chandler_bing@joey_tribbiani@monica_geller Hey.
+dr_ross_geller Hey Rach. I, uh, got you a little present. I'll open it. It's a Slinky! Remember, huh.
 rachel_green Horrible and degrading list of reasons not to be with me?
 dr_ross_geller How 'bout from now on we just call it the 'unfortunate incident'? Hey Gunther, you got stairs in your place?
 gunther Yeah.
 dr_ross_geller Here, go nuts.
 dr_ross_geller Hey guys.
+chandler_bing@joey_tribbiani@monica_geller Hey.
 chandler_bing What's in the bag?
 dr_ross_geller Um, just some presents.
-joey_tribbiani C'mon show us what you bought. . . You know you want to.
+joey_tribbiani C'mon show us what you bought. You know you want to.
 dr_ross_geller OK. OK, this is a picture frame from Ben to my parents, huh.
 monica_geller Cute.
 dr_ross_geller I got some, uh, hers and hers towels for Susan and Carol. And, uh, I got this blouse for mom.
@@ -54,31 +56,31 @@ phoebe_buffay It's not a blue screen... it's just, maybe it was just really clea
 monica_geller Oh, wait a minute honey.
 gang#unknown#Friends.Season02.Episode09 Phoebs.
 monica_geller Wow.
-joey_tribbiani So anyway, I'm trying to get my boss's ex-wife to sleep with me. . .
+joey_tribbiani So anyway, I'm trying to get my boss's ex-wife to sleep with me.
 gang#unknown#Friends.Season02.Episode09 Joey!
 joey_tribbiani Oh, but when Phoebe has a problem, everyone's all ears!
-grandmother#unknown#Friends.Season02.Episode09 Esther Livingston. Gone.
-grandmother#unknown#Friends.Season02.Episode09 Hi, Phoe.
+frances Esther Livingston. Gone.
+frances Hi, Phoe.
 phoebe_buffay Hi Gram. Whatcha doin'?
-grandmother#unknown#Friends.Season02.Episode09 Oh, just updating the phonebook.
+frances Oh, just updating the phonebook.
 phoebe_buffay Um, gram, um, can I see the pictures of my dad again?
-grandmother#unknown#Friends.Season02.Episode09 Oh. Oh, sure, sure, uh, uh, how come?
+frances Oh. Oh, sure, sure, uh, uh, how come?
 phoebe_buffay Just, you know, to see... um.
-grandmother#unknown#Friends.Season02.Episode09 Oh, sure, yeah. This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. . . another graduation. . . another graduation.
+frances Oh, sure, yeah. This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. another graduation. another graduation.
 phoebe_buffay OK, is this really my father?
-grandmother#unknown#Friends.Season02.Episode09 Is it really your fa--I can't... well of course it is.
+frances Is it really your fa--I can't... well of course it is.
 phoebe_buffay OK, I smell smoke. Maybe that's 'cause someone's pants are on fire.
-grandmother#unknown#Friends.Season02.Episode09 Look, I. . .
+frances Look, I.
 phoebe_buffay Ya know, in all the years that we have been grandmother and granddaughter, you have never lied to me.
-grandmother#unknown#Friends.Season02.Episode09 Alright, that is not your father, that's just a picture of a guy in a frame.
+frances Alright, that is not your father, that's just a picture of a guy in a frame.
 phoebe_buffay Oh God.
-grandmother#unknown#Friends.Season02.Episode09 It was your mother's idea. Ya know, she didn't want you to know your real father because it hurt her so much when he left, and, I didn't want to go along with it, but, well then she died and, and it was harder to argue with her. Not impossible, but harder.
+frances It was your mother's idea. Ya know, she didn't want you to know your real father because it hurt her so much when he left, and, I didn't want to go along with it, but, well then she died and, and it was harder to argue with her. Not impossible, but harder.
 phoebe_buffay Alright, so, what, he's not a famous tree surgeon? And then, I guess, OK, he doesn't live in a hut in Burma where there's no phones?
-grandmother#unknown#Friends.Season02.Episode09 Last I heard, he was a pharmacist somewhere upstate.
+frances Last I heard, he was a pharmacist somewhere upstate.
 phoebe_buffay OK, that makes no sense. Why would the villagers worship a pharmacist?
-grandmother#unknown#Friends.Season02.Episode09 Honey.
+frances Honey.
 phoebe_buffay Oh.
-grandmother#unknown#Friends.Season02.Episode09 Anyway, that's all I know. That, and this. This is the real him.
+frances Anyway, that's all I know. That, and this. This is the real him.
 phoebe_buffay Oh.
 chandler_bing Ya know I remember my father, all dressed up in the red suit, the big black boots, and the patent leather belt, sneakin around downstairs. He didn't want anybody to see him but he'd be drunk so he'd stumble, crash into something and wake everybody up.
 rachel_green Well, that doesn't sound like a very merry Christmas.
@@ -98,26 +100,27 @@ chandler_bing Don't you have to be Claymation to say stuff like that?
 rachel_green Oh, by the way Mon, I don't think the mailman liked your cookies. Here are the ornaments your mom sent.
 monica_geller Well, maybe the mailman liked the cookies, we just didn't give him enough.
 joey_tribbiani Monica, pigeons learn faster that you.
-rachel_green Wha... forget it Ross, no, I am not gonna stand here and make a list of. . .
+dr_ross_geller Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me.
+rachel_green Wha... forget it Ross, no, I am not gonna stand here and make a list of.
 dr_ross_geller C'mon Rachel.
 rachel_green OK, you're whiney, you are, you're obsessive, you are insecure, you're, you're gutless, you know, you don't ever, you don't just sort of seize the day, you know. You like me for what, a year, you didn't do anything about it. And, uh, oh, you wear too much of that gel in your hair.
 dr_ross_geller See there, you uhh, alright, ya, you did what I said.
 rachel_green Yeah, and you know what? You're right, I do feel better, thank you Ross.
-phoebe_buffay Yeah, um, in Albany, can I have the number of Frank Buffay. . . OK, um, in Ithica. . . alright, um, Saratoga. . . Oneonta. Alright, you know what, you shouldn't call youself information.
-grandmother#unknown#Friends.Season02.Episode09 Hey.
+phoebe_buffay Yeah, um, in Albany, can I have the number of Frank Buffay. OK, um, in Ithica. alright, um, Saratoga. Oneonta. Alright, you know what, you shouldn't call youself information.
+frances Hey.
 phoebe_buffay Hello grandma, if that is in fact your real name.
-grandmother#unknown#Friends.Season02.Episode09 C'mon now Phoe, don't still be mad at me. How's it going?
+frances C'mon now Phoe, don't still be mad at me. How's it going?
 phoebe_buffay Well, not so good. Upstate's pretty big, he's pretty small, you do the math.
-grandmother#unknown#Friends.Season02.Episode09 Well, I think you're better off without him. Oh honey, I know he's your daddy but, but to me he's still the irresponsible creep who knocked up your mom and stole her Gremlin.
+frances Well, I think you're better off without him. Oh honey, I know he's your daddy but, but to me he's still the irresponsible creep who knocked up your mom and stole her Gremlin.
 phoebe_buffay No I just, just wanted to know who he was, ya know.
-grandmother#unknown#Friends.Season02.Episode09 I know. OK, I wasn't completely honest with you when I told you that, uh, I didn't know exactly where he lived.
+frances I know. OK, I wasn't completely honest with you when I told you that, uh, I didn't know exactly where he lived.
 phoebe_buffay Whattaya mean?
-grandmother#unknown#Friends.Season02.Episode09 He lives at 74 Laurel Drive in Middletown. If you hit the Dairy Queen, you've gone too far. You can take my cab.
+frances He lives at 74 Laurel Drive in Middletown. If you hit the Dairy Queen, you've gone too far. You can take my cab.
 phoebe_buffay Wow. Thank you.
-grandmother#unknown#Friends.Season02.Episode09 Now, remember, nobody else drives that cab.
+frances Now, remember, nobody else drives that cab.
 phoebe_buffay Uh-huh, got it. Ooh, I'm gonna see my dad. Wish me luck, Grandpa!
 joey_tribbiani Phoebe here with the cab yet?
-chandler_bing Yeah, she, she brought the invisible cab. . . hop in.
+chandler_bing Yeah, she, she brought the invisible cab. hop in.
 joey_tribbiani Well she better get here soon, the outlet stores close at 7.
 chandler_bing Hey, don't worry. I figure it'll be 2 hours to Phoebe's dad's house, they'll meet, they'll chat, they'll swap life stories, we'll still have plenty of time.
 joey_tribbiani Hey, here she comes.
@@ -141,11 +144,11 @@ dr_ross_geller C'mon, just tell me, please, please.
 monica_geller For the sixteenth time, no... I do not think you're obsessive.
 rachel_green Oh, gosh, it's hot in here.
 monica_geller Rach, get the heat. Ross, could you turn the heat down please?
-dr_ross_geller Sure. By the way, there's a difference between being obsessive and. . .
+dr_ross_geller Sure. By the way, there's a difference between being obsessive and.
 monica_geller Ross, the heat!
-dr_ross_geller Fine, OK! Heat, heat, heat, and I'm the obsessive one. OK, this way is on, so this is. . . off.
+dr_ross_geller Fine, OK! Heat, heat, heat, and I'm the obsessive one. OK, this way is on, so this is. off.
 rachel_green Did you just break the radiator?
-dr_ross_geller No, no, I was turnin' the knob and, and. . . here it is.
+dr_ross_geller No, no, I was turnin' the knob and, and. here it is.
 monica_geller Well put it back.
 dr_ross_geller It uhh, it won't go back.
 rachel_green I'll call the super.
@@ -155,7 +158,7 @@ monica_geller Hey, it's Funny's cousin, Not Funny.
 rachel_green Hi, Mr. Treeger. Hi, it's Rachel Green from upstairs. Yes,
 dr_ross_geller OK, tip the man.
 monica_geller No, if he doesn't like our cookies, too bad, I am not gonna be blackmailed. Look if worse comes to worse, it gets a little warm, we'll call it a theme party.
-dr_ross_geller Hey, here's a theme
+dr_ross_geller Hey, here's a theme: Come on in, live like bacon.
 phoebe_buffay Ooh, this is it, 74.
 chandler_bing Oh, so that's what this is for.
 phoebe_buffay Wow, this is it, I'm gonna meet my dad. This is like the biggest thing ever, huh.
@@ -164,7 +167,7 @@ joey_tribbiani Sure is.
 phoebe_buffay OK, here I go. I'm goin' in.
 chandler_bing Alright.
 joey_tribbiani Good luck Phoebs.
-phoebe_buffay OK, here I go. . . here I go. . . I'm goin'.
+phoebe_buffay OK, here I go. here I go. I'm goin'.
 rachel_green Hi, welcome to our tropical Christmas party. You can put your coats and sweaters and pants and shirts in the bedroom.
 dr_ross_geller It's hard to tell because I'm sweating, but I use exactly what the gel bottle says, an amount about the size of a pea. How, how can that be too much?
 monica_geller Ice, ice, ice squares anyone? Take a napkin. Alright.
@@ -174,9 +177,11 @@ rachel_green Mr. Treeger.
 mr_treeger Uhh, you said there was a party.
 rachel_green Oh, yeah, well hey, welcome to our sauna.
 mr_treeger Ahh, is it hot? My body always stays cool, probably 'cause I have so much skin. Hey, cheese!
+dr_ross_geller Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything.
 monica_geller No, I will not cave.
 rachel_green Yeah, I'm with Mon.
 dr_ross_geller Alright, alright, you know how you say I never seize the day? Well, alright, even though he's your super, I'm seizing. Mr. Treeger, here is 50 bucks, merry Christmas.
+mr_treeger Oh wow, I didn't get you anything. Here's five back.
 dr_ross_geller No no, no, that, that's your Christmas tip, alright. Oh, hey, do you think there's a chance you could fix that radiator now?
 mr_treeger No can do, like I told the girl, I can't get a new knob until Thursday.
 monica_geller Ross.
@@ -189,7 +194,7 @@ dr_ross_geller Excuse me, I'm seizing. Mr. Treeger, here's another 50, happy Han
 mr_treeger No, the place is not open 'till Tuesday. Am I not saying it right.
 monica_geller So, wait, you really did like my cookies?
 mr_treeger Oh, yeah, they were so personal, really showed you cared.
-rachel_green Nice seizing. . . gel boy.
+rachel_green Nice seizing. gel boy.
 mr_treeger So, uh, is this, uh, mistletoe?
 rachel_green Huh-huh, no act--no, uhh, that, that is basil.
 mr_treeger Ahh, if it was mistletoe, I was gonna kiss ya.
@@ -200,7 +205,7 @@ phoebe_buffay Mailbox.
 chandler_bing Alright, we're gettin' closer.
 phoebe_buffay Uh-huh.
 joey_tribbiani Phoebs, what's goin' on?
-phoebe_buffay No, it's just like, ya know, it's a whole mess of stuff, ya know. It's like, yesterday, ya know, my dad was this, like, famous Burma tree surgeon guy and, ya know, now he's a, a pharmacist guy and. . .
+phoebe_buffay No, it's just like, ya know, it's a whole mess of stuff, ya know. It's like, yesterday, ya know, my dad was this, like, famous Burma tree surgeon guy and, ya know, now he's a, a pharmacist guy and.
 joey_tribbiani Well, maybe he's, maybe he's this really cool pharmacist guy.
 phoebe_buffay Yeah, maybe, yeah. You know, and, and I'll knock on the door and, and he'll hug me and I'll have a dad. Ya know and I'll, I'll go to his pharmacy and everyone will be really nice to me 'cause, you know, I'm Franks daughter.
 chandler_bing Well, so why not go knock?
@@ -234,3 +239,4 @@ dr_ross_geller You got me a cola drink?
 chandler_bing And, a lemon lime.
 dr_ross_geller Well this, this is too much, I feel like I should get you another sweater.
 chandler_bing And last but not least.
+joey_tribbiani They're ribbed for your pleasure.

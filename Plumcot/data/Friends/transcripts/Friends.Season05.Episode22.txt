@@ -114,17 +114,17 @@ rachel_green What?!
 monica_geller A small puff of air, now come on!
 dr_miller Here we go.
 rachel_green All right.
-dr_miller 1... 2... 3!
+dr_miller 1...2...3!
 rachel_green I'm sorry. All right, I'll just stay in here this time. Okay.
 dr_miller Ready?
 rachel_green Uh-huh.
-dr_miller 1... 2
+dr_miller 1...2
 monica_geller Y'know what, I'm gonna hold her head.
 rachel_green Okay.
 dr_miller That's okay.
 monica_geller Okay.
 rachel_green Okay. Okay!
-dr_miller 1... 2! Y'know what? You're young; you probably don't have glaucoma.
+dr_miller 1...2! Y'know what? You're young; you probably don't have glaucoma.
 rachel_green Great!! It was very, very nice to meet you sir--Ow! Hey! What are you doing?! Are you crazy!
 dr_miller Okay. You've got a small, minor infection in that left eye. I want you to take these drops three times a day and you'll be as good as new.
 rachel_green Yeah, no, I don't-I don't put things in my eye.
@@ -263,7 +263,7 @@ monica_geller No drops!
 rachel_green Great!
 monica_geller Okay.
 rachel_green Okay.
-monica_geller On three, 1... 2... 3! Now my pillow's all wet!
+monica_geller On three, 1...2...3! Now my pillow's all wet!
 rachel_green Well, well, you said it was practice!
 monica_geller Then why did you move?!
 rachel_green Because I knew you were lying!

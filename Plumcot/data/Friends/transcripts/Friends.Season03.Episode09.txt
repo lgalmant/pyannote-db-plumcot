@@ -4,7 +4,7 @@ the_guys#unknown#Friends.Season03.Episode09 We will.
 monica_geller Okay, Rachel, you wanna put the marshmellows in concentric circles.
 rachel_green No Mon, you want to put them in concentric circles. I want to do this.
 monica_geller Every year.
-phoebe_buffay Y'know, for once, I am going to sit down and try to watch one of these things. .
+phoebe_buffay Y'know, for once, I am going to sit down and try to watch one of these things.
 dr_ross_geller Halftime.
 joey_tribbiani Hey, who wants to ah, throw the ball around a little, maybe get a little three on three going?
 rachel_green Oh! That would be sooo much fun!
@@ -47,6 +47,7 @@ joey_tribbiani All right, we have to pick captains.
 chandler_bing And then Tineals.
 phoebe_buffay Okay, so how do we decide that?
 monica_geller Well, why don't we just bunny up.
+chandler_bing@joey_tribbiani@rachel_green What?
 dr_ross_geller@monica_geller Bunny!
 monica_geller Okay, looks like Ross and I are captains. Okay, so um, I bunnied first so that means I get to pick first. Joey.
 joey_tribbiani Thank you.

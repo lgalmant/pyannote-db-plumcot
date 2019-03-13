@@ -5,8 +5,8 @@ shelly Do you want a date Saturday?
 chandler_bing Yes please.
 shelly Okay. He's cute, he's funny, he's-
 chandler_bing He's a he?
-shelly Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now... Okay, goodbye...
-chandler_bing ...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?
+shelly Well yeah!..Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now... Okay, goodbye...
+chandler_bing ..Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?
 rachel_green Um... yeah. Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be...
 chandler_bing You did?
 rachel_green Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not.
@@ -33,7 +33,7 @@ monica_geller Hey dad, what's up? Oh God. Ross, it's Nana.
 dr_ross_geller So, uh, how's she doing?
 aunt_lillian The doctor says it's a matter of hours.
 monica_geller How-how are you, Mom?
-judy_geller Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?
+judy_geller Me? I'm fine, fine. I'm glad you're here...What's with your hair?
 monica_geller What?
 judy_geller What's different?
 monica_geller Nothing.
@@ -42,7 +42,7 @@ monica_geller She is unbelievable, our mother is...
 dr_ross_geller Okay, relax, relax. We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover.
 monica_geller Oh God!
 monica_geller The fuzzy little mints at the bottom of her purse.
-dr_ross_geller Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants.
+dr_ross_geller Oh!..Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants.
 jack_geller Not just restaurants, from our house.
 nanas_nurse Mrs. Geller?
 dr_ross_geller She looks so small.
@@ -74,11 +74,11 @@ dr_ross_geller I dunno, it's weird. I mean, I know she's gone, but I just don't 
 phoebe_buffay Maybe that's 'cause she's not really gone.
 dr_ross_geller Nono, she's gone.
 monica_geller We checked. A lot.
-phoebe_buffay Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her.
+phoebe_buffay Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know?..I miss her.
 rachel_green Aw. Hey, Pheebs, want this?
 phoebe_buffay Thanks!
 rachel_green Sure. I just sharpened her this morning.
-joey_tribbiani Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! ...So Chandler looks gay, huh?
+joey_tribbiani Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food!.So Chandler looks gay, huh?
 phoebe_buffay Y'know, I dunno who this is, but it's not Debbie.
 dr_ross_geller I thought it was gonna be a closed casket.
 judy_geller Well, that doesn't mean she can't look nice!
@@ -92,7 +92,7 @@ monica_geller You what?
 jack_geller I wanna be buried at sea, it looks like fun.
 monica_geller Define fun.
 jack_geller C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
-monica_geller ...And then we throw your body in the water... Gee, that does sound fun.
+monica_geller ..And then we throw your body in the water... Gee, that does sound fun.
 jack_geller Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
 monica_geller That's probably what they'll say.
 jack_geller I'd like that.
@@ -102,7 +102,7 @@ chandler_bing No, nono, don't- don't worry about it. Believe me, apparently othe
 shelly Oh! Okay! Phew!
 chandler_bing So, uh... what do you think it is about me?
 shelly I dunno, uh... you just have a-a...
-chandler_bing ...Quality, right, great.
+chandler_bing ..Quality, right, great.
 shelly Y'know, it's a shame, because you and Lowell would've made a great couple.
 chandler_bing Lowell? Financial Services' Lowell, that's who you saw me with?
 shelly What? He's cute!
@@ -110,7 +110,7 @@ chandler_bing Well, yeah... 's'no Brian in Payroll.
 shelly Is Brian...?
 chandler_bing No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him.
 shelly Well, I think Brian's a little out of your league.
-chandler_bing Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not.
+chandler_bing Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me...I'm really not.
 dr_ross_geller This one?
 aunt_lillian No.
 dr_ross_geller I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
@@ -151,7 +151,7 @@ joey_tribbiani No, it's the pre-game. I'm gonna watch it at the reception.
 chandler_bing You are a frightening, frightening man.
 rachel_green Oh no! My new Paolo shoes!
 dr_ross_geller Oh, I hope they're not ruined.
-phoebe_buffay God, what a great day. ...What? Weather-wise!
+phoebe_buffay God, what a great day...What? Weather-wise!
 dr_ross_geller I know, uh, the air, the-the trees... even though Nana's gone there's, there's something almost, uh- I dunno, almost life-aff-
 all@ God! Ross!
 dr_ross_geller I'm fine. Just-just... having my worst fear realised...
@@ -167,9 +167,9 @@ chandler_bing Hi, I'm Chandler, and I have no idea who Dorothy is.
 phoebe_buffay Hey, look who's up! How do you feel?
 dr_ross_geller I feel great. I feel- great, I fleel great.
 monica_geller Wow, those pills really worked, huh?
-dr_ross_geller Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister , I love Pheebs...
+dr_ross_geller Not the first two, but the second two- woooo!..I love you guys. You guys are the greatest. I love my sister , I love Pheebs...
 phoebe_buffay Ooh! That's so nice...
-dr_ross_geller ...Chandler!
+dr_ross_geller ..Chandler!
 chandler_bing Hey.
 dr_ross_geller And listen, man, if you wanna be gay, be gay. Doesn't matter to me.
 andrea You were right.
@@ -189,21 +189,21 @@ monica_geller Well, sure, what with it being her funeral and all.
 judy_geller No, I'd be hearing about 'Why didn't I get the honey-glazed ham?', I didn't spend enough on flowers, and if I spent more she'd be saying 'Why are you wasting your money? I don't need flowers, I'm dead'.
 monica_geller That sounds like Nana.
 judy_geller Do you know what it's like to grow up with someone who is critical of every single thing you say?
-monica_geller ...I can imagine.
+monica_geller ..I can imagine.
 judy_geller I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.
 monica_geller That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?
 judy_geller Tell her what?
 monica_geller How she drove you crazy, picking on every little detail, like your hair... for example.
 judy_geller I'm not sure I know what you're getting at.
 monica_geller Do you think things would have been better if you'd just told her the truth?
-judy_geller ...No. I think some things are better left unsaid. I think it's nicer when people just get along.
+judy_geller ..No. I think some things are better left unsaid. I think it's nicer when people just get along.
 monica_geller Huh.
 judy_geller More wine, dear?
 monica_geller Oh, I think so.
 judy_geller Those earrings look really lovely on you.
 monica_geller Thank you. They're yours.
 judy_geller Actually they were Nana's.
-jack_geller Now I'm depressed! ... Even more than I was.
+jack_geller Now I'm depressed!.. Even more than I was.
 rachel_green Hey, who's this little naked guy?
 dr_ross_geller That little naked guy would be me.
 rachel_green Aww, look at the little thing.

@@ -37,7 +37,7 @@ joey_tribbiani Didn't I tell ya? Always showin' off.
 phoebe_buffay Before I start, I just wanna say that umm, I have a cold, so if I sneeze in the middle of song, it's not on purpose. Oh, except the last verse of Pepper People. Smelly cat, smelly cat. What are they feeding you? This chick sounds good. Smelly cat, smelly-- Hey Gunther, be a good little boy and bring me a whiskey.
 chandler_bing Hi!
 kathy Hi.
-chandler_bing Jeez, at 2
+chandler_bing Jeez, at 2:30 in the morning, I didn't expect to have to fight over the remote.
 kathy I'm sorry, it's just this Ernie Cofax thing on in a few minutes I wanted to watch.
 chandler_bing Oh my God! That's why I got up too!
 kathy You're kidding! Oh, I love him.
@@ -95,7 +95,7 @@ rachel_green Hi guys! This is Josh. Josh, these are my friends, and that's Ross.
 monica_geller Hi, Josh.
 phoebe_buffay Hi.
 josh Dudes.
-monica_geller So, did you play in college? (She points to his NYU Soccer sweatshirt he's wearing.)
+monica_geller So, did you play in college?
 josh Oh, I still do. Next year, I hope to make varsity though.
 rachel_green Ross, didn't you ah, play soccer in High School? Oh no wait, that's right. You just organized their game schedules on your Commodore 64.
 josh Well, it's getting late, I've got to get to the game, so I'm gonna... head.
@@ -153,7 +153,7 @@ joey_tribbiani Hey!
 chandler_bing Hey!
 joey_tribbiani Hey guys. Listen uh, you wanna get some dinner with me and Kathy tonight?
 chandler_bing Ohh, umm, y'know what, I already ate.
-joey_tribbiani It's 4
+joey_tribbiani It's 4:30.
 chandler_bing Y'know I had a big meal on Monday, y'know. So that's just gonna get me straight through the week.
 joey_tribbiani Okay, I see what's going on here.
 chandler_bing You-you do?

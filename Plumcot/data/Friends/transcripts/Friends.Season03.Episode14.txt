@@ -6,9 +6,9 @@ phoebe_buffay Why? Because she can sing and play guitar and do both at the same 
 chandler_bing Well, that's pretty much all I'm looking for from these people.
 monica_geller Look at you. All jealous.
 dr_ross_geller Yeah Pheebs, come on, you two have completely different styles. Y'know, she's more.. y'know, and you're more
-singer#unknown#Friends.Season03.Episode14 beside meeeee-eeee-ee. .
+singer#unknown#Friends.Season03.Episode14 beside meeeee-eeee-ee.
 phoebe_buffay Okay, see, see, everyone else is happy she's done.
-singer#unknown#Friends.Season03.Episode14 Okay, my next song's called
+singer#unknown#Friends.Season03.Episode14 Okay, my next song's called: Phoebe Buffay, What Can I Say. I Really Loved When We Were Singing Partners, And I Shouldn't Have Left You That Way.
 phoebe_buffay Oh no, one of those 'look for the hidden meaning' songs.
 singer#unknown#Friends.Season03.Episode14 Hey Phoebe.
 phoebe_buffay Hey Leslie, how'd you know I'd be here?
@@ -33,7 +33,7 @@ gunther Someone in there?
 chandler_bing No. This is just part of a dare devil game that I play called 'wait until the last moment before I burst and die.'
 chandler_bing Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?
 woman#unknown#Friends.Season03.Episode14 Someone was in the lady's room, I couldn't wait. I left the lid up for ya though.
-chandler_bing Y'know what Gunther, go ah, go ahead, I'm-I'm talking to ah, . This is the part where you say your name.
+chandler_bing Y'know what Gunther, go ah, go ahead, I'm-I'm talking to ah, This is the part where you say your name.
 woman#unknown#Friends.Season03.Episode14 Ginger.
 chandler_bing Ginger. I'm talking to Ginger, so....
 ginger Don't you have to use the bathroom?
@@ -142,7 +142,7 @@ leslie What? Why not? You could make a ton of money.
 phoebe_buffay Okay, well if I was in this for the money, I'd be a millionaire by now, y'know. You just got to get out of that jingle head sweetie.
 leslie Aw, you're right, you're right. I'm sorry.
 phoebe_buffay That's okay. All right, I'm gonna play song that's really, really sad. It's called Magician Box Mix Up.
-lecturer#unknown#Friends.Season03.Episode14 ....oversized bracelets, oversized earrings, oversizing of accessories in general are very popular now.
+lecturer#unknown#Friends.Season03.Episode14 ...oversized bracelets, oversized earrings, oversizing of accessories in general are very popular now.
 monica_geller Hi!
 chandler_bing Hey.
 monica_geller Oh, can I borrow this? My milk's gone bad.
@@ -163,7 +163,7 @@ rachel_green Nodded off!! Ross you were snoring. My father's boat didn't make th
 dr_ross_geller Come on! Forty-five minutes! Forty-five minutes the man talked about strappy backed dresses.
 rachel_green Well okay, how about four hours in a freezing museum auditorium listening to Professor Pitstains and he's 'Hey everybody! Remember that thing that's been dead for a gazillion years. Well there's this little bone we didn't know it had!'
 dr_ross_geller First of all it's Professor Pittain! And second of all, that little bone, proved that, that particular dinosaur had wings, but didn't fly.
-rachel_green Okay, see now, what I just heard
+rachel_green Okay, see now, what I just heard: blah-blah-blah, blah-blah-blah-blah-blah, blah-blah-blah, blah, blah.
 dr_ross_geller Y'know what, 100 million people went to see a movie about what I do, I wonder how many people would go see a movie called, Jurassic Parka.
 rachel_green Oh, that is so...
 dr_ross_geller No-no-no, a bunch of out of control jackets take over an island.
@@ -175,7 +175,7 @@ rachel_green Honey see, it doesn't mean that I don't love you. Because I do. I l
 dr_ross_geller Sure, I-I-I...
 ginger Your thinking about my leg aren't you?
 chandler_bing No. No. Actually I forgot, what is the deal with that again?
-ginger It's okay if it bothers you. Really. I mean the only thing I need to know is
+ginger It's okay if it bothers you. Really. I mean the only thing I need to know is: 'How much it bothers you?' because I don't like wasting my time. Am I wasting my time?
 chandler_bing No. No. I don't think so.
 ginger Okay. It's just like anything else, you just have to get used to it.
 ginger What's that?

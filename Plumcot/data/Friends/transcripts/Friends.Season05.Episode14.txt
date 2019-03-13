@@ -32,7 +32,7 @@ dr_ross_geller What?! What?!
 rachel_green Nothing! Oh God, we're just so excited that you want to get this apartment!
 dr_ross_geller Actually, it looks really good.
 phoebe_buffay Get in here!!!
-phoebe_buffay You mean whenever Monica and Chandler where like y'know doing laundry or going grocery shopping or - Oh! All that time Monica spent on the phone with sad Linda from camp!
+phoebe_buffay You mean whenever Monica and Chandler where like y'know doing laundry or going grocery shopping or-Oh! All that time Monica spent on the phone with sad Linda from camp!
 rachel_green Uh-huh, doing it. Doing it. Phone doing it.
 phoebe_buffay Oh! Oh, I can't believe it! I mean I think it's great! For him. She might be able to do better.
 joey_tribbiani Hey guys!
@@ -65,13 +65,13 @@ phoebe_buffay Okay, watch, learn, and don't eat my cookie.
 chandler_bing Hey.
 phoebe_buffay Hey! Ooh, wow that jacket looks great on you!
 chandler_bing Really?
-phoebe_buffay Yeah the material feels so soft - hello Mr. Bicep! Have you been working out?
+phoebe_buffay Yeah the material feels so soft-hello Mr. Bicep! Have you been working out?
 chandler_bing Well, I try to y'know, squeeze things. Are you okay?
-phoebe_buffay Well, if you really wanna know, I'm - Oh! I can't tell you this.
+phoebe_buffay Well, if you really wanna know, I'm-Oh! I can't tell you this.
 chandler_bing Phoebe, it's me. You can tell me anything.
 phoebe_buffay Well actually you're the one person I can't tell this too. And the one person I want to the most.
 chandler_bing What's going on?
-phoebe_buffay I think it's just y'know that I haven't been with a guy in so long and how sometimes you're looking for something and you just don't even see that it's right there in front of you sipping coffee - Oh no, have I said to much? Well it's just something to think about. I know I will.
+phoebe_buffay I think it's just y'know that I haven't been with a guy in so long and how sometimes you're looking for something and you just don't even see that it's right there in front of you sipping coffee-Oh no, have I said to much? Well it's just something to think about. I know I will.
 monica_geller You are so cute! How did you get to be so cute?
 chandler_bing Well, my Grandfather was Swedish and my Grandmother was actually a tiny little bunny.
 monica_geller Okay, now you're even cuter!!
@@ -124,7 +124,7 @@ chandler_bing Okay, so now do you believe that she's attracted to me?
 monica_geller Ohhh, oh my God! Oh my God! She knows about us!
 chandler_bing Are you serious?
 monica_geller Phoebe knows and she's just trying to freak us out! That's the only explanation for it!
-chandler_bing Okay but what about y'know my pinchable butt and my bulging biceps - She knows!
+chandler_bing Okay but what about y'know my pinchable butt and my bulging biceps-She knows!
 chandler_bing Joey!
 joey_tribbiani Yeah?
 chandler_bing Phoebe knows about us!
@@ -167,14 +167,14 @@ chandler_bing Yeah, listen, Joey isn't gonna be here tonight so why don't you co
 phoebe_buffay I'll have to get back to you on that. Okay, bye! Oh my God! He wants me to come over and feel his bicep and more!
 rachel_green Are you kidding?!
 phoebe_buffay No!
-rachel_green I can not believe he would do that to Mon - Whoa! Joey, do they know that we know?
+rachel_green I can not believe he would do that to Mon-Whoa! Joey, do they know that we know?
 joey_tribbiani No.
 rachel_green Joey!
 joey_tribbiani They know you know.
 rachel_green Ugh, I knew it! Oh I cannot believe those two!
 phoebe_buffay God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know! Joey, you can't say anything!
 joey_tribbiani I couldn't even if I wanted too.
-dr_ross_geller Good evening, sir. My name is Ross Geller. I'm one of the people who applied for the apartment. And I-I realize that the competition is fierce but - I'm sorry. I, I can't help but notice you're naked and I applaud you. Man, I wish I was naked. I mean, this-this looks so great. That is how God intended it.
+dr_ross_geller Good evening, sir. My name is Ross Geller. I'm one of the people who applied for the apartment. And I-I realize that the competition is fierce but-I'm sorry. I, I can't help but notice you're naked and I applaud you. Man, I wish I was naked. I mean, this-this looks so great. That is how God intended it.
 monica_geller Look at them, they're-they're panicked!
 chandler_bing Oh yeah, they're totally gonna back down!
 monica_geller Oh yeah!
@@ -250,9 +250,9 @@ chandler_bing Okay! Okay! Okay! You win! You win!! I can't have sex with ya!
 phoebe_buffay And why not?!
 chandler_bing Because I'm in love with Monica!!
 phoebe_buffay You're-you're what?!
-chandler_bing Love her! That's right, I... LOVE... HER!!! I love her!! I love you, Monica.
+chandler_bing Love her! That's right, I...LOVE...HER!!! I love her!! I love you, Monica.
 monica_geller I love you too Chandler.
-phoebe_buffay I just - I thought you guys were doing it, I didn't know you were in love!
+phoebe_buffay I just-I thought you guys were doing it, I didn't know you were in love!
 joey_tribbiani Dude!
 chandler_bing And hats off to Phoebe. Quite a competitor. And might I say your breasts are still showing.
 phoebe_buffay God!
@@ -263,4 +263,4 @@ dr_ross_geller A new place for a new Ross. I'm gonna have you and all the guys f
 dr_ledbetter I must say it's nice to see you back on your feet.
 dr_ross_geller Well I am that. And that whole rage thing is definitely behind me.
 dr_ledbetter I wonder if its time for you to rejoin our team at the museum?
-dr_ross_geller Oh Donald that-that would be great. I am totally ready to come back to work. I - What? No! Wh... What are you doing?!! GET OFF MY SISTER!!!!!!!!!!!!!
+dr_ross_geller Oh Donald that-that would be great. I am totally ready to come back to work. I-What? No! Wh... What are you doing?!! GET OFF MY SISTER!!!!!!!!!!!!!

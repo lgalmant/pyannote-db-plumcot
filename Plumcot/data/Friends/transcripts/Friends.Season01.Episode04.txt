@@ -6,14 +6,14 @@ rachel_green See, there's always one guy. "If I had a wish, I'd wish for three m
 all@ Hey Joey. Hi. Hey, buddy.
 monica_geller Hey, Joey, what would you do if you were omnipotent?
 joey_tribbiani Probably kill myself!
-monica_geller ..Excuse me?
+monica_geller .Excuse me?
 joey_tribbiani Hey, if Little Joey's dead, then I got no reason to live!
 dr_ross_geller Joey, uh- OMnipotent.
 joey_tribbiani You are? Ross, I'm sorry..
 monica_geller How does she do that?
 dr_ross_geller I cannot sleep in a public place.
 monica_geller Would you look at her? She is so peaceful.
-phoebe_buffay Oh! What what what! ...Hi.
+phoebe_buffay Oh! What what what!..Hi.
 dr_ross_geller It's okay, y'know, you just nodded off again.
 monica_geller What's going on with you?
 phoebe_buffay I got no sleep last night!
@@ -21,9 +21,9 @@ dr_ross_geller Why?
 phoebe_buffay My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
 monica_geller Well, if you want, you can stay with Rachel and me tonight.
 phoebe_buffay Thanks.
-joey_tribbiani ...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.
+joey_tribbiani ..Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.
 chandler_bing You got waaaay too much free time.
-joey_tribbiani Hey! Here's the birthday boy! Ross, check it out
+joey_tribbiani Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.
 chandler_bing Happy birthday, pal!
 joey_tribbiani We love you, man.
 dr_ross_geller Funny, my birthday was seven months ago.
@@ -35,7 +35,7 @@ monica_geller Oh, I was hoping you wouldn't remember.
 dr_ross_geller Ohhh.
 joey_tribbiani What's wrong with the twentieth?
 chandler_bing Eleven days before Halloween.. all the good costumes are gone?
-dr_ross_geller Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+dr_ross_geller Today's the day Carol and I first.. consummated our physical relationship. Sex..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
 joey_tribbiani The hell with hockey, let's all do that!
 chandler_bing C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, Huh? Huh? Huh?
 dr_ross_geller What are you doing?
@@ -47,7 +47,7 @@ rachel_green Look-look-look-look-look, my first pay check! Look at the window, t
 phoebe_buffay I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
 monica_geller Wow, you worked in a mine?
 phoebe_buffay I worked in a Dairy Queen, why?
-rachel_green God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally - - not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+rachel_green God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally--not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
 chandler_bing Oh, this is not that bad.
 joey_tribbiani Oh, you're fine, yeah, for a first job.
 dr_ross_geller You can totally, totally live on this.
@@ -67,7 +67,7 @@ rachel_green So what's going on with you?
 joanne Well, guess who my dad's making partner in his firm?
 kiki And while we're on the subject of news..
 phoebe_buffay Look, look, I have elbows!
-chandler_bing ...Poulet passes it up to Leetch!
+chandler_bing ..Poulet passes it up to Leetch!
 joey_tribbiani Leetch spots Messier in the crease- there's the pass!
 chandler_bing We'll take a brief time out while Messier stops to look at some women's shoes.
 dr_ross_geller Carol was wearing boots just like those the night that we- we first- y'know. Fact, she, uh- she never took'em off, 'cause we-we- Sorry. Sorry.
@@ -112,7 +112,7 @@ joey_tribbiani C'mon, sit. Just sit down, sit.
 monica_geller You should feel great about yourself! You're doing this amazing independence thing!
 rachel_green Monica, what is so amazing? I gave up, like, everything. And for what?
 phoebe_buffay You are just like Jack.
-rachel_green ...Jack from downstairs?
+rachel_green ..Jack from downstairs?
 phoebe_buffay No, Jack and the Beanstalk.
 monica_geller Ah, the other Jack.
 phoebe_buffay Yeah, right! See, he gave up something, but then he got those magic beans. And then he woke up, and there was this, this big plant outside his window, full of possibilities and stuff.. And he lived in a village, and you live in the Village..
@@ -124,7 +124,7 @@ rachel_green Yeah.
 monica_geller So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy.
 phoebe_buffay Oh, like that's a word.
 rachel_green Okay, but Monica, what if- what if it doesn't come together?
-monica_geller ...Pheebs?
+monica_geller ..Pheebs?
 phoebe_buffay Oh, well... 'cause.... you just... I don't like this question.
 rachel_green Okay, see, see, you guys, what if we don't get magic beans? I mean, what if all we've got are.. beans?
 dr_ross_geller Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!
@@ -196,7 +196,7 @@ dr_ross_geller My first time with Carol was...
 joey_tribbiani What?
 dr_ross_geller It was my first time.
 joey_tribbiani With Carol? Oh.
-chandler_bing So in your whole life, you've only been with one - - oh.
+chandler_bing So in your whole life, you've only been with one--oh.
 joey_tribbiani Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!
 monica_geller Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?
 phoebe_buffay Uh-huh.
@@ -217,7 +217,7 @@ monica_geller Where?
 phoebe_buffay Right- where we've been looking all night!
 rachel_green He is so cute!
 monica_geller Oh, George, baby, drop the towel!
-all@ Yeah, drop it! Drop the towel! Please drop the - - wowww.
+all@ Yeah, drop it! Drop the towel! Please drop the--wowww.
 joey_tribbiani Man. Can you believe he's only had sex with one woman?
 chandler_bing I think it's great. Y'know, it's sweet, it's romantic...
 joey_tribbiani Really?
@@ -231,17 +231,17 @@ joey_tribbiani Oh, ah- the kid has it.
 dr_ross_geller The kid...? Excuse me, uh, that's, that's my puck.
 kid#unknown#Friends.Season01.Episode04 I found it. Finders keepers, losers weepers.
 chandler_bing You gotta do it, man.
-dr_ross_geller Oh yeah? Well, I'm rubber, you're glue, whatever - - can't do it. Listen, uh- gimme back my puck.
+dr_ross_geller Oh yeah? Well, I'm rubber, you're glue, whatever--can't do it. Listen, uh- gimme back my puck.
 kid#unknown#Friends.Season01.Episode04 No.
 dr_ross_geller 'Yes', how about. C'mere. Gimme!
 kid#unknown#Friends.Season01.Episode04 No! No!
 receptionist#unknown#Friends.Season01.Episode04 Hey! Hey! No rough holding in my ER!
 dr_ross_geller GIVE ME MY PUCK!!
-dr_ross_geller ...Now that was fun.
-dr_ross_geller Okay, Monica
+dr_ross_geller ..Now that was fun.
+dr_ross_geller Okay, Monica: Right foot red.
 monica_geller Could've played Monopoly, but nooooo.
 chandler_bing Thanks.
-dr_ross_geller Okay, Pheebs
+dr_ross_geller Okay, Pheebs: Right hand blue. Good.
 chandler_bing Hello? Oh, uh, Rachel, it's the Visa card people.
 rachel_green Oh, okay. Will you take my place?
 chandler_bing Alright. Yes, this is Rachel.

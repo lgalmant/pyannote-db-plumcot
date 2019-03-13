@@ -10,7 +10,7 @@ chandler_bing Hey, that monkey's got a Ross on its ass!
 monica_geller Ross, is he gonna live with you, like, in your apartment?
 dr_ross_geller Yeah. I mean, it's been kinda quiet since Carol left, so...
 monica_geller Why don't you just get a roommate?
-dr_ross_geller Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+dr_ross_geller Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe-..sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
 phoebe_buffay So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.
 chandler_bing Might wanna open with the snowman.
 all@ Hey, Joey. Hey, buddy.
@@ -21,7 +21,7 @@ joey_tribbiani I dunno. Some fat guy's sleeping with the store manager. He's not
 monica_geller So what are you gonna be?
 joey_tribbiani Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?
 rachel_green Hey, do you guys know what you're doing for New Year's? Gee, what?! What is wrong with New Year's?
-chandler_bing Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday
+chandler_bing Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! Man, I'm talking loud!
 rachel_green Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you.
 phoebe_buffay Yeah, you wish!
 chandler_bing It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner.
@@ -31,7 +31,7 @@ all@ Woooo! Yeah!
 rachel_green Phoebe, you're on.
 phoebe_buffay Oh, oh, good.
 rachel_green Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!
-phoebe_buffay Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year. (Sung
+phoebe_buffay Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year.
 max No. No, that's- that's okay.
 phoebe_buffay Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!
 chandler_bing That guy's going home with a note!
@@ -45,7 +45,7 @@ david -hard quality. And uh, while Daryl Hannah is beautiful in a conventional w
 phoebe_buffay Okay, we're gonna take a short break.
 joey_tribbiani Hey, that guy's going home with more than a note!
 dr_ross_geller Come here, Marcel. Sit here.
-rachel_green Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?
+rachel_green Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts!..Ooh. Did I just share too much?
 dr_ross_geller Just a smidge.
 phoebe_buffay David's like, y'know, Scientist Guy. He's very methodical.
 monica_geller I think it's romantic.
@@ -71,17 +71,17 @@ dr_ross_geller I didn't wanna leave him alone. Alright? We- we had our first fig
 chandler_bing Y'know, if you're gonna work late, I could look in on him for you.
 dr_ross_geller Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.
 chandler_bing Okay, but if he asks, I'm not going to lie.
-david ...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.
+david ..But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.
 phoebe_buffay Okay, alright, I have a question, then.
 david Yuh.
 phoebe_buffay Um, were you planning on kissing me ever?
 david Uh, that's definitely a, uh, valid question. And, uh, the answer would be yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.
 phoebe_buffay Sure.
 david Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.
-phoebe_buffay Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.
+phoebe_buffay Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper!..trapped inside a physicist's body.
 david Rrrreally.
 phoebe_buffay Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.
-david ...Now? Now?
+david ..Now? Now?
 phoebe_buffay Oh yeah, right now.
 david Okay, okay, okay. Y'know what, this was just really expensive. And I'll take- this was a gift.
 phoebe_buffay Okay, now you're just kinda tidying.
@@ -155,7 +155,7 @@ chandler_bing You remember Janice.
 monica_geller Vividly.
 monica_geller Hi.
 sandy Hi, I'm Sandy.
-joey_tribbiani Sandy! Hi! C'mon in! ...You brought your kids.
+joey_tribbiani Sandy! Hi! C'mon in!..You brought your kids.
 sandy Yeah. That's okay, right?
 dr_ross_geller Par-tay!
 monica_geller That thing is not coming in here.
@@ -224,4 +224,4 @@ dr_ross_geller Perfect. Perfect. So now everybody's getting kissed but me.
 chandler_bing Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!
 joey_tribbiani Alrightalrightalright. There.
 dr_ross_geller I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.
-rachel_green ...I think that bitch cracked my tooth.
+rachel_green ..I think that bitch cracked my tooth.

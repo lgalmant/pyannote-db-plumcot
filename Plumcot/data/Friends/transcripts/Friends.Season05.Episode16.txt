@@ -58,7 +58,7 @@ the_salesman Ohh, okay. Something didn't quite add up there.
 rachel_green Ross!
 dr_ross_geller What's that supposed to mean?
 rachel_green Ross!
-the_salesman Well you, her, I mean, she's very... y'know. And you're like... y'know.
+the_salesman Well you, her, I mean, she's very...y'know. And you're like...y'know.
 dr_ross_geller Not that it's any of your business, but we did go out.
 the_salesman Really? You two?
 dr_ross_geller Yeah! Rach?
@@ -94,7 +94,7 @@ dr_ross_geller Good-good-good.
 rachel_green Oh-oh!
 dr_ross_geller Yeah, you got it right? You got it right? You got it?
 rachel_green Any chance you think the couch looks good there?
-phoebe_buffay so this guy was all And I'm all, Buffay, Homicide. It was just so cool!
+phoebe_buffay ...so this guy was all And I'm all, Buffay, Homicide. It was just so cool!
 monica_geller Phoebe, you were supposed to take that back!
 phoebe_buffay I know but I'm having so much fun doing good deeds.
 chandler_bing Okay, but impersonating a police officer is a serious thing. You could get arrested.
@@ -167,7 +167,7 @@ joey_tribbiani Yeah that's not such a bad situation they got going over there. I
 rachel_green What's up Joe?
 joey_tribbiani Well, the reason I think Monica and Chandler are so great
 rachel_green Yeah?
-joey_tribbiani is because they were friends first. Y'know? So I asked myself, "Who are my friends?" You and Phoebe, and I saw you first. So
+joey_tribbiani ...is because they were friends first. Y'know? So I asked myself, "Who are my friends?" You and Phoebe, and I saw you first. So
 rachel_green What are you saying?
 joey_tribbiani I'm saying maybe you and I crank it up a notch.
 rachel_green Y'know honey, umm, as uh, as flattered as I am that uh, you saw me first, uhh, I just, I-I don't think we should be cranking anything up.
@@ -214,7 +214,7 @@ joey_tribbiani Hey!
 rachel_green Hey! How's it going? Did you make any new friends?
 joey_tribbiani Yeah, yeah, I met this woman.
 chandler_bing Hey, whoa-whoa! What's she like?
-joey_tribbiani Uhh, well, she's... really good in bed.
+joey_tribbiani Uhh, well, she's...really good in bed.
 monica_geller Joey, I thought you were gonna try to be friends first!
 joey_tribbiani Well look, hey, it's all your fault!
 rachel_green What?! Why?!

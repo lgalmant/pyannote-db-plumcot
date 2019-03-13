@@ -29,7 +29,7 @@ phoebe_buffay No, no, I am against innocent trees being cut down in their prime,
 joey_tribbiani Well, I'm pretty tired from lugging the trees around all day. Hey, Phoebe listen, you got this all wrong. Those trees were born to be Christmas trees, their fulfilling their life purpose, by, by making people happy.
 phoebe_buffay Really?
 chandler_bing Yes. Yes, and ah, ah, the trees are happy too, because for most of them, it's the only chance to see New York.
-gunther ...and after you've delivered the drinks, you take the empty tray....
+gunther ..and after you've delivered the drinks, you take the empty tray....
 rachel_green Gunther, Gunther, please, I've worked here for two and a half years, I know the empty trays go over there.
 gunther What if you put them here.
 rachel_green Huh. Well, y'know that's actually a really good idea, because that way they'll be closer to the mugs. Y'know what, you should have the other waitresses do that too.
@@ -54,17 +54,17 @@ dr_ross_geller Well, that makes sense.
 sarah_tuttle Could you do me one favor, if it's not too much trouble?
 dr_ross_geller Yeah, Sarah, anything.
 sarah_tuttle Could you pull open the curtains for me? The astronauts from the space shuttle are gonna be on the news, and since we don't have a TV, the lady across the alley said she'd push hers up to a window, so I could watch it.
-old_woman Yesss?
+woman#unknown#Friends.Season03.Episode10 Yesss?
 dr_ross_geller Hi, I'm selling Brown Bird cookies.
-old_woman You're no Brown Bird, I can see you through my peephole.
+woman#unknown#Friends.Season03.Episode10 You're no Brown Bird, I can see you through my peephole.
 dr_ross_geller No, hi, I'm, I'm an honorary Brown Bird
-old_woman What does that mean?
+woman#unknown#Friends.Season03.Episode10 What does that mean?
 dr_ross_geller Ah, well, it means that I can sell cookies, but I'm not invited to sleep-overs.
-old_woman I can dial 9-1-1 at the touch of a button, y'know. Now, go away!
+woman#unknown#Friends.Season03.Episode10 I can dial 9-1-1 at the touch of a button, y'know. Now, go away!
 dr_ross_geller No, please, please, um, it's for a poor little girl who wants to go to Spacecamp more than anything in the world.
-old_woman I'm pressing, a policeman is on his way.
+woman#unknown#Friends.Season03.Episode10 I'm pressing, a policeman is on his way.
 dr_ross_geller Okay, okay! I'm going. I'm going.
-old_woman I can still see you!
+woman#unknown#Friends.Season03.Episode10 I can still see you!
 dr_ross_geller All right!!
 phoebe_buffay Hey.
 joey_tribbiani Hey. What, what are you doing here?
@@ -82,7 +82,7 @@ phoebe_buffay So, what happens to the old guys?
 joey_tribbiani Well, they go into the chipper.
 phoebe_buffay Why, do I have a feeling that's not as happy as it sounds? No! Nooooo!!!
 joey_tribbiani Hey! Hey!!
-dr_ross_geller ...and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus.
+dr_ross_geller ..and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus.
 joey_tribbiani All right, I'll take a box of the cream filled Jesus's.
 dr_ross_geller Wait a minute, one box! Come on, I'm trying to send a little girl to Spacecamp, I'm putting you down for five boxes. Chandler, what about you?
 chandler_bing Ahh, do you have any coconut flavoured deities?
@@ -118,7 +118,7 @@ rachel_green Okay, fine. Gunther, y'know what, I am a terrible waitress, do you 
 gunther What?!
 rachel_green Gunther, I quit.
 chandler_bing Does this mean we're gonna have to start paying for coffee?
-dr_ross_geller ....and 12, 22, 18, four... What?
+dr_ross_geller ...and 12, 22, 18, four... What?
 chandler_bing I spelled out boobies.
 monica_geller Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?
 dr_ross_geller Ah, we're out. I sold them all.
@@ -130,7 +130,7 @@ monica_geller Oh God!
 chandler_bing So, how many have you sold so far?
 dr_ross_geller Check this out. Five hundred and seventeen boxes!
 chandler_bing Oh my God, how did you do that?
-dr_ross_geller Okay, the other night I was leaving the museum just as 'Laser Floyd' was letting out of the planetarium, without even trying I sold 50 boxes! That's when it occurred to me, the key to my success, 'the munchies.' So I ah, started hitting the NYU dorms around midnight. I am selling cookies by the case. They call me
+dr_ross_geller Okay, the other night I was leaving the museum just as 'Laser Floyd' was letting out of the planetarium, without even trying I sold 50 boxes! That's when it occurred to me, the key to my success, 'the munchies.' So I ah, started hitting the NYU dorms around midnight. I am selling cookies by the case. They call me: 'Cookie Dude!'
 rachel_green Okay, stop what you're doing, I need envelope stuffers, I need stamp lickers.....
 dr_ross_geller Well hey, who did these resumes for ya?
 chandler_bing Me! On my computer.
@@ -171,11 +171,11 @@ monica_geller Oh honey, is that 'cause your Mom died around Christmas?
 phoebe_buffay Oh, I wasn't even thinking about that.
 monica_geller Oh.
 dr_ross_geller Hi there. How many, how many ah, did you sell?
-girl_scout I'm not gonna tell you! You're the bad man who broke Sarah's leg.
+girl#unknown#Friends.Season03.Episode10 I'm not gonna tell you! You're the bad man who broke Sarah's leg.
 dr_ross_geller Hey now! That was an accident, okay.
-girl_scout You're a big scrud.
+girl#unknown#Friends.Season03.Episode10 You're a big scrud.
 dr_ross_geller What's a scrud?
-girl_scout Why don't you look in the mirror, scrud.
+girl#unknown#Friends.Season03.Episode10 Why don't you look in the mirror, scrud.
 dr_ross_geller I don't have too. I can just look at you.
 troop_leader All right girls, and man. Let's see your final tallies. Ohhhh, Debbie, 321 boxes of cookies, Very nice.
 dr_ross_geller Not nice enough.

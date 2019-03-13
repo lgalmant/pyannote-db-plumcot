@@ -8,12 +8,12 @@ chandler_bing Nothing, just a little extra air in my mouth. Pffft. Pffffffft.
 joey_tribbiani Hey, Chan, can you help me out here? I promise I'll pay you back.
 chandler_bing Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars.
 joey_tribbiani I will, really. I'll pay you back this time.
-chandler_bing ... And where's this money coming from?
+chandler_bing .. And where's this money coming from?
 joey_tribbiani Well... I'm helping out down at the N.Y.U. Med School with some... research.
 dr_ross_geller What kind of research?
 joey_tribbiani Oh, just, y'know.... science.
 dr_ross_geller Science. Yeah, I think I've heard of that.
-joey_tribbiani ... It's a fertility study.
+joey_tribbiani .. It's a fertility study.
 monica_geller Oh, Joey, please tell me you're only donating your time.
 joey_tribbiani Alright, come on you guys, it's not that big a deal. Really... I mean, I just go down there every other day and... make my contribution to the project. Hey, hey, but at the end of two weeks, I get seven hundred dollars.
 dr_ross_geller Hey.
@@ -42,8 +42,9 @@ phoebe_buffay How long did you think this barbecue was gonna last?
 dr_ross_geller I'm going to China.
 phoebe_buffay Jeez, you say one thing, and...
 monica_geller You're going to China?
-dr_ross_geller Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the bo - it's - it's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+dr_ross_geller Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the bo-it's-it's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary Um... here's a picture of me...
 phoebe_buffay Oh, let me see!
+dr_ross_geller : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
 monica_geller Yeah.
 phoebe_buffay Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
 dr_ross_geller Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
@@ -59,7 +60,7 @@ phoebe_buffay Oh, hey, y'know what? Tell them that bone story.
 dr_ross_geller Hi.
 joey_tribbiani Hey!
 chandler_bing Hey!
-dr_ross_geller ....I have to go to China.
+dr_ross_geller ...I have to go to China.
 joey_tribbiani The country?
 dr_ross_geller No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
 chandler_bing Uh, let's see... Alvin... Simon... Theodore.... no.
@@ -68,7 +69,7 @@ joey_tribbiani Oh no! How can she do that when she's never shown any interest in
 chandler_bing Forget about her.
 joey_tribbiani He's right, man. Please. Move on. Go to China. Eat Chinese food.
 chandler_bing Course there, they just call it food.
-dr_ross_geller Yeah... I guess. I don't - I don't know. Alright, just... just give her this for me, OK?
+dr_ross_geller Yeah... I guess. I don't-I don't know. Alright, just... just give her this for me, OK?
 joey_tribbiani Listen, buddy, we're just looking out for you.
 dr_ross_geller I know.
 joey_tribbiani We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
@@ -89,14 +90,15 @@ monica_geller Think about it.
 rachel_green OK, I'm guessing this is from...
 rachel_green Well, thank you, Melanie.
 chandler_bing OK, this one right here is from me.
-rachel_green OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+rachel_green OK... ah, it's light.....it rattles... it's... Travel Scrabble! Oooohhh, thank you!
 rachel_green This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And......it's a book!
 phoebe_buffay Oh, it's Dr. Seuss!
+joey_tribbiani : That book got me through some tough times.
 melanie There is a little child inside this man!
 chandler_bing Yes, the doctors say if they remove it, he'll die.
 rachel_green Who's this from?
 chandler_bing Oh, that's Ross's.
-rachel_green Oh... ... Oh my God. He remembered.
+rachel_green Oh..... Oh my God. He remembered.
 phoebe_buffay Remembered what?
 rachel_green It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
 chandler_bing Well, sure, but can you play it on a plane?
@@ -116,7 +118,7 @@ chandler_bing No it's not. It's small. It's tiny. It's petite. It's wee.
 phoebe_buffay Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
 chandler_bing OK, is there a mute button on this woman?
 monica_geller I think this is so great! I mean, you and Ross! D-did you have any idea?
-rachel_green No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just...
+rachel_green No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
 joey_tribbiani Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
 rachel_green Ross? All this time? Well, I've got to talk to him.
 chandler_bing H-He's in China!
@@ -142,7 +144,7 @@ rachel_green Hi.
 flight_representative May I see your boarding pass?
 rachel_green Oh, no, no, I don't have one. I just need to talk to my friend.
 flight_representative Oh, oooh. I'm sorry. You are not allowed on the jetway unless you have a boarding pass.
-rachel_green No, I know, but I - he just went on. He's right there, he's got the blue jacket on, I... can I j-just...
+rachel_green No, I know, but I-he just went on. He's right there, he's got the blue jacket on, I... can I j-just...
 flight_representative No no no! Federal regulations!
 rachel_green OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is very important.
 flight_representative Alright. What's the message?
@@ -150,6 +152,7 @@ rachel_green Uh... I don't know.
 flight_representative Sir? Sir? Excuse me, sir? Uh... I have a message for you.
 man#unknown#Friends.Season01.Episode24 What?
 flight_representative It's from Rachel. She said that she loved the present, and she will see you when you get back.
+man#unknown#Friends.Season01.Episode24 : Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze.
 melanie Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a minute!
 joey_tribbiani Heh, heh. It was nothin'.
 melanie Well, now we've gotta find something fun for you!
@@ -183,7 +186,7 @@ rachel_green No! There is.. there is noone else!
 monica_geller Then why the hell are you dumping my brother?!?
 chandler_bing Hey, big...
 joey_tribbiani Shhhh!
-chandler_bing ...spender.
+chandler_bing ..spender.
 joey_tribbiani She's still asleep.
 chandler_bing So how'd it go?
 joey_tribbiani Oh, it was amazing. You know how you always think you're great in bed?
@@ -198,7 +201,7 @@ rachel_green Yeah.
 monica_geller Oh, from who?
 rachel_green From you. I exchanged the blouse you got me.
 monica_geller Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?
-rachel_green Uh, yeah. Uh, Monica, y'know, honey, I've been thinking about it and I've decided this - this whole Ross thing, it's just not a good idea.
+rachel_green Uh, yeah. Uh, Monica, y'know, honey, I've been thinking about it and I've decided this-this whole Ross thing, it's just not a good idea.
 monica_geller Oh, why?
 rachel_green Because, I feel like I wouldn't just be going out with him. I would be going out with all of you. Oh, and there would just be all this pressure, and I don't wanna...
 monica_geller No, no, no, no, no, no pressure, no pressure!
@@ -207,7 +210,7 @@ monica_geller I am not 'so'! OK, I was a teensy bit weird at first, but... I'll 
 rachel_green Who is it?
 intercom#unknown#Friends.Season01.Episode24 It's me, Carl.
 rachel_green C'mon up.
-monica_geller Behind my brother's back? ... is exactly the kind of crazy thing you won't be hearing from me.
+monica_geller Behind my brother's back?. is exactly the kind of crazy thing you won't be hearing from me.
 joey_tribbiani Seven hundred bucks!
 chandler_bing Alright, you did it! Do we have any fruit?
 joey_tribbiani Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.
@@ -239,7 +242,7 @@ rachel_green Right! You're right!
 carl Heh... y'know?
 rachel_green You know what?
 carl What?
-rachel_green I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I mean - I'm sorry. I-I-I gotta go. I'm sorry.
+rachel_green I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I mean-I'm sorry. I-I-I gotta go. I'm sorry.
 carl But...
 rachel_green Excuse me, pardon me, excuse me, excuse me, sorry. Hi.
 man#unknown#Friends.Season01.Episode24 For God's sake, will you let it go? There's no Rachel!

@@ -17,7 +17,7 @@ dr_ross_geller Here's your girlfriend's button.
 phoebe_buffay Oh, hey, Mon, do you still have your like old blouses and dresses from high school?
 monica_geller Yeah, I think I have some around here somewhere. Why?
 phoebe_buffay Well, it's just that maternity clothes are so expensive.
-monica_geller Hey, Rach! I made a pile of your stuff over on this side of the room. If you could just... ... throw your purses at it.
+monica_geller Hey, Rach! I made a pile of your stuff over on this side of the room. If you could just......throw your purses at it.
 rachel_green Bloomingdale's eliminated my department.
 monica_geller Oh my God, are you out of a job?
 rachel_green No, but they stuck me in personal shopping. Which is just a huge step down!
@@ -92,7 +92,7 @@ joshua_burgin It's this way? Sorry.
 chandler_bing I'm right! Right? There was like no chemistry between them. Before they had heat, and now there's no heat! Now you know what this means, Joey told us what this means!
 dr_ross_geller All right, let's not jump to any conclusions. All right? There was some sexual chemistry between them.
 chandler_bing Come on, it was like cousins having sex up there!
-dr_ross_geller Here she comes. Don't say a word, okay? Just be cool, don't be... y'know you.
+dr_ross_geller Here she comes. Don't say a word, okay? Just be cool, don't be...y'know you.
 kathy Hey you guys!
 dr_ross_geller Hey!
 kathy Hi! Thank you so much for coming again. Did you like it tonight?
@@ -155,7 +155,7 @@ joey_tribbiani Come here.
 monica_geller Are you sure?
 chandler_bing Well, I may be drunk, but I know what she said! Then I went over to Beefsteak Julie's
 rachel_green Beefsteak Charlie's?
-chandler_bing Yes! See you and I have always been like -
+chandler_bing Yes! See you and I have always been like-
 rachel_green Whoops. Oh, hey, do you need help with that?
 monica_geller Nah, I got it.
 rachel_green Ooh, I just feel bad, I never vacuum.
@@ -177,7 +177,7 @@ rachel_green I don't even know how I would go about it.
 joey_tribbiani Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, "Hey, how you doin'?"
 phoebe_buffay Oh, please!
 joey_tribbiani Hey, how you doin'?
-rachel_green You know what, I'm gonna do that, I'm gonna call him up, and I'm gonna ask him out. I can do that. Ask him out. How you doin'? Hi! Joshua? It's Rachel Green from Bloomingdale's. Yeah, umm, I was wondering if you umm, if you umm, left your wallet at the store today? Well, we found a wallet, and we - the license? Well, that is a good idea! Uh, well, let's see here this says this license belongs to a uh, uh, belongs to a mister uh, Pheebs, and umm, yeah, so sorry to bother you at home. I'll see you tomorrow. Bye. You've done that a thousand times?
+rachel_green You know what, I'm gonna do that, I'm gonna call him up, and I'm gonna ask him out. I can do that. Ask him out. How you doin'? Hi! Joshua? It's Rachel Green from Bloomingdale's. Yeah, umm, I was wondering if you umm, if you umm, left your wallet at the store today? Well, we found a wallet, and we- the license? Well, that is a good idea! Uh, well, let's see here this says this license belongs to a uh, uh, belongs to a mister uh, Pheebs, and umm, yeah, so sorry to bother you at home. I'll see you tomorrow. Bye. You've done that a thousand times?
 phoebe_buffay I've never done that.
 rachel_green Ohh, God, I just got so nervous that he would say no.
 joey_tribbiani Well, you gotta give him something that he can't say no too. Like uh, Knicks tickets! Invite the guy to a Knicks game, you're guaranteed he'll say yes!
@@ -198,7 +198,7 @@ dr_ross_geller That's all you're basing this on?
 chandler_bing That's not backing me up! Look, you said with the off-stage and the heat, and the onstage and the oy heat.
 joey_tribbiani Whoa-whoa, that-that was just a theory! There's a lot of theories that didn't pan out. The lone gunman. Communism. Geometry.
 chandler_bing Oh my God!!
-rachel_green Would you like to go to a basketball game with me? You know, its funny, basketball, because I happen to have tickets too... Umm, who likes the Knicks -
+rachel_green Would you like to go to a basketball game with me? You know, its funny, basketball, because I happen to have tickets too... Umm, who likes the Knicks-
 joshua_burgin What do you think?
 rachel_green Oh! Well, as a single woman, who is available, I think you look great!
 joshua_burgin Huh. Yeah?
@@ -225,7 +225,7 @@ joshua_burgin Hi!
 kathy Hey.
 chandler_bing Hey. I just, I just wanted to come over to-to say that I'm sorry. Y'know? I know I acted like the biggest idiot in the world, and I can completely understand why you were so upset.
 kathy Oh wow. I really wish you'd call me.
-chandler_bing Yeah, I know, I-I wish I had too, but y'know I-I think this is a good thing. Y'know? 'Cause we've had our first fight, and now we can move on. Y'know, I know for me - Nick's pants?
+chandler_bing Yeah, I know, I-I wish I had too, but y'know I-I think this is a good thing. Y'know? 'Cause we've had our first fight, and now we can move on. Y'know, I know for me- Nick's pants?
 kathy Yeah.
 chandler_bing Yeah. Well, I think our second fight is going to be a big one!
 joey_tribbiani Okay, for next time, what do you say?
@@ -239,7 +239,7 @@ dr_ross_geller Oh my God!
 rachel_green Wow! Monica!
 phoebe_buffay Great!
 dr_ross_geller This is beautiful!
-phoebe_buffay Oh did you - what did you - did you work for two days straight?
+phoebe_buffay Oh did you-what did you-did you work for two days straight?
 monica_geller Pretty much. So, what do you, what do you think of the floor?
 joey_tribbiani I don't know, it looks the same.
 monica_geller You used to have carpet.

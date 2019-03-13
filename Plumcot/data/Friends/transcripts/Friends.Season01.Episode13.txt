@@ -36,7 +36,7 @@ roger You're so funny! He's really funny! I wouldn't wanna be there when when th
 chandler_bing Whoah whoah, back up there, Sparky. What'd you mean by that?
 roger Oh, just seems as though that maybe you have intimacy issues. Y'know, that you use your humour as a way of keeping people at a distance.
 chandler_bing Huh.
-roger I mean hey! I just met you, I don't know you from Adam. ...Only child, right? Parents divorced before you hit puberty.
+roger I mean hey! I just met you, I don't know you from Adam...Only child, right? Parents divorced before you hit puberty.
 chandler_bing Uhhuh, how did you know that?
 roger It's textbook.
 joey_tribbiani Hey you guys. Hey, you all know my dad, right?
@@ -56,8 +56,8 @@ joey_tribbiani_sr Her name's Ronni. She's a pet mortician.
 joey_tribbiani Sure. So how long you been...
 joey_tribbiani_sr Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
 joey_tribbiani Since then?!
-joey_tribbiani_sr No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
-joey_tribbiani ...I d'know.
+joey_tribbiani_sr No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy...Joe. Y'ever been in love?
+joey_tribbiani ..I d'know.
 joey_tribbiani_sr Then y'haven't. You're burning your tomatoes.
 joey_tribbiani You're one to talk.
 joey_tribbiani_sr Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
@@ -132,7 +132,7 @@ joey_tribbiani That's right, mister, and I don't care how old you are, as long a
 ronni Wow. He's strict.
 joey_tribbiani Now dad, you'll be in my room, Ronni uh, you can stay in Chandler's room.
 ronni Thanks. You're, uh, you're a good kid.
-chandler_bing C'mon, I'll show you to my room. ...That sounds so weird when it's not followed by "No thanks, it's late."
+chandler_bing C'mon, I'll show you to my room...That sounds so weird when it's not followed by "No thanks, it's late."
 joey_tribbiani Okay. Now this is just for tonight. Starting tomorrow, you gotta make a change. This has gone on long enough.
 joey_tribbiani_sr What kinda change?
 joey_tribbiani Well, either you break it off with Ronni
@@ -186,7 +186,7 @@ rachel_green We hate that guy.
 all@ Yeah. Hate him.
 dr_ross_geller We're sorry, Pheebs, we're sorry.
 phoebe_buffay Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
-all@ ...No, we hate him.
+all@ ..No, we hate him.
 rachel_green We're sorry.
 joey_tribbiani Ma! What're you doing here?
 gloria_tribbiani I came to give you this and this.
@@ -236,8 +236,8 @@ all@ Aaawwwwww!!
 rachel_green What happened?
 phoebe_buffay I don't know, I mean, he's a good person, and he can be really sweet, and in some ways I think he is so right for me, it's just... I hate that guy!
 phoebe_buffay Hey, Joey. What's going on?
-joey_tribbiani Clear the tracks for the boobie payback express. Next stop
+joey_tribbiani Clear the tracks for the boobie payback express. Next stop: Rachel Green.
 monica_geller Joey!! What the hell were you doing?!
 joey_tribbiani Sorry. Wrong boobies.
 monica_geller Hello, Joey.
-joey_tribbiani_sr Oh! ...Hello, dear.
+joey_tribbiani_sr Oh!..Hello, dear.

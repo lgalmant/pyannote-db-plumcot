@@ -11,7 +11,7 @@ dr_ross_geller Hello!
 joey_tribbiani How come you don't live with Mommy? How come Mommy lives with that other lady? What's a lesbian?
 rachel_green Honey, you can say it, Poconos, Poconos, it's like Poc-o-nos
 paolo Ah, poke a nose, mmm
-chandler_bing@dr_ross_geller@joey_tribbiani Mma, Mma, Mmaah
+jasmine Mma, Mma, Mmaah
 monica_geller So, did I hear Poconos?
 rachel_green Yes, my sister's giving us her place for the weekend.
 phoebe_buffay Woo-hoo, first weekend away together!
@@ -20,7 +20,7 @@ rachel_green I know...
 chandler_bing Ah, it's just a weekend, big deal!
 dr_ross_geller Wasn't this supposed to be just a fling, huh? Shouldn't it be... flung by now?
 rachel_green I mean, we are way past the fling thing, I mean, I am feeling things that I've only read about in Danielle Steele books, you know? I mean, when I'm with him, I'm totally, totally...
-dr_ross_geller ...nauseous, I'm physically nauseous. What am I supposed to do, huh? Call immigration? I could call immigration!
+dr_ross_geller ..nauseous, I'm physically nauseous. What am I supposed to do, huh? Call immigration? I could call immigration!
 joey_tribbiani I love babies, with their little baby shoes, and their little baby toes, and their little baby hands...
 chandler_bing Ok, you're going to have to stop that, forever!
 joey_tribbiani Need a new table.
@@ -80,9 +80,9 @@ joey_tribbiani Aw, I know all about Kip!
 chandler_bing It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
 joey_tribbiani Well, let me ask you something, was Kip a better roommate than me?
 chandler_bing Aw, don't do that
-phoebes_assistant#unknown#Friends.Season01.Episode12 We've got a couple changes in your schedule. Your 4
+phoebes_assistant#unknown#Friends.Season01.Episode12 We've got a couple changes in your schedule. Your 4:00 herbal massage has been pushed back to 4:30 and Miss Somerfield canceled her 5:30 shiatsu.
 phoebe_buffay Ok, thanks.
-phoebes_assistant#unknown#Friends.Season01.Episode12 Oh, here comes your 3
+phoebes_assistant#unknown#Friends.Season01.Episode12 Oh, here comes your 3:00. I don't mean to sound unprofessional, but, yum
 paolo Buon Giorno, Bella Phoebe!
 phoebe_buffay Oh, Paolo, hi, what are you doing here?
 paolo Uh, Racquela tell me you massage, eh?
@@ -95,7 +95,7 @@ monica_geller And Monica knows...
 dr_ross_geller Wha, heh, how could you know, I don't even know!
 monica_geller Carol called me to thank me for the lasagna, I asked, she told me.
 joey_tribbiani So what's it gonna be?
-dr_ross_geller Wait - oh - hey - huh, oh great now he knows, and I don't know!
+dr_ross_geller Wait-oh-hey-huh, oh great now he knows, and I don't know!
 monica_geller I'm sorry, I'm just excited about being an aunt!
 joey_tribbiani Or an uncle...
 chandler_bing@joey_tribbiani Hey Phoebe!
@@ -119,7 +119,7 @@ phoebe_buffay Well, he came in for a massage, and everything was fine until.
 chandler_bing@joey_tribbiani Ooooohh!
 dr_ross_geller My God.
 monica_geller Are you sure?
-phoebe_buffay Oh yeah, I'm sure. And all of a sudden his hands weren't the problem anymore. (Flashback continues
+phoebe_buffay Oh yeah, I'm sure. And all of a sudden his hands weren't the problem anymore.
 monica_geller Was it...?
 phoebe_buffay Oh, boy scouts could have camped under there.
 guys#unknown#Friends.Season01.Episode12 Oooooo....
@@ -178,8 +178,8 @@ phoebe_buffay Such a pig!
 rachel_green Oh, God, he's such a pig,
 phoebe_buffay Oh he's like a...
 rachel_green He's like a big disgusting...
-phoebe_buffay ...like a...
-rachel_green ...pig...pig man!
+phoebe_buffay ..like a...
+rachel_green ..pig...pig man!
 phoebe_buffay Yes, good! Ok...
 rachel_green Oh, but he was my pig man...how did I not see this?
 phoebe_buffay Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
@@ -209,7 +209,7 @@ dr_ross_geller Paolo, I-I just want to tell you and I think I speak for everyone
 phoebe_buffay Oh, just look at her...
 dr_ross_geller Oh you guys, I-I really think just one of us should go out there so she's not overwhelmed...
 monica_geller Oh, you're right.
-dr_ross_geller ...and I really think it should be me.
+dr_ross_geller ..and I really think it should be me.
 dr_ross_geller Hey.
 rachel_green Hey.
 dr_ross_geller You all right?
@@ -224,7 +224,7 @@ dr_ross_geller Ohhhh
 monica_geller Ooh...hey honey, are you all right?
 rachel_green Oh...
 phoebe_buffay You ok?
-rachel_green ...medium...hmm...any cookies left?
+rachel_green ..medium...hmm...any cookies left?
 phoebe_buffay Yep!
 dr_ross_geller See, Rach, uh, see, I don't think that swearing off guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.
 rachel_green No. I just need to be by myself for a while, you know? I just got to figure out what I want
@@ -248,7 +248,7 @@ dr_ross_geller I'm having a son. Um...
 monica_geller Yes! And that would be a shut-down!
 chandler_bing@joey_tribbiani Shut-out!!
 monica_geller Where are you guys going? Come on, one more game!
-joey_tribbiani Uh, it's 2
+joey_tribbiani Uh, it's 2:30 in the morning!
 chandler_bing Yeah, get out!
 monica_geller You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies! All right, ok, I gotta go. I'm going, and I'm gone.
 chandler_bing One more game?

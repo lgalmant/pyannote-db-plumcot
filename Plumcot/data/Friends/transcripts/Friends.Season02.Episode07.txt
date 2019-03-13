@@ -1,4 +1,4 @@
-chandler_bing OK, what is it about me? Do I not look fun enough? Is there something. . . repellant. . . about me?
+chandler_bing OK, what is it about me? Do I not look fun enough? Is there something. repellant. about me?
 rachel_green So, how was the party?
 chandler_bing Well it couldn't have been worse. A woman literally passed
 phoebe_buffay No, you are not, you are very attractive. You know what, I go through the exact same thing. Every time I put on a little weight, I start questioning everyting.
@@ -16,8 +16,8 @@ chandler_bing And we're changing.
 monica_geller C'mon give me five more. Five more.
 chandler_bing No.
 monica_geller Five more and I'll flash you.
-chandler_bing One. . . two. . . two and a half. OK, just show me one of them.
-chandler_bing Ow, ow, ow, ow, ow, ow, ow. Ow, ow, ow, ow, ow. . She's insane, the woman is insane. It's before work, it's after work, it's during work. She's got me doing butt clenches at my desk. And now, they won't bring me my mail anymore.
+chandler_bing One. two. two and a half. OK, just show me one of them.
+chandler_bing Ow, ow, ow, ow, ow, ow, ow. Ow, ow, ow, ow, ow. She's insane, the woman is insane. It's before work, it's after work, it's during work. She's got me doing butt clenches at my desk. And now, they won't bring me my mail anymore.
 rachel_green Hey Phoebs, how'd it go with Scott last night?
 phoebe_buffay Oh, um, it was nice. Took him to a romantic restraunt, ordered champagne, nice.
 joey_tribbiani The guy still won't put out, huh?
@@ -26,7 +26,7 @@ all@ Sorry Phoebs.
 phoebe_buffay Look, I, y'know, I don't mind taking it slow, I like him a lot, y'know he's really interesting and he's really sweet and why won't he give it up?
 joey_tribbiani Maybe he, uhh... drives his car on the other side of the road, if ya know what I mean.
 phoebe_buffay No, whad'ya mean? He's not British.
-joey_tribbiani Maybe he's. . . gay.
+joey_tribbiani Maybe he's. gay.
 phoebe_buffay Oohh, um, no, I don't think that's the problem. 'Cause we went, um, dancing the other night and the way he held me so close, and the way he was looking into my eyes I just like... definitely felt something.
 rachel_green Yeah, but how much can you tell from a look?
 phoebe_buffay No, I felt it on my hip. You could tell.
@@ -36,7 +36,7 @@ phoebe_buffay Ooh, oh, Rachel, don't look.
 rachel_green What? C'mon you guys, I don't care, I have a date tonight.
 joey_tribbiani Woah, woah, woah, you have a date?
 rachel_green Yeah, Monica's settin' me up.
-joey_tribbiani But uh, uh, what about uh, Ross and uh. . .?
+joey_tribbiani But uh, uh, what about uh, Ross and uh.?
 rachel_green Oh what, my whole insane jealousy thing? Well, y'know, as much fun as that was, I've decided to opt for sanity.
 chandler_bing So you really OK about all this?
 rachel_green Oh yeah, c'mon, I'm movin' on. He can press her up against that window as much as he wants. For all I care, he can throw her through the damn thing.
@@ -67,7 +67,7 @@ michael Um, cheers.
 rachel_green Oh, right, clink.
 michael Monica told you I was cuter that this, didn't she?
 rachel_green Oh, no, Michael, it's not you. I'm sorry, it's just, it's this thing. It's probably not as bad as it sounds but this friend of mine is, is getting a cat with his girlfriend.
-michael Oh, that does sound. . .Ahh.
+michael Oh, that does sound.Ahh.
 rachel_green I mean he just started going out with her.
 michael Is this guy, uhh, an old boyfriend?
 rachel_green Ah, hah-hah-hah-ho, yeah, he wishes. Oh, I'm sorry, look at me. OK, Michael, let's talk about you.
@@ -91,14 +91,14 @@ rachel_green Oh, look at me, look at me. Oh, I'm on a date with a really great g
 michael Oy. Look, I've been through a divorce, trust me you're gonna be fine. You just can't see it now because you haven't had any closure.
 rachel_green Yeah! Closure. That's what it is, that's what I need. God, you're brilliant! Why didn't I think of that? How do I get that?
 michael Well, you know, there's no one way really, it's just, you know, whatever it takes so that you can finally say to him, "I'm over you."
-rachel_green Closure, that's what it is. Closure. Hello, excuse me. Excuse me, hel. . . woo
-phone_guy Hang on.
+rachel_green Closure, that's what it is. Closure. Hello, excuse me. Excuse me, hel. woo
+guy#unknown#Friends.Season02.Episode07 Hang on.
 rachel_green Hello, excuse me.
-phone_guy What.
+guy#unknown#Friends.Season02.Episode07 What.
 rachel_green Hi, I'm sorry, I need to borrow your phone for just one minute.
-phone_guy I'm talkin'!
+guy#unknown#Friends.Season02.Episode07 I'm talkin'!
 rachel_green I can see that. I... just one phone call, I'll be very quick, I'll even pay for it myself. OK, you're bein' a little weird about your phone.
-phone_guy Alright, fine. I'll call you back.
+guy#unknown#Friends.Season02.Episode07 Alright, fine. I'll call you back.
 rachel_green Thank you. OK. Machine. Just waiting for the beep.
 michael Good.
 rachel_green Ross, hi, it's Rachel. I'm just calling to say that um, everything's fine and I'm really happy for you and your cat who, by the way, I think you should name Michael. And, you know, ya see there I'm thinking of names so obviously, I am over you. I am over you and that, my friend, is what they call closure.
@@ -111,7 +111,8 @@ monica_geller No, c'mon, we can't stop, c'mon, we've got three more pounds to go
 dr_ross_geller Hey Rach.
 rachel_green Ahhhh.
 dr_ross_geller Oh. And how was the date?
-rachel_green Umm, I think there was a restaurant... I know there was wine. . .
+rachel_green Umm, I think there was a restaurant... I know there was wine.
+dr_ross_geller Wow, well uh, uh, actually, Julie's downstairs getting a cab, I just need the cat toy, did Monica say. What? Why, why are you looking at me like that?
 rachel_green I don't know, I, I feel like I had a dream about you last night but I, I don't remember.
 dr_ross_geller OK. Oh, oh, oh.
 rachel_green Did we speak on the phone last night? Did you call me?
@@ -120,11 +121,12 @@ rachel_green Huh.
 dr_ross_geller Oh, actually I haven't even been home yet. Do you mind if I check my messages?
 rachel_green Oh yeah, go ahead.
 dr_ross_geller Rach, I got a message from you. Who's Michael?
+rachel_green Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the.
 dr_ross_geller You're over me?
 rachel_green Ohhhhhhhh God.
 dr_ross_geller Wha... you're uh, you're, you're over me?
 rachel_green Ohh, ohh.
-dr_ross_geller When, when were you... under me? Rach. Rachel do you, I mean, were you, uh. . . What?
+dr_ross_geller When, when were you... under me? Rach. Rachel do you, I mean, were you, uh. What?
 rachel_green Ohh, OK, OK, OK, well, basically, lately, I've uh, I've uh, sort of had feelings for you.
 dr_ross_geller You've had feelings for me?
 rachel_green Yeah, what, so? You had feelings for me first.
@@ -157,7 +159,7 @@ phoebe_buffay Well, I finally took your advice and asked him what was going on.
 joey_tribbiani And what did he say?
 phoebe_buffay He said that, um, he understands how sex can be like, a very emotional thing for a woman and he was just afraid that I was gonna get all, y'know, like, 'ohh, is he gonna call me the next day' and, y'know, 'where is this going' and, ya know, blah-la-la-la-la. So he said he wanted to hold off until he was prepared to be really serious.
 joey_tribbiani Wow.
-phoebe_buffay Yeah, so I said, "OK, relax please," y'know, I mean, sex can be just about two people right there in the moment, y'know, it's, if he wants to see me again he can call and if not, that's fine too. So after a looooot of talking. . . I convinced him.
+phoebe_buffay Yeah, so I said, "OK, relax please," y'know, I mean, sex can be just about two people right there in the moment, y'know, it's, if he wants to see me again he can call and if not, that's fine too. So after a looooot of talking. I convinced him.
 joey_tribbiani Let me get this straight. He got you to beg to sleep with him, he got you to say he never has to call you again, and he got you thinking this was a great idea.
 phoebe_buffay Um-hum.
 joey_tribbiani This man is my God.
@@ -184,8 +186,9 @@ dr_ross_geller Fine.
 rachel_green 'Cause I don't need your stupid ship.
 dr_ross_geller Good.
 rachel_green Good.
+rachel_green And ya know what, now I've got closure.
 dr_ross_geller Try the bottom one.
-chandler_bing Monica, it's 6
+chandler_bing Monica, it's 6:30 in the morning. We're not working out, it's over.
 monica_geller No way, with one pound to go, c'mon. We're workin', we're movin', we're in the zone we're groovin'.
 chandler_bing OK, I don't, I don't mind the last pound. OK, in fact I kind of like the last pound. OK, so don't make me do anything that I'll regret.
 monica_geller Ooh, what'cha gonna do, fat boy, huh? What?
@@ -198,7 +201,7 @@ monica_geller Uh-huh.
 chandler_bing And it's not as if you have a boyfriend's shoulder to cry on.
 monica_geller Well no, but um.
 chandler_bing I mean, if it were me, I think I'd have difficulty just getting out of bed at all.
-monica_geller Y'know, I try to stay positive. . .
+monica_geller Y'know, I try to stay positive.
 chandler_bing So, you feel like goin' for a run?
 monica_geller Alright.
 chandler_bing Because, you know, you don't have to. If you want, you could just take a nap right here.

@@ -2,7 +2,7 @@ rachel_green Come on Joey!!!
 joey_tribbiani Rach, I told you everything I knew last night! Look, it's not that big of a deal, so Monica and Chandler are doing it.
 rachel_green I can't believe you would say that!
 joey_tribbiani Sorry. Monica and Chandler are making love.
-rachel_green No! I mean come on! This is a huge deal! Fine I want - I need more details, who-who initiated the first kiss?
+rachel_green No! I mean come on! This is a huge deal! Fine I want-I need more details, who-who initiated the first kiss?
 joey_tribbiani I don't know.
 rachel_green Is he romantic with her?
 joey_tribbiani I don't know.
@@ -47,12 +47,12 @@ monica_geller Really? Your work laugh?
 chandler_bing Oh, believe me, to survive this party, you're gonna have to come up with one too.
 monica_geller All right, check me out.
 chandler_bing Okay.
-doug says $30 Father; same as in town.
+doug ...says $30 Father; same as in town.
 chandler_bing Hey! Everybody at work loved you last night!
 monica_geller Really?
 chandler_bing And! They like me more just because I was with ya! I think you repaired a lot of the damage from when they met Joey. And Doug wants us to play tennis with them. He's never even talked to me outside of work. Except for that time when we bumped into each other at that strip club. Strip church. Anyway, I'm gonna go try and find a racquet.
 monica_geller Hey, I thought you already had one.
-chandler_bing Oh I used too, but then Joey thought it would be fun to go to Central Park and hit rocks at... bigger rocks. Hey Rach, do you have a tennis racquet?
+chandler_bing Oh I used too, but then Joey thought it would be fun to go to Central Park and hit rocks at...bigger rocks. Hey Rach, do you have a tennis racquet?
 rachel_green Oh umm, y'know I lent it to Joey and I never actually got it back.
 chandler_bing Okay, good luck with that.
 rachel_green Hey!
@@ -66,8 +66,8 @@ monica_geller Okay. Umm
 rachel_green Hey! Y'know what? Let's talk about relationships!
 monica_geller Okay, what's going on with you?
 rachel_green Nothing! You go!
-monica_geller Well, I-I - there was this guy at the bank that I thought was cute umm, but I don't anymore.
-rachel_green Wow that's uh, juicy. Umm, y'know what though Mon, I actually do have a lot of work to do so if-if - are you sure there's just not anything else?
+monica_geller Well, I-I-there was this guy at the bank that I thought was cute umm, but I don't anymore.
+rachel_green Wow that's uh, juicy. Umm, y'know what though Mon, I actually do have a lot of work to do so if-if-are you sure there's just not anything else?
 monica_geller Yes, I'm sure! Rachel is there something that you want to talk me about?
 rachel_green No! If there was I wouldn't tell you.
 phoebe_buffay Okay, then what happened?
@@ -112,7 +112,7 @@ monica_geller I was frustrated.
 chandler_bing It was my racquet.
 monica_geller I was frustrated with you!
 chandler_bing If we hadn't lost the game they never would've invented us to dinner tomorrow night.
-monica_geller Y'know what really bothers me? Is - it's how-how different you act around them! I mean y'know the throwing the tennis games, the fake laugh, the "I'll see you around, Bing!" "Not if I see you first, Doug!" I gotta tell you, I don't like Work Chandler. Okay? The guy's a suck-up.
+monica_geller Y'know what really bothers me? Is-it's how-how different you act around them! I mean y'know the throwing the tennis games, the fake laugh, the "I'll see you around, Bing!" "Not if I see you first, Doug!" I gotta tell you, I don't like Work Chandler. Okay? The guy's a suck-up.
 chandler_bing Okay y'know what, because you said that, I'm not putting out tonight.
 monica_geller I'm telling you, something's wrong! My brother does not stay out all night.
 joey_tribbiani Maybe we should check the trash chute.
@@ -152,7 +152,7 @@ monica_geller What?!
 rachel_green I overheard you guys on the phone the other day, and you said, "I'll just tell Rachel that I'm doing laundry for a couple of hours." And he said, "Laundry? Is that my new nickname?" And you said, "No! You know what your nickname is, Mr. Big."
 monica_geller Well. Sounds like you're writing yourself a little play there Rach. Wow! Let me know how that one turns out.
 rachel_green Well, I wouldn't know because I got so freaked out that I hung up the phone.
-monica_geller Well, if you had kept listening, you-you would have heard me call him Mr. Big... ... ot.
+monica_geller Well, if you had kept listening, you-you would have heard me call him Mr. Big......ot.
 rachel_green What?!
 monica_geller Mr. Bigot. He tells the most racist jokes.
 rachel_green All right. So you're telling me that there is nothing going on between you and Chandler.
@@ -204,13 +204,13 @@ rachel_green Sure! Why?
 joey_tribbiani Oh well, Chandler and Monica are over there and it's kinda hard to concentrate.
 rachel_green What?! She just called and said that she was gonna be working late! She keeps lying to me! That's it! Y'know what? I'm just gonna go over there and confront them right now!
 chandler_bing All right, so you're telling me that I have to tell racist jokes now?!
-monica_geller Sorry! I'm just - I'm not very good at this! I'm a terrible liar and I hate having to lie to Rachel!
+monica_geller Sorry! I'm just-I'm not very good at this! I'm a terrible liar and I hate having to lie to Rachel!
 chandler_bing But we're not ready to tell yet!
-monica_geller I know! It's just that... ever since high school Rachel was the one person I told everything too. Y'know? I miss that so much now. She's my best friend.
+monica_geller I know! It's just that...ever since high school Rachel was the one person I told everything too. Y'know? I miss that so much now. She's my best friend.
 monica_geller Joey?! Oh my God, Rachel!
 rachel_green Hey! Hi!
 monica_geller Wh-wh-what are you doing here? (She tries to pull her shirt down to cover the fact that she's wearing men's boxers.]
-rachel_green Well, I was actually - I-I came over here to-to borrow this lamp. To umm, look at my books, y'know, see them a little better.
+rachel_green Well, I was actually-I-I came over here to-to borrow this lamp. To umm, look at my books, y'know, see them a little better.
 monica_geller Okay great!
 rachel_green Yeah!
 monica_geller Great! Umm, well what-what I was doing in Chandler's room is that umm, I was cleaning it! In fact, he pays me to clean it!
@@ -230,14 +230,14 @@ janice Yes! Yes! You did!
 dr_ross_geller Oh
 janice What is wrong now?!
 dr_ross_geller This isn't what I ordered! Man! Can anything go right in my life?! First my marriage falls apart and then
-janice I know! I know! And then you lose your apartment! And then you lose your job! And then your ex-wife gets married so fast! And now the coffee - ahh!! Ross, we need to talk.
+janice I know! I know! And then you lose your apartment! And then you lose your job! And then your ex-wife gets married so fast! And now the coffee-ahh!! Ross, we need to talk.
 dr_ross_geller Okay. Sometimes I feel
 janice No-no-no, no. I'm going to talk. I believe that the sun has set on our day in the sun.
 dr_ross_geller Huh?
 janice You're a very sweet person Ross, umm, unfortunately I don't think I can take another second of you whining!!
 dr_ross_geller Let-let me make sure I'm hearing this right, you're ending this with me because I'm too whiney? So you're saying, I've become so whiney that I annoy you, Janice.
 janice Well yeah!!
-dr_ross_geller OH... MY... GOD!!
+dr_ross_geller OH...MY...GOD!!
 janice Are you gonna be okay?
 dr_ross_geller I am now.
 janice Okay.
@@ -252,4 +252,4 @@ chandler_bing I am mad! But you know what I'm gonna do? I'm gonna forgive you! B
 dr_ross_geller Okay.
 chandler_bing I also want you to remember that I let you live here rent free!
 dr_ross_geller All right.
-chandler_bing And, I want you to remember that I gave you twenty seven dollars. No strings attached. Now, if you can't remember that, I think we should write it down - let's write it down!
+chandler_bing And, I want you to remember that I gave you twenty seven dollars. No strings attached. Now, if you can't remember that, I think we should write it down-let's write it down!

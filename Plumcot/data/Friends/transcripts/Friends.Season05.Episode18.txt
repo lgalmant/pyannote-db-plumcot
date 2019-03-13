@@ -50,7 +50,7 @@ joey_tribbiani Hey! I'm in, they're gonna let me audition!
 dr_ross_geller Really? That's great!
 joey_tribbiani I know! I know! It turns out that one of the casting ladies has actually seen me in a play, so I steered clear of her
 carol_willick Hey, that kid looks familiar.
-joey_tribbiani Oh yeah, yeah! He's done tons of commercials. I've seen him in like Sugar Smacks, Playstation, and that one for the phone company. In fact he was so good in that one, he actually convinced me to switch phone companies. Chandler was mad... .
+joey_tribbiani Oh yeah, yeah! He's done tons of commercials. I've seen him in like Sugar Smacks, Playstation, and that one for the phone company. In fact he was so good in that one, he actually convinced me to switch phone companies. Chandler was mad....
 dr_ross_geller Yeah well, he's not gonna get this one. Ben is way cuter than that kid. I mean look at him, look at you,
 joey_tribbiani That's great. Listen, wouldn't it be great though if I got to play Ben's dad?
 dr_ross_geller Joey, you look nothing like Ben.
@@ -63,8 +63,8 @@ nancy She is kidding, but don't ever disagree with her again. Okay, now I'm kidd
 rachel_green Oh, what a fun office.
 kim_clozzi I don't know which one, but I do know I need a cigarette. So what do you say we take a break, we go outside, and we'll figure this out when we come back?
 kim_clozzi Rachel? Do you smoke?
-rachel_green Oh no, my dad's a doctor and he would always tell me just horror stories... ... about ghosts and goblins who totally supported the princess's right to smoke.
-rachel_green and then they came back from smoking and they had made all of the decisions without me!
+rachel_green Oh no, my dad's a doctor and he would always tell me just horror stories......about ghosts and goblins who totally supported the princess's right to smoke.
+rachel_green ...and then they came back from smoking and they had made all of the decisions without me!
 monica_geller That doesn't seem fair.
 rachel_green I know! It's like I'm being punished for not having this disgusting, poisoning habit!
 chandler_bing Yeah, it is the best.
@@ -141,7 +141,7 @@ phoebe_buffay Umm, cups.
 chandler_bing Oh good, because uh we got Rachel 800 gallons of water.
 dr_ross_geller Seriously that's a lot of cups.
 phoebe_buffay Yeah well, that's 'cause Monica put me in charge of cups and ice, and Monica is gonna rue the day that she put me in charge of cups and ice.
-chandler_bing Y'know I rued the day once... didn't get a whole lot else done.
+chandler_bing Y'know I rued the day once...didn't get a whole lot else done.
 phoebe_buffay Okay, time to bring up the rest of the cups. Oh, hi Joey!
 joey_tribbiani Hey Pheebs! Hey!
 dr_ross_geller Hey!
@@ -244,7 +244,7 @@ phoebe_buffay And did you notice the ice? Look! We have it all! We have crushed!
 chandler_bing Awesome!
 monica_geller Chandler! Everyone--no one's eating my Tuscan finger food 'cause they're all filling up on Phoebe's snow cones!
 chandler_bing There are snow cones! Snow cones! Yuck!
-monica_geller Y'know... go! Go! Right there!
+monica_geller Y'know...go! Go! Right there!
 chandler_bing Thank you! Thank you!
 phoebe_buffay Oh, look! Look! Look!
 all@ Surprise!!

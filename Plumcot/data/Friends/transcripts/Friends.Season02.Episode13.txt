@@ -29,7 +29,7 @@ chandler_bing Uh, yes, yes it is.
 susie_moss Chandler Bing?
 chandler_bing Do you know me or are you just really good at this game?
 susie_moss I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse.
-chandler_bing Susie Moss, right, yeah, wow, you look. . . great job growing up.
+chandler_bing Susie Moss, right, yeah, wow, you look. great job growing up.
 susie_moss It's nice to see you're not still wearing that denim cap with all the little mirrors on it.
 chandler_bing Oh, right, well yeah, I graduated fourth grade and realized I wasn't a pimp.
 susie_moss Remember the class play? You, you pulled up my skirt and the entire auditorium saw my underpants.
@@ -59,7 +59,7 @@ chandler_bing OK that's not what he was doing. Alright, he was looking for his b
 susie_moss Oh that's me, I gotta go.
 chandler_bing Oh uh, o, OK.
 susie_moss Um, so listen, how many times am I gonna have to touch you on the arm before you ask me on a date.
-chandler_bing Well, uh, let's try one more. . . there you go, say Ernie's, 8 o'clock.
+chandler_bing Well, uh, let's try one more. there you go, say Ernie's, 8 o'clock.
 susie_moss I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear.
 chandler_bing No one was around to hear that?
 monica_geller So what'd he say?
@@ -69,7 +69,7 @@ rachel_green He just kept asking, and asking, and asking, and asking, and asking
 monica_geller Rachel if you, if you want to go out with him, you can. Sound like a big jerk to me but if that's what you want to do...
 rachel_green Jean-Claude she said yes, I'll see you tonight. Thank you.
 rachel_green And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore.
-joey_tribbiani Oh man, she's so smokin, she has got the greatest set of. . . no guys around, huh.
+joey_tribbiani Oh man, she's so smokin, she has got the greatest set of. no guys around, huh.
 rachel_green Does anybody need anything?
 monica_geller Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself.
 rachel_green That is so unfair.
@@ -97,7 +97,7 @@ chandler_bing Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and th
 susie_moss Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner.
 chandler_bing You want me to wear your panties?
 susie_moss Could ya?
-chandler_bing Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell.
+chandler_bing Well, if I was wearing your underwear then, uh, what would you be wearing?. You're swell.
 dr_ross_geller OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake.
 joey_tribbiani Oooh.
 dr_ross_geller With mealworms.
@@ -132,7 +132,7 @@ phoebe_buffay There we go.You know what, if we were in prison, you guys would be
 dr_ross_geller Thanks for letting me tag along tonight you guys.
 joey_tribbiani Forget about it.
 susie_moss How you doin there squirmy?
-chandler_bing I'm hangin in. . . and a little out.
+chandler_bing I'm hangin in. and a little out.
 joey_tribbiani So, assistant to the director. That's a really exciting job, I mean, you must have a ton of cool responsibilities.
 directors_assistant#unknown#Friends.Season02.Episode13 I have nothing to do with casting.
 joey_tribbiani So what're you guys gonna eat?
@@ -197,7 +197,7 @@ chandler_bing Joey!
 joey_tribbiani Chandler? What're you still doin' here, I though you guys took off.
 chandler_bing Oh, no no no, she took off with my clothes.
 joey_tribbiani Are you naked in there?
-chandler_bing Not exactly. . . I'm wearin panties.
+chandler_bing Not exactly. I'm wearin panties.
 joey_tribbiani Huh, you uh, you always wear panties?
 chandler_bing No, no, this is the first time.
 joey_tribbiani Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes.
@@ -230,7 +230,7 @@ jeanclaude_van_damme Goodbye.
 monica_geller Well, bye for me too.
 rachel_green OK, well, bye-bye again.
 monica_geller OK.
-jeanclaude_van_damme Perhaps, uh, the three of us, just could. . .
+jeanclaude_van_damme Perhaps, uh, the three of us, just could.
 monica_geller@rachel_green Oh, no no no no no.
 jeanclaude_van_damme Are you sure, I can crush a walnut with my butt.
 monica_geller@rachel_green No no no no.
@@ -243,7 +243,13 @@ rachel_green Oh yeah.
 phoebe_buffay Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?
 chandler_bing How long you been waitin' to say that?
 phoebe_buffay About 20 minutes.
-director#unknown#Friends.Season02.Episode13 Cut.
-director#unknown#Friends.Season02.Episode13 Cut.
-director#unknown#Friends.Season02.Episode13 Cut.
+jeanclaude_van_damme Can't you see what's going on here, this man is dying.
+joey_tribbiani Aaaaagggghhhhh.
+director Cut.
+jeanclaude_van_damme Can't you see what's going on here, this man is dying.
+joey_tribbiani Aaaaagggghhhhh.
+director Cut.
+jeanclaude_van_damme Can't you see what's going on here, this man is dying.
+joey_tribbiani Aaaaagggghhhhh. Mommy
+director Cut.
 jeanclaude_van_damme Can't you see what's going on here, this man is dead.

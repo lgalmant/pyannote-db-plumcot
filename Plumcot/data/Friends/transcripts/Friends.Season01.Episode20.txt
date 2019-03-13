@@ -67,7 +67,7 @@ barry_farber No, it was. It was very very good.
 rachel_green Well, what about Mindy?
 barry_farber Oh, way, way better than Mindy.
 rachel_green No, not that, I mean, what about you and Mindy?
-barry_farber Well, if you want, I'll just - I'll just break it off with her.
+barry_farber Well, if you want, I'll just-I'll just break it off with her.
 rachel_green No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.
 bernice#unknown#Friends.Season01.Episode20 Dr. Farber, Bobby Rush is here for his adjustment.
 barry_farber Thanks, Bernice. Let's go away this weekend.
@@ -84,7 +84,7 @@ chandler_bing Yes, it's working! Why isn't she calling me back?
 joey_tribbiani Maybe she never got your message.
 phoebe_buffay Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
 chandler_bing Y'don't think that makes me seem a little...
-dr_ross_geller ...desperate, needy, pathetic?
+dr_ross_geller ..desperate, needy, pathetic?
 chandler_bing Ah, you obviously saw my personal ad.
 phoebe_buffay How many beeps?
 chandler_bing She answered.
@@ -117,13 +117,13 @@ chandler_bing Hell is filled with people like you.
 joey_tribbiani He's back! The peeper's back!
 joey_tribbiani Get down!
 rachel_green Get down?
-chandler_bing ...And boogie!
+chandler_bing ..And boogie!
 rachel_green Thanks, but I gotta go to work and get my eyes scratched out by Mindy.
 monica_geller Relax. Y'know, she may not even know.
 rachel_green Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..
 joey_tribbiani Yeah?
 rachel_green And now, y'know, I'm like... I'm like the other woman! I feel so..
-joey_tribbiani ..Naughty!
+joey_tribbiani .Naughty!
 rachel_green Right, I'll see you guys later...
 joey_tribbiani Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...
 chandler_bing Okay, I'm gonna go to the bathroom. Will you watch my phone?
@@ -140,14 +140,14 @@ mindy Hey, you.
 rachel_green Hey, you.... So, what's up?
 mindy Um.. we should really be sitting for this.
 rachel_green Sure we should... So.
-mindy Now, I know things've been weird lately, but you're like my oldest friend in the world... Except for maybe Laurie Schaffer, who I don't talk to anywhere, 'cause she's all bitter now that she lost the weight and it turns out she doesn't have a pretty face. ....Okay, I'm just gonna ask you this once, and I want a straight answer.
+mindy Now, I know things've been weird lately, but you're like my oldest friend in the world... Except for maybe Laurie Schaffer, who I don't talk to anywhere, 'cause she's all bitter now that she lost the weight and it turns out she doesn't have a pretty face....Okay, I'm just gonna ask you this once, and I want a straight answer.
 rachel_green Okay.
 mindy Will you be my maid of honour?
 rachel_green Of course!
 mindy Oh that's so great!
 rachel_green Was that all you wanted to ask me?
 mindy That's all!
-rachel_green Ohhhh!! ...What? What?
+rachel_green Ohhhh!!.What? What?
 mindy That's not all.
 rachel_green Oh sure it is!
 mindy Oh no, it isn't! No! I think Barry is seeing someone in the city.
@@ -166,14 +166,14 @@ mindy Oh no.
 rachel_green Oh, I am so sorry.
 mindy No me, I am so sorry...
 joey_tribbiani Oh my.
-dr_ross_geller Four letters
+dr_ross_geller Four letters: "Circle or hoop".
 chandler_bing Ring dammit, ring!
 dr_ross_geller Thanks.
 joey_tribbiani Hey, you know our phone's not working?
 chandler_bing What?!
 joey_tribbiani I tried to call you from the coffee shop, and there was no answer.
 chandler_bing I turned it off. Mother of God, I turned it off!
-monica_geller Just like you told her you did! ... Just pointing out the irony.
+monica_geller Just like you told her you did!. Just pointing out the irony.
 joey_tribbiani Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?
 chandler_bing Nngghhh!!!!!!!
 joey_tribbiani Can I use your phone? Yeah, the number for a Sidney Marks, please.
@@ -183,14 +183,14 @@ dr_ross_geller Five letters.
 phoebe_buffay Rdtor.
 joey_tribbiani Yeah, is Sidney there? Oh, this is? Sidney's a woman.
 monica_geller So she's a woman! So what?
-joey_tribbiani Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like - - Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..
+joey_tribbiani Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like--Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..
 monica_geller Joey!!
 joey_tribbiani Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.
 monica_geller The green dress? Really?
 joey_tribbiani Yeah, she said you looked like Ingrid Bergman that day.
 monica_geller Nooo!
 rachel_green Hey. Got a second?
-barry_farber Sure, sure. Come on... ...in...
+barry_farber Sure, sure. Come on....in...
 mindy Hello, sweetheart.
 barry_farber Uh... uh... what're'you... what're'you guys doing here?
 rachel_green Uh, we are here to break up with you.
@@ -198,7 +198,7 @@ barry_farber Both of you?
 mindy Basically, we think you're a horrible human being, and bad things should happen to you.
 barry_farber I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!
 rachel_green Uh- which one of us are you talking to there, Barr?
-barry_farber ....Mindy. Mindy, of course Mindy, it was always Mindy.
+barry_farber ...Mindy. Mindy, of course Mindy, it was always Mindy.
 rachel_green Even when we were having sex in that chair?
 barry_farber I swear, whatever I was doing, I was always thinking of you.
 rachel_green Please! During that second time you couldn't have picked her out of a lineup!
@@ -223,13 +223,13 @@ monica_geller Aww...
 joey_tribbiani Big day.
 joey_tribbiani All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
 phoebe_buffay You know he's gay?
-dr_ross_geller I just wanna clarify this
+dr_ross_geller I just wanna clarify this: are you outing Mr. Peanut?
 danielle Chandler?
 chandler_bing Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.
 all@ Hi. Hi.
 chandler_bing What are you doing here?
 danielle Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
-chandler_bing ...I'm, I'm okay.
+chandler_bing ..I'm, I'm okay.
 danielle Listen uh, maybe we could get together later?
 chandler_bing That sounds good. I'll call you- or you call me, whatever...
 danielle You got it.
@@ -239,6 +239,6 @@ all@ Bye.
 phoebe_buffay Whoo-hoo!
 monica_geller Yeah, there you go!
 dr_ross_geller Second date!
-chandler_bing ...I dunno.
+chandler_bing ..I dunno.
 rachel_green You don't know?!
 chandler_bing Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?

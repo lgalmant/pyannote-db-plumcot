@@ -28,11 +28,12 @@ chandler_bing Why is that so funny?
 monica_geller You made a joke right? So I laughed.
 chandler_bing Ha-ha-ha. A little to hard. What am I not ah, boyfriend material?
 monica_geller Well, no. You're Chandler. Y'know, Chandler!
-chandler_bing Okay, so we've established my name, and hit me. But theoretically y'know, I mean say we weren't friends, say it's a blind date. I show up at your door, and I'm like “Hey, nice to meet, ya. Hey, oh-hey.”
+chandler_bing Okay, so we've established my name, and hit me. But theoretically y'know, I mean say we weren't friends, say it's a blind date. I show up at your door, and I'm like "Hey, nice to meet, ya. Hey, oh-hey."
 monica_geller Well I'd probably be scared of a guy using a fake voice.
 joey_tribbiani Hey!
 monica_geller Oh, hey! Oh good, you brought food!
 joey_tribbiani No, it's just my luggage.
+chandler_bing@joey_tribbiani@monica_geller Hey!!
 joey_tribbiani Woo-hoo! All right! Yeah!
 phoebe_buffay Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.
 dr_ross_geller Yeah? What about ah, that bike messenger you hit?
@@ -201,7 +202,7 @@ phoebe_buffay She cancelled! My namesake cancelled on me!
 joey_tribbiani What?!
 phoebe_buffay Yeah, she clamed she had to go out of town suddenly. She's avoiding me, she doesn't want to tell me where my Father is. She knows, and she won't tell me.
 rachel_green Aww Pheebs, that sucks!
-phoebe_buffay Yeah, well, don't “Aww Pheebs, that sucks!” me yet.
+phoebe_buffay Yeah, well, don't "Aww Pheebs, that sucks!" me yet.
 chandler_bing Where ya going?
 phoebe_buffay Well, she's out of town so, there's gotta be something in her house that tells me where my Father is.
 dr_ross_geller Uh, Pheebs, some people call that breaking and entering.

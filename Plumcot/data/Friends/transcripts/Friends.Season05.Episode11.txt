@@ -80,10 +80,10 @@ dr_ross_geller All right, see you later.
 joey_tribbiani See ya! All right Pheebs, I am ready for my first lesson.
 phoebe_buffay Okay. Oh no-no-no, you don't touch the guitar! First you learn here, then you learn here.
 joey_tribbiani Umm, okay.
-phoebe_buffay Okay, lesson one
+phoebe_buffay Okay, lesson one: chords. Now, I don't know the actual names of the chords but umm, I-I-I made up names for the way my hand looks while I'm doing them. So then, this is Bear Claw. Okay, umm, Turkey Leg and Old Lady.
 chandler_bing What an interesting approach to guitar instruction. Y'know some might find it amusing, I myself find it regular.
 phoebe_buffay Hey everybody, Rachel was so good today. She didn't gossip at all.
-rachel_green I didn't! Even when I found out... umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.
+rachel_green I didn't! Even when I found out...umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.
 joey_tribbiani Hey, Pheebs! Check-check this out.
 phoebe_buffay Ooh, you nailed the Old Lady!
 joey_tribbiani Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and
@@ -118,7 +118,7 @@ dr_ross_geller Okay, it must just be me then.
 dr_ross_geller That was just the pants on the couch. Umm, hey, do you, do you mind if I use your bathroom?
 elizabeth_hornswoggle No, go ahead.
 dr_ross_geller Thanks.
-dr_ross_geller Ahhhhhhhhhhhhhh... ... ... .
+dr_ross_geller Ahhhhhhhhhhhhhh..........
 elizabeth_hornswoggle Hey, my favorite part is coming up!
 dr_ross_geller 'Kay!
 dr_ross_geller Oh my God!
@@ -154,7 +154,7 @@ joey_tribbiani Oh. That is quite a situation. Uh, do you see any like, powder?
 dr_ross_geller Powder! Yeah! Yeah, I have powder!
 joey_tribbiani Good-good, okay, sprinkle some of that on your legs, it'll absorb some of the moisture and then you can get your pants back up.
 dr_ross_geller Yeah, okay, hold on! They're not coming on man.
-joey_tribbiani Umm, do you see any - oh, Vaseline?
+joey_tribbiani Umm, do you see any-oh, Vaseline?
 dr_ross_geller Ohh, I-I see lotion, I have lotion! Will that work?
 joey_tribbiani Yeah, sure, spread some of that on there.
 dr_ross_geller Hold on.
@@ -162,7 +162,7 @@ joey_tribbiani Ross? You okay?
 dr_ross_geller They're still, they're still not coming on man and the lotion and the powder have made a paste!
 joey_tribbiani Really?! Uhh, what color is it?
 dr_ross_geller What difference does that make?!
-joey_tribbiani Well, I'm just - if the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!
+joey_tribbiani Well, I'm just-if the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!
 rachel_green Joey, do you have a minute?
 dr_ross_geller Dude, what am I gonna
 joey_tribbiani Uh, Rachel's here, so good luck man, let me know how it works out.
@@ -226,7 +226,7 @@ joey_tribbiani I can't tell you what I know.
 rachel_green Well then I can't tell you what I know.
 joey_tribbiani Okay, fine.
 joey_tribbiani You don't know!
-rachel_green All right, how about I go over there and I will walk into Chandler's bedroom and I will see that thing that I think that I know is actually the thing that I think that I know! (Note
+rachel_green All right, how about I go over there and I will walk into Chandler's bedroom and I will see that thing that I think that I know is actually the thing that I think that I know!
 joey_tribbiani YOU KNOW!!!!
 rachel_green AND YOU KNOW!!!
 joey_tribbiani Yeah, I know!!!!

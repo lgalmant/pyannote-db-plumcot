@@ -150,7 +150,7 @@ phoebe_buffay Yep. Put more gas in.
 carol_willick Hi!
 dr_ross_geller Hey.
 carol_willick Hey, what are you doing here?
-dr_ross_geller Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of M*A*S*H and half the hostages coming home?
+dr_ross_geller Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of M'A'S'H and half the hostages coming home?
 carol_willick Ah yeah, but now it's Susan and me in Mexico and the hostages coming home.
 dr_ross_geller Where's Ben?
 carol_willick He's sleeping.
@@ -187,7 +187,7 @@ joey_tribbiani Oh yeah, Smokey Joe here got half way to the highway and collapse
 chandler_bing I have the lung capacity of a two year old.
 monica_geller Then why are you smoking?
 chandler_bing Well it's very unsettling.
-dr_ross_geller ....right? Right? I mean it's pretty unbelievable y'know, I mean they just took off, took off without even looking back. Y'know I don't, I don't need them, huh, I've got you guys now as friends, you and Susan.
+dr_ross_geller ...right? Right? I mean it's pretty unbelievable y'know, I mean they just took off, took off without even looking back. Y'know I don't, I don't need them, huh, I've got you guys now as friends, you and Susan.
 carol_willick Ah, Susan will be so pleased.
 dr_ross_geller 717? Where's 717? Hey, you've have more of these for Susan right?
 carol_willick No. But it's okay, I'll just put out pickles or something.
@@ -229,6 +229,7 @@ joey_tribbiani Guys, do you think we should ask Ross to come along?
 monica_geller I know, what about Rachel? I mean how are we even gonna ask her?
 rachel_green Ask me what?
 monica_geller Umm, if ah, it might be okay if Ross came skiing?
+chandler_bing@joey_tribbiani@phoebe_buffay No, I wasn't gonna ask you that, no.
 rachel_green You guys are unbelievable. No! He cannot come.
 dr_ross_geller Excuse me?
 chandler_bing It's horrible.

@@ -97,7 +97,7 @@ nurse Dr. Burke will see you know.
 monica_geller Oh no-no-no, not Dr. Burke. Dr. Burke is out of town. The-the on-call doctor will see me now.
 nurse Dr. Richard Burke is out of town. Dr. Timothy Burke, his son, will see you now.
 dr_tim_burke Ready?
-chandler_bing Hey! I'm sorry! That - where are you going?
+chandler_bing Hey! I'm sorry! That- where are you going?
 joey_tribbiani My folks.
 chandler_bing Oh, uh, when-when are you coming back?
 joey_tribbiani I don't know. I might stay there for a few days while I look for an apartment.

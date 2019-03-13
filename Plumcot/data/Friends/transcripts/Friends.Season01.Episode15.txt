@@ -26,7 +26,7 @@ monica_geller Yeah, Chandler... you've been there for five years.
 chandler_bing If I took this promotion, it'd be like admitting that this is what I actually do.
 phoebe_buffay So was it a lot more money?
 chandler_bing It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
-rachel_green ... the WENUS?
+rachel_green .. the WENUS?
 chandler_bing Weekly Estimated Net Usage Systems. A processing term.
 rachel_green Oh. That WENUS.
 joey_tribbiani So what're you going to do?
@@ -121,7 +121,7 @@ joey_tribbiani What's the big deal? You just say what you want to do to her. Or 
 dr_ross_geller Please be kidding.
 joey_tribbiani Why not? Come on! Just, just close your eyes and tell me what you'd like to be doing right now.
 dr_ross_geller OK. I'm in my apartment...
-joey_tribbiani ....yeah... what else?
+joey_tribbiani ...yeah... what else?
 dr_ross_geller That's it. I'm in my apartment, you're not there, we're not having this conversation.
 joey_tribbiani Alright, look, I'll start, OK?
 dr_ross_geller Joey, please.
@@ -140,10 +140,10 @@ dr_ross_geller Ahem... I want.... OK, I want to... feel your... hot, soft skin w
 joey_tribbiani There you go! Keep going. Keep going!
 dr_ross_geller I, er...
 dr_ross_geller I want to take my tongue... and...
-dr_ross_geller ....and....
+dr_ross_geller ...and....
 joey_tribbiani Say it... say it!
-dr_ross_geller ...run it all over your body until you're... trembling with... with...
-chandler_bing ....with??
+dr_ross_geller ..run it all over your body until you're... trembling with... with...
+chandler_bing ...with??
 dr_ross_geller Funny story!
 joey_tribbiani You're not going to believe this!
 chandler_bing It's OK. It's OK. I was always rooting for you two kids to get together.
@@ -188,7 +188,7 @@ phoebe_buffay Smoked a joint? You know, lit a bone? Weed? Hemp? Ganja?
 rachel_green OK, OK. I'm with you, Cheech. OK.
 steve Is it dry in here?
 rachel_green Let me, let me get you some wine!
-monica_geller Yeah, I think we're ready for our first course. OK, um, these are rot-shrimp ravioli, and celantro pondou sauce... ... with just a touch of mints... and... ... ginger.
+monica_geller Yeah, I think we're ready for our first course. OK, um, these are rot-shrimp ravioli, and celantro pondou sauce..... with just a touch of mints... and..... ginger.
 steve Well, smack my ass and call me Judy! These are fantastic!
 monica_geller I'm so glad you liked them!
 steve Like 'em? I could eat a hundred of them!

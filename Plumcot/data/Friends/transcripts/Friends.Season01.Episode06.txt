@@ -25,30 +25,30 @@ all@ Yeah!
 chandler_bing Oh God, I can't believe I'm even considering this... I'm very very aware of my tongue...
 dr_ross_geller C'mon! C'mon!
 chandler_bing Here goes.
-aurora ...Yes?
+aurora ..Yes?
 chandler_bing Hi.... um... okay, next word... would be... Chandler! Chandler is my name, and, uh......hi.
 aurora Yes, you said that.
 chandler_bing Yes, yes I did, but what I didn't say was what I was about to say, what I wanted to say was, uh... would you like to go out with me sometime, thankyou, goodnight.
 aurora Chandler?
 all@ Hey! You're in a play! I didn't know you could dance! You had a beard!
 joey_tribbiani Whadja think?
-all@ ...Hey! You're in a play! I didn't know you could dance! You had a beard!
+all@ ..Hey! You're in a play! I didn't know you could dance! You had a beard!
 joey_tribbiani C'mon, you guys, it wasn't that bad. It was better than that thing I did with the trolls, at least you got to see my head.
 all@ Saw your head. Saw your head.
 chandler_bing She said yes!! She said yes!! Awful play, man. Whoah. Her name's Aurora, and she's Italian, and she pronounces my name 'Chand-lrr'. 'Chand-lrr'. I think I like it better that way. Oh, listen, the usher gave me this to give to you.
 rachel_green What is it?
 joey_tribbiani The Estelle Leonard Talent Agency. Wow, an agency left me its card! Maybe they wanna sign me!
-phoebe_buffay Based on this play? ...Based on this play!
+phoebe_buffay Based on this play?..Based on this play!
 chandler_bing Hey, kids.
 all@ Hey.
 phoebe_buffay No, 'cause this line is passion, and this is... just a line.
 chandler_bing Well, I can't believe I've been here almost seven seconds and you haven't asked me how my date went.
 monica_geller Oh, right, right. How was your date, 'Chand-lrr'?
 chandler_bing It was unbelievable. I-I've never met anyone like her. She's had the most amazing life! She was in the Israeli army...
-aurora ...Luckily none of the bullets hit the engine block. So, we made it to the border, but just barely, and I- ...I've been talking about myself all night long, I'm sorry. What about you? Tell me one of your stories.
+aurora ..Luckily none of the bullets hit the engine block. So, we made it to the border, but just barely, and I-..I've been talking about myself all night long, I'm sorry. What about you? Tell me one of your stories.
 chandler_bing Alright. Once I got on the subway, right, and it was at night, and I rode it all the way to Brooklyn... just for the hell of it.
 chandler_bing We talked 'til like two. It was this perfect evening... more or less.
-aurora ...All of a sudden we realised we were in Yammon.
+aurora ..All of a sudden we realised we were in Yammon.
 chandler_bing Oh, I'm sorry, so 'we' is?
 aurora 'We' would be me and Rick.
 joey_tribbiani Who's Rick?
@@ -66,13 +66,13 @@ aurora Mmmm... Ethan is my... boyfriend.
 all@ What?!
 chandler_bing So explain something to me here, uh, what kind of a relationship do you imagine us having if you already have a husband and a boyfriend?
 aurora I suppose mainly sexual.
-chandler_bing ...Hm.
+chandler_bing ..Hm.
 monica_geller Oh. I'm sorry it didn't work out.
 chandler_bing What 'not work out'? I'm seeing her again on Thursday. Didn't you listen to the story?
 monica_geller Didn't you listen to the story? I mean, this is twisted! How could you get involved with a woman like this?
-chandler_bing Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff
+chandler_bing Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. I mean, this is every guy's fantasy!
 phoebe_buffay Oh, yeah. That is not true. Ross, is this your fantasy?
-dr_ross_geller No, of course not! ...Yeah, yeah, it is.
+dr_ross_geller No, of course not!.Yeah, yeah, it is.
 monica_geller What? So you guys don't mind going out with someone else who's going out with someone else?
 joey_tribbiani I couldn't do it.
 monica_geller Good for you, Joey.
@@ -88,7 +88,7 @@ rachel_green Look! I cleaned! I did the windows, I did the floors... I even used
 dr_ross_geller Oh yeah, nobody knows. And we're not supposed to ask.
 rachel_green Well, whaddya think?
 all@ Very clean! It looks great! Terrific!
-monica_geller ...Oh! I-I see you moved the green ottoman.
+monica_geller ..Oh! I-I see you moved the green ottoman.
 all@ Uh-oh...
 monica_geller How-how did that happen?
 rachel_green I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
@@ -105,9 +105,9 @@ monica_geller Why not?
 dr_ross_geller Because you're a kook! Instead you wait until they send you a notice.
 monica_geller I could do that.
 rachel_green Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.
-monica_geller Why would someone do that?! ...One might wonder.
+monica_geller Why would someone do that?!..One might wonder.
 chandler_bing Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
-monica_geller STOP IT!! ...Oh my God. It's true! Who am I?
+monica_geller STOP IT!!..Oh my God. It's true! Who am I?
 dr_ross_geller Monica? You're Mom.
 phoebe_buffay Ree! Ree! Ree! Ree! Ree!
 joey_tribbiani Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! That was my agent. My agent has just gotten me a job...in the new Al Pacino movie!
@@ -117,9 +117,9 @@ joey_tribbiani Can you believe this? Al Pacino! This guy's the reason I became a
 phoebe_buffay Seriously, what-what's the part?
 joey_tribbiani "Just when I thought I was out, they pull me back in!"
 dr_ross_geller C'mon, seriously, Joey, what's the part?
-joey_tribbiani ...I'm his
-rachel_green ..You're, you're 'mah mah mah' what?
-joey_tribbiani ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+joey_tribbiani ..I'm his
+rachel_green .You're, you're 'mah mah mah' what?
+joey_tribbiani ..I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
 monica_geller Oh my God.
 joey_tribbiani C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!
 chandler_bing Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.
@@ -142,13 +142,13 @@ chandler_bing Yeah, well, I only have twenty minutes until Ethan, so, y'know..
 rachel_green Ooh, do I sense a little bit of resentment?
 chandler_bing No, no resentment, believe me, it's worth it. 'Kay? Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life? Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?
 monica_geller Sure. Oh, um, Chandler? Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.
-director ...Dammit, hire the girl! Okay, everybody ready?
+director ..Dammit, hire the girl! Okay, everybody ready?
 joey_tribbiani Uh, listen, I just wanna thank you for this great opportunity.
 director Lose the robe.
 joey_tribbiani Me?
 director That would work.
 joey_tribbiani Right. Okay. Losing the robe. And the robe is lost.
-director Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working .. and... action.
+director Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working. and... action.
 director And cut. Hey, Butt Guy, what the hell are you doing?
 joey_tribbiani Well, I'm- I'm showering.
 director No, that was clenching.
@@ -180,17 +180,17 @@ aurora You have me!
 chandler_bing Nono, just you.
 aurora Whaddyou mean?
 chandler_bing Lose the other guys.
-aurora ...Like, ...all of them?
+aurora ..Like,..all of them?
 chandler_bing C'mon, we're great together, why not?
 aurora Why can't we just have what we have now? Why can't we just talk, and laugh, and make love, without feeling obligated to one another... and up until tonight I thought that's what you wanted too.
-chandler_bing ...Well, y'know, part of me wants that, but it's like I'm two guys, y'know? I mean, one guy's going 'Shut up! This is great!' But there's this other guy. Actually it's the same guy that wells up every time that Grinch's heart grows three sizes and breaks that measuring device... And he's saying, y'know, 'This is too hard! Get out! Get out!'
+chandler_bing ..Well, y'know, part of me wants that, but it's like I'm two guys, y'know? I mean, one guy's going 'Shut up! This is great!' But there's this other guy. Actually it's the same guy that wells up every time that Grinch's heart grows three sizes and breaks that measuring device... And he's saying, y'know, 'This is too hard! Get out! Get out!'
 aurora So... which one of the two guys will you listen to?
 chandler_bing I don't know, I-I have to listen to both of them, they don't exactly let each other finish...
 aurora Which one?
-chandler_bing ...The second guy.
+chandler_bing ..The second guy.
 aurora Well, call me if you change your mind.
 chandler_bing Sorry, the first guy runs the lips.
-dr_ross_geller Look at it this way
+dr_ross_geller Look at it this way: you dumped her. Right? I mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... Tell me why you did this again?
 all@ Hey!
 monica_geller Hey, waitwait, aren't you the guy that plays the butt in the new Al Pacino movie?
 joey_tribbiani Nope.
@@ -216,4 +216,4 @@ monica_geller Uh-huh!
 rachel_green Really? Just casually strewn about in that reckless haphazard manner?
 monica_geller Doesn't matter, I'll get 'em tomorrow. Or not. Whenever.
 dr_ross_geller She is a kook.
-monica_geller If it bothers you that much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have to prove anything, I'm gonna go get them...But then everyone will know. Unless I get them, and then wake up really early and put them back! ...I need help!
+monica_geller If it bothers you that much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have to prove anything, I'm gonna go get them...But then everyone will know. Unless I get them, and then wake up really early and put them back!..I need help!

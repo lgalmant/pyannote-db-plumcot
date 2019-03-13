@@ -21,11 +21,11 @@ monica_geller That's insurance fraud.
 rachel_green Well, alright, then, forget it. Might as well just go home. Ow ow ow ow!
 monica_geller Okay, okay. I hate this.
 rachel_green Thank you. Thank you. I love you.
-monica_geller Hi, um, I'm gonna need a new set of these forms .
+monica_geller Hi, um, I'm gonna need a new set of these forms
 nurse#unknown#Friends.Season01.Episode17 Why?
 monica_geller I am really an idiot. you see, I was filling out my friend's form, and instead of putting her information, I put mine.
-nurse#unknown#Friends.Season01.Episode17 You are an idiot. .
-monica_geller yep, that's me, I am that stupid .
+nurse#unknown#Friends.Season01.Episode17 You are an idiot.
+monica_geller yep, that's me, I am that stupid
 dr_ross_geller I had a dream last night where I was playing football with my kid.
 chandler_bing@joey_tribbiani That's nice.
 dr_ross_geller No, no, with him. I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me.
@@ -49,19 +49,19 @@ joey_tribbiani What can I do? Look, I don't want to do anything to screw it up w
 chandler_bing And your friend Phoebe?
 joey_tribbiani Well, if she's my friend, hopefully she'll understand. I mean, wouldn't you guys?
 chandler_bing Man, if you tried something like that on my birthday, you'd be starin' at the business end of a hissy fit.
-dr_michael_mitchell ..you add a pinch of saffron, it makes all the difference.
+dr_michael_mitchell .you add a pinch of saffron, it makes all the difference.
 dr_michael_mitchell Okay, errrr, Monica?
-monica_geller Yes? ..yes, she is.
+monica_geller Yes?yes, she is.
 rachel_green Hi, this is my friend Rachel.
 monica_geller Hi.
 dr_michael_mitchell Hi, err Rachel. I'm Dr.Mitchell.
-dr_ross_geller And I'm his friend, Dr.Rosen.
+dr_jeffrey_rosen And I'm his friend, Dr.Rosen.
 rachel_green Aren't you a little cute to be a doctor?
-dr_ross_geller Excuse me?
+dr_jeffrey_rosen Excuse me?
 rachel_green I meant er, young, young, I meant young, young to be a doctor. Oh good, Rach.
 monica_geller Thank you.
 rachel_green Right.
-rachel_green ..so, he said it was just a sprain, and that was it.
+rachel_green .so, he said it was just a sprain, and that was it.
 monica_geller Uh, you left out the stupid part.
 rachel_green Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said "yes."
 monica_geller I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
@@ -100,21 +100,21 @@ monica_geller Hi, come on in.
 dr_michael_mitchell Hey.
 monica_geller Hi, Geoffrey.
 rachel_green Hi.
-dr_ross_geller Ah here, we brought wine.
+dr_jeffrey_rosen Ah here, we brought wine.
 dr_michael_mitchell Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
 rachel_green Oh, that's great. Look at that.
-dr_ross_geller So, Monica, how's the ankle?
+dr_jeffrey_rosen So, Monica, how's the ankle?
 monica_geller It's uh...
-monica_geller ..well, why don't you tell them? After all it, is your ankle.
+monica_geller .well, why don't you tell them? After all it, is your ankle.
 rachel_green You know what, it's feeling a lot better, thank you, um... Well, listen, why don't you two sit down and, and we'll get you some glasses... okay... STAT!
 rachel_green Okay, listen, I'm thinking, why don't we just tell them who we really are? I mean, it'll be fine, I really think it'll be fine.
 monica_geller It will not be fine. We'll get in trouble.
 rachel_green Oh, Monica! Would you stop being such a wuss?
 monica_geller A wuss? Excuse me for living in the real world, okay?
 dr_michael_mitchell So?
-dr_ross_geller So... they sss-still seem normal.
+dr_jeffrey_rosen So... they sss-still seem normal.
 dr_michael_mitchell That's because they are.
-dr_ross_geller okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
+dr_jeffrey_rosen okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
 dr_michael_mitchell Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.
 monica_geller I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
 rachel_green I am not a baby! You know what? I swear to god, just because you get so uptight every time we...
@@ -127,27 +127,27 @@ rachel_green You know what?
 monica_geller What!!?
 rachel_green Every day, you are becoming more and more like your mother.
 rachel_green Hello! Here we go!
-dr_ross_geller This is a great place. How long have you lived here?
+dr_jeffrey_rosen This is a great place. How long have you lived here?
 rachel_green Thanks! I've been here about six years, and Rachel moved in a few months ago.
-monica_geller Yeah... ..see, I was supposed to get married, but, um, I left the guy at the altar.
+monica_geller Yeah...see, I was supposed to get married, but, um, I left the guy at the altar.
 dr_michael_mitchell Really?
 monica_geller Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?
-dr_ross_geller So, Monica, what do you do?
+dr_jeffrey_rosen So, Monica, what do you do?
 rachel_green Aahh, I'm a... chef at a restaurant uptown.
-dr_ross_geller Good for you.
+dr_jeffrey_rosen Good for you.
 rachel_green Yeah it is, mostly because I get to boss people around, which I just love to do.
-dr_ross_geller This hummus is great.
+dr_jeffrey_rosen This hummus is great.
 dr_michael_mitchell God bless the chickpea.
 monica_geller Oh, god, I am so spoiled... That's it!
 rachel_green And by the way, have I mentioned that back in high school, I was a cow?
 monica_geller I used to wet my bed.
 rachel_green I use my breasts to get other people's attention.
 monica_geller We both do that!
-dr_michael_mitchell Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... ..ah, Rachel, it's your dad.
+dr_michael_mitchell Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second...ah, Rachel, it's your dad.
 monica_geller Hi, Dad. No, no, it's me. li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you...
 rachel_green Would you excuse me for a second?
 monica_geller Remember back in freshman year? Well, Billy Dreskin and I had sex on your bed.
-rachel_green Daddy... Daddy... Daddy, why whyyy would I sleep with Billy Dreskin? His father tried to put you out of business! ...dead!
+rachel_green Daddy... Daddy... Daddy, why whyyy would I sleep with Billy Dreskin? His father tried to put you out of business!.dead!
 monica_geller Ross, he's got the remote again.
 dr_ross_geller Good. Maybe he can switch it back.
 dr_ross_geller Maybe not.
@@ -174,7 +174,7 @@ joey_tribbiani I've been trying for two days. When I called the restaurant, they
 phoebe_buffay Hey.
 ursula#unknown#Friends.Season01.Episode17 Oh!
 phoebe_buffay Um you, you got a minute?
-ursula#unknown#Friends.Season01.Episode17 Um, yeah, I'm just... ..working.
+ursula#unknown#Friends.Season01.Episode17 Um, yeah, I'm just...working.
 phoebe_buffay So.
 ursula#unknown#Friends.Season01.Episode17 Uh-huh.
 phoebe_buffay Um, oh, I got you a birthday present.
@@ -184,7 +184,7 @@ ursula#unknown#Friends.Season01.Episode17 Right... Oh, I got something for you, 
 phoebe_buffay How'd you know I was coming?
 ursula#unknown#Friends.Season01.Episode17 Um, yeah, um, twin thing.
 phoebe_buffay I can't believe you did this.
-phoebe_buffay I can't believe you... ..did this.
+phoebe_buffay I can't believe you...did this.
 phoebe_buffay So... What's the deal with umm, you and Joey?
 ursula#unknown#Friends.Season01.Episode17 Oh, right. He is so great. But that's over.
 phoebe_buffay Does he know?
@@ -208,7 +208,7 @@ nurse#unknown#Friends.Season01.Episode17 You're that stupid.
 monica_geller I am. I'm that stupid.
 rachel_green Yeah, and and, I'm just gonna pay for this with a check.
 nurse#unknown#Friends.Season01.Episode17 Well, you know your insurance will cover that.
-rachel_green Yeah, I know... ..I'm I'm just not that bright either.
+rachel_green Yeah, I know...I'm I'm just not that bright either.
 chandler_bing Okay, worst case scenario. Say you never feel like a father.
 dr_ross_geller Uh-huh.
 chandler_bing Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
@@ -216,7 +216,7 @@ dr_ross_geller Do you have a point?
 chandler_bing You know, you think I would.
 chandler_bing What's up with the simian?
 dr_ross_geller It's just a fur ball.
-chandler_bing Okay... ..whose turn is it?
+chandler_bing Okay...whose turn is it?
 dr_ross_geller Yours, I just got 43 points for 'KIDNEY'.
 chandler_bing No, no, you got zero points for 'IDNEY'.
 dr_ross_geller I had a 'K'. Where's where's my 'K'?
@@ -239,11 +239,12 @@ monica_geller Hi.
 rachel_green Hi.
 phoebe_buffay Hey.
 joey_tribbiani Urse...
-joey_tribbiani ..ah, what're you doing here? I've been trying to call you.
+joey_tribbiani .ah, what're you doing here? I've been trying to call you.
 phoebe_buffay Listen, um...
 joey_tribbiani No, no, no, don't say "listen." I know that "listen." I've said that "listen."
 phoebe_buffay I'm sorry.
 joey_tribbiani I don't get it. What happened? What about everything you said under the bridge?
+phoebe_buffay : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
 joey_tribbiani You don't drink.
 phoebe_buffay That's right, I don't... But I was, I was drunk on you!
 joey_tribbiani Oh, Urse...
@@ -270,12 +271,12 @@ dr_ross_geller No, why?
 chandler_bing Hey, come on, you came through, you did what you had to do. That is very dad.
 monica_geller Oh, look, he's waking up!
 dr_ross_geller hey, fella! How you doing?
-dr_ross_geller Aqui estï¿½.
-monica_geller ï¿½A quiï¿½n pidio el pollo General Tso?
-chandler_bing ï¿½Pudo aver sido General Tso!
-rachel_green ï¿½Mira, mira, el viejo desnudo estï¿½ haciendo el hula hoop!
-all@ ï¿½Ewww!
-all@ ï¿½Hola, Joey!
-joey_tribbiani ï¿½Hola, amigos!
+dr_ross_geller Aqui está.
+monica_geller áA quián pidio el pollo General Tso?
+chandler_bing áPudo aver sido General Tso!
+rachel_green áMira, mira, el viejo desnudo está haciendo el hula hoop!
+all@ áEwww!
+all@ áHola, Joey!
+joey_tribbiani áHola, amigos!
 monica_geller Mira, Ross, Marcel se llevo el control remoto.
-dr_ross_geller ï¿½Lo que sucedio es que no le gusta la tele!
+dr_ross_geller áLo que sucedio es que no le gusta la tele!

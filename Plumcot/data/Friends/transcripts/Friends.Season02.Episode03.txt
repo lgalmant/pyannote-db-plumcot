@@ -34,7 +34,7 @@ monica_geller Mr. Heckles.
 rachel_green How did this happen?
 mr_treeger He musta been sweepin'. They found a broom in his hand.
 monica_geller That's terrible.
-mr_treeger I know. I was sweepin' yesterday. It coulda been me.ROSS
+mr_treeger I know. I was sweepin' yesterday. It coulda been me.ROSS: Sure, sweepin'. You never know.
 mr_treeger You never know.
 phoebe_buffay Ok, it's very faint, but I can still sense him in the building. Go into the light, Mr. Heckles!
 chandler_bing Ok, Phoebe.
@@ -195,4 +195,4 @@ joey_tribbiani Oh, yeah.
 dr_ross_geller You comin'?
 chandler_bing Yeah, jus' second. Good-bye Mr. Heckles. We'll try to keep it down.
 alison#unknown#Friends.Season02.Episode03 Oh, my major was totally useless. I mean, how often do you look in the classifieds and see "Philosopher wanted"?
-chandler_bing Sure. (My god, that's a big head! It didn't look this big in the office. Maybe it's the lighting. My head must look like a golf ball at work. All right, don't get hung up on it, quick, quick, list five things you like about her
+chandler_bing Sure.

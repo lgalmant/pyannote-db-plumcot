@@ -39,7 +39,7 @@ phoebe_buffay Yeah! Well, I really liked that Lamaze class I took! Y'know and th
 rachel_green Honey that sounds like fun.
 phoebe_buffay Yeah! Ooh, you should come with me! Oh yeah, then I'd have someone to sit with!
 rachel_green Okay.
-phoebe_buffay Yeah! Okay - ooh, but are you going to have time to read it?
+phoebe_buffay Yeah! Okay-ooh, but are you going to have time to read it?
 rachel_green Oh, I read that in high school.
 phoebe_buffay This is going to be so much fun! Okay-shhh, I have to finish.
 dr_ross_geller Hi.
@@ -66,23 +66,23 @@ rachel_green Sorry I'm late, but I left late.
 phoebe_buffay Okay.
 rachel_green So Pheebs, what is the book about?
 phoebe_buffay I thought you said you read it in high school.
-rachel_green Well yeah, but then I remembered I started it and there was this pep rally and I was, I was on top of the pyramid but anyway - umm, what is this book about?
+rachel_green Well yeah, but then I remembered I started it and there was this pep rally and I was, I was on top of the pyramid but anyway-umm, what is this book about?
 phoebe_buffay Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England. Which I think represents the wildness of Heathcliff's character. I totally get symbolism.
-teacher How would you characterize the theme of this book, uh let's see here , Rachel Green?
+the_teacher#unknown#Friends.Season05.Episode09 How would you characterize the theme of this book, uh let's see here , Rachel Green?
 rachel_green Umm, well I would have to say that it's a, it's tragic love story.
-teacher Well, that's sort of a given, but yes. Anyone else?
+the_teacher#unknown#Friends.Season05.Episode09 Well, that's sort of a given, but yes. Anyone else?
 rachel_green Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which I think is-is mirrored in the wildness of Heathcliff's character.
-teacher Excellent! What Rachel has shrewdly observed here
+the_teacher#unknown#Friends.Season05.Episode09 Excellent! What Rachel has shrewdly observed here
 phoebe_buffay You completely stole my answer!
 rachel_green Well, honey that was pretty obvious.
 phoebe_buffay Well how would you know?! You didn't even read it!
-teacher What do you think? You in the blue shirt.
+the_teacher#unknown#Friends.Season05.Episode09 What do you think? You in the blue shirt.
 phoebe_buffay I think that uh, yours is a question with many answers.
-teacher Would ya care to venture one?
+the_teacher#unknown#Friends.Season05.Episode09 Would ya care to venture one?
 phoebe_buffay Would you care to venture one?
-teacher Are you just repeating what I'm saying?
+the_teacher#unknown#Friends.Season05.Episode09 Are you just repeating what I'm saying?
 phoebe_buffay Are you just repeating what I'm saying?
-teacher All right, let's move on.
+the_teacher#unknown#Friends.Season05.Episode09 All right, let's move on.
 phoebe_buffay Okay then.
 phoebe_buffay Yeah but why didn't you just say that you didn't read the book?!
 rachel_green Be-because I didn't want him to think I was stupid! I mean, that was really embarrassing what happened to you!
@@ -99,7 +99,7 @@ cynthia Oh, candles! What is that? A blanket? A video camera? Oh my God!
 joey_tribbiani Oh no-no-no-no, wait-wait-wait!!
 cynthia I can't believe you thought that you were going to video tape us having sex on the first date!
 joey_tribbiani Hiya.
-rachel_green Joey, is what she just said umm - Oh my God. You were actually gonna
+rachel_green Joey, is what she just said umm-Oh my God. You were actually gonna
 chandler_bing What is going on here?
 rachel_green And with Chandler in the next room. What are you, what are you sick?
 joey_tribbiani I'm Joey. I mean, I'm disgusting. I make low-budget adult films.
@@ -109,7 +109,7 @@ chandler_bing Yeah.
 joey_tribbiani Well, I'm telling everyone about you! That's the only way to explain the underwear and the video camera that doesn't make me look like a pig!
 chandler_bing No-no, wait! There's got to be a better explanation. You can tell them you had to make an adult film for your adult film class.
 joey_tribbiani Yeah, I like that. But no-no, how does that explain why Rachel found my underwear at your place?
-chandler_bing Oh - I don't know.
+chandler_bing Oh-I don't know.
 joey_tribbiani Well, get ready to come out of the non-gay closet!
 monica_geller Okay, just wait, please. I promise we'll come up with something. Just give us a little more time.
 joey_tribbiani All right. Hey, but it better make me look really, really good. Oh, and another thing, the video camera? Nice!!
@@ -151,11 +151,11 @@ rachel_green Come on Phoebe! Don't be such a goodie-goodie!
 phoebe_buffay Fine! Okay, all right, so Jane Eyre, first of all, you'd think she's a woman, but she's not. She's a cyborg.
 rachel_green A cyborg?! Isn't that like a robot?!
 phoebe_buffay Yeah, this book was light years ahead of its time.
-teacher Sorry I'm late. Let's get started. So, what did everybody think about Jane Eyre?
+the_teacher#unknown#Friends.Season05.Episode09 Sorry I'm late. Let's get started. So, what did everybody think about Jane Eyre?
 phoebe_buffay Umm, Rachel and I were just discussing it and she had some very interesting insights.
-teacher Well, go ahead Rachel.
+the_teacher#unknown#Friends.Season05.Episode09 Well, go ahead Rachel.
 rachel_green Uh, thank you Phoebe. Umm, well, what struck me most when reading Jane Eyre was uh, how the book was so ahead of its time.
-teacher If you're talking about feminism, I think you're right.
+the_teacher#unknown#Friends.Season05.Episode09 If you're talking about feminism, I think you're right.
 rachel_green Yeah, well, feminism yes, but also the robots.
 chandler_bing Hey.
 monica_geller Hey. Okay, so umm, since that video camera thing didn't work out uh, I thought that I would give you just a little preview.
@@ -182,7 +182,7 @@ rachel_green Phoebe, come on! What is the big deal? I thought this was going to 
 phoebe_buffay Well, yeah! Fun is good, but y'know I also wanted to learn. Y'know, people are always talking about what they learned in high school and I never went to high school.
 rachel_green Ohh. Oh, so you really wanted to learn. Yeah, y'know, Pheebs I just wanted to have fun. Ohh, you know who you should go with?
 monica_geller I know! I know! I know!
-teacher Monica, you asked the question.
+the_teacher#unknown#Friends.Season05.Episode09 Monica, you asked the question.
 rachel_green Oh my God! That's Monica!!
 joey_tribbiani Oh no-no-no! No-no-no-no-no-no-no!
 rachel_green You get away from me!! You sick, sick, sick, sick-o!!
@@ -207,7 +207,7 @@ rachel_green Well, what is the truth?
 dr_ross_geller Yeah, what's going on?
 phoebe_buffay What's going on?
 joey_tribbiani I slept with Monica.
-chandler_bing Well let's... .let's see what everybody thinks of that?
+chandler_bing Well let's....let's see what everybody thinks of that?
 monica_geller Oh no!
 dr_ross_geller You slept with my sister?
 joey_tribbiani Uh yes, but it was, we just did it once uh, in London.
@@ -216,7 +216,7 @@ rachel_green Monica, is this true?
 joey_tribbiani Of course it's true! How else would you explain all the weird stuff that's been going on?
 monica_geller Yes it's true.
 rachel_green Okay, but if it only happened that one time, how come we found your underwear in our apartment the other day?
-joey_tribbiani Ahh - oy! That was the underwear I was wearing that night in London. Right Monica?
+joey_tribbiani Ahh-oy! That was the underwear I was wearing that night in London. Right Monica?
 monica_geller I guess I wanted to keep it as a souvenir.
 dr_ross_geller My God Monica!!
 chandler_bing Are you sure Joe? Are you sure you're not just a sex addict?

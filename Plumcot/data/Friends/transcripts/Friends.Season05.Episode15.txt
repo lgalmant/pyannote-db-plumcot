@@ -54,9 +54,9 @@ dr_ross_geller Ohh.
 phoebe_buffay And a scented candle for the bathroom, because well, y'know.
 dr_ross_geller Thanks. Thanks. And thanks again.
 phoebe_buffay Yeah!
-gunther Hi!
+guy#unknown#Friends.Season05.Episode15 Hi!
 dr_ross_geller Hi!
-gunther Welcome to the building. I'm uh, Steve Sarah; I'm president of the tenants committee.
+guy#unknown#Friends.Season05.Episode15 Welcome to the building. I'm uh, Steve Sarah; I'm president of the tenants committee.
 dr_ross_geller Oh hi! Ross Geller. And this is my friend Phoebe.
 steve Oh hi Phoebe.
 phoebe_buffay Mr. President.
@@ -77,7 +77,7 @@ dr_ross_geller Yes but too me he's just, man.
 steve Okay, fine, whatever. Welcome to the building.
 dr_ross_geller Ugh, can you believe that guy!
 phoebe_buffay Yeah. I really like his glasses.
-dr_ross_geller so then President Steve told everyone that I was a cheapskate, and now the whole building hates me! A little kid spit on my knee! Y'know what I'm gonna do? I'm gonna throw a party. That's right. For everyone in the building, and I'm gonna sit them down and explain to them, I am not a bad guy. I am not a cheap guy! I'm just a guy who-who stands up for what he believes in. A man with principles.
+dr_ross_geller ...so then President Steve told everyone that I was a cheapskate, and now the whole building hates me! A little kid spit on my knee! Y'know what I'm gonna do? I'm gonna throw a party. That's right. For everyone in the building, and I'm gonna sit them down and explain to them, I am not a bad guy. I am not a cheap guy! I'm just a guy who-who stands up for what he believes in. A man with principles.
 chandler_bing Sounds like a fun party.
 rachel_green Hmm. Look, Ross, if you want your neighbors to like you, why don't you just pay the hundred bucks? The party's gonna cost you way more than that.
 dr_ross_geller It doesn't matter! It's my principles! We're talking about my principles!
@@ -151,7 +151,7 @@ phoebe_buffay Hey!
 steve Oh hey, Ross. Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people. Something to think about.
 phoebe_buffay Yeah, okay, my bad.
 joey_tribbiani Hey!
-rachel_green Hi! Wow! You look, you look... big.
+rachel_green Hi! Wow! You look, you look...big.
 joey_tribbiani Thanks! I've been working out. Hey listen, is it obvious that I'm wearing six sweaters?
 rachel_green Uhhh, yeah. But it's not obvious why.
 joey_tribbiani Well look, I'm breaking up with Katie so I had to put on some extra padding. Y'know? I mean, if she hits me when she's happy, can you imagine how hard she's gonna hit me when I tell her I'm taking away the Joey love?
@@ -169,7 +169,7 @@ rachel_green Ohh, you're so sweet!
 katie Oww!!!! Joey, she just kicked me.
 joey_tribbiani Huh.
 katie Well? Aren't you gonna do something?
-joey_tribbiani Uhh... .
+joey_tribbiani Uhh....
 katie You'd better do something, or I'm gonna walk out that door right now! Well? Are you gonna?
 joey_tribbiani Nah.
 dr_ross_geller Phoebe?

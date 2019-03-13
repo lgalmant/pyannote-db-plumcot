@@ -14,7 +14,7 @@ joey_tribbiani Yeah. Cushions the blow.
 chandler_bing Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
 dr_ross_geller That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
 monica_geller Uh, Ross.
-dr_ross_geller What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+dr_ross_geller What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w-....Oh my God, Chi Chi!
 chandler_bing "So how does it feel knowing you're about to die?"
 joey_tribbiani "Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die."
 chandler_bing Hey, that was really good!
@@ -80,7 +80,7 @@ monica_geller Look, I don't even know how I feel about him yet. Just give me a c
 rachel_green Well, then can we meet him?
 monica_geller Nope. Schhorry.
 monica_geller I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
-paula Listen. As someone who's seen more than her fair share of bad beef, I'll tell you
+paula Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
 monica_geller I know. I just wish that once, I'd bring a guy home that they actually liked.
 paula Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
 joey_tribbiani Let it go, Ross.
@@ -102,7 +102,7 @@ all@ Hi, Alan.
 alan I've heard schho much about all you guyschh!
 monica_geller Thanks. I'll call you tomorrow. Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?
 monica_geller C'mon!
-dr_ross_geller ...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.
+dr_ross_geller ..I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.
 all@ Loved him! Yeah! He's great!
 monica_geller Wait a minute! We're talking about someone that I'm going out with?
 all@ Yeah!
@@ -110,9 +110,9 @@ rachel_green And did you notice...?
 the_guys#unknown#Friends.Season01.Episode03 Yeah.
 joey_tribbiani Know what was great? The way his smile was kinda crooked.
 phoebe_buffay Yes, yes! Like the man in the shoe!
-dr_ross_geller ...What shoe?
+dr_ross_geller ..What shoe?
 phoebe_buffay From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'
-dr_ross_geller ...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+dr_ross_geller ..So I think Alan will become the yardstick against which all future boyfriends will be measured.
 rachel_green What future boyfriends? Nono, I th- I think this could be, y'know, it.
 monica_geller Really!
 chandler_bing Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right?
@@ -123,14 +123,14 @@ all@ Yeah...
 monica_geller Hi.. how was the game?
 dr_ross_geller Well..
 all@ WE WON!! Thank you! Yes!
-monica_geller Fantastic! I have one question
+monica_geller Fantastic! I have one question: How is that possible?
 joey_tribbiani Alan.
 dr_ross_geller He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
 rachel_green I mean, it-it was like, it was like he made us into a team.
 chandler_bing Yep, we sure showed those Hassidic jewellers a thing or two about softball..
 monica_geller Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
 dr_ross_geller What?
-monica_geller ..I dunno, a little too Alan?
+monica_geller .I dunno, a little too Alan?
 rachel_green Well, no. That's impossible. You can never be too Alan.
 dr_ross_geller Yeah, it's his, uh, innate Alan-ness that-that-that we adore.
 chandler_bing I personally could have a gallon of Alan.
@@ -167,8 +167,8 @@ all@ Oh, hey, don't do that! Cut it out!
 rachel_green It's worse than the thumb!
 chandler_bing Hey, this is so unfair!
 monica_geller Oh, why is it unfair?
-chandler_bing So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?
-joey_tribbiani ...Does the knuckle-cracking bother everybody?
+chandler_bing So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing?..I accept all those flaws, why can't you accept me for this?
+joey_tribbiani ..Does the knuckle-cracking bother everybody?
 rachel_green Well, I-I could live without it.
 joey_tribbiani Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?
 dr_ross_geller Oh, now, don't listen to him, Pheebs, I think it's endearing.
@@ -181,7 +181,7 @@ monica_geller Did you ever go out with a guy your friends all really like?
 paula No.
 monica_geller Okay.. Well, I'm going out with a guy my friends all really like.
 paula Waitwait.. we talking about the coyotes here? All right, a cow got through!
-monica_geller Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.
+monica_geller Can you believe it?..Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.
 paula Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!
 monica_geller I know.. it's gonna be really hard.
 paula Well, he's a big boy, he'll get over it.
@@ -190,7 +190,7 @@ joey_tribbiani Do you have any respect for your body?
 dr_ross_geller Don't you realise what you're-you're doing to yourself?
 chandler_bing Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it.
 rachel_green Chandler? It's Alan, he wants to speak to you.
-chandler_bing Really? He does? Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks!
+chandler_bing Really? He does? Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big-.well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks!
 rachel_green God, he's good.
 dr_ross_geller If only he were a woman.
 rachel_green Yeah.
@@ -205,9 +205,9 @@ chandler_bing Ooh, I'm alive with pleasure now.
 dr_ross_geller Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?
 phoebe_buffay Does anyone want the rest of this Pop-Tart?
 dr_ross_geller Hey, I might!
-phoebe_buffay Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+phoebe_buffay Sorry..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
 all@ You're kidding. Oh my God.
-phoebe_buffay And on my way over here, I stepped in gum. ...What is up with the universe?!
+phoebe_buffay And on my way over here, I stepped in gum...What is up with the universe?!
 joey_tribbiani What's going on?
 monica_geller Nothing. I just think it's nice when we're all here together.
 joey_tribbiani Even nicer when everyone gets to wear their underwear..
@@ -251,7 +251,7 @@ monica_geller Oh, y'know..
 phoebe_buffay Did he mention us?
 monica_geller He said he's really gonna miss you guys.
 dr_ross_geller You had a rough day, huh.. c'mere.
-chandler_bing ...That's it. I'm getting cigarettes.
+chandler_bing ..That's it. I'm getting cigarettes.
 all@ No no no!
 chandler_bing I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
 phoebe_buffay If you never smoke again I'll give you seven thousand dollars!

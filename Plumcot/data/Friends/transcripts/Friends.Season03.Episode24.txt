@@ -1,4 +1,4 @@
-chandler_bing Do you think that there's a town in Missouri or some place called Sample? And ah, as you're driving into town there's-there's like a sign, and it says “You're in Sample.”
+chandler_bing Do you think that there's a town in Missouri or some place called Sample? And ah, as you're driving into town there's-there's like a sign, and it says "You're in Sample."
 monica_geller Hey.
 all@ Hey!
 rachel_green How'd it go with Pete?!
@@ -7,30 +7,30 @@ monica_geller You're not gonna believe this. Okay, so I go over...
 tim I'm sorry. Ex-excuse us. I'm sorry, it's a little crowded. Do you mind if we...
 robin_williams#unknown#Friends.Season03.Episode24 Yeah, could you scooch?
 bonnie Yeah, move over just a little bit.
-robin#unknown#Friends.Season03.Episode24 Keep on scooching.
+robin_williams#unknown#Friends.Season03.Episode24 Keep on scooching.
 monica_geller So guys, listen, I go over there, and umm...
-robin#unknown#Friends.Season03.Episode24 Why? Why?! What's wrong with me?!
+robin_williams#unknown#Friends.Season03.Episode24 Why? Why?! What's wrong with me?!
 bonnie What's the matter?
-robin#unknown#Friends.Season03.Episode24 I have a feelin'... I, my wife is sleeping with her gynaecologist.
+robin_williams#unknown#Friends.Season03.Episode24 I have a feelin'... I, my wife is sleeping with her gynaecologist.
 bonnie How do you know?
-robin#unknown#Friends.Season03.Episode24 Well y'know, he's got access.
+robin_williams#unknown#Friends.Season03.Episode24 Well y'know, he's got access.
 bonnie Yeah.
-robin#unknown#Friends.Season03.Episode24 Y'know it's that feeling you get, y'know?
+robin_williams#unknown#Friends.Season03.Episode24 Y'know it's that feeling you get, y'know?
 bonnie Like when you go bowling and you know you're in somebody else's shoes?
-robin#unknown#Friends.Season03.Episode24 That's the one.
+robin_williams#unknown#Friends.Season03.Episode24 That's the one.
 phoebe_buffay All right, so, so you went to Pete's...
 dr_ross_geller What happened?
 monica_geller I...
-robin#unknown#Friends.Season03.Episode24 Why is this happening to me?! I don't know, maybe it's my wound.
+robin_williams#unknown#Friends.Season03.Episode24 Why is this happening to me?! I don't know, maybe it's my wound.
 monica_geller Forget it.
 bonnie So it's-it's not heeled yet?
-robin#unknown#Friends.Season03.Episode24 No-no, it's ooozing, oozing. Could you pass me the cream? Is there any - Oh, there's the cream.
+robin_williams#unknown#Friends.Season03.Episode24 No-no, it's ooozing, oozing. Could you pass me the cream? Is there any-Oh, there's the cream.
 bonnie Thomas, this is gonna be hard, but I wanted it to come from me, and nobody else.
-robin#unknown#Friends.Season03.Episode24 What is it, Tim?
+robin_williams#unknown#Friends.Season03.Episode24 What is it, Tim?
 bonnie It's me, I've been sleeping with your wife.
 joey_tribbiani So you're the gynaecologist?
 bonnie Hey, I'm trying to have a private conversation! Is that okay?!
-robin#unknown#Friends.Season03.Episode24 Ooh, Can I have a napkin, please? Could you please hand me a napkin? Would you--Give me this thing all right!! Enough! And you are no longer my friend! We are finished! Nada!! No more! You are a bastard for doing this!! Get away from me!!
+robin_williams#unknown#Friends.Season03.Episode24 Ooh, Can I have a napkin, please? Could you please hand me a napkin? Would you--Give me this thing all right!! Enough! And you are no longer my friend! We are finished! Nada!! No more! You are a bastard for doing this!! Get away from me!!
 bonnie Thomas, come back here!
 phoebe_buffay So Monica, what were you gonna tell us?
 monica_geller I have no idea.
@@ -47,7 +47,7 @@ phoebe_buffay Oh?!
 monica_geller Yeah, but without the costumes.
 phoebe_buffay Oh.
 joey_tribbiani And it's not fake, it's totally brutal.
-chandler_bing Yeah, it's two guys in a ring, and the rules are
+chandler_bing Yeah, it's two guys in a ring, and the rules are: "They're are no rules."
 monica_geller So you can like, bite, and pull people's hair and stuff?
 dr_ross_geller Yeah, anything goes, except ah, eye gouging and fish hooking.
 monica_geller What's fish hooking?
@@ -142,7 +142,7 @@ dr_ross_geller All right! You go get him! Let's go!
 referee Here we go gentlemen, here we go! Are you ready? Are you ready? Let's get it on!!
 pete_becker Uh-oh.
 monica_geller Hey! It's me. Mon-i-ca! Can I just tell you how proud I am of you.
-pete_becker It would be nice after hearing 20,000 people chant “You suck!”
+pete_becker It would be nice after hearing 20,000 people chant "You suck!"
 monica_geller I mean I-I thought you were nuts at first, but you-you did it. And now you can just look back at this thing with no regrets.
 pete_becker What, look back?
 monica_geller Well, you're not gonna get going are you?
@@ -226,7 +226,7 @@ monica_geller Then I've gotta go. Bye.
 pete_becker Mon-Monica?
 monica_geller Yes?
 pete_becker Could you leave a note? 'Cause I'm on a lot of pain killers now, and I don't know if I'll remember this tomorrow.
-doug So, in conclusion, the lines all go up , so I'm happy. Great job team! Tomorrow at 8
+doug So, in conclusion, the lines all go up , so I'm happy. Great job team! Tomorrow at 8:30. Phil! Nice job. Stevens! Way to go! Joel-burg, you maniac! I love ya! Bing! Good job, couldn't have done it without ya.
 chandler_bing Thank you, sir.
 stevens Oh, excuse me. I forgot my briefcase y'know, by accident.
 doug Of course, you did. Forgot something else too ya bastard! Well, what about you? You're not feeling left out or anything are ya?

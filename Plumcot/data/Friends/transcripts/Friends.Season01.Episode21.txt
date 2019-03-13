@@ -45,8 +45,8 @@ phoebe_buffay What are you doing?
 monica_geller Alright, great. Thanks a lot. I'm going to tap class.
 rachel_green What, what, so that you can dance with the woman that stole your credit card?
 monica_geller This woman's got my life, I should get to see who she is.
-rachel_green Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
-phoebe_buffay This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.
+rachel_green Go to the post office! I'm sure her picture's up!..Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+phoebe_buffay This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!!..Thank you.
 monica_geller What d'you think?
 phoebe_buffay Lotsa things.
 rachel_green Which one do you think she is?
@@ -72,7 +72,7 @@ monica_geller Why don't I just take off my clothes and have a nightmare.
 woman#unknown#Friends.Season01.Episode21 It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
 the_teacher She's your partner.
 woman#unknown#Friends.Season01.Episode21 Hi. I'm Monica.
-monica_geller Oh. Monica! ...Hi. I'm Mo- ...nana.
+monica_geller Oh. Monica!..Hi. I'm Mo-..nana.
 woman#unknown#Friends.Season01.Episode21 Monana?
 monica_geller Yeah. It's Dutch.
 fake_monica You're kidding! I-I spent three years in Amsterdam.
@@ -94,7 +94,7 @@ dr_ross_geller I know. I know. I mean, one day, he's this little thing, and befo
 joey_tribbiani Isn't there any way you can keep him?
 dr_ross_geller No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
 joey_tribbiani How do you get a monkey into a zoo?
-chandler_bing I know that one! ...No, that's Popes into a Volkswagen.
+chandler_bing I know that one!..No, that's Popes into a Volkswagen.
 dr_ross_geller Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
 chandler_bing Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.
 phoebe_buffay Hey. We found her, we found the girl.
@@ -105,13 +105,13 @@ chandler_bing Ah. Your own brand of vigilante justice.
 dr_ross_geller What?! Are you insane? This woman stole from you. She stole. She's a stealer.
 monica_geller Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
 dr_ross_geller Yeah, which she probably stole from some cheerleader.
-chandler_bing ...Take off their hats!
-phoebe_buffay Popes in a Volkswagen! ...I love that joke.
+chandler_bing ..Take off their hats!
+phoebe_buffay Popes in a Volkswagen!..I love that joke.
 rachel_green No way. No way did you do this.
 fake_monica Monana was very brave.
 monica_geller It was so wild. We told them we were the Gunnersens in room six fifteen. Only to find out the Boston Celtics had taken over the entire sixth floor!
 fake_monica So once they caught on to the fact that we're, y'know, short and have breasts...
-monica_geller ...They threw us out! I was thrown out of a hotel! Me!
+monica_geller ..They threw us out! I was thrown out of a hotel! Me!
 rachel_green Go Monana! Well, you ladies are not the only ones living the dream. I get to go pour coffee for people I don't know. Don't wait up.
 fake_monica Oh, by the way, tomorrow we're auditioning for a Broadway show.
 monica_geller 'Scuse me?
@@ -134,7 +134,7 @@ chandler_bing You're kidding.
 joey_tribbiani Apparently he was this Russian dictator who slaughtered all these people. You'd think you would've known that!
 chandler_bing Y'know, you'd think I would've.
 joey_tribbiani Phoebe. Whaddyou think a good stage name for me would be?
-phoebe_buffay ...Flame Boy.
+phoebe_buffay ..Flame Boy.
 dr_ross_geller Where exactly is your zoo?
 dr_baldharar Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
 dr_ross_geller Yes.
@@ -149,7 +149,7 @@ dr_ross_geller Why- why- why would he need a blade?
 dr_baldharar Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
 chandler_bing@joey_tribbiani He- he- he got in, he- he got in to San Diego.
 joey_tribbiani We, we come back from our walk and the- the phone was ringing...
-chandler_bing ...He's in.
+chandler_bing ..He's in.
 dr_ross_geller He's in! Oh, did you hear that, Marcel? San Diego. San Diego!
 dr_baldharar You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
 monica_geller Yo- hooo!

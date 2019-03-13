@@ -72,7 +72,7 @@ joey_tribbiani Ross?
 dr_ross_geller Hey roomies!
 chandler_bing Love what you've done with the place.
 dr_ross_geller Oh, yeah I know, I know, it's a lot of boxes, but again I really appreciate you guys letting me stay here.
-joey_tribbiani Not a problem. And listen, hey! Since you're gonna be here for a while, why don't - I was thinking we uh, put your name on the answering machine.
+joey_tribbiani Not a problem. And listen, hey! Since you're gonna be here for a while, why don't-I was thinking we uh, put your name on the answering machine.
 chandler_bing Oh yeah!
 dr_ross_geller Oh, I uh, hope you don't mind, I kinda uh, jazzed it up a little. Check this out. We will, we will, call you back!
 joey_tribbiani Hey, all right!
@@ -161,7 +161,7 @@ dr_ross_geller All right. Uhh, international.
 joey_tribbiani Oh that's mine too! I'm Italian!
 dr_ross_geller Well, I guess I can check out those apartment listings, even though there's never anything in here.
 chandler_bing Not even on page 7?
-dr_ross_geller Oh yeah! You're - hey, you're right! Here's an affordable place, two bedroom, close to work, ooh, it's available in five weeks!
+dr_ross_geller Oh yeah! You're-hey, you're right! Here's an affordable place, two bedroom, close to work, ooh, it's available in five weeks!
 chandler_bing What about that circled one?
 dr_ross_geller Oh, I-I don't know, it's kind of expensive for a studio.
 joey_tribbiani But it's available now! Isn't it?
@@ -194,7 +194,7 @@ phoebe_buffay Ooh, I love that place! So, no.
 larry How about Mama Lisettie's?
 phoebe_buffay Enh. Sure!
 larry I wonder how long that milk has been setting out.
-phoebe_buffay Oh, no-no, this place is totally healthy! That - this milk is mine. I bought this today, 'cause I was thirsty for milk, y'know. Okay, let's go!
+phoebe_buffay Oh, no-no, this place is totally healthy! That-this milk is mine. I bought this today, 'cause I was thirsty for milk, y'know. Okay, let's go!
 larry Hey, buddy! Are you familiar with Section 11-B of the Health Code that requires all refuse material out the back exit?
 gunther But then I'd have to go all the way around the dry cleaner place.
 larry Oh, so you're saying you'd choose convenience over health?!
@@ -262,7 +262,7 @@ chandler_bing Yes! Ross, you have to stay!
 dr_ross_geller All right.
 joey_tribbiani All right!
 chandler_bing All right, buddy!
-dr_ross_geller So I'm a pimp huh? It's okay! Look, I know that sometimes I can be a pain in the ass, but you just have to talk to me. Tell me if something is bothering you. Okay? And for my part I will do everything I can to keep my annoying habits just .
+dr_ross_geller So I'm a pimp huh? It's okay! Look, I know that sometimes I can be a pain in the ass, but you just have to talk to me. Tell me if something is bothering you. Okay? And for my part I will do everything I can to keep my annoying habits just
 chandler_bing Well, I see you've had a very productive day. Don't you think the cowboy hat is a little much?
 dr_ross_geller Come on, it's fun!
 chandler_bing All right! Isn't this a woman's hat?

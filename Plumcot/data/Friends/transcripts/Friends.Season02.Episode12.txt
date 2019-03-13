@@ -1,3 +1,5 @@
+commercial_voiceover#unknown#Friends.Season02.Episode12 Can't get the monkey off your back? Then put it in your mouth...
+commercial_voiceover#unknown#Friends.Season02.Episode12 ..With MonkeyShine Beer. MonkeyShine Beer, 'cause it's a jungle out there.]
 dr_ross_geller That commercial always makes me so sad.
 joey_tribbiani Yeah, but then the guy opens his beer and those girls run at him, so, everything seems to work out OK.
 dr_ross_geller I meant because the monkey in it reminds me of Marcel.
@@ -6,7 +8,7 @@ monica_geller And the fact that they're both monkeys.
 dr_ross_geller Sometimes I wonder if I did the right thing, ya know, giving him away.
 rachel_green Oh, Ross, you had to, I mean, he was humping everything in sight. I mean, I have a Malibu Barbi that will no longer be wearing white to her wedding.
 dr_ross_geller Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it.
-chandler_bing Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. . . all of the sudden I have this big attitude problem.
+chandler_bing Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. all of the sudden I have this big attitude problem.
 joey_tribbiani Hey, hey, check it out, guess what I got.
 chandler_bing Rhythm?
 joey_tribbiani No, my first fan mail.
@@ -28,7 +30,7 @@ phoebe_buffay Hi Rob Dohnen.
 rob_donnen I don't know anything about music, but I think you're really, really great.
 phoebe_buffay Oh, wow.
 rob_donnen Anyway, I schedule performers for the childrens libraries around the city and I was just thinking, have you ever thought about playing your songs for kids?
-phoebe_buffay Oh, I would love to have kids. . . you're, you're the, you're, me play the songs that I will write for them.
+phoebe_buffay Oh, I would love to have kids. you're, you're the, you're, me play the songs that I will write for them.
 joey_tribbiani Hey, whaddya wanna do for dinner?
 chandler_bing Well we could just stay in and cook for ourselves.
 chandler_bing Hello.
@@ -77,12 +79,12 @@ phoebe_buffay OK. OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe
 all@ Hi Phoebe.
 phoebe_buffay OK, um, I'm gonna play, um, some songs about grandparents, OK.
 erika_ford Oh, Drake, isn't it amazing?
-joey_tribbiani Yeah it is. . . what?
+joey_tribbiani Yeah it is. what?
 erika_ford Well, here we sit, devil may care, just a little while ago you were reattaching someone's spinal cord.
 joey_tribbiani Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites.
 erika_ford Who's they?
 joey_tribbiani No one.
-erika_ford Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't.
+erika_ford Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. but I won't.
 joey_tribbiani Good, otherwise my watch would fall off.
 erika_ford No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one?
 joey_tribbiani Alright, just one. Wow, you're good at that.
@@ -142,6 +144,8 @@ chandler_bing That's what I did when I lost my Clydesdales.
 phoebe_buffay OK, hi again.
 all@ Hi Phoebe.
 phoebe_buffay Today we're gonna start with some songs about barnyard animals.
+tv_doctor#unknown#Friends.Season02.Episode12 You're the only one who can save her Drake.
+joey_tribbiani Damnit, I'm a doctor, I'm not God.
 dr_ross_geller Well, there goes my whole belief system.
 erika_ford It's Erica.
 joey_tribbiani Oh my God, quick turn off the TV.

@@ -70,7 +70,7 @@ rachel_green Come on you gotta have one!
 dr_ross_geller Nope.
 rachel_green Ross, you know what...
 dr_ross_geller What?
-rachel_green ...if you tell me, I might do it.
+rachel_green ..if you tell me, I might do it.
 dr_ross_geller Okay, umm. Did you ever see, um, Return Of The Jedi?
 rachel_green Yeah.
 dr_ross_geller Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.
@@ -111,7 +111,7 @@ joey_tribbiani I say, 'I am there!' Cool! Aw, is Ross going to?
 chandler_bing No, Janice.
 joey_tribbiani Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.
 chandler_bing You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?
-joey_tribbiani No, Yeeees. God, how do I say this. . Oh, hi, you know that girl from the Greek restaurant with the hair ?
+joey_tribbiani No, Yeeees. God, how do I say this. Oh, hi, you know that girl from the Greek restaurant with the hair ?
 chandler_bing Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!
 joey_tribbiani Look, I don't hate Janice, she's-she's just a lot to take, you know.
 chandler_bing Well, there you go.
@@ -155,11 +155,11 @@ janice So, I hear, you hate me!
 joey_tribbiani I, ah, I never said hate, I was very careful about that.
 janice A little birdie told me something about you wanting to rip your arm off and throw it at me.
 joey_tribbiani And you got a 'hate' from that?! Your taking a big leap there...
-janice All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey. So, this is my idea
+janice All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey. So, this is my idea: you and me spending some quality time together.
 joey_tribbiani But what does that gonna do...
 janice For Chandler!
 joey_tribbiani Okay. I'm in.
-janice Okay. All right. This is what we're gonna call it
+janice Okay. All right. This is what we're gonna call it: 'Joey and Janice's DAY OF FUN!'
 joey_tribbiani Does it have to be a whole day?
 janice Yes, because that's how long it takes to love me.
 joey_tribbiani Yeah, I know, I sleep in the next room.
@@ -192,7 +192,7 @@ dr_ross_geller With the belly-button ring? Oh, muhawa!
 chandler_bing I know, And then all of the sudden your Mom pops into your head. And your like 'Mom, get outta here!' You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing. So it's kinda like, you're, you know. You know.... You don't know!
 dr_ross_geller Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?
 chandler_bing You said...
-dr_ross_geller I said 'share' not 'scare'. Go sit over there! .
+dr_ross_geller I said 'share' not 'scare'. Go sit over there!
 janice We're baack!
 joey_tribbiani Hey!
 chandler_bing What are you guys doing together?
@@ -212,7 +212,7 @@ chandler_bing Oh God!
 joey_tribbiani Hey, if it makes you feel any better, I do it too.
 chandler_bing Really?
 joey_tribbiani Oh yeah, I always picture your Mom when I'm having sex.
-video#unknown#Friends.Season03.Episode01 April Twelve, Eighteen hundred, Sixty-One , 4
+video#unknown#Friends.Season03.Episode01 April Twelve, Eighteen hundred, Sixty-One , 4:30 A.M. on Tuesday, the United States garrison at Fort Sumter was fired upon it is now under bombardment by....
 monica_geller Hi, Dad, what are you doing here?
 jack_geller Well, it's your mother's bridge night so I thought that I would come into the city for a little Monicuddle. Since when did you start smoking cigars?
 monica_geller I don't, I just, I just like the smell of them. So, uh, what are you really doing here Dad?

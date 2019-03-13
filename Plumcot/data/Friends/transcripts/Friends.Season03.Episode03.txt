@@ -10,7 +10,7 @@ dr_ross_geller Aww, is it broken?
 joey_tribbiani No, I gotta wear this thing for a couple weeks.
 rachel_green Did you tell the doctor you did it jumping up and down on your bed?
 joey_tribbiani Nooo. I had a story all worked out but then Chandler sold me out.
-chandler_bing Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket.
+chandler_bing Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just 'fell' out of the socket.
 joey_tribbiani What is this? Fruit?
 rachel_green Monica's making jam.
 joey_tribbiani Whoa, jam! I love jam! Hey, how come we never have jam at our place?
@@ -149,7 +149,7 @@ monica_geller What?! Why? Why is this crazy? So this isn't the ideal way to some
 dr_ross_geller Oh, it's not the ideal way...
 monica_geller Lips moving, still talking. I mean it may not be ideal, but I'm so ready. No, I-I-I see the way Ben looks at you. It makes me ache, you know?
 joey_tribbiani Check it out!! Jam crackers!
-monica_geller Okay, all right, how's this? 27. Italian-American guy. He's an actor, born in Queens. Wow, big family, seven sisters, and he's the only....boy. Oh my God, under personal comments
+monica_geller Okay, all right, how's this? 27. Italian-American guy. He's an actor, born in Queens. Wow, big family, seven sisters, and he's the only....boy. Oh my God, under personal comments: 'New York Knicks, rule!'
 joey_tribbiani Yeah, the Knicks rule!
 monica_geller Joey, this is you!
 joey_tribbiani Let me see. Oh, right.
@@ -213,7 +213,7 @@ joey_tribbiani It's a name, yeah. I saw you, you know, in this great house with 
 monica_geller Really, is he a swimmer?
 joey_tribbiani He's got the body for it.
 monica_geller I like that. What?
-joey_tribbiani You guys have one of those signs that says
+joey_tribbiani You guys have one of those signs that says: 'We don't swim in your toilet, so don't pee in our pool.', you know.
 monica_geller We do not have one of those signs.
 joey_tribbiani Sure you do, it was a gift from me. Oh! And you have these three great kids.
 monica_geller Two girls and a boy?
@@ -221,7 +221,7 @@ joey_tribbiani Yeah!
 monica_geller And, and, and they wear those little water wings, you know. And they're, they're running around on the deck. Then Hoyt wraps this big towel around all three of them.
 joey_tribbiani Sure! But hey, you know this way sounds good too.
 monica_geller Yeah.
-joey_tribbiani Oh Monica. Wow, this guy's an astronaut. That would've been cool, for like a day. .
+joey_tribbiani Oh Monica. Wow, this guy's an astronaut. That would've been cool, for like a day.
 joey_tribbiani I called the sperm bank today, they haven't sold a single unit of Tribianni. Nobody wants my product. I mean, I-I-I don't get it Maybe if they met me in person.
 rachel_green Honey, you got a little thing on your...
 joey_tribbiani Did I get it?

@@ -22,25 +22,25 @@ chandler_bing Man, I am so beat.
 dr_ross_geller Oh yeah.
 chandler_bing Hey, you just wanna forget about raquetball and hang out here?
 dr_ross_geller Yeah alright.
-_big_bully#unknown#Friends.Season02.Episode21 Hey you're in our seats.
+carl Hey you're in our seats.
 dr_ross_geller Oh, sorry we didn't know.
-little_bully#unknown#Friends.Season02.Episode21 Hey, we were sitting there.
+arthur Hey, we were sitting there.
 chandler_bing Ok, there is one more way to say it, who knows it?
-_little_bully#unknown#Friends.Season02.Episode21 Is that supposed to be funny?
+arthur Is that supposed to be funny?
 chandler_bing No actually, I was just going for colorful.
-big_bully#unknown#Friends.Season02.Episode21 What's with this guy?
-little_bully#unknown#Friends.Season02.Episode21 What's with you?
+carl What's with this guy?
+arthur What's with you?
 dr_ross_geller Uh, nothing, nothing's with him. Enjoy your coffee.
 chandler_bing What just happened?
-little_bully#unknown#Friends.Season02.Episode21 I just took your hat. See, I can be funny too. My, my joke is that I, I took your hat.
+arthur I just took your hat. See, I can be funny too. My, my joke is that I, I took your hat.
 chandler_bing That, that is funny. Can I have it back?
-little_bully#unknown#Friends.Season02.Episode21 No.
+arthur No.
 chandler_bing No?
-big_bully#unknown#Friends.Season02.Episode21 No.
+carl No.
 dr_ross_geller Ok, ok, you know what? I think you're very funny. Kudos on that hat joke. But, come on guy just, just give him back the hat.
-big_bully#unknown#Friends.Season02.Episode21 Why should we?
+carl Why should we?
 chandler_bing Stop talking, stop talking now. Let me just get this straight. You're actually stealing my hat?
-big_bully#unknown#Friends.Season02.Episode21 You got a problem with that?
+carl You got a problem with that?
 chandler_bing No, just wanna make sure we're on the same page.
 rachel_green Hey, how'd the interview go?
 monica_geller It bit. It was a 50's theme restraunt. I have to cook in a costume and dance on the counter.
@@ -94,32 +94,32 @@ chandler_bing Hey.
 dr_ross_geller What?
 chandler_bing Do you have to be a Century 21 real-estate agent to get to wear those really cool jackets?
 dr_ross_geller Do you say this stuff to girls?
-big_bully#unknown#Friends.Season02.Episode21 Hehehehey, isn't that the guy who used to wear your hat?
-little_bully#unknown#Friends.Season02.Episode21 And look where they're sitting.
+carl Hehehehey, isn't that the guy who used to wear your hat?
+arthur And look where they're sitting.
 dr_ross_geller You're joking, right? You guys just walked through the door.
-big_bully#unknown#Friends.Season02.Episode21 Maybe we didn't make it clear enough.
-little_bully#unknown#Friends.Season02.Episode21 Yeah.
-_big_bully#unknown#Friends.Season02.Episode21 This couch belongs to us.
+carl Maybe we didn't make it clear enough.
+arthur Yeah.
+carl This couch belongs to us.
 chandler_bing Alright, I'll tell you what, you call the couch and then, and then we'll call the couch, and we'll see who it comes to.
-big_bully#unknown#Friends.Season02.Episode21 You know what I keep wondering? Why you two are still sitting here.
+carl You know what I keep wondering? Why you two are still sitting here.
 dr_ross_geller Alright, that's it. I've had enough of this, alright. Gunther, these guys are trying to take our seat.
 gunther Fellas, these guys were here first.
-big_bully#unknown#Friends.Season02.Episode21 Oh, sorry, I didn't realize.
-little_bully#unknown#Friends.Season02.Episode21 Sorry.
+carl Oh, sorry, I didn't realize.
+arthur Sorry.
 gunther There you go.
 dr_ross_geller Thank you Gunther. We didn't want to have to go and do that.
-_little_bully#unknown#Friends.Season02.Episode21 He told on us?
-big_bully#unknown#Friends.Season02.Episode21 You told on us?
+arthur He told on us?
+carl You told on us?
 dr_ross_geller Well pal, you didn't give me much of a choice.
 chandler_bing Don't play with his things.
 dr_ross_geller I know.
-_big_bully#unknown#Friends.Season02.Episode21 Alright, let's take this outside.
+carl Alright, let's take this outside.
 dr_ross_geller Let's, let's take this outside? Who talks like that?
-big_bully#unknown#Friends.Season02.Episode21 The guy that's about to kick your ass talks like that.
+carl The guy that's about to kick your ass talks like that.
 chandler_bing You had to ask.
 dr_ross_geller Yeah.
 dr_ross_geller Ok, ok look, see, the thing is we're, we're not gonna fight you guys.
-little_bully#unknown#Friends.Season02.Episode21 Well then here's the deal, you won't have to so long as never ever show your faces in this coffee house ever again.
+arthur Well then here's the deal, you won't have to so long as never ever show your faces in this coffee house ever again.
 chandler_bing I think you played the Gunther card too soon.
 joey_tribbiani Hey Phoeb's, I think you're good to go.
 phoebe_buffay Yeah, I don't know.
@@ -238,46 +238,46 @@ dr_ross_geller I think we proved our point.
 chandler_bing You burn your mouth?
 dr_ross_geller Cannot feel my tounge.
 chandler_bing Bullies, big bullies.
-little_bully#unknown#Friends.Season02.Episode21 Oh, look who's here, it's the weenies.
-big_bully#unknown#Friends.Season02.Episode21 Did we not make ourselves clear the other day.
+arthur Oh, look who's here, it's the weenies.
+carl Did we not make ourselves clear the other day.
 dr_ross_geller Yes, and that's why we're here.
 chandler_bing Yes, we're standing out ground...apparently.
-little_bully#unknown#Friends.Season02.Episode21 Let's do this alright.
+arthur Let's do this alright.
 dr_ross_geller Woah, ho-ho, whad'ya got there, a weapon?
-little_bully#unknown#Friends.Season02.Episode21 It's a nice watch, I don't wanna break it on your ribs.
+arthur It's a nice watch, I don't wanna break it on your ribs.
 chandler_bing Alright, let's do this.
-little_bully#unknown#Friends.Season02.Episode21 Alright.
+arthur Alright.
 chandler_bing Question. If I don't care about my watch, can I use it as a weapon?
 dr_ross_geller Whad'ya mean?
 chandler_bing Well, it's sharp, it's metal, I think I can do some, you know, serious damage with it.
-big_bully#unknown#Friends.Season02.Episode21 No, you can't use your watch.
+carl No, you can't use your watch.
 chandler_bing Ok.
-big_bully#unknown#Friends.Season02.Episode21 Or your keys.
+carl Or your keys.
 chandler_bing Ok.
-little_bully#unknown#Friends.Season02.Episode21 Look, here's what we'll do. We'll put all keys and watches in the hat over there. Alright. Alright, c'mon man, let's do this.
+arthur Look, here's what we'll do. We'll put all keys and watches in the hat over there. Alright. Alright, c'mon man, let's do this.
 dr_ross_geller Before I forget, are we hitting faces?
-big_bully#unknown#Friends.Season02.Episode21 Of course we're hitting faces, why wouldn't you hit faces?
+carl Of course we're hitting faces, why wouldn't you hit faces?
 dr_ross_geller Well because I have to work on Monday, I have a big presentation.
-little_bully#unknown#Friends.Season02.Episode21 Actually, you know, uh, I gotta show this apartment tomorrow and uh, you know, this no faces thing might not be a bad idea.
-big_bully#unknown#Friends.Season02.Episode21 Ok, nothing from the neck up. Or the waist down. Dana's ovulating.
-little_bully#unknown#Friends.Season02.Episode21 Oh really, you guys tryin' again?
-big_bully#unknown#Friends.Season02.Episode21 Yeah.
+arthur Actually, you know, uh, I gotta show this apartment tomorrow and uh, you know, this no faces thing might not be a bad idea.
+carl Ok, nothing from the neck up. Or the waist down. Dana's ovulating.
+arthur Oh really, you guys tryin' again?
+carl Yeah.
 chandler_bing Ok, so let me just get this straight. So we're uh, strictly talking about the middle?
-_big_bully#unknown#Friends.Season02.Episode21 C'MON!
+carl C'MON!
 dr_ross_geller Hey, hey, woah, you want some of this, huh? You want a piece of this, huh? I'm standin here, huh.
 chandler_bing Hey, hey, those guys are takin our stuff!
 dr_ross_geller Hey.
-big_bully#unknown#Friends.Season02.Episode21 Hey.
+carl Hey.
 dr_ross_geller God, that was, that was amazing, that was incredible. You guys, you guys kicked butt.
-little_bully#unknown#Friends.Season02.Episode21 Us, what about you guys? Man you really, bing, gave it to old Mr. Clean back there. He was a big guy.
+arthur Us, what about you guys? Man you really, bing, gave it to old Mr. Clean back there. He was a big guy.
 dr_ross_geller Yeah he was wasn't he.
 chandler_bing Yeah, I wouldn't know having missed everything.
-big_bully#unknown#Friends.Season02.Episode21 Don't do that to yourself. Any one of us could have tripped over that little girls jump-rope.
+carl Don't do that to yourself. Any one of us could have tripped over that little girls jump-rope.
 dr_ross_geller So, listen guys, are we uh, are we ok here?
-little_bully#unknown#Friends.Season02.Episode21 We're ok.
+arthur We're ok.
 dr_ross_geller Alright.
 chandler_bing Ok so, can I have my hat back?
-little_bully#unknown#Friends.Season02.Episode21 No.
+arthur No.
 chandler_bing Huh.
 rachel_green Look at her.
 chandler_bing Hi Monica.

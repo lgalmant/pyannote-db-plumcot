@@ -8,7 +8,7 @@ rachel_green Oh, okay.
 mark_robinson I've kinda of had this ah, this crush on you. But since you were with Ross, I-I didn't do anything about it. But, now that you're not, I'd really like to ask you out sometime. So-so that's-that's what I'm doing, now.
 rachel_green Wow! Umm....
 gunther I dropped a cup.
-pete_becker ...so y'know, that's why, within a few years, that voice recognition is gonna be pretty much standard on any computer you buy. Y'know, so you could be like-like, 'Wash my car.' 'Clean my room.' It's not gonna be able to do any of those things, but it'll understand what you're saying.
+pete_becker ..so y'know, that's why, within a few years, that voice recognition is gonna be pretty much standard on any computer you buy. Y'know, so you could be like-like, 'Wash my car.' 'Clean my room.' It's not gonna be able to do any of those things, but it'll understand what you're saying.
 monica_geller Oh, this is so great.
 pete_becker Yeah, it was.
 monica_geller All right then. Bye.
@@ -165,7 +165,7 @@ rachel_green Oh God. I'm sorry about this.
 mark_robinson That's okay.
 rachel_green You sure?
 mark_robinson Yeah. I can just go home and get back at him by myself.
-spokeswoman#unknown#Friends.Season03.Episode19 ...has become the penicillin of the twenty-first century. And so today, this hospital is about to take major steps toward leading that revolution. It is truly ironic, on one hand consider the size...
+spokeswoman#unknown#Friends.Season03.Episode19 ..has become the penicillin of the twenty-first century. And so today, this hospital is about to take major steps toward leading that revolution. It is truly ironic, on one hand consider the size...
 pete_becker Hey, can I ask you something?
 monica_geller Sure.
 pete_becker Where are we?
@@ -208,7 +208,7 @@ joey_tribbiani You ah, you forgot your shoes.
 kate_miller I'm probably gonna need those. Huh?
 joey_tribbiani Hey, listen you ah....
 kate_miller Hmm?
-joey_tribbiani ...feel like getting a cup of coffee?
+joey_tribbiani ..feel like getting a cup of coffee?
 kate_miller Umm.
 the_director Kate?
 kate_miller Yep.

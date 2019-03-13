@@ -78,11 +78,11 @@ jack_geller Ahh, what's a little mid-life crisis between friends?
 dr_richard_burke Jack, would you let it go?
 jack_geller Look, I know what you're going through. When I turned 50 I got the Porsche. You... you got your own little speedster.
 dr_richard_burke Guys. Seriously, it is
-jack_geller Tell you what, maybe one of these weekends you can borrow the car and I cou. . .
+jack_geller Tell you what, maybe one of these weekends you can borrow the car and I cou.
 dr_ross_geller Dad, I beg you not to finish that sentence.
 jack_geller What? I'm kidding. You know I'd never let him touch the Porsche.
 phoebe_buffay OK Rach, which, which lily? This lily or that lily?
-rachel_green Well I. . .
+rachel_green Well I.
 phoebe_buffay I like this lily. It's more open, ya know, and that's like my mom. She had a more open, giving spirit. Ooh, Foghorn Leghorn, ooh.
 tattoo_artist Alright, blonde girl, you're in room two, not so blonde girl, you're with me.
 phoebe_buffay Here we go.
@@ -94,7 +94,7 @@ rachel_green No. Well, yeah, maybe.
 phoebe_buffay I don't believe this. Is this how this relationship's gonna work? Ross equals boss. I mean, c'mon what is this, 1922?
 rachel_green What's 1922?
 phoebe_buffay Just, you know, long time ago. Well, when men used to tell women what to do - a lot. And then there was suffrage, which is a good thing but is sounds horrible. Do you want to get this tattoo?
-rachel_green Yes I do, it's just that Ross is. . .
+rachel_green Yes I do, it's just that Ross is.
 phoebe_buffay OK, hey, HEY. Is your boyfriend the boss of you?
 rachel_green No.
 phoebe_buffay OK, who is the boss of you?!!
@@ -107,7 +107,7 @@ monica_geller Oh, this is so hard.
 dr_richard_burke Yeah, I know. I hate it too. Look, maybe we should just tell them.
 monica_geller Maybe we should just tell your parents first.
 dr_richard_burke My parents are dead.
-monica_geller God, you are so lucky. I mean, I mean. . . you know what I mean.
+monica_geller God, you are so lucky. I mean, I mean. you know what I mean.
 dr_richard_burke I know, I know. Just hang in there, OK. OK, I'll go out first, alright.
 monica_geller Alright.
 dr_richard_burke Judy,
@@ -163,7 +163,7 @@ judy_geller So, who's the mystery man?
 monica_geller Well, uh, he's a doctor.
 judy_geller A real doctor?
 monica_geller No, a doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him.
-judy_geller Well that's wonderful. . . I
+judy_geller Well that's wonderful. I
 monica_geller Mom, it's OK.
 dr_richard_burke It is Judy.
 judy_geller Jack. Could you come in here for a moment? NOW!
@@ -174,7 +174,7 @@ jack_geller That's impossible, he's got a twinkie in the city.
 monica_geller Dad, I'm the twinkie.
 jack_geller You're the twinkie?
 dr_richard_burke She's not a twinkie.
-monica_geller Al-alright, l-look you guys, this is the best relationship I've been in. . .
+monica_geller Al-alright, l-look you guys, this is the best relationship I've been in.
 judy_geller Oh please, a relationship.
 monica_geller Yes, a relationship. For your information I am crazy about this man.
 dr_richard_burke Really?
@@ -197,10 +197,10 @@ phoebe_buffay I know, I know, and I was gonna get it but then he came in with th
 rachel_green Really? You don't say, because mine was licked on by kittens.
 joey_tribbiani Hey.
 chandler_bing Hey.
-joey_tribbiani Hey listen, I'm sorry about what happened. . .
+joey_tribbiani Hey listen, I'm sorry about what happened.
 chandler_bing Yeah me too.
 joey_tribbiani I know. Yeah.
-chandler_bing Yeah. So do we need to hug here or. . .
+chandler_bing Yeah. So do we need to hug here or.
 joey_tribbiani No, we're alright.
 chandler_bing So I got ya something.
 joey_tribbiani Plastic spoons. Great.
@@ -211,7 +211,7 @@ joey_tribbiani Well, I can't use these forever. I mean, let's face it, they're n
 chandler_bing No-no, I mean what, what's this about your new place?
 joey_tribbiani I'm movin' out like we talked about.
 chandler_bing Well I didn't think that was serious. Ya know I thought that was just a fight.
-joey_tribbiani Well, it was a fight. . . based on serious stuff, remember. About how I never lived alone or anything. I just think it would be good for me, ya know, help me to grow or. . . whatever.
+joey_tribbiani Well, it was a fight. based on serious stuff, remember. About how I never lived alone or anything. I just think it would be good for me, ya know, help me to grow or. whatever.
 chandler_bing Well, there you go.
 joey_tribbiani Hey, are you cool with this. I mean, I don't want to leave you high and dry.
 chandler_bing Hey, no, I've never been lower or wetter. I'll be fine. I'll just turn your, uh, bedroom into a game room or somethin', you know, put the foosball table in there.
@@ -244,7 +244,7 @@ dr_ross_geller You got a tattoo?
 rachel_green Maybe. But just a little one. Phoebe got the whole world.
 dr_ross_geller Lemme see.
 rachel_green Well?
-dr_ross_geller Well it's really. . . sexy. I wouldn't have thought it would be but. . . wow.
+dr_ross_geller Well it's really. sexy. I wouldn't have thought it would be but. wow.
 rachel_green Really?
 dr_ross_geller Yeah, so uh, is it sore or can you do stuff?
 rachel_green I guess.
@@ -254,7 +254,7 @@ chandler_bing Stop talkin' to your men.
 joey_tribbiani Yes! And the table is mine.
 chandler_bing Congratulations.
 joey_tribbiani Hey, you guys are still gonna come visit me, right?
-chandler_bing Oh yeah, you got the big TV. We'll be over there all the time. . . except when we are here.
+chandler_bing Oh yeah, you got the big TV. We'll be over there all the time. except when we are here.
 phoebe_buffay I know you're just moving uptown but I'm really gonna miss you.
 monica_geller I know, how can you not be accross the hall anymore.
 rachel_green Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?
@@ -266,3 +266,7 @@ joey_tribbiani Naa, you keep it, you need the practice.
 chandler_bing Thanks.
 joey_tribbiani So, I guess this is it.
 chandler_bing Yeah, right, yeah, I guess so.
+joey_tribbiani Listen, uh, I don't know when I'm gonna see you again.
+chandler_bing Well, I'm guessing uh, tonight at the coffee house.
+joey_tribbiani Right, yeah. OK. Um, take care.
+chandler_bing Yeah.

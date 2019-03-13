@@ -1,8 +1,8 @@
-rachel_green Okay, okay, I checked. We have
+rachel_green Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there's one more, um.. Lemon Soother. You're not the guy that asked for the tea, are you? Okay.
 monica_geller Mail call, Rachel Green, bunk seven.
 rachel_green Thank you. Oh, cool! Free sample of coffee!
 monica_geller Oh good! 'Cause where else would we get any?
-rachel_green Oh. Right. ...Oh great.
+rachel_green Oh. Right...Oh great.
 monica_geller What is it?
 rachel_green Country club newsletter. My mother sends me the engagement notices for 'inspiration.' Oh my God! Oh my God, it's Barry and Mindy!
 monica_geller Barry who you almost...?
@@ -22,7 +22,7 @@ dr_ross_geller Wait-wait. I, I got it. I was there.
 rachel_green Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?
 dr_ross_geller Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
 monica_geller Hi.
-dr_ross_geller ...Gets interrupted. Hi!
+dr_ross_geller ..Gets interrupted. Hi!
 rachel_green Hi, how was the movie?
 monica_geller Wonderful!
 phoebe_buffay So good!
@@ -84,7 +84,7 @@ monica_geller A monkey. Have you seen a monkey?
 mr_heckles Saw Regis Philbin once...
 phoebe_buffay Okay, thank you, Mr. Heckles.
 mr_heckles You owe me a waffle.
-rachel_green Okay, he's a, he's a black capuchian monkey with a white face... ...with, with Russian dressing and, and pickles on the side. Okay. Thanks.
+rachel_green Okay, he's a, he's a black capuchian monkey with a white face....with, with Russian dressing and, and pickles on the side. Okay. Thanks.
 dr_ross_geller Hey. How did, uh, how'd it go today?
 rachel_green Great! It went great. Really great. Hey, is that wine?
 dr_ross_geller Yeah. You, uh, you want some?
@@ -95,7 +95,7 @@ dr_ross_geller Okay, quick and painful.
 rachel_green Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.
 dr_ross_geller Oh, what? What-what?
 rachel_green Y'know Marcel?
-dr_ross_geller ...Yeah?
+dr_ross_geller ..Yeah?
 rachel_green Well, I kind of... I kind of lost him.
 dr_ross_geller I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment.
 rachel_green I know, I know, I'm sorry-
@@ -225,7 +225,7 @@ dr_ross_geller It'll be nice to get this off finally, won't it? Yes it will. Or 
 rachel_green Y'know, with the right pair of pumps, that would be a great little outfit.
 dr_ross_geller Listen, I'm- I'm sorry I was so hard on you before, it's just I...
 rachel_green Oh, Ross, c'mon. It's my fault, I almost lost your...
-dr_ross_geller Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
+dr_ross_geller Yeah, but you were the one who got him back, y'know? You, you were great...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
 rachel_green That'd be good.
 dr_ross_geller Alright. The, uh, the neighbours must be vacuuming. Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...
 barry_farber Rachel.

@@ -47,9 +47,9 @@ dr_ross_geller No, no. I mean, it mighta been at first, but by now I, I think I'
 monica_geller Ross, that's my jacket.
 dr_ross_geller I know.
 woman Hi, we're the Rostins. Err, I'm J.C., and he's Michael, and we're having a boy, and a girl.
-teacher#unknown#Friends.Season01.Episode16 Good for you. Alrighty, next?
-dr_ross_geller Hi, um, I'm err, I'm Ross Geller, and err ah... ..that's, that's my boy in there, and uh, this is Carol Willick, and this... is Susan Bunch. Susan is um Carol's, just, com... ..who's next?
-teacher#unknown#Friends.Season01.Episode16 I'm sorry, I didn't get... Susan is?
+the_lamaze_teacher Good for you. Alrighty, next?
+dr_ross_geller Hi, um, I'm err, I'm Ross Geller, and err ah...that's, that's my boy in there, and uh, this is Carol Willick, and this... is Susan Bunch. Susan is um Carol's, just, com...who's next?
+the_lamaze_teacher I'm sorry, I didn't get... Susan is?
 dr_ross_geller Susan is Carol's, Carol's, Carol's, friend...
 carol_willick Life partner.
 dr_ross_geller Like buddies.
@@ -106,7 +106,7 @@ dr_ross_geller Hi. Sorry I'm late. Where's, where's Carol?
 susan_bunch Stuck at school. Some parent-teacher thing. You can go. I'll get the information.
 dr_ross_geller No... No... No. I think I should stay, I think we should both know what's going on.
 susan_bunch Oh, good. This'll be fun.
-teacher#unknown#Friends.Season01.Episode16 Alrighty. We're gonna start with some basic third stage breathing exercises, so Mummies, why don't you get on your back? And... coaches, you should be supporting Mummy's head.
+the_lamaze_teacher Alrighty. We're gonna start with some basic third stage breathing exercises, so Mummies, why don't you get on your back? And... coaches, you should be supporting Mummy's head.
 dr_ross_geller@susan_bunch What? What? What?
 susan_bunch I am supposed to be the mommy?
 dr_ross_geller Okay, I'm gonna play my sperm card one more time.
@@ -115,8 +115,8 @@ dr_ross_geller I see. So what do you propose to do?
 susan_bunch I will flip you for it.
 dr_ross_geller Flip me for it? No, no, no... heads, heads, heads!
 susan_bunch On your back... Mom.
-teacher#unknown#Friends.Season01.Episode16 Alright, Mommies, take a nice deep cleansing breath.
-teacher#unknown#Friends.Season01.Episode16 Good. Now imagine your vagina is opening like a flower.
+the_lamaze_teacher Alright, Mommies, take a nice deep cleansing breath.
+the_lamaze_teacher Good. Now imagine your vagina is opening like a flower.
 chandler_bing Mr. D, how's it going, sir?
 mr_douglas Ohh, it's been better. The Annual Net Usage Statistics are in.
 chandler_bing And?
@@ -136,12 +136,12 @@ rachel_green Okay... Let me put it this way. Anything from Crabtree and Evelyn?
 phoebe_buffay Ooh! Bath salts would be nice.
 rachel_green Ooh, okay... good.
 jamie_buchman What is this place?
-fran_devanow Look, you're cold, I have to pee, and... ..there's a cup of coffee on the window. How bad could it be?
+fran_devanow Look, you're cold, I have to pee, and...there's a cup of coffee on the window. How bad could it be?
 jamie_buchman I think we have an answer.
 fran_devanow What's she doing here?
 jamie_buchman This could be God's way of telling us to eat at home.
 fran_devanow Think she got fired at Riff's?
-jamie_buchman No, no, no. We were there last night. She kept... ..bringing swordfish. are you gonna go to the, um?
+jamie_buchman No, no, no. We were there last night. She kept...bringing swordfish. are you gonna go to the, um?
 fran_devanow I'm gonna wait till after we order. It's her, right.
 jamie_buchman It looks like her.
 jamie_buchman Um, excuse me.
@@ -176,9 +176,9 @@ mr_heckles I could have cats.
 monica_geller Goodbye Mr.Heckles.
 rachel_green We'll try to keep it down.
 joey_tribbiani Phoebe, could you do me a favour? Could you try this on? I just wanna make sure it fits.
-phoebe_buffay Ooh, my first birthday present... ..oh, this is really...
+phoebe_buffay Ooh, my first birthday present...oh, this is really...
 joey_tribbiani Oh, no no no. It's for Ursula. I just figured, you know, size-wise.
-phoebe_buffay Ohhh... Sure, yeah... ..okay, it fits.
+phoebe_buffay Ohhh... Sure, yeah...okay, it fits.
 rachel_green Are you seein' her again tonight?
 joey_tribbiani Yep. Ice Capades.
 chandler_bing Wow, this is serious. I've never known you to pay money for any kind of capade.
@@ -191,18 +191,18 @@ phoebe_buffay Okay.
 chandler_bing Knit, good woman, knit, knit!
 chandler_bing And that's the Chrysler Building right there.
 mr_douglas Nina.
-nina_bookbinder Mr.Douglas... ..cool tie.
+nina_bookbinder Mr.Douglas...cool tie.
 mr_douglas She's still here.
 chandler_bing Yes, yes she is. Didn't I memo you on this? See, after I let her go, err, I got a call from her psychiatrist, Dr. Flanen-nen, Dr. Flanen, Dr. Flan.
 chandler_bing And err, he informed me that uh, she took the news rather badly, in fact, he uh, mentioned the word frenzy.
 mr_douglas You're kidding? She seems so...
-chandler_bing Oh, no, no. Nina... ..she is whooo wewee-woo whoo whoo! In fact, if you asked her right now, she would have no recollection of being fired at all, none at all.
+chandler_bing Oh, no, no. Nina...she is whooo wewee-woo whoo whoo! In fact, if you asked her right now, she would have no recollection of being fired at all, none at all.
 mr_douglas That's unbelievable.
 chandler_bing And yet, believable. So I decided not to fire her again until I can be assured that she will be no threat to herself, or others.
 mr_douglas I see. I guess you never really know what's goin' on inside a person's head.
 chandler_bing Well, I guess that's why they call it psychology, sir.
-soothing_male_voice#unknown#Friends.Season01.Episode16 ..a sound Mom and Dad never forget. For this after all, is the miracle of birth.
-teacher#unknown#Friends.Season01.Episode16 Lights please? And that's having a baby. Next week is our final class.
+soothing_male_voice#unknown#Friends.Season01.Episode16 .a sound Mom and Dad never forget. For this after all, is the miracle of birth.
+the_lamaze_teacher Lights please? And that's having a baby. Next week is our final class.
 dr_ross_geller Susan, go deep.
 carol_willick This is impossible. It's just impossible.
 susan_bunch What is, honey?
@@ -241,7 +241,7 @@ nina_bookbinder What?
 chandler_bing Helen drinks. Will you marry me?
 chandler_bing Well, I ended up telling her everything.
 rachel_green Oh, how'd she take it?
-chandler_bing Pretty well. Except for the stapler thing. Little tip
+chandler_bing Pretty well. Except for the stapler thing. Little tip: if you're ever in a similar situation, never ever leave your hand...on the desk.
 monica_geller Okay, I think I get how to do this.
 phoebe_buffay Alright, so, can we turn this off? Can we just make it... make them go away? Because I can't, I can't watch.
 monica_geller okay, Pheebs, they're gone.
@@ -265,7 +265,7 @@ phoebe_buffay Oh, okay, oh.
 ursula#unknown#Friends.Season01.Episode16 Oh.
 ursula#unknown#Friends.Season01.Episode16 Yeah, um, may we help you?
 monica_geller Rachel, what are you doing? It's freezing out here. Would you come back inside?
-rachel_green No no no no no. You wanted me to take them down, so... ..I'm takin' 'em down. Okay? Whoa!
+rachel_green No no no no no. You wanted me to take them down, so...I'm takin' 'em down. Okay? Whoa!
 monica_geller Oh-my-god Rachel! Rachel!
 rachel_green I'm okay! I'm okay! Mr. Heckles, Mr. Heckles could you help me please?
 mr_heckles See, this is just the kind of thing I was talking about.

@@ -50,7 +50,7 @@ dr_ross_geller You know you probably didn't know this, but back in high school, 
 rachel_green I knew.
 dr_ross_geller You did! Oh.... I always figured you just thought I was Monica's geeky older brother.
 rachel_green I did.
-dr_ross_geller Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here - but do you think it would be okay if I asked you out? Sometime? Maybe?
+dr_ross_geller Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?
 rachel_green Yeah, maybe...
 dr_ross_geller Okay... okay, maybe I will...
 dr_ross_geller See, I see.... big passion in your future.
@@ -123,7 +123,7 @@ chandler_bing Uh-oh.
 rachel_green Good different?
 dr_ross_geller Nobody likes change.
 dr_ross_geller What? Okay, okay, okay, okay.
-rachel_green ...the way you owned up to everything, it just showed me how much you've grown. Y'know? I mean my Mom never thought this would work out. It was all, “Once a cheater, always a cheater.” Ooh, I just wish we hadn't lost those four months, but if time was what you needed just to gain a little perspective...
+rachel_green ..the way you owned up to everything, it just showed me how much you've grown. Y'know? I mean my Mom never thought this would work out. It was all, "Once a cheater, always a cheater." Ooh, I just wish we hadn't lost those four months, but if time was what you needed just to gain a little perspective...
 dr_ross_geller WE WERE ON A BREAK!!!!!!!
 rachel_green You seem to really like her.
 dr_ross_geller Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y'know no commitment.
@@ -150,7 +150,7 @@ joey_tribbiani Heyyy.
 monica_geller We're hanging out.
 rachel_green What's this? Is this Ross's wedding invitation?
 chandler_bing See, maybe that's the one we should've actually hidden.
-rachel_green Oh, no! No you guys! Come on, you don't have to do that! I'm happy for him! I am! I really - I'm-I'm happ - I'll work on it.
+rachel_green Oh, no! No you guys! Come on, you don't have to do that! I'm happy for him! I am! I really-I'm-I'm happ-I'll work on it.
 monica_geller I'm sorry honey.
 rachel_green Yeah.
 monica_geller Rach, you're gonna come though aren't you?
@@ -175,10 +175,10 @@ dr_ross_geller But we haven't seen each other since then. Well I land in China, 
 rachel_green Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?
 dr_ross_geller Oh, that is so sweet. No, no, ok, you hang up. Ok, ok, one, two, three. Well you didn't hang up either.
 rachel_green She didn't hang up either...
-dr_ross_geller Ok, no, no, you hang up. You, you, y -
+dr_ross_geller Ok, no, no, you hang up. You, you, y-
 rachel_green Ross, hi, it's Rachel. I'm just calling to say that um, everything's fine and I'm really happy for you and your cat......I am over you. I am over you and that, my friend, is what they call closure.
 dr_ross_geller Rach, I got a message from you.
-rachel_green Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .
+rachel_green Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the.
 dr_ross_geller You're over me?
 rachel_green Ohhhhhhhh God.
 dr_ross_geller Wha... you're uh, you're, you're over me?
@@ -232,7 +232,8 @@ mr_geller#unknown#Friends.Season04.Episode21 C'mon kid, let's go.
 mrs_geller#unknown#Friends.Season04.Episode21 Ahh, are you hadsome.
 mr_geller#unknown#Friends.Season04.Episode21 Let's show 'em.
 dr_ross_geller Okay dad.
-mr_geller#unknown#Friends.Season04.Episode21 Rachel, ready or not, here comes your knight in shining - Oh no.
+mr_geller#unknown#Friends.Season04.Episode21 Rachel, ready or not, here comes your knight in shining-Oh no.
+rachel_monica_roy_and_chip#unknown#Friends.Season04.Episode21 Bye.
 mrs_geller#unknown#Friends.Season04.Episode21 Oh, dear. Jack, how do I turn this off?
 monica_geller I can't believe you did that.
 dr_ross_geller Yeah, well.

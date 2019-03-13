@@ -26,7 +26,7 @@ rachel_green Okay. Are you sure you wanna hear this?
 dr_ross_geller Oh, I'm sure.
 rachel_green Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh.
 dr_ross_geller Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing!
-phoebe_buffay ...DUMB, DRUNKEN, BITCH!!! Thank you, thanks.
+phoebe_buffay ..DUMB, DRUNKEN, BITCH!!! Thank you, thanks.
 dr_ross_geller Hey, here's a question; where did you guys get the finest oak East of the Mississippi?
 chandler_bing Uh-huh, first you tell us where you got the prettiest lace in all the land.
 dr_ross_geller I'm reading your ad.
@@ -91,9 +91,9 @@ dr_ross_geller Come on, you-you can't tell me you actually believe that-that the
 rachel_green I believe it.
 dr_ross_geller No you don't.
 rachel_green Yes, I do.
-dr_ross_geller No you do - y'know what, you're not gonna suck me into this.
+dr_ross_geller No you do-y'know what, you're not gonna suck me into this.
 rachel_green Oh sure I am, because you always have to be right.
-dr_ross_geller I do not always have to be - okay, okay.
+dr_ross_geller I do not always have to be-okay, okay.
 rachel_green Jurassic Park could happen.
 tony Wow! That's ah, that's pretty nice!
 joey_tribbiani Pretty nice?
@@ -171,10 +171,10 @@ chandler_bing What happened?!!
 joey_tribbiani Awww, man! He promised he wouldn't take the chairs!!
 chandler_bing What the hell happened?!! How were you locked in?!! And where the hell is all of our stuff?!!
 joey_tribbiani Well, this guy came by to look at the unit and-and he said he didn't think big enough to fit a grown man!
-chandler_bing So - You got in voluntarily?!
+chandler_bing So-You got in voluntarily?!
 joey_tribbiani I was tryin' to make a sale!! Oh, man, if I ever run into that guy again, do you know what I'm gonna do?
 chandler_bing BEND OVER?!!!
-chip_matthews ...and then Zana, just let one rip!!
+chip_matthews ..and then Zana, just let one rip!!
 monica_geller Look, not that I enjoy talking about people who I went to high school with, 'cause I do, but umm, maybe we could talk about something else? Like you, I don't even know where you work?
 chip_matthews You know where I work!
 monica_geller I do?
@@ -197,14 +197,15 @@ monica_geller No, it's okay, not only did I get to go out with Chip Matthews, I 
 rachel_green Ohh! That's so great!
 monica_geller I know!
 dr_ross_geller Hey! So ah, what did the insurance company say?
-chandler_bing Oh, they said uh, “You don't have insurance here, so stop calling us.”
+chandler_bing Oh, they said uh, "You don't have insurance here, so stop calling us."
 dr_ross_geller You didn't tell her?! Okay, fine! Pheebs?
 phoebe_buffay Yeah? Hi!
 dr_ross_geller Hi! Listen uhh, this cat belongs to a little girl. There are flyers all over the place.
 rachel_green I'm sorry, sweetie.
 monica_geller Hey, we can take her back with you if you want.
 phoebe_buffay Ohh. Um-hmm. But y'know, she choose to find me. I mean, I have to respect her decision. Right?
-dr_ross_geller No! No! Look - Hey, enough is enough! Look, I am sorry that you feel guilty or whatever about spending time with your new mom, but this is not your old mom. This is a cat! Okay, Julio the cat! Not mom! Cat!
+chandler_bing@joey_tribbiani@monica_geller@rachel_green That's a good call. Right.
+dr_ross_geller No! No! Look-Hey, enough is enough! Look, I am sorry that you feel guilty or whatever about spending time with your new mom, but this is not your old mom. This is a cat! Okay, Julio the cat! Not mom! Cat!
 phoebe_buffay Ross, how many parents have you lost?
 dr_ross_geller None.
 phoebe_buffay Okay, then you don't know what it feels like when one of them comes back. Do you? I believe this is my Mother. Even if I'm wrong, who cares? Just be a friend. Okay? Be supportive.

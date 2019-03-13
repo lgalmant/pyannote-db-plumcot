@@ -127,7 +127,7 @@ both#unknown#Friends.Season02.Episode06 Stop the bus! Wait! Wait! Wait!
 monica_geller Are you sure he didn't break it because it really hurts.
 doctor_karl No, it's just a good bone bruise. And, right here is the puncture wound from your ring.
 dr_ross_geller Oh, I'm sorry, I'm really sorry. Sorry. Sorry! Hey! Hey! I got my s's back! Which we can celebrate later. Celebrate.
-phoebe_buffay ... with the double double double-jointed boy. Hey. So um, are you the professional guitar player?
+phoebe_buffay .. with the double double double-jointed boy. Hey. So um, are you the professional guitar player?
 stephanie_schiffer Yeah. I'm Stephanie.
 phoebe_buffay Right. My name was on there, but now it just says "carrot cake". So, um, so um, how many chords do you know?
 stephanie_schiffer All of them.
@@ -152,6 +152,7 @@ transit_authority_guy#unknown#Friends.Season02.Episode06 He's here. I'm assuming
 chandler_bing That's me.
 joey_tribbiani I'm him.
 chandler_bing Actually, uh, we're both the father.
+both#unknown#Friends.Season02.Episode06 Oh, Ben! Hey, buddy!
 chandler_bing Please tell me you know which one is our baby.
 joey_tribbiani Well, well that one has ducks on his t-shirt, and this one has clowns. And Ben was definitely wearing ducks.
 chandler_bing Ok.

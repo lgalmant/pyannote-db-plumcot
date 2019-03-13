@@ -122,8 +122,8 @@ monica_geller Really?!
 chandler_bing Oh yeah! Yeah, so you-you bumped into Richard! You grabbed a bite! It's no big deal.
 monica_geller Great!
 phoebe_buffay Okay, London 1
-rachel_green Oh! Look what happened! {Don't get your hopes up guys, we only get to see her from the back or from the neck up. Its times like these I wish that the networks would broadcast some nudity other than Denis Franz's butt.} Huh, check me out! I'm in my kitchen... naked! I'm picking up an orange. I'm naked! Lighting the candles, naked, and carefully.
-dr_ross_geller Oh my God! That's Rachel naked! I can't look at that! I am looking at this. Okay, vivid colors, expressive brush strokes - Unless she wants me to be looking at that. She knows I'm home. She knows I can see her. What kind of game is she playing? I think maybe someone's lonely tonight. Oh-ho, Dr. Geller! Stop it! You're being silly! Or, am I?
+rachel_green Oh! Look what happened! {Don't get your hopes up guys, we only get to see her from the back or from the neck up. Its times like these I wish that the networks would broadcast some nudity other than Denis Franz's butt.} Huh, check me out! I'm in my kitchen...naked! I'm picking up an orange. I'm naked! Lighting the candles, naked, and carefully.
+dr_ross_geller Oh my God! That's Rachel naked! I can't look at that! I am looking at this. Okay, vivid colors, expressive brush strokes-Unless she wants me to be looking at that. She knows I'm home. She knows I can see her. What kind of game is she playing? I think maybe someone's lonely tonight. Oh-ho, Dr. Geller! Stop it! You're being silly! Or, am I?
 rachel_green Love to love ya baby! Ow! Love to love ya baby! Ow! Love to love ya, baby! Darnit! Ugh.
 dr_ross_geller Hey.
 dr_ross_geller May I come in?
@@ -224,7 +224,7 @@ phoebe_buffay Sure! Yeah! Las Vegas, number one!
 monica_geller Anybody lose this?
 the_croupier Comin' out. Place your bet. Dice are out. Double or nothin'! Pay the front line!
 monica_geller Hmm.
-guy_on_plane So uh, I'm on my way back to the bathroom.
+guy#unknown#Friends.Season05.Episode23 So uh, I'm on my way back to the bathroom.
 rachel_green Yeah, all right. All right! Just keep walkin'! All right?
 rachel_green Ross! What are you... I'm sorry sir. I just, I think he just really likes you.
 dr_ross_geller Hey! Y'know that teacher who had a baby with her student?
@@ -284,7 +284,7 @@ phoebe_buffay Yeah!
 rachel_green What are you talking about Pheebs? I don't... Oh my God, you drew on me?!
 dr_ross_geller Hey, you wet my pants!
 phoebe_buffay Whoa, what kind of party was this?
-rachel_green Ross, I have been walking around like this since the plane! I can - you have so crossed a line.
+rachel_green Ross, I have been walking around like this since the plane! I can-you have so crossed a line.
 dr_ross_geller Rach! Wait! The men's room is that way.
 phoebe_buffay Ugh!
 dr_ross_geller What?
@@ -299,7 +299,7 @@ dr_ross_geller No. They swoop in and steal your jackpot.
 phoebe_buffay Ohhh!
 dr_ross_geller Uh-hmm.
 phoebe_buffay How do you know about this?
-dr_ross_geller My nana used to do it. That's how she paid for all my dance - karate lessons.
+dr_ross_geller My nana used to do it. That's how she paid for all my dance-karate lessons.
 phoebe_buffay Dance karate?
 dr_ross_geller Yes, it's a deadly but beautiful sport.
 rachel_green All right, it won't come off!
@@ -343,7 +343,7 @@ dr_ross_geller Umm, he said he thought I was funny. So... Okay, look-look umm, l
 rachel_green Ross, no! There is no way I am leaving this room looking like this!
 dr_ross_geller Oh, come on! Rach, it's-it's not that bad.
 rachel_green Ross, I am a human doodle!!
-dr_ross_geller Look, just because some idiot drew on your face doesn't mean you shouldn't have any fun! Okay? And besides, hey-hey-hey no one is even gonna look at you. Okay? This is Vegas! Hello! There are tons of other freaks here! There are tons... of... freaks here. No other. No. Come on! No one will notice, I swear!
+dr_ross_geller Look, just because some idiot drew on your face doesn't mean you shouldn't have any fun! Okay? And besides, hey-hey-hey no one is even gonna look at you. Okay? This is Vegas! Hello! There are tons of other freaks here! There are tons...of...freaks here. No other. No. Come on! No one will notice, I swear!
 dr_ross_geller Okay, there was some staring and pointing.
 rachel_green Okay, I need a, I need a drink!
 dr_ross_geller Oh, hey y'know, they-they really overcharge you for that stuff. But who cares?! Because it's all on me! That is, one big drink!
@@ -398,12 +398,12 @@ chandler_bing Ahh, ooh, try a hard 8.
 monica_geller What?
 chandler_bing Two fours.
 monica_geller Okay.
-the_croupier 8!
+the_croupier 8!:
 a_drunken_gambler#unknown#Friends.Season05.Episode23 Don't you let her go! You're a lucky guy!
 chandler_bing Thank you, Mister Drunken Gambler! Okay, you get this and uh, we get the biggest suite in the place! Wait-wait-wait-wait! We get the biggest suite in the place.
 monica_geller All right, biggest suite in the place. Come on!
 chandler_bing Yes!! I love you! I can't even remember what we were fighting about!
-monica_geller Oh, that's because I had lunch with Rich - Me neither! Okay, what do I want now?
+monica_geller Oh, that's because I had lunch with Rich-Me neither! Okay, what do I want now?
 chandler_bing Another hard 8.
 monica_geller Hard 8?! We should call it easy 8!
 chandler_bing Okay, okay, I tell you what. You roll another hard eight; and we get married here tonight.
@@ -451,7 +451,7 @@ dr_ross_geller Ohh, here's that Macadamia nut!
 rachel_green Ohhh!!
 dr_ross_geller Nope! Something else.
 rachel_green Oops! All right, so what do you want to do now?
-dr_ross_geller I wanna get out of the room! Y'know, I... I really miss downstairs.
+dr_ross_geller I wanna get out of the room! Y'know, I...I really miss downstairs.
 rachel_green Okay, y'know what? There's only one way I'm leaving this hotel room.
 dr_ross_geller Well hello! I'm Ross!
 rachel_green Good luck to ya!
@@ -484,7 +484,7 @@ chandler_bing Ohh, great, I have condom in my wallet I've had since I was twelve
 monica_geller That'll work!
 chandler_bing I don't think so.
 monica_geller Okay, now we just need something borrowed!
-chandler_bing Here just... take this.
+chandler_bing Here just...take this.
 monica_geller That's stealing!
 chandler_bing No, we'll-we'll bring it back! Just put it under your dress.
 monica_geller Ohh.

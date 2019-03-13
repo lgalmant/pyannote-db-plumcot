@@ -72,7 +72,7 @@ chandler_bing It's just you and Rachel, just the two of you? This is a date. You
 dr_ross_geller Nuh-uh.
 chandler_bing Yuh-huh.
 dr_ross_geller So what're you saying here? I should shave again, pick up some wine, what?
-chandler_bing Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear - you want it to be dirty?
+chandler_bing Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear-you want it to be dirty?
 dr_ross_geller No.
 chandler_bing Oh, and uh, the fabric softener?
 dr_ross_geller Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.
@@ -85,7 +85,7 @@ monica_geller You've never met Bob, have you?
 joey_tribbiani No, but he's...
 monica_geller Oh my god, Joey, for all we know this guy could be horribly...
 angela Hey, Joey.
-monica_geller ...horribly attractive. I'll be shutting up now.
+monica_geller ..horribly attractive. I'll be shutting up now.
 chandler_bing Where are they? Where are they?
 phoebe_buffay This is nice. We never do anything just the two of us.
 chandler_bing It's great. Maybe tomorrow we can rent a car and run over some puppies.
@@ -178,7 +178,7 @@ monica_geller Hello! Were we at the same table? It's like... cocktails in Appala
 joey_tribbiani Come on, they're close.
 monica_geller Close? She's got her tongue in his ear.
 joey_tribbiani Oh, like you've never gotten a little rambunctious with Ross.
-monica_geller Joey, this is sick, it's disgusting, it's, it's - not really true, is it?
+monica_geller Joey, this is sick, it's disgusting, it's, it's-not really true, is it?
 joey_tribbiani Well, who's to say what's true? I mean...
 monica_geller Oh my god, what were you thinking?
 joey_tribbiani All right, look, I'm not proud of this, ok? Well, maybe I am a little.
@@ -190,7 +190,7 @@ monica_geller Really?
 joey_tribbiani Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
 monica_geller I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
 joey_tribbiani Uh, waiter, one more plate of chicken wings over here.
-chandler_bing Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+chandler_bing Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom,.. boom.
 janice Ow!
 chandler_bing Oh, my god, I'm so sorry. Are you ok?
 janice Ow. Um, it's just my lens. It's just my lens. I'll be right back.

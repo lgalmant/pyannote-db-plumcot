@@ -8,27 +8,32 @@ dr_ross_geller Uh, nothing, I'm sure they'll be impressed with your excellent co
 rachel_green Oh my Goood! Oh, do you think it's on all of them?
 joey_tribbiani Oh no, I'm sure the Xerox machine caught a few.
 monica_geller Hey, guys.
-chandler_bing@dr_ross_geller Hey.
-rachel_green Hey... hi, ladies... uh, can I get you anything?
+dr_ross_geller@chandler_bing Hey.
+rachel_green Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?
 monica_geller Lots of responses.
+rachel_green : Really? : Sure, we have scones left! : OK, read them to me.
+phoebe_buffay : Dear Ms. Green, thank you for your inquiry, however... oh...
+rachel_green : We have apple cinnamon...
+monica_geller : OK... Dear Ms. Green... yeah... yeah... yeah... No.
 phoebe_buffay Wow!
 rachel_green What?
+phoebe_buffay : Your Visa bill is huge!
 rachel_green Give me that!
 chandler_bing You know, I can't believe you. Linda is so great! Why won't you go out with her again?
 dr_ross_geller I don't know.
 chandler_bing Is this still about her whole 'The Flintstones could've really happened' thing?
-dr_ross_geller No, it's not just that. It's just - I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh...
-chandler_bing ...little playthings with yarn?
+dr_ross_geller No, it's not just that. It's just-I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh...
+chandler_bing ..little playthings with yarn?
 dr_ross_geller What?
 chandler_bing Could you want her more?
 dr_ross_geller Who?
 chandler_bing Dee, the sarcastic sister from Whats Happening.
-dr_ross_geller Look, I am totally, totally over her, OK, I just...
+dr_ross_geller Look, I am totally, totally over her, OK, I just... : Hiiii!
 rachel_green Hi! How are you?
 dr_ross_geller We're fine, we're fine.
 rachel_green OK.
 joey_tribbiani Shut up!
-chandler_bing We're not - we're not saying anything.
+chandler_bing We're not-we're not saying anything.
 phoebe_buffay What?
 dr_ross_geller Uhhhh... Joey cried last night.
 joey_tribbiani Thank you.
@@ -56,7 +61,7 @@ rachel_green Oh, good for you!
 phoebe_buffay Congratulations!
 chandler_bing OK Phoebs, how many do you want?
 phoebe_buffay OK, I just need two... the, um, ten of spades and the six of clubs.
-dr_ross_geller No. No, uh, Phoebs? You can't - you can't do...
+dr_ross_geller No. No, uh, Phoebs? You can't-you can't do...
 rachel_green Oh wait, I have the ten of spades! Here!
 dr_ross_geller No, no. Uh... no, see, uh, you-you can't do that.
 rachel_green Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours.
@@ -70,6 +75,7 @@ dr_ross_geller Alright, now, you sure? Phoebe just threw away two jacks because 
 phoebe_buffay But... I'm ready, so, just deal.
 chandler_bing OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.
 monica_geller Dammit, dammit, dammit!
+phoebe_buffay : Oh I see, so then, you were lying.
 joey_tribbiani About what?
 phoebe_buffay About how good your cards were.
 joey_tribbiani Heh... I was bluffing.
@@ -86,20 +92,21 @@ monica_geller Hell no, we'll pay!
 phoebe_buffay OK, Monica? I had another answer all ready.
 monica_geller And you know what? We want a rematch.
 dr_ross_geller Well that's fine with me. Could use the money.
-dr_ross_geller ...Yeah.
+rachel_green : So basically, you get your ya-yas by taking money from all of your friends.
+dr_ross_geller ..Yeah.
 chandler_bing Yes, and I get my ya-yas from Ikea. You have to put them together yourself, but they cost a little less.
 dr_ross_geller Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt...
-joey_tribbiani ...Yeah?
+joey_tribbiani ..Yeah?
 dr_ross_geller I'm not a nice guy.
 dr_ross_geller Alright boys, let's eat.
 chandler_bing Oh, did you get that from the 'I Love Rachel' pizzeria?
 dr_ross_geller You still on that?
-chandler_bing Oh, come on. What was with that whole Black Bart speech?
+chandler_bing Oh, come on. What was with that whole Black Bart speech? : "When I play poker, I'm not a nice guy!"
 dr_ross_geller You are way off, pal.
 joey_tribbiani No, I don't think so, see Ross, because I think you love her.
-dr_ross_geller Um.... no. See, I might've had feelings for her at one time - not any more. I just - I...
+dr_ross_geller Um.... no. See, I might've had feelings for her at one time-not any more. I just-I...
 dr_ross_geller Marcel! Where are you going with that disc?
-dr_ross_geller You are not putting that on again! Marcel, OK - if you press that button, you are in very, very big trouble.
+dr_ross_geller You are not putting that on again! Marcel, OK-if you press that button, you are in very, very big trouble.
 rachel_green Can you believe what a jerk Ross was being?
 monica_geller Yeah, I know. He can get really competitive.
 phoebe_buffay Ha. Ha, ha.
@@ -108,8 +115,9 @@ phoebe_buffay Oh, hello, kettle? This is Monica. You're black.
 monica_geller Please! I am not as bad as Ross.
 rachel_green Oh, I beg to differ. The Pictionary incident?
 monica_geller That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.
-rachel_green Oooooh.
+rachel_green Oooooh. : Oh! I got an interview! I got an interview!
 monica_geller You're kidding! Where? Where?
+rachel_green : Sak's... Fifth... Avenue.
 monica_geller Oh, Rachel!
 phoebe_buffay Oh, it's like the mother ship is calling you home.
 monica_geller Well, what's the job?
@@ -123,7 +131,7 @@ aunt_iris Well, he may be now, because I think I hit him with my car.
 monica_geller What?
 rachel_green Oh my God!
 monica_geller Really?
-aunt_iris No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap.
+aunt_iris No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.
 phoebe_buffay Thank y...
 aunt_iris Girls, sit down.
 monica_geller Uh, Aunt Iris? This is Phoebe, and that's Rachel...
@@ -135,7 +143,7 @@ rachel_green Hi!
 dr_ross_geller Hey.
 rachel_green Guys! Guess what, guess what, guess what, guess what!
 chandler_bing Um, ok... the... the fifth dentist caved and now they're all recommending Trident?
-rachel_green Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and - oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!
+rachel_green Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and-oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!
 all@ That's great! That's wonderful!
 rachel_green Oh God, oh, and then she told the funniest story...
 monica_geller OK, great. You'll tell us and we'll laugh. Let's play poker.
@@ -169,8 +177,8 @@ joey_tribbiani Alright, well, I'm gonna order a pizza.
 rachel_green Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
 joey_tribbiani That's fine. I'll just have a Tic-Tac to hold me over.
 monica_geller Alright, Cincinnati, no blinds, everybody ante.
-phoebe_buffay Yes! .... or no.
-dr_ross_geller Alright.
+phoebe_buffay Yes!.. or no.
+dr_ross_geller Alright. : Your money's mine, Green.
 rachel_green Your fly is open, Geller.
 phoebe_buffay You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
 chandler_bing Hey, that's... that's 'joincidence' with a 'C'!
@@ -180,7 +188,7 @@ rachel_green I'm in.
 monica_geller Me too.
 joey_tribbiani Me too. Alright, whattaya got.
 dr_ross_geller Well, you better hop outta the shower, cause... I gotta flush.
-rachel_green Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I think - oh - that one was Ross's. Yes!
+rachel_green Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I think-oh-that one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
 rachel_green And your fly's still open...
 rachel_green Ha, I made you look....
 rachel_green I couldn't be inner. Monica?
@@ -210,7 +218,7 @@ dr_ross_geller Let's not talk about losing. Just deal the...
 rachel_green Hel-lo, Rachel Green.
 dr_ross_geller Mee mee, mee-mee mee.
 rachel_green Excuse me. It's about the job.
-rachel_green Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, plea - Hello? Hello?
+rachel_green Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, plea-Hello? Hello?
 monica_geller Sorry, Rach.
 phoebe_buffay Y'know, there's gonna be lots of other stuff.
 rachel_green Yeah.......OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante.
@@ -224,6 +232,7 @@ phoebe_buffay I'm in.
 rachel_green I see your fifty cents... and I raise you... five dollars.
 dr_ross_geller I thought, uh... it was a fifty cent limit.
 rachel_green Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+rachel_green : Loser?
 dr_ross_geller No, I fold.
 rachel_green What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
 dr_ross_geller I'm in.
@@ -237,15 +246,21 @@ rachel_green See your twenty-five...and...uh, Monica, get my purse.
 monica_geller Rachel, there's nothing in it.
 rachel_green OK, then get me your purse.
 monica_geller OK, here you go. Good luck.
-phoebe_buffay ...teen!
+rachel_green : Thank you. : I saw your twenty-five, and I raise you... seven.
+phoebe_buffay ..teen!
+dr_ross_geller : Joey, I'm a little shy.
 joey_tribbiani That's OK, Ross, you can ask me. What?
+chandler_bing : What do you need, what do you need?
 dr_ross_geller Fifteen.
 chandler_bing Alright, here's ten.
 joey_tribbiani Here, I got five, I got five.
 dr_ross_geller Thank you.
 chandler_bing Good luck.
+dr_ross_geller : OK, I am calling your seventeen. What do you got?
 rachel_green Full house.
 dr_ross_geller You got me.
+joey_tribbiani : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+chandler_bing : I thought we had them!
 dr_ross_geller Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is.
 chandler_bing Airplane! Airport! Airport '75! Airport '77! Airport '79!
 rachel_green Oh, time's up.

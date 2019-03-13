@@ -3,7 +3,7 @@ chandler_bing Hey!
 dr_ross_geller Wow! You look nice. What's the occasion?
 chandler_bing Monica and I are celebrating our ten-month anniversary, we've got reservations at Ja George.
 dr_ross_geller Wow! How'd you get in there?
-chandler_bing Made a few calls, pulled some strings, and they agreed to seat us at 11
+chandler_bing Made a few calls, pulled some strings, and they agreed to seat us at 11:30 if we both had the chicken and didn't get desert.
 delivery_girl#unknown#Friends.Season05.Episode19 Hi Chandler!
 chandler_bing Hey Caitlin! Somebody got a haircut.
 caitlin Ugh, I hate it! I look like an 8-year-old boy.
@@ -280,7 +280,7 @@ phoebe_buffay Oh no!
 joey_tribbiani I'm comin' out!
 dr_ross_geller And she's supposed to buy this?!
 grandma_tribbiani Joey, bravo!
-chandler_bing Ground control to Major Tom! Commencing countdown... engines... on!
+chandler_bing Ground control to Major Tom! Commencing countdown...engines...on!
 joey_tribbiani That's uh, scenes from next week's show. Next week's!
 phoebe_buffay I am definitely gonna watch that!
 monica_geller What about these? These look the same?

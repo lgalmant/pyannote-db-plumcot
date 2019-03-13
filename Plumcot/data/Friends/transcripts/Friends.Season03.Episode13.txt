@@ -1,7 +1,7 @@
 monica_geller Hi.
 clerk#unknown#Friends.Season03.Episode13 Six dollars, please.
 monica_geller Six? I just had it for one night. It's three.
-clerk#unknown#Friends.Season03.Episode13 Eight o'clock is the cut-off and, aww, it's 8
+clerk#unknown#Friends.Season03.Episode13 Eight o'clock is the cut-off and, aww, it's 8:02.
 monica_geller Y'know in a weird way, you have too much power. Look, you're gonna have to help me out here, 'cause I only have three.
 dr_richard_burke I can help with that.
 monica_geller Oh my God. Richard? Hi!
@@ -53,7 +53,7 @@ all@ Hey.
 rachel_green Somebody got in late last night.
 monica_geller Yeah well, I ran into Richard.
 rachel_green When did this happen?
-monica_geller Oh, um, around 8
+monica_geller Oh, um, around 8:02. We ah, talked for a little while, and then um, we went out for an innocent burger.
 phoebe_buffay Oh, there's no such thing as an innocent burger.
 dr_ross_geller So, are you gonna see him again?
 monica_geller Tomorrow night.
@@ -76,7 +76,7 @@ joey_tribbiani Well, safer. Y'know, I mean I never start reading The Shining, wi
 rachel_green How often do you read it?
 joey_tribbiani Haven't you ever read the same book over and over again?
 rachel_green Well, umm, I guess I read Little Women more than once. But I mean that's a classic, what's so great about The Shining?
-joey_tribbiani The question should be Rach, what is not so great about The Shining. Okay? And the answer would be
+joey_tribbiani The question should be Rach, what is not so great about The Shining. Okay? And the answer would be: nothing. All right? This is like the scariest book ever. I bet it's way better than that classic of yours.
 rachel_green Okay. Ah, well we'll just see about that, okay. I will read The Shining, and you will read Little Women.
 joey_tribbiani All right, you got it.
 rachel_green All right.
@@ -89,7 +89,7 @@ phoebe_buffay Um, Chandler, Ross, this is Robert.
 chandler_bing Oh, hey.
 robert Hi.
 dr_ross_geller Hey.
-phoebe_buffay You've have lipstick right here . That's okay, it's mine, we just kissed.
+phoebe_buffay You've have lipstick right here That's okay, it's mine, we just kissed.
 dr_ross_geller Oh.
 chandler_bing So ah, isn't a bit cold out for shorts?
 robert Well, I'm from California.
@@ -105,7 +105,7 @@ dr_ross_geller What, what do you mean, what? Is he gay?
 chandler_bing No. He.....he's coming out of his shorts.
 dr_ross_geller What?!
 chandler_bing The man is showing brain.
-dr_ross_geller Are you sure? (Chandler nods
+dr_ross_geller Are you sure? Hold on. I'm sorry you guys, that was a coffee and a....
 robert Coffee.
 dr_ross_geller Okay.
 robert We could write it down for you?

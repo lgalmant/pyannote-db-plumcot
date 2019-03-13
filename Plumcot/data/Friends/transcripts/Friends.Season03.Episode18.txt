@@ -42,7 +42,7 @@ frank_buffay_jr Oh, I knew you'd be so cool about this. All right, ah, hey, do y
 phoebe_buffay Do I?
 frank_buffay_jr Do you?
 phoebe_buffay Yeah, I do, yeah.
-frank_buffay_jr Okay, cool, all right, she just ah, parking the truck. I'm gonna, I'm gonna get my ah, my fiancï¿½e man!
+frank_buffay_jr Okay, cool, all right, she just ah, parking the truck. I'm gonna, I'm gonna get my ah, my fiancáe man!
 chandler_bing Y'know, I would've bet good money that he'd be the first one of us to get married.
 phoebe_buffay Yeah, isn't it fantastic?
 monica_geller Yeah, ah, but Pheebs don't you think he's a little young to get married?
@@ -50,7 +50,7 @@ phoebe_buffay What, he's 18.
 dr_ross_geller Exactly, it'll be illegal for him to drink at his own bachelor party.
 joey_tribbiani Yeah, or-or to get a hooker.
 chandler_bing Always illegal Joe.
-frank_buffay_jr Hey! Hey! This is ah, my fiancï¿½e, Mrs. Knight.
+frank_buffay_jr Hey! Hey! This is ah, my fiancáe, Mrs. Knight.
 alice_knight_buffay Y'know it-it's funny, um, Frank told me so much about you, but your not how I pictured you at all.
 phoebe_buffay Yeah, I'm a big surprise.
 monica_geller So, um, how-how did you guys meet?
@@ -73,7 +73,7 @@ rachel_green Well, that shouldn't be a problem. I mean I work in fashion and all
 monica_geller Pete, can I get you something else?
 pete_becker Yeah, a slice of cheesecake and-and a date if you're given' 'em out.
 monica_geller Haven't you and I covered that topic?
-pete_becker Hmm, come on, you just said to her that you... .
+pete_becker Hmm, come on, you just said to her that you....
 monica_geller Aww, the only reason you want to go out with me because my blond wig, and the big boobs, and the fact that I serve you food.
 pete_becker Well, if that were true, I'd dating my Aunt Ruth. And the two times we went out were just plain awkward. Come on, you think she should go out with me, don't you?
 rachel_green Well, I mean, are you sure you want to go out with her? I mean that ain't a pretty picture in the morning, y'know what I mean. That wig all in disarray, and boobs flung over the night stand, y'know.
@@ -92,11 +92,11 @@ dr_ross_geller@joey_tribbiani No-no-no-no-no.
 phoebe_buffay Come on, you guys, you have nothing to lose, I have everything to lose. Do you want me to lose everything? Everything?!
 dr_ross_geller@joey_tribbiani No.
 phoebe_buffay Okay, I'm gonna go get Frank.
-joey_tribbiani So, we're walking down the street and I turn to you and I say, “Hey, let's go hang out at Totally Nude Nudes,” remember? And then, and then, you turn to me and say, “Nah, let's just hang out at your place.” Well, that was a nice move dumb ass.
+joey_tribbiani So, we're walking down the street and I turn to you and I say, "Hey, let's go hang out at Totally Nude Nudes," remember? And then, and then, you turn to me and say, "Nah, let's just hang out at your place." Well, that was a nice move dumb ass.
 rachel_green I think you should definitely go out with this guy.
 monica_geller Nah, he doesn't do anything for me.
-rachel_green Monica, last Saturday night, what happened on Walker
-monica_geller Well, umm, Walker was looking for this big bus load of kids... . All right, I get your point.
+rachel_green Monica, last Saturday night, what happened on Walker: Texas Ranger?
+monica_geller Well, umm, Walker was looking for this big bus load of kids.... All right, I get your point.
 rachel_green All right.
 chandler_bing Hi.
 monica_geller Hey.
@@ -215,7 +215,7 @@ joey_tribbiani Hey!
 dr_ross_geller Hi!
 joey_tribbiani Hey, how much cash do you got in your pocket right now?
 monica_geller And that's why, I'm not inviting you in for a drink. Bye.
-all@ Oh-no-no-no-no... .
+all@ Oh-no-no-no-no....
 rachel_green Just one drink?!
 monica_geller So, where do you want to go?
 pete_becker Hey, you like pizza?
@@ -236,6 +236,6 @@ phoebe_buffay Yeah, but not just that.
 alice_knight_buffay Right, not just that. Umm, even though we love each other as much as we do, none the less
 phoebe_buffay None the less.
 alice_knight_buffay None the less. Umm, you're too young to, to really know what you want.
-phoebe_buffay That's right, exactly. All right, it's a good bye kiss, that's good. Bye-bye. Okay, no, the important thing is that you see what I'm saying, y'know, just y'know, this is clearly wrong. Okay, I've decided I'm gonna let this happen! Okay, can I just get my purse? Okay, all right, good. .
+phoebe_buffay That's right, exactly. All right, it's a good bye kiss, that's good. Bye-bye. Okay, no, the important thing is that you see what I'm saying, y'know, just y'know, this is clearly wrong. Okay, I've decided I'm gonna let this happen! Okay, can I just get my purse? Okay, all right, good.
 hypnosis_tape#unknown#Friends.Season03.Episode18 Cigarette's don't control you. You are a strong, confident woman, who does not need to smoke.
 joey_tribbiani Joey's your best friEnd. You want to make him a cheese sandwich everyday. And you also want to buy him hundreds of dollars worth of pants.
