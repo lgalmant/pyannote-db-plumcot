@@ -47,7 +47,9 @@ We also download all the webpages where we extract the informations into the `ht
 TheBigBangTheory/
   characters.txt
   credits.txt
-  transcripts.txt
+  transcripts/
+	TheBigBangTheory.Season01.Episode01.temp
+	TheBigBangTheory.Season01.Episode01.txt
   alignment.txt
   entities.txt
   html_pages/
@@ -118,15 +120,19 @@ python episodes.py series.txt TheBigBangTheory -c
 
 Note: Leo is in charge of creating this script
 
-### `transcripts.txt`
+### `transcripts/ folder`
 
-This file provides the manual transcripts of all episodes in `episodes.txt`. It contains one line per speech turn.
+The transcripts folder contains 2 files for all episodes in `episodes.txt`:
 
-The expected file format is the following: unique series identifier, unique character identifier, followed by the actual transcription.
+#### `{idEpisode}.temp`
+
+This file provides the manual transcript of the {idEpisode} episode without normalized names. It contains one line per speech turn.
+
+The expected file format is the following: character identifier, followed by the actual transcription.
 
 ```
-TheBigBangTheory.Season01.Episode01 sheldon_cooper How are you, Leonard?
-TheBigBangTheory.Season01.Episode01 leonard_hoffstadter Good, and you?
+Sheldon How are you, Leonard?
+Leonard Good, and you?
 ```
 
 It is unlikely that we will be able to code *one script to rule them all* generic enough to process all series. It will most likely need a lot of manual cleaning.
@@ -137,11 +143,42 @@ Note: here is a "who is doing what" split
 
 * Harry Potter : Ruiqing
 * The Big Bang Theory : Leo
+* Friends : Leo
 * Lost : Benjamin
 * Game of Thrones : Aman
 * Buffy the Vampire Slayer : Hervé
 * Battlestar Galactica : Benjamin
 * The Good Wife : Claude
+
+#### `{idEpisode}.txt`
+
+This file is the same as {idEpisode}.temp file but with normalized names.
+
+```
+sheldon_cooper How are you, Leonard?
+leonard_hofstadter Good, and you?
+```
+
+All normalized names should appear in the IMDB credits except for few cases:
+
+When a character from the transcript doesn't have an equivalent in IMDB, we name it as *{transcriptName}#unknown#{idEpisode}*.
+
+When several characters speak at the same time, we concatenate normalized names in alphabetical order with "@" as separator like *penny@sheldon_cooper*. 
+
+*all@* is used as the "all" tag.
+
+To normalize names, you can use the script normalizeTranscriptsNames.py like that: *python normalizeTranscriptsNames.py TheBigBangTheory*.
+
+You can precise a season with -s option and an episode with -e option.
+
+For a given episode, the script presents normalized names from IMDB for this episode.
+
+Then, the script show the result of the automatic alignment as *{transcriptName} -> {predictedIMDBName}*.
+
+You can then select a {transcriptName} you want to change, and the script asks for the normalized name. If you can't find a matching, just type
+*unk* or leave the field blank and the script automatically asigns the right unknown format to the {transcriptName}.
+
+You can finally save the changes and create the appropriate `{idEpisode}.txt` file with *end*.
 
 ### `alignment.stm`
 
